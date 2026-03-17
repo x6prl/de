@@ -2,7 +2,7 @@ das Geld (sg.)
 money, cash, funds;
 
 das Wasser (sg.)
-water, body of water;
+water, waters, body of water;
 
 die Milch (sg.)
 milk;
@@ -11,7 +11,7 @@ der Hunger (sg.)
 hunger, starvation, famine;
 
 die Musik (sg.)
-music, musical score;
+music, piece of music, musical score;
 
 der Regen (sg.)
 rain, rainfall;
@@ -23,7 +23,7 @@ die Eltern (pl.)
 parents, mother and father;
 
 die Ferien (pl.)
-holidays, vacation, school break;
+holidays, vacation, school holidays, school break;
 
 die Kosten (pl.)
 costs, expenses, charges;
@@ -38,5 +38,4 @@ die Geschwister (pl.)
 siblings, brothers and sisters;
 
 die Daten (pl.)
-data, information, computer data;
-
+data, details, computer data;

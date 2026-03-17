@@ -1,12 +1,11 @@
-
 die Arbeit -en
 работа; труд;
 
 das Leben -
-жизнь;
+жизнь; существование;
 
 der Weg -e
-путь; дорога;
+путь; дорога; способ;
 
 der Teil -e
 часть; доля;
@@ -42,7 +41,7 @@ die Antwort -en
 ответ;
 
 das Thema -en
-тема; предмет (разговора);
+тема; вопрос; предмет разговора;
 
 das Ziel -e
 цель;
@@ -80,8 +79,8 @@ die Situation -en
 die Hilfe -n
 помощь;
 
-der Unterricht -
-занятия; уроки (учёба);
+der Unterricht -e
+занятие; урок; обучение;
 
 die Prüfung -en
 экзамен; проверка; испытание;
@@ -111,7 +110,7 @@ der Versuch -e
 попытка; эксперимент;
 
 die Forschung -en
-исследование; наука;
+исследование; научные исследования;
 
 die Qualität -en
 качество;
@@ -153,7 +152,7 @@ der Erfolg -e
 успех;
 
 der Zugang "-e
-доступ; вход;
+доступ; вход; подход;
 
 der Beitrag "-e
 вклад; взнос; статья (в СМИ);
@@ -273,7 +272,7 @@ die Anwendung -en
 приложение; применение;
 
 die Einstellung -en
-настройка; отношение;
+настройка; отношение; приём на работу;
 
 die Option -en
 опция; вариант;
@@ -288,7 +287,7 @@ die Ursache -n
 причина;
 
 die Folge -n
-последствие; серия (в сериале);
+последствие; серия; эпизод;
 
 der Zusammenhang "-e
 связь; контекст;
@@ -549,7 +548,7 @@ das Verkehrsmittel -
 транспортное средство;
 
 die Fahrt -en
-поездка; поезд;
+поездка; рейс;
 
 das Ticket -s
 билет; талон;
@@ -609,13 +608,13 @@ der Job -s
 работа (должность); подработка;
 
 die Bewerbung -en
-заявление (на работу); отклик;
+заявление; отклик; заявка;
 
 der Lebenslauf "-e
-биография;
+жизненный путь; резюме; автобиография;
 
 das Meeting -s
-встреча; митинг (деловой);
+встреча; совещание;
 
 die Besprechung -en
 совещание; обсуждение;
@@ -678,13 +677,13 @@ die Ressource -n
 ресурс;
 
 der Zugriff -e
-доступ (к данным);
+доступ; обращение (к данным);
 
 die Wohnung -en
 квартира; жильё;
 
 die Heizung -en
-отопление; батарея;
+отопление; система отопления;
 
 die Miete -n
 аренда; квартплата;
@@ -729,7 +728,7 @@ die Bearbeitung -en
 обработка; доработка;
 
 die Freigabe -n
-разрешение; публикация; релиз;
+разрешение; одобрение; выпуск;
 
 die Wartung -en
 техническое обслуживание;
@@ -927,7 +926,7 @@ der Verband "-e
 союз; ассоциация;
 
 die Behörde -n
-власть; ведомство;
+ведомство; государственный орган;
 
 das Amt "-er
 учреждение; должность;
@@ -936,7 +935,7 @@ die Akte -n
 дело (документы);
 
 der Ordner -
-папка;
+папка; скоросшиватель;
 
 der Anhang "-e
 вложение; приложение (к письму);
@@ -990,7 +989,7 @@ die Zeugin -nen
 свидетельница;
 
 das Verfahren -
-процедура; процесс (дело);
+процедура; процесс; метод;
 
 das Update -s
 обновление (ПО);
@@ -1002,7 +1001,7 @@ der Server -
 сервер;
 
 der Dienst -e
-служба; сервис;
+служба; сервис; дежурство;
 
 die Schnittstelle -n
 интерфейс; API;
@@ -1250,8 +1249,8 @@ der Angriff -e
 die Schwachstelle -n
 уязвимость; слабое место;
 
-der Bildschirmfoto -s
-скриншот;
+das Bildschirmfoto -s
+снимок экрана; скриншот;
 
 die Kreuzung -en
 перекрёсток;
@@ -1305,7 +1304,7 @@ das Wörterbuch "-er
 словарь;
 
 die Vokabel -n
-слово (единица словаря); лексема;
+слово; словарная единица;
 
 das Niveau -s
 уровень;
@@ -1445,11 +1444,11 @@ der Standort -e
 der Ort -e
 место; населённый пункт;
 
-das Ausland -
+das Ausland (sg.)
 заграница; зарубежье;
 
-die Heimat -
-родина; дом;
+die Heimat -en
+родина; родной край;
 
 der Ausländer -
 иностранец;
@@ -1505,7 +1504,7 @@ die Steuerung -en
 die Reparatur -en
 ремонт;
 
-die Polizei -
+die Polizei -en
 полиция;
 
 der Polizist -en
@@ -1622,7 +1621,7 @@ der Konflikt -e
 der Krieg -e
 война;
 
-der Frieden -
+der Frieden (sg.)
 мир (отсутствие войны);
 
 die Freiheit -en
@@ -1802,7 +1801,7 @@ der Anlass "-e
 die Gelegenheit -en
 возможность; удобный случай;
 
-das Wissen -
+das Wissen (sg.)
 знание;
 
 die Auswirkung -en
@@ -2012,11 +2011,11 @@ der Endkunde -n
 die Zielgruppe -n
 целевая группа; аудитория;
 
-das Publikum -
-публика; аудитория;
+das Publikum -a
+публика; зрители; аудитория;
 
-die Öffentlichkeit -
-общественность;
+die Öffentlichkeit -en
+общественность; публика;
 
 die Gemeinde -n
 община; муниципалитет;
@@ -2135,7 +2134,7 @@ die Wechselwirkung -en
 die Blutprobe -n
 анализ крови; проба крови;
 
-der Blutdruck -
+der Blutdruck (sg.)
 кровяное давление;
 
 der Puls -e
@@ -2369,7 +2368,7 @@ der Stein -e
 das Papier -e
 бумага; документы;
 
-das Leder -
+das Leder (sg.)
 кожа (материал);
 
 die Wand "-e
@@ -2639,10 +2638,10 @@ das Ufer -
 die Wüste -n
 пустыня;
 
-der Regen -
+der Regen (sg.)
 дождь;
 
-der Schnee -
+der Schnee (sg.)
 снег;
 
 der Wind -e
@@ -2762,7 +2761,7 @@ der Kuchen -
 die Torte -n
 торт;
 
-die Butter -
+die Butter (sg.)
 масло сливочное;
 
 der Joghurt -s
@@ -2789,10 +2788,10 @@ das Abendessen -
 die Mahlzeit -en
 приём пищи; трапеза;
 
-der Hunger -
+der Hunger (sg.)
 голод;
 
-der Durst -
+der Durst (sg.)
 жажда;
 
 die Diät -en
@@ -2801,19 +2800,19 @@ die Diät -en
 das Getränk -e
 напиток;
 
-das Wasser -
+das Wasser (sg.)
 вода;
 
 der Saft "-e
 сок;
 
-der Tee -
+der Tee -s
 чай;
 
 der Kaffee -s
 кофе;
 
-die Milch -
+die Milch (sg.)
 молоко;
 
 das Bier -e
@@ -2825,16 +2824,16 @@ der Wein -e
 das Öl -e
 масло (растительное);
 
-der Zucker -
+der Zucker (sg.)
 сахар;
 
 das Salz -e
 соль;
 
-der Pfeffer -
+der Pfeffer (sg.)
 перец;
 
-der Reis -
+der Reis (sg.)
 рис;
 
 die Nudel -n
@@ -2885,7 +2884,7 @@ die Passagierin -nen
 der Fahrschein -e
 проездной билет;
 
-die Pünktlichkeit -
+die Pünktlichkeit (sg.)
 пунктуальность;
 
 die Schule -n
@@ -2918,7 +2917,7 @@ die Mensa -s
 die Bibliothek -en
 библиотека;
 
-der Lehrerzimmer -
+das Lehrerzimmer -
 учительская;
 
 die Uni -s
@@ -3050,7 +3049,7 @@ die Terrasse -n
 die Kaution -en
 залог;
 
-die Nebenkosten -
+die Nebenkosten (pl.)
 коммунальные платежи; доп. расходы;
 
 der Vermieter -
@@ -3071,7 +3070,7 @@ die Besichtigung -en
 die Renovierung -en
 ремонт (косметический); обновление;
 
-die Möbel (Pl.) -
+die Möbel (pl.)
 мебель;
 
 das Sofa -s
@@ -3101,8 +3100,8 @@ die Fernbedienung -en
 das Radio -s
 радио; радиоприёмник;
 
-die Musik -
-музыка;
+die Musik (sg.)
+музыка; музыкальное произведение;
 
 das Konzert -e
 концерт;
@@ -3125,7 +3124,7 @@ das Spiel -e
 der Fußball "-e
 футбол; футбольный мяч;
 
-das Tennis -
+das Tennis (sg.)
 теннис;
 
 das Schwimmbad "-er
@@ -3207,7 +3206,7 @@ der Aspekt -e
 аспект; сторона (вопроса);
 
 die Sicht -en
-взгляд; видимость;
+взгляд; видимость; точка зрения;
 
 die Einrichtung -en
 учреждение; обстановка; настройка;
@@ -3237,16 +3236,16 @@ die Beschädigung -en
 повреждение;
 
 die Rücksendung -en
-обратная отправка; возврат;
+возврат; обратная отправка;
 
 der Koffer -
 чемодан;
 
-das Gepäck -
+das Gepäck (sg.)
 багаж;
 
 die Rezeption -en
-ресепшн; стойка регистрации;
+стойка регистрации; рецепция;
 
 die Bordkarte -n
 посадочный талон;
@@ -3291,7 +3290,7 @@ die Mahnung -en
 напоминание об оплате; предупреждение;
 
 die Lastschrift -en
-автосписание; прямой дебет;
+прямое списание; прямой дебет;
 
 die Filiale -n
 филиал; отделение;
@@ -3332,7 +3331,7 @@ die Fabrik -en
 die Produktion -en
 производство; выпуск;
 
-der Versandhandel -
+der Versandhandel (sg.)
 дистанционная торговля;
 
 die Aufsicht -en
@@ -3359,7 +3358,7 @@ das Ersatzteil -e
 die Instandsetzung -en
 ремонт; восстановление;
 
-das Zubehör -
+das Zubehör (sg.)
 аксессуары; комплектующие;
 
 die Bestätigung -en
@@ -3374,8 +3373,8 @@ die Rede -n
 das Zitat -e
 цитата;
 
-die Literatur -
-литература;
+die Literatur (sg.)
+литература; специальная литература;
 
 die Bibliografie -n
 библиография;
@@ -3431,7 +3430,7 @@ der Vorort -e
 der Ausgleich -e
 баланс; компенсация;
 
-die Geduld -
+die Geduld (sg.)
 терпение;
 
 die Überraschung -en
@@ -3501,7 +3500,7 @@ die Ausschreibung -en
 тендер; конкурс (на закупку);
 
 der Zuschlag "-e
-утверждение контракта; надбавка;
+присуждение заказа; надбавка; доплата;
 
 die Vergabe -n
 размещение заказа; присуждение (контракта/премии);
@@ -3581,13 +3580,13 @@ der Sturm "-e
 der Nebel -
 туман;
 
-das Eis -
+das Eis (sg.)
 лёд; мороженое;
 
-die Hitze -
+die Hitze (sg.)
 жара;
 
-die Kälte -
+die Kälte (sg.)
 холод;
 
 die Zutat -en
@@ -3641,10 +3640,10 @@ die Personalabteilung -en
 die Einarbeitung -en
 ввод в должность; наставничество;
 
-die Teilzeit -
+die Teilzeit (sg.)
 неполная занятость;
 
-die Vollzeit -
+die Vollzeit (sg.)
 полная занятость;
 
 die Stellenausschreibung -en
@@ -3683,10 +3682,10 @@ das Ereignis -se
 die Verzögerung -en
 задержка; замедление;
 
-die Daten (Pl.) -
-данные;
+die Daten (pl.)
+данные; сведения;
 
-der Datenschutz -
+der Datenschutz (sg.)
 защита данных;
 
 die Privatsphäre -n
@@ -3709,4 +3708,3 @@ die Aktualisierung -en
 
 die Überprüfung -en
 проверка; ревизия;
-
