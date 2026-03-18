@@ -61,7 +61,8 @@ typedef struct {
     } data;
     
     StringView translations; // The whole second line
-    StringView examples;     // 3rd+ lines (newline separated)
+    StringView grammar;      // Optional 3rd line: [government; pattern]
+    StringView examples;     // 4th+ lines, or 3rd+ if no grammar line
 } DictEntry;
 ```
 
@@ -71,7 +72,7 @@ typedef struct {
 
 #### A. I/O and State Machine
 1.  **Read Strategy**: Load the entire file into memory using `mmap()`. Iterate through the file with a pointer `const char* p`.
-2.  **State Machine**: Maintain a state variable: `STATE_LEMMA` -> `STATE_TRANSLATION` -> `STATE_EXAMPLE_OR_EMPTY`.
+2.  **State Machine**: Maintain a state variable: `STATE_LEMMA` -> `STATE_TRANSLATION` -> `STATE_GRAMMAR_OR_EXAMPLE_OR_EMPTY`.
 3.  **Line Iteration**: Create a helper function `StringView next_line(const char** p)` that reads until `\n`, advances `p`, and strips carriage returns (`\r`).
 
 #### B. Parsing the Lemma Line (Line 1)
@@ -97,9 +98,12 @@ Identify the entry type by checking the first few characters.
 *   **Phrases** (Fallback):
     *   If none of the above prefixes match, treat the entire line as a Phrase.
 
-#### C. Parsing Translations & Examples (Lines 2+)
+#### C. Parsing Translations, Grammar & Examples (Lines 2+)
 *   **Translations**: Read the next line. Trim the trailing `;` if it exists (as shown in your examples). Store as a single `StringView`.
-*   **Examples**: Continue reading lines. 
+*   **Optional Grammar Line**: Peek at the next non-consumed line.
+    *   If it starts with `[` and ends with `]`, store it as `grammar` and consume it.
+    *   At most one grammar line is allowed per entry, and it must come immediately after the translation line.
+*   **Examples**: Continue reading lines after the translation line or optional grammar line.
     *   If the line is **not empty**, append it to the `examples` buffer. (In a string-view approach, just mark the start of the first example, and extend the length until an empty line is hit).
     *   If the line **is empty** (`len == 0`), the entry is complete. Emit the `DictEntry` to your output array/callback, reset the state to `STATE_LEMMA`, and continue.
 
@@ -121,8 +125,9 @@ The writer simply reverses the process. Because C lacks built-in string formatti
     *   If `comparative` exists, append ` %.*s %.*s`.
 *   **Phrases**: Print as-is `%.*s\n`.
 
-**2. Outputting Translations & Examples**:
+**2. Outputting Translations, Grammar & Examples**:
 *   Print the translations. Append `;` if it was stripped during parsing. Print `\n`.
+*   If `grammar` length > 0, print the grammar line followed by `\n`.
 *   If `examples` length > 0, print the examples block followed by `\n`.
 *   **Crucial Rule**: Print exactly one empty `\n` to close the entry and act as the delimiter for the next block.
 
@@ -134,5 +139,7 @@ The writer simply reverses the process. Because C lacks built-in string formatti
     *   *Parser mitigation*: If in `STATE_LEMMA` and an empty line is read, simply `continue` without throwing an error.
 2.  **Missing Translation Line**: A malformed entry might have a lemma and immediately an empty line. 
     *   *Parser mitigation*: If an empty line is encountered while in `STATE_TRANSLATION`, emit a warning/error with the current file line number.
-3.  **Whitespace Management**: Ensure your `StringView` extraction uses a `trim()` function to strip leading/trailing spaces (e.g., spaces around the ` / ` verb delimiters), so `aß` doesn't get captured as `" aß "`.
-4.  **UTF-8 Encoding**: C string functions (`strchr`, `memchr`) are byte-oriented. Because standard German characters (Umlaute `ä, ö, ü, ß`) and prefixes (`der`, `die`, `a`, `v`) use ASCII spaces and hyphens, byte-oriented searching for ` ` (0x20), `-` (0x2D), and `/` (0x2F) is **100% safe in UTF-8**. You do not need a heavy wide-character (wchar_t) library for the structural parsing.
+3.  **Malformed Grammar Lines**: A bracketed grammar line anywhere other than the single optional slot after the translation line should be treated as invalid format, not as an example line.
+    *   *Parser mitigation*: If a second bracketed line appears before the entry-closing empty line, emit a warning/error with the current file line number.
+4.  **Whitespace Management**: Ensure your `StringView` extraction uses a `trim()` function to strip leading/trailing spaces (e.g., spaces around the ` / ` verb delimiters), so `aß` doesn't get captured as `" aß "`.
+5.  **UTF-8 Encoding**: C string functions (`strchr`, `memchr`) are byte-oriented. Because standard German characters (Umlaute `ä, ö, ü, ß`) and prefixes (`der`, `die`, `a`, `v`) use ASCII spaces, brackets, hyphens, and slashes, byte-oriented searching for ` ` (0x20), `[` (0x5B), `]` (0x5D), `-` (0x2D), and `/` (0x2F) is **100% safe in UTF-8**. You do not need a heavy wide-character (wchar_t) library for the structural parsing.

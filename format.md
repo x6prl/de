@@ -1,9 +1,38 @@
 The dictionary format.
 
-### 1. The Word Types & Examples
+### 1. Entry Layout
 
-When we want to clarify vague translation, we can use more than one word (just divide them by `, `). For all the word classes we spoke, write me more corner cases. This also works for the german words, if multiple variants are allowed.
-A word entry consists of 2 lines; entries are separated by an empty line; if there is a third(4th, 5th, etc.) line of an entry is not empty — it contains a sentence, which is a usage example.
+The current 2-line core stays unchanged:
+
+1. lemma line
+2. translation line
+
+Entries are separated by an empty line.
+
+One optional grammar line may appear directly after the translation line. If present, it is always the third line, appears at most once per entry, and always uses square brackets. Any later non-empty lines are usage examples.
+
+```text
+v helfen-hilft / half / hat geholfen
+help;
+[j-m]
+Ich helfe dir gern.
+```
+
+The grammar line is a government line, not a free-form notes line. Its purpose is limited to learner-relevant argument structure and government. Separate grammar elements with `; `.
+
+Recommended grammar elements:
+
+* argument placeholders: `j-n`, `j-m`, `j-s`, `etw.`
+* case markers: `Akk.`, `Dat.`, `Gen.`
+* preposition + case: `an+Akk`, `mit+Dat`, `für+Akk`, `auf+Akk`
+* reflexive case markers: `sich+Akk`, `sich+Dat`
+* impersonal marker: `es`
+
+Prefer compact government notation over full syntactic templates. For example, prefer `[bei+Dat; für+Akk]` over `[bei+j-m; für+Akk]` unless the parser explicitly needs placeholders inside prepositional complements.
+
+Do not turn the grammar line into a general annotation field. Keep rare constructions, stylistic notes, and usage nuances in the example lines.
+
+### 2. The Word Types & Examples
 
 #### A. Nouns (Articles: `der`, `die`, `das` or `(-)`)
 Identified by the definite article at the start of the line. The plural marker follows the noun. It may be a suffix such as `-en`, an umlaut+suffix such as `"-e`, or `(sg.)` / `(pl.)`.
@@ -59,7 +88,32 @@ After the infinitive, `-` introduces one or more explicitly stored present-tense
 Verbs may have 1 to 3 fields, with omitted fields meaning “regular/default”, or `v infinitive-exception / Präteritum / auxiliary + participle`. The third field should not contain the participle if the form is regular.
 `-` may be used in the Präteritum field when the past stem is regular and does not need to be stored explicitly. If participle is regular, field 3 may contain only auxiliary.
 
-**1. Modal Verbs:** Modals are highly irregular because their `ich` and `er/sie/es` forms in the present tense don't have typical endings. Those go as hardcoded.
+Reflexive verbs that are real learner units are stored as separate lemmas. Do not merge reflexive and non-reflexive uses into one entry just because they share a stem.
+
+Use the optional grammar line for government-only notation. For verbs, prefer argument placeholders and governed prepositions. Do not add `tr.` / `intr.` to the core format unless you explicitly need them as extra metadata.
+
+**1. Government lines and reflexive lemmas:**
+
+```text
+v helfen-hilft / half / hat geholfen
+help;
+[j-m]
+
+v bitten / bat / hat gebeten
+ask; request;
+[j-n; um+Akk]
+
+v erinnern / - / hat erinnert
+remind;
+
+v sich erinnern / - / hat erinnert
+remember;
+[an+Akk]
+```
+
+Use `sich+Akk` and `sich+Dat` if the reflexive case itself is part of the government pattern. Do not use free-form labels such as `refl Akk` or `refl Dat`.
+
+**2. Modal Verbs:** Modals are highly irregular because their `ich` and `er/sie/es` forms in the present tense don't have typical endings. Those go as hardcoded.
 
 The **core German modal verbs** are:
 
@@ -75,16 +129,24 @@ The **core German modal verbs** are:
 **brauchen**, **lassen**, and sometimes **werden** can behave similarly to modal verbs in certain constructions.
 
 
-**2. Separable verbs with irregular roots:** The parser splits by space, so it handles the separated prefixes in the present and past perfectly.
+**3. Separable verbs with irregular roots:** The parser splits by space, so it handles the separated prefixes in the present and past perfectly.
 ```text
 v abnehmen-nimmt ab / nahm ab / hat abgenommen
 to lose weight, to decrease, to take off;
 ```
 
-**3. Verbs that are both regular AND irregular (Transitive vs. Intransitive):** Some verbs change their rules based on if you are doing the action *to* something, or if the action is just *happening*.
+**4. Separate entries for learner-relevant pattern changes:** Create separate entries whenever the learner must memorize a distinct form separately because of a change in meaning, reflexive vs. non-reflexive form, auxiliary, government, or transitivity pattern.
 ```text
+v fahren-fährt / fuhr / ist gefahren
+go, travel;
+
+v fahren-fährt / fuhr / hat gefahren
+drive;
+[etw.]
+
 v hängen / hängte / hat gehängt
 to hang something up, to suspend (action);
+[etw.]
 
 v hängen-hängt / hing / hat gehangen
 to hang, to be suspended;
@@ -113,6 +175,7 @@ to hang, to be suspended;
     
     v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
     wash oneself;
+    [sich+Akk]
     ```
 
 #### C. Adjectives & Adverbs (Prefix: `a `)
@@ -123,6 +186,8 @@ a lemma (indecl.)
 a lemma comparative superlative
 ```
 
+When an adjective has learner-relevant government, use the optional grammar line. For adjectives, prefer bare case markers or `preposition+case`.
+
 **1. Irregular stem changes in Comparative:**
 ```text
 a nah näher am nächsten
@@ -132,13 +197,20 @@ a hoch höher am höchsten
 high, tall;
 ```
 
-**2. Absolute / Indeclinable Adjectives:** Adjectives that never take endings (like certain colors or city adjectives). Note them in the translation or add an `(indecl.)` marker if you want your app to disable ending-exercises for them.
+**2. Adjectives with government:**
+```text
+a stolz
+proud;
+[auf+Akk]
+```
+
+**3. Absolute / Indeclinable Adjectives:** Adjectives that never take endings (like certain colors or city adjectives). Note them in the translation or add an `(indecl.)` marker if you want your app to disable ending-exercises for them.
 ```text
 a lila (indecl.)
 purple, lilac;
 ```
 
-**3. Adjectives that are also used as Nouns (Nominalized Adjectives):** You handle these simply by categorizing them as Nouns with the appropriate article.
+**4. Adjectives that are also used as Nouns (Nominalized Adjectives):** You handle these simply by categorizing them as Nouns with the appropriate article.
 ```text
 der Bekannte -n
 male acquaintance, friend;
@@ -177,6 +249,8 @@ Identified by the **lack of any prefix**. This class is used for everything that
 * fixed prepositional expressions
 * fused forms
 * other expressions
+
+Phrases usually do not take a grammar line. Add one only when there is a strong reason that cannot be expressed cleanly in the lemma itself.
 
 **1. Phrases with placeholders:**
 When learners need to know where to insert a person or thing, use standard abbreviations like `j-m` (jemandem, dative), `j-n` (jemanden, accusative), or `etw.` (etwas).
@@ -260,4 +334,3 @@ still, as before, as ever;
   ```
 
 ---
-

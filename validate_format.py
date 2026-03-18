@@ -12,6 +12,7 @@ from typing import Iterable
 NOUN_PREFIXES = ("der ", "die ", "das ", "(-) ")
 PLURAL_MARKER_RE = re.compile(r'^(?:\((?:sg|pl)\.\)|[-"][^\s]*)$')
 VERB_SPLIT_RE = re.compile(r"\s*/\s*")
+GRAMMAR_LINE_RE = re.compile(r"^\[(.*)\]$")
 
 
 @dataclass(frozen=True)
@@ -167,9 +168,6 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
     if not translation:
         return [ValidationError(path, line_no, "translation line is empty")]
 
-    if not translation.endswith(";"):
-        errors.append(ValidationError(path, line_no, "translation line must end with `;`"))
-
     parts = [part.strip() for part in translation.split(";")]
     if parts and parts[-1] == "":
         parts = parts[:-1]
@@ -184,6 +182,22 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
             break
 
     return errors
+
+
+def validate_grammar(path: Path, line_no: int, grammar: str) -> list[ValidationError]:
+    match = GRAMMAR_LINE_RE.match(grammar)
+    if not match:
+        return [ValidationError(path, line_no, "grammar line must be enclosed in `[` and `]`")]
+
+    inner = match.group(1).strip()
+    if not inner:
+        return [ValidationError(path, line_no, "grammar line is empty")]
+
+    parts = [part.strip() for part in inner.split(";")]
+    if any(part == "" for part in parts):
+        return [ValidationError(path, line_no, "grammar line contains an empty grammar item")]
+
+    return []
 
 
 def validate_file(path: Path) -> list[ValidationError]:
@@ -203,6 +217,10 @@ def validate_file(path: Path) -> list[ValidationError]:
             continue
 
         lemma_line = stripped
+        if GRAMMAR_LINE_RE.match(lemma_line):
+            errors.append(
+                ValidationError(path, line_no, "grammar line is only allowed directly after a translation line")
+            )
         errors.extend(validate_lemma(path, line_no, lemma_line))
 
         index += 1
@@ -216,12 +234,31 @@ def validate_file(path: Path) -> list[ValidationError]:
         errors.extend(validate_translation(path, translation_line_no, translation))
         index += 1
 
+        if translation == "":
+            continue
+
+        if index < total:
+            raw_grammar = lines[index]
+            grammar_line_no = index + 1
+            grammar = add_whitespace_error(errors, path, grammar_line_no, raw_grammar)
+            if grammar != "" and GRAMMAR_LINE_RE.match(grammar):
+                errors.extend(validate_grammar(path, grammar_line_no, grammar))
+                index += 1
+
         while index < total:
             raw_example = lines[index]
             example_line_no = index + 1
             example = add_whitespace_error(errors, path, example_line_no, raw_example)
             if example == "":
                 break
+            if GRAMMAR_LINE_RE.match(example):
+                errors.append(
+                    ValidationError(
+                        path,
+                        example_line_no,
+                        "grammar line is only allowed directly after a translation line",
+                    )
+                )
             index += 1
 
         if index < total and lines[index].strip() == "":
