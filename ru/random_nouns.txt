@@ -1,7 +1,7 @@
 die Arbeit -en
 работа; труд;
 
-das Leben -
+das Leben (sg.)
 жизнь; существование;
 
 der Weg -e
@@ -433,7 +433,7 @@ die Sicherheit -en
 die Gefahr -en
 опасность;
 
-der Schutz -
+der Schutz (sg.)
 защита;
 
 der Hinweis -e
@@ -505,16 +505,16 @@ das Ende -n
 der Verlauf "-e
 ход; течение;
 
-die Dauer -
+die Dauer (sg.)
 длительность; продолжительность;
 
-die Zukunft -
+die Zukunft (sg.)
 будущее;
 
-die Vergangenheit -
+die Vergangenheit (sg.)
 прошлое;
 
-die Gegenwart -
+die Gegenwart (sg.)
 настоящее;
 
 der Moment -e
@@ -694,7 +694,7 @@ der Haushalt -e
 der Abfall "-e
 отходы; мусор;
 
-die Umwelt -
+die Umwelt (sg.)
 окружающая среда;
 
 die Teilnahme -n
@@ -1217,7 +1217,7 @@ das Formular -e
 бланк; форма;
 
 das Feld -er
-поле (формы; область);
+поле; поле формы; область;
 
 die Zeile -n
 строка;
@@ -1381,7 +1381,7 @@ die Kompetenz -en
 die Fähigkeit -en
 способность; умение;
 
-das Verhalten -
+das Verhalten (sg.)
 поведение;
 
 die Haltung -en
@@ -1426,7 +1426,7 @@ der Fahrer -
 die Fahrerin -nen
 водитель (жен.);
 
-der Verkehr -
+der Verkehr (sg.)
 дорожное движение; транспорт;
 
 der Stau -s
@@ -1573,13 +1573,13 @@ die Verletzung -en
 die Operation -en
 операция;
 
-der Einzelhandel -
+der Einzelhandel (sg.)
 розничная торговля;
 
-der Großhandel -
+der Großhandel (sg.)
 оптовая торговля;
 
-der Handel -
+der Handel (sg.)
 торговля;
 
 die Messe -n
@@ -1595,7 +1595,10 @@ das Einkommen -
 доход;
 
 die Ausgabe -n
-расход; выпуск (издания);
+расход; трата;
+
+die Ausgabe -n
+выпуск; издание;
 
 die Abgabe -n
 сбор; отчисление; сдача;
@@ -1969,7 +1972,7 @@ die Lage -n
 die Entfernung -en
 расстояние;
 
-die Nähe -
+die Nähe (sg.)
 близость;
 
 die Kante -n
@@ -2911,7 +2914,7 @@ das Klassenzimmer -
 die Pause -n
 перемена; пауза;
 
-die Mensa -s
+die Mensa -en
 студенческая столовая;
 
 die Bibliothek -en
@@ -2980,7 +2983,7 @@ das Einkaufszentrum -en
 die Drogerie -n
 магазин бытовой химии; дрогери;
 
-die Post -en
+die Post (sg.)
 почта; почтовое отделение;
 
 das Paket -e
@@ -3101,7 +3104,7 @@ das Radio -s
 радио; радиоприёмник;
 
 die Musik (sg.)
-музыка; музыкальное произведение;
+музыка;
 
 das Konzert -e
 концерт;
@@ -3112,7 +3115,7 @@ das Festival -s
 die Kultur -en
 культура;
 
-die Freizeit -
+die Freizeit (sg.)
 досуг; свободное время;
 
 das Hobby -s
@@ -3209,7 +3212,13 @@ die Sicht -en
 взгляд; видимость; точка зрения;
 
 die Einrichtung -en
-учреждение; обстановка; настройка;
+учреждение;
+
+die Einrichtung -en
+обстановка; интерьер;
+
+die Einrichtung -en
+настройка; установка;
 
 die Erinnerung -en
 воспоминание; напоминание;
@@ -3274,7 +3283,7 @@ die Bank -en
 die Bank "-e
 скамья; лавка;
 
-das Geld -er
+das Geld (sg.)
 деньги; средства;
 
 der Schein -e
@@ -3322,9 +3331,6 @@ die Sperrung -en
 die Entsperrung -en
 разблокировка;
 
-die Einrichtung (Institution) -en
-учреждение (организация);
-
 die Fabrik -en
 фабрика; завод;
 
@@ -3339,9 +3345,6 @@ die Aufsicht -en
 
 die Auflage -n
 тираж; условие (договора);
-
-die Ausgabe (Kosten) -n
-расход; трата;
 
 der Effekt -e
 эффект; воздействие;
@@ -3388,8 +3391,6 @@ die Autorin -nen
 der Verlag "-e
 издательство;
 
-die Ausgabe (Buch) -n
-издание; выпуск;
 
 die Überschrift -en
 заголовок;

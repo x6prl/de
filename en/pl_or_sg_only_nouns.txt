@@ -1,41 +1,41 @@
 das Geld (sg.)
-money, cash, funds;
+money; cash; funds;
 
 das Wasser (sg.)
-water, waters, body of water;
+water; waters; body of water;
 
 die Milch (sg.)
 milk;
 
 der Hunger (sg.)
-hunger, starvation, famine;
+hunger; starvation; famine;
 
 die Musik (sg.)
-music, piece of music, musical score;
+music;
 
 der Regen (sg.)
-rain, rainfall;
+rain; rainfall;
 
 die Leute (pl.)
-people, folks, guys;
+people; folks; guys;
 
 die Eltern (pl.)
-parents, mother and father;
+parents; mother and father;
 
 die Ferien (pl.)
-holidays, vacation, school holidays, school break;
+holidays; vacation; school holidays; school break;
 
 die Kosten (pl.)
-costs, expenses, charges;
+costs; expenses; charges;
 
 die Möbel (pl.)
-furniture, furnishings, pieces of furniture;
+furniture; furnishings; pieces of furniture;
 
 die Lebensmittel (pl.)
-food products, groceries, provisions;
+food products; groceries; provisions;
 
 die Geschwister (pl.)
-siblings, brothers and sisters;
+siblings; brothers and sisters;
 
 die Daten (pl.)
-data, details, computer data;
+data; details; computer data;
