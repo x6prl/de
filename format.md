@@ -35,7 +35,7 @@ Do not turn the grammar line into a general annotation field. Keep rare construc
 ### 2. The Word Types & Examples
 
 #### A. Nouns (Articles: `der`, `die`, `das` or `(-)`)
-Identified by the definite article at the start of the line. The plural marker follows the noun. It may be a suffix such as `-en`, an umlaut+suffix such as `"-e`, or `(sg.)` / `(pl.)`.
+Identified by the definite article at the start of the line. The plural marker follows the noun. It may be a suffix such as `-en`, a zero-ending plural marker such as `-`, an umlaut-only marker such as `"-`, an umlaut+suffix such as `"-e`, or `(sg.)` / `(pl.)`.
 
 For **Singularetantum** german nouns we will use ` (sg.)` instead of plural suffix.
 For **Pluraletantum** german nouns we will use ` (pl.)` instead of plural suffix.
@@ -70,8 +70,14 @@ sign, signboard, label;
     work; labor;
     ```
 *   **Corner Cases:**
-    Umlaut plurals (use `"`), no plural (use `(sg.)` and plural-only nouns (use `(pl.)`).
+    Zero-ending plurals (use `-`), umlaut-only plurals (use `"-`), umlaut plurals (use `"`), no plural (use `(sg.)`), and plural-only nouns (use `(pl.)`).
     ```text
+    das Zeichen -
+    sign; symbol;
+
+    der Laden "-
+    shop; store;
+
     der Grund "-e
     reason; ground;
     

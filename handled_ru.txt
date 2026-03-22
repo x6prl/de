@@ -17,9 +17,6 @@ die Nachbarin -nen
 соседка;
 Unsere Nachbarin ist sehr nett.
 
-Wie geht's los?
-с чего начать?; как это начинается?;
-
 Es geht los!
 начинается!; ну, начали!;
 
@@ -49,7 +46,7 @@ die Abstimmung -en
 Die Abstimmung beginnt um neun Uhr.
 
 v abstimmen
-голосовать; проводить голосование;
+голосовать; голосовать по вопросу;
 [über+Akk]
 Wir stimmen morgen darüber ab.
 

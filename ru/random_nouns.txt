@@ -1211,7 +1211,7 @@ der Kollege -n
 коллега;
 
 die Kollegin -nen
-коллега (жен.);
+коллега;
 
 das Formular -e
 бланк; форма;
@@ -1424,7 +1424,7 @@ der Fahrer -
 водитель;
 
 die Fahrerin -nen
-водитель (жен.);
+водителька;
 
 der Verkehr (sg.)
 дорожное движение; транспорт;
@@ -1490,7 +1490,7 @@ der Minister -
 министр;
 
 die Ministerin -nen
-министр (жен.);
+министрка;
 
 der Präsident -en
 президент;
@@ -1504,7 +1504,7 @@ die Steuerung -en
 die Reparatur -en
 ремонт;
 
-die Polizei -en
+die Polizei (sg.)
 полиция;
 
 der Polizist -en
@@ -1532,7 +1532,7 @@ der Arzt "-e
 врач;
 
 die Ärztin -nen
-врач (жен.);
+женщина-врач;
 
 das Krankenhaus "-er
 больница; стационар;
@@ -2503,10 +2503,10 @@ der Prozessor -en
 die Grafikkarte -n
 видеокарта; графический адаптер;
 
-die Software -s
+die Software (sg.)
 программное обеспечение;
 
-die Hardware -s
+die Hardware (sg.)
 аппаратное обеспечение; железо;
 
 der Browser -
@@ -2618,7 +2618,7 @@ der Partner -
 партнёр;
 
 die Partnerin -nen
-партнёрша;
+партнёрка; женщина-партнёр;
 
 der Freund -e
 друг; молодой человек;
@@ -2852,7 +2852,7 @@ der Bäcker -
 пекарь;
 
 die Bäckerin -nen
-пекарша;
+пекарка;
 
 die Metzgerei -en
 мясная лавка; мясной магазин;
@@ -2951,13 +2951,13 @@ der Ingenieur -e
 инженер;
 
 die Ingenieurin -nen
-инженер (жен.);
+инженерка;
 
 der Techniker -
 техник;
 
 die Technikerin -nen
-техник (жен.);
+техник;
 
 das Theater -
 театр;
@@ -3059,13 +3059,13 @@ der Vermieter -
 арендодатель;
 
 die Vermieterin -nen
-арендодательница;
+арендодателька;
 
 der Mieter -
 арендатор; жилец;
 
 die Mieterin -nen
-арендаторша;
+арендаторка;
 
 die Besichtigung -en
 осмотр;
@@ -3143,7 +3143,7 @@ der Trainer -
 тренер;
 
 die Trainerin -nen
-тренер (жен.);
+тренерка;
 
 die Leistung -en
 результат; производительность;
@@ -3176,7 +3176,7 @@ der Schiedsrichter -
 судья (спортивный);
 
 die Schiedsrichterin -nen
-судья (жен.) (спорт);
+судья (спорт);
 
 das Tor -e
 ворота; гол;
@@ -3386,7 +3386,7 @@ der Autor -en
 автор;
 
 die Autorin -nen
-автор (жен.);
+авторка;
 
 der Verlag "-e
 издательство;
@@ -3558,7 +3558,7 @@ der Fußgänger -
 пешеход;
 
 die Fußgängerin -nen
-пешеход (жен.);
+пешеход;
 
 der Zebrastreifen -
 пешеходный переход;
