@@ -20,13 +20,15 @@ Ich helfe dir gern.
 
 The grammar line is a government line, not a free-form notes line. Its purpose is limited to learner-relevant argument structure and government. Separate grammar elements with `; `.
 
-The translation line may optionally attach reverse-recall prompt cues directly to an individual translation item with `{}`:
+The translation line may optionally attach cues directly to an individual translation item with `{}`:
 
 ```text
 translation{cue1, cue2}; other translation;
 ```
 
-Use this only for prompt-only English forms that should map back to the German base lemma in reverse recall. These cues are not additional forward translations. Keep them compact and attach them to the closest base gloss. Do not insert a space before `{`. Literal `{` or `}` in translation text are not supported.
+Use this for compact related forms attached to a base translation gloss. These cues are not separate translation items. Keep them compact and attach them to the closest base gloss. Do not insert a space before `{`. Literal `{` or `}` in translation text are not supported.
+
+Typical uses include inflected verb forms and adjective comparative/superlative forms in the translation language:
 
 ```text
 v gehen-geht / ging / ist gegangen
@@ -34,6 +36,9 @@ go{goes, went, gone};
 
 a gut besser am besten
 good{better, best};
+
+a wichtig
+important{more important, most important};
 
 v helfen-hilft / half / hat geholfen
 help{helps};
@@ -230,7 +235,7 @@ proud;
 [auf+Akk]
 ```
 
-**3. Absolute / Indeclinable Adjectives:** Adjectives that never take endings (like certain colors or city adjectives). Note them in the translation or add an `(indecl.)` marker if you want your app to disable ending-exercises for them.
+**3. Absolute / Indeclinable Adjectives:** Adjectives that never take endings (like certain colors or city adjectives). Note them in the translation or add an `(indecl.)` marker if you need to mark them explicitly.
 ```text
 a lila (indecl.)
 purple, lilac;

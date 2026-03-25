@@ -4,7 +4,7 @@ Ich habe viele Aufgaben.
 Das sind meine Aufgaben im Büro.
 
 a höflich
-вежливый; учтивый; любезный;
+вежливый{вежливее, самый вежливый}; учтивый{учтивее, самый учтивый}; любезный{любезнее, самый любезный};
 Er ist sehr höflich.
 Das war eine höfliche Antwort.
 
@@ -46,16 +46,16 @@ die Abstimmung -en
 Die Abstimmung beginnt um neun Uhr.
 
 v abstimmen
-голосовать; голосовать по вопросу;
+голосовать{голосую, голосовал}; голосовать по вопросу;
 [über+Akk]
 Wir stimmen morgen darüber ab.
 
 v wählen
-голосовать;
+голосовать{голосую, голосовал};
 Viele Menschen wählen am Sonntag.
 
 v wählen
-выбирать; избирать;
+выбирать{выбираю, выбирал}; избирать{избираю, избирал};
 [j-n; etw.]
 
 die Wahl -en
@@ -75,7 +75,7 @@ Ich bin entschieden dagegen!
 я решительно против!;
 
 v hinzufügen
-добавлять; прибавлять;
+добавлять{добавляю, добавлял}; прибавлять{прибавляю, прибавлял};
 [etw.]
 Kannst du das noch hinzufügen?
 
@@ -85,12 +85,12 @@ Ich komme meistens zu spät.
 Meistens ist es ruhig hier.
 
 v raten-rät / riet / hat geraten
-советовать; рекомендовать;
+советовать{советую, советовал}; рекомендовать{рекомендую, рекомендовал};
 [j-m]
 Ich rate dir, früher zu schlafen.
 
 v raten-rät / riet / hat geraten
-угадывать; отгадывать;
+угадывать{угадываю, угадывал}; отгадывать{отгадываю, отгадывал};
 [etw.]
 Rate mal!
 Du musst nicht raten.
@@ -101,7 +101,7 @@ Ich bin manchmal müde.
 Manchmal regnet es tagelang.
 
 v sagen
-говорить; сказать;
+говорить{говорю, говорит, говорил}; сказать{скажу, сказал};
 [etw.]
 Er sagt das oft.
 Sie sagt die Wahrheit.
@@ -110,14 +110,14 @@ Da bist du ja!
 а вот и ты!; вот ты где!;
 
 a richtig
-правильный; верный; истинный; правильно;
+правильный{правильнее, самый правильный}; верный{вернее, самый верный}; истинный{истиннее, самый истинный}; правильно;
 Das ist richtig.
 
 Du kommst aber spät!
 Ну ты и поздно пришёл!; Ты, однако, поздно пришёл!;
 
 a wichtig
-важный; существенный;
+важный{важнее, самый важный}; существенный;
 Das ist sehr wichtig.
 
 das Paar -e
@@ -129,6 +129,6 @@ das Leben (sg.)
 Das Leben ist nicht immer leicht.
 
 a schwer
-тяжёлый; трудный; сложный;
+тяжёлый{тяжелее, самый тяжелый}; трудный{труднее, самый трудный}; сложный{сложнее, самый сложный};
 Der Koffer ist schwer.
 Die Aufgabe ist schwer.

@@ -100,10 +100,10 @@ Identify the entry type by checking the first few characters.
 
 #### C. Parsing Translations, Grammar & Examples (Lines 2+)
 *   **Translations**: Read the next line. Trim the trailing `;` if it exists (as shown in your examples). Store as a single `StringView`.
-    *   Each semicolon-separated translation item may optionally end with a reverse-recall cue block: `gloss{cue1, cue2}`.
-    *   Treat the text before `{` as the display gloss. Treat the comma-separated items inside `{}` as prompt-only aliases for reverse recall, not as extra forward translations.
+    *   Each semicolon-separated translation item may optionally end with a cue block: `gloss{cue1, cue2}`.
+    *   Treat the text before `{` as the base gloss. Treat the comma-separated items inside `{}` as attached cue forms, not as extra translation items.
     *   Require the cue block to attach directly to the gloss with no intervening space. Reserve literal `{` and `}` for this syntax only.
-    *   If you do not need reverse-recall prompts at parse time, storing the raw translation line unchanged is sufficient.
+    *   If you do not need to interpret cue contents at parse time, storing the raw translation line unchanged is sufficient.
 *   **Optional Grammar Line**: Peek at the next non-consumed line.
     *   If it starts with `[` and ends with `]`, store it as `grammar` and consume it.
     *   At most one grammar line is allowed per entry, and it must come immediately after the translation line.

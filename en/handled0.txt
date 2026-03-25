@@ -4,7 +4,7 @@ Ich habe viele Aufgaben.
 Das sind meine Aufgaben im Büro.
 
 a höflich
-polite; courteous; civil;
+polite{politer, politest}; courteous{more courteous, most courteous}; civil{more civil, most civil};
 Er ist sehr höflich.
 Das war eine höfliche Antwort.
 
@@ -46,16 +46,16 @@ vote; ballot;
 Die Abstimmung beginnt um neun Uhr.
 
 v abstimmen
-vote; cast a vote;
+vote{votes, voted}; cast a vote{casts a vote};
 [über+Akk]
 Wir stimmen morgen darüber ab.
 
 v wählen
-vote;
+vote{votes, voted};
 Viele Menschen wählen am Sonntag.
 
 v wählen
-choose; elect;
+choose{chooses, chose, chosen}; elect{elects, elected};
 [j-n; etw.]
 
 die Wahl -en
@@ -75,7 +75,7 @@ Ich bin entschieden dagegen!
 I am firmly against it!;
 
 v hinzufügen
-add; include;
+add{adds, added}; include{includes, included};
 [etw.]
 Kannst du das noch hinzufügen?
 
@@ -85,12 +85,12 @@ Ich komme meistens zu spät.
 Meistens ist es ruhig hier.
 
 v raten-rät / riet / hat geraten
-advise; recommend;
+advise{advises, advised}; recommend{recommends, recommended};
 [j-m]
 Ich rate dir, früher zu schlafen.
 
 v raten-rät / riet / hat geraten
-guess; estimate;
+guess{guesses, guessed}; estimate{estimates, estimated};
 [etw.]
 Rate mal!
 Du musst nicht raten.
@@ -101,7 +101,7 @@ Ich bin manchmal müde.
 Manchmal regnet es tagelang.
 
 v sagen
-say; tell;
+say{says, said}; tell{tells, told};
 [etw.]
 Er sagt das oft.
 Sie sagt die Wahrheit.
@@ -110,14 +110,14 @@ Da bist du ja!
 there you are!; there you are at last!;
 
 a richtig
-correct; right; true;
+correct{more correct, most correct}; right; true{truer, truest};
 Das ist richtig.
 
 Du kommst aber spät!
 you're really late!; you sure came late!;
 
 a wichtig
-important; significant;
+important{more important, most important}; significant{more significant, most significant};
 Das ist sehr wichtig.
 
 das Paar -e
@@ -129,6 +129,6 @@ life;
 Das Leben ist nicht immer leicht.
 
 a schwer
-heavy; difficult; hard;
+heavy{heavier, heaviest}; difficult{more difficult, most difficult}; hard{harder, hardest};
 Der Koffer ist schwer.
 Die Aufgabe ist schwer.
