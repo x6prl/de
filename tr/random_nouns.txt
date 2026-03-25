@@ -1,0 +1,3710 @@
+die Arbeit -en
+iş; emek;
+
+das Leben (sg.)
+hayat; varoluş;
+
+der Weg -e
+yol; rota; yöntem;
+
+der Teil -e
+parça; pay;
+
+die Gruppe -n
+grup;
+
+die Seite -n
+sayfa; taraf;
+
+die Art -en
+tür; çeşit; biçim;
+
+der Bereich -e
+alan; saha; bölüm;
+
+das Projekt -e
+proje;
+
+das Problem -e
+sorun;
+
+die Frage -n
+soru;
+
+der Grund "-e
+neden; temel;
+
+die Grundlage -n
+temel; dayanak;
+
+die Antwort -en
+cevap; yanıt;
+
+das Thema -en
+konu; mesele; sohbet konusu;
+
+das Ziel -e
+hedef;
+
+der Plan "-e
+plan; niyet;
+
+der Termin -e
+randevu; belirlenmiş tarih; süre;
+
+der Preis -e
+fiyat; ödül;
+
+der Markt "-e
+pazar;
+
+das Produkt -e
+ürün; mamul;
+
+die Lösung -en
+çözüm; çözelti;
+
+die Chance -n
+şans; fırsat;
+
+das Risiko -en
+risk;
+
+die Regel -n
+kural;
+
+die Situation -en
+durum; vaziyet;
+
+die Hilfe -n
+yardım;
+
+der Unterricht -e
+ders; eğitim; öğretim;
+
+die Prüfung -en
+sınav; inceleme; deneme;
+
+das Beispiel -e
+örnek; numune;
+
+die Erfahrung -en
+deneyim; tecrübe;
+
+das Studium -en
+üniversite eğitimi; öğrenim;
+
+die Universität -en
+üniversite;
+
+die Abteilung -en
+bölüm; departman; kürsü;
+
+der Bericht -e
+rapor; haber;
+
+die Methode -n
+yöntem; metot;
+
+der Versuch -e
+girişim; deney;
+
+die Forschung -en
+araştırma; bilimsel araştırma;
+
+die Qualität -en
+kalite;
+
+der Vorteil -e
+avantaj;
+
+der Nachteil -e
+dezavantaj; eksiklik;
+
+der Unterschied -e
+fark; ayrım;
+
+die Meinung -en
+fikir; görüş;
+
+die Entscheidung -en
+karar; karar alma;
+
+die Voraussetzung -en
+önkoşul; şart;
+
+der Einfluss "-e
+etki; nüfuz;
+
+die Wirkung -en
+etki; sonuç;
+
+die Beziehung -en
+ilişki; bağlantı;
+
+die Möglichkeit -en
+imkân; olanak;
+
+die Schwierigkeit -en
+zorluk; karmaşıklık;
+
+der Erfolg -e
+başarı;
+
+der Zugang "-e
+erişim; giriş; yaklaşım;
+
+der Beitrag "-e
+katkı; pay; yazı;
+
+der Inhalt -e
+içerik;
+
+die Nachricht -en
+mesaj; haber;
+
+die Mitteilung -en
+bildirim; mesaj;
+
+die Bestellung -en
+sipariş;
+
+die Lieferung -en
+teslimat; tedarik;
+
+die Nachfrage -n
+talep; istek;
+
+das Angebot -e
+teklif; sunulan şey;
+
+der Vertrag "-e
+sözleşme; kontrat;
+
+die Bedingung -en
+koşul; şart;
+
+die Anmeldung -en
+kayıt; başvuru; bildirim;
+
+die Beratung -en
+danışmanlık; tavsiye;
+
+die Genehmigung -en
+izin; onay;
+
+die Einladung -en
+davet;
+
+der Vorschlag "-e
+öneri; teklif;
+
+die Ablehnung -en
+ret; geri çevirme;
+
+die Gewohnheit -en
+alışkanlık;
+
+die Krankheit -en
+hastalık;
+
+die Behandlung -en
+tedavi; muamele;
+
+das Medikament -e
+ilaç;
+
+die Apotheke -n
+eczane;
+
+die Versicherung -en
+sigorta; güvence;
+
+die Steuer -n
+vergi;
+
+der Staat -en
+devlet;
+
+die Regierung -en
+hükûmet;
+
+das Gesetz -e
+yasa; kanun;
+
+das Gericht -e
+mahkeme; yemek;
+
+der Prozess -e
+süreç; dava;
+
+die Industrie -n
+sanayi; endüstri;
+
+die Rechnung -en
+fatura; hesap;
+
+die Quittung -en
+makbuz; fiş;
+
+die Karte -n
+harita; kart;
+
+das Konto -en
+hesap; banka hesabı;
+
+der Nutzer -
+kullanıcı;
+
+der Benutzer -
+kullanıcı;
+
+das Passwort "-er
+şifre;
+
+die Datei -en
+dosya;
+
+das Programm -e
+program;
+
+die Anwendung -en
+uygulama; kullanım;
+
+die Einstellung -en
+ayar; tutum; işe alım;
+
+die Option -en
+seçenek;
+
+die Funktion -en
+fonksiyon;
+
+die Veranstaltung -en
+etkinlik; organizasyon;
+
+die Ursache -n
+sebep;
+
+die Folge -n
+sonuç; netice; bölüm;
+
+der Zusammenhang "-e
+bağlantı; bağlam;
+
+der Vergleich -e
+karşılaştırma;
+
+die Ebene -n
+seviye; düzlem;
+
+der Betrag "-e
+tutar; meblağ;
+
+die Summe -n
+toplam;
+
+der Umsatz "-e
+ciro;
+
+der Gewinn -e
+kâr; kazanç;
+
+der Verlust -e
+kayıp; zarar;
+
+der Bedarf -e
+ihtiyaç; talep;
+
+die Nutzung -en
+kullanım;
+
+der Zweck -e
+amaç; maksat;
+
+der Notfall "-e
+acil durum;
+
+der Umfang "-e
+kapsam; hacim;
+
+die Menge -n
+miktar; nicelik;
+
+die Reihe -n
+sıra; kuyruk;
+
+die Liste -n
+liste;
+
+das Dokument -e
+belge;
+
+die Frist -en
+süre;
+
+die Pflicht -en
+görev;
+
+das Recht -e
+sağ;
+
+das Urteil -e
+cümle; karar;
+
+der Anspruch "-e
+gereksinim; hak;
+
+der Antrag "-e
+beyan; teklif; Dilekçe;
+
+die Anlage -n
+ek; kurulum; inşaat; eklenti;
+
+die Ware -n
+ürün;
+
+die Zahlung -en
+ödeme;
+
+die Überweisung -en
+para transferi; sevk;
+
+die Werbung -en
+reklam;
+
+die Marke -n
+marka;
+
+die Kampagne -n
+kampanya;
+
+die Strategie -n
+strateji;
+
+die Präsentation -en
+sunum;
+
+der Vortrag "-e
+rapor; ders;
+
+das Gespräch "-e
+konuşma; sohbet;
+
+die Bedeutung -en
+anlam;
+
+die Erklärung -en
+açıklama; beyan;
+
+die Beschreibung -en
+açıklama;
+
+der Text -e
+metin;
+
+die Geschichte -n
+hikaye;
+
+die Zeitung -en
+gazete;
+
+der Artikel -
+makale; ürün;
+
+der Film -e
+film;
+
+die Serie -n
+seri;
+
+die Rolle -n
+rol;
+
+die Figur -en
+şekil; karakter;
+
+das Lied -er
+şarkı;
+
+die Sicherheit -en
+güvenlik;
+
+die Gefahr -en
+tehlike;
+
+der Schutz (sg.)
+koruma;
+
+der Hinweis -e
+işaret; not; ipucu;
+
+die Maßnahme -n
+önlem; tedbir;
+
+die Unterstützung -en
+destek;
+
+der Kontakt -e
+iletişim; bağlantı;
+
+die Verbindung -en
+bileşik; bağlantı;
+
+die Entwicklung -en
+gelişme;
+
+die Veränderung -en
+değişiklik;
+
+die Verbesserung -en
+iyileşme;
+
+die Verschlechterung -en
+bozulma;
+
+die Erweiterung -en
+uzantı; genişleme;
+
+die Reduktion -en
+azalma; düşüş;
+
+die Erhöhung -en
+promosyon; artış;
+
+die Senkung -en
+düşüş; rütbe indirgemesi;
+
+die Wahl -en
+seçim; seçimler;
+
+die Konsequenz -en
+sonuç;
+
+die Bedrohung -en
+tehdit;
+
+der Beweis -e
+kanıt;
+
+der Zweifel -
+şüphe;
+
+der Ausgang "-e
+çıkış; göç;
+
+der Eingang "-e
+giriş; kabul;
+
+der Anfang "-e
+başlangıç;
+
+das Ende -n
+son;
+
+der Verlauf "-e
+hareket; akış;
+
+die Dauer (sg.)
+süre;
+
+die Zukunft (sg.)
+gelecek;
+
+die Vergangenheit (sg.)
+geçmiş;
+
+die Gegenwart (sg.)
+şimdiki zaman;
+
+der Moment -e
+an;
+
+der Zeitraum "-e
+dönem; zaman dilimi;
+
+die Phase -n
+evre; aşama;
+
+der Zeitpunkt -e
+belirli an;
+
+die Anzahl -en
+miktar; sayı;
+
+der Kurs -e
+oran;
+
+die Gebühr -en
+koleksiyon; görev; komisyon;
+
+der Schaden "-en
+hasar;
+
+die Versorgung -en
+güvenlik; arz;
+
+das Verkehrsmittel -
+araç;
+
+die Fahrt -en
+yolculuk; sefer;
+
+das Ticket -s
+bilet;
+
+die Verspätung -en
+gecikme; rötar;
+
+die Ankunft "-e
+varış;
+
+die Abfahrt -en
+kalkış;
+
+das Gerät -e
+cihaz;
+
+die Maschine -n
+araba; mekanizma;
+
+der Computer -
+bilgisayar;
+
+der Laptop -s
+dizüstü bilgisayar;
+
+das Handy -s
+cep telefonu; akıllı telefon;
+
+die E-Mail -s
+e-posta;
+
+die Webseite -n
+web sayfası; web sitesi;
+
+die Anzeige -n
+duyuru; gösterge;
+
+die Meldung -en
+mesaj; bildirim;
+
+der Test -s
+test; inceleme;
+
+die Aufgabe -n
+egzersiz; görev;
+
+die Notiz -en
+not;
+
+die Übersicht -en
+inceleme; özet;
+
+die Zusammenfassung -en
+özet;
+
+der Job -s
+pozisyon; yarı zamanlı iş;
+
+die Bewerbung -en
+beyan; yanıt; teklif;
+
+der Lebenslauf "-e
+hayat yolu; özgeçmiş; otobiyografi;
+
+das Meeting -s
+toplantı;
+
+die Besprechung -en
+toplantı; tartışma;
+
+die Konferenz -en
+konferans;
+
+der Patient -en
+hasta;
+
+die Patientin -nen
+hasta;
+
+die Praxis -en
+pratik; özel klinik;
+
+das Rezept -e
+reçete; yemek tarifi;
+
+die Untersuchung -en
+inceleme; çalışma;
+
+die Diagnose -n
+tanı;
+
+die Therapie -n
+terapi; tedavi;
+
+die Vorsorge -n
+önleme;
+
+die Pflege -n
+bakım;
+
+die Ernährung -en
+beslenme;
+
+das Gewicht -e
+ağırlık;
+
+die Größe -n
+boyut; büyüklük;
+
+der Körper -
+vücut; organizma;
+
+der Kopf "-e
+kafa;
+
+der Rücken -
+sırt;
+
+der Bauch "-e
+mide;
+
+die Quelle -n
+kaynak;
+
+die Ressource -n
+kaynak;
+
+der Zugriff -e
+erişim; veriye erişim;
+
+die Wohnung -en
+daire; konut;
+
+die Heizung -en
+ısıtma; ısıtma sistemi;
+
+die Miete -n
+kira;
+
+der Haushalt -e
+ev; bütçe;
+
+der Abfall "-e
+atık; çöp;
+
+die Umwelt (sg.)
+çevre;
+
+die Teilnahme -n
+katılım;
+
+der Teilnehmer -
+katılımcı;
+
+die Teilnehmerin -nen
+katılımcı;
+
+die Rückmeldung -en
+geri bildirim; yanıt;
+
+die Bewertung -en
+not; derecelendirme;
+
+die Einschätzung -en
+not; karar;
+
+die Umsetzung -en
+uygulama;
+
+die Einführung -en
+giriş; uygulama; sunum;
+
+die Erstellung -en
+yaratılış; hazırlık;
+
+die Bearbeitung -en
+işleme; revizyon;
+
+die Freigabe -n
+izin; tamam; yayın;
+
+die Wartung -en
+bakım;
+
+die Störung -en
+arıza; başarısızlık;
+
+die Fehlermeldung -en
+hata mesajı;
+
+der Fehler -
+hata;
+
+der Aufwand "-e
+maliyet; çabalar;
+
+die Absage -n
+ret; iptal;
+
+die Zusage -n
+anlaşma; onay;
+
+die Vereinbarung -en
+anlaşma;
+
+die Einigung -en
+yerleşim; anlaşma;
+
+die Trennung -en
+ayrılık;
+
+der Auftrag "-e
+sipariş; ödev;
+
+der Kunde -n
+müşteri; alıcı;
+
+die Kundin -nen
+müşteri;
+
+der Anbieter -
+servis sağlayıcı; sağlayıcı;
+
+der Hersteller -
+üretici;
+
+der Lieferant -en
+tedarikçi;
+
+die Firma -en
+firma; şirket;
+
+der Betrieb -e
+işletme; üretim;
+
+das Unternehmen -
+işletme; şirket;
+
+die Verantwortung -en
+sorumluluk;
+
+die Abwicklung -en
+işleme; yürütme;
+
+der Ablauf "-e
+akış; süreç;
+
+der Vorgang "-e
+süreç; işlem; olay;
+
+die Kapazität -en
+güç; kapasite; yetenek;
+
+das Lager -
+depo; stok;
+
+der Bestand "-e
+stok; mevcudiyet; bileşim;
+
+das Sortiment -e
+çeşitler;
+
+der Rabatt -e
+indirim;
+
+die Aktion -en
+promosyon;
+
+die Garantie -n
+garanti;
+
+die Rückgabe -n
+ürün iadesi;
+
+der Umtausch "-e
+değişim;
+
+der Versand -e
+gönderme; teslimat;
+
+der Empfang "-e
+resepsiyon; alıcı;
+
+die Betreuung -en
+eşlik; denetim; bakım;
+
+die Recherche -n
+arama; soruşturma;
+
+der Überblick -e
+genel fikir; inceleme;
+
+der Einblick -e
+görüş; anlayış; alışma;
+
+der Nachweis -e
+kanıt; onay;
+
+der Beleg -e
+destekleyici belge; çek;
+
+die Unterlage -n
+belge; taban;
+
+die Bescheinigung -en
+referans; sertifika;
+
+der Ausweis -e
+kimlik kartı; geçiş;
+
+der Pass "-e
+pasaport;
+
+die Kontrolle -n
+kontrol; inceleme;
+
+die Abmeldung -en
+kayıt silme; abonelikten çıkma;
+
+die Buchung -en
+rezervasyon; muhasebe kaydı;
+
+die Reservierung -en
+rezervasyon;
+
+die Stornierung -en
+iptal;
+
+die Unterkunft "-e
+barınma; gecede;
+
+die Übernachtung -en
+gecede; gecelik konaklama;
+
+das Hotel -s
+otel;
+
+die Pension -en
+pansiyon; misafir evi;
+
+die Speisekarte -n
+menü;
+
+der Kellner -
+garson;
+
+die Kellnerin -nen
+garson;
+
+das Trinkgeld -er
+ipuçları;
+
+die Öffnung -en
+açılış; delik;
+
+die Schließung -en
+kapanış; Tasfiye;
+
+der Eintritt -e
+giriş;
+
+der Austritt -e
+çıkış; elden çıkarma;
+
+die Mitgliedschaft -en
+üyelik;
+
+das Mitglied -er
+üye;
+
+der Verein -e
+kulüp; dernek;
+
+der Verband "-e
+sendika; dernek;
+
+die Behörde -n
+departman; devlet kurumu;
+
+das Amt "-er
+kurum; iş unvanı;
+
+die Akte -n
+dosya;
+
+der Ordner -
+klasör;
+
+der Anhang "-e
+ek;
+
+das Protokoll -e
+protokol; dergi;
+
+die Sitzung -en
+toplantı; oturum;
+
+der Ausschuss "-e
+komite; komisyon;
+
+die Kommission -en
+komisyon;
+
+der Beschluss "-e
+karar; çözüm;
+
+die Richtlinie -n
+yönerge; kılavuz;
+
+die Vorschrift -en
+reçete; kural;
+
+die Verordnung -en
+yönetmelik; düzenleme;
+
+die Klage -n
+dava; şikayet;
+
+die Berufung -en
+temyiz; meslek;
+
+die Strafe -n
+para cezası; ceza;
+
+der Täter -
+suçlu;
+
+die Tat -en
+eylem;
+
+das Opfer -
+fedakarlık;
+
+der Zeuge -n
+tanık;
+
+die Zeugin -nen
+tanık;
+
+das Verfahren -
+prosedür; süreç; yöntem;
+
+das Update -s
+yazılım güncellemesi;
+
+das Backup -s
+yedek;
+
+der Server -
+sunucu;
+
+der Dienst -e
+hizmet; görev;
+
+die Schnittstelle -n
+arayüz; API;
+
+die Oberfläche -n
+arayüz; yüzey;
+
+die Ansicht -en
+görünüm; ekran;
+
+die Suche -n
+arama;
+
+der Filter -
+filtre;
+
+der Cache -s
+önbellek;
+
+die Taste -n
+anahtar; düğme;
+
+die Tastatur -en
+klavye;
+
+die Maus "-e
+fare;
+
+der Bildschirm -e
+ekran; monitör;
+
+der Drucker -
+yazıcı;
+
+der Scanner -
+tarayıcı;
+
+die Kamera -s
+kamera;
+
+das Mikrofon -e
+mikrofon;
+
+der Lautsprecher -
+konuşmacı;
+
+der Kopfhörer -
+kulaklıklar;
+
+das Netzwerk -e
+ağ;
+
+die Studie -n
+çalışma;
+
+die Statistik -en
+istatistikler;
+
+das Diagramm -e
+diyagram;
+
+die Grafik -en
+grafikler; program;
+
+die Hypothese -n
+hipotez;
+
+die Theorie -n
+teori;
+
+das Modell -e
+model; örnek;
+
+das Labor -e
+laboratuvar;
+
+das Institut -e
+enstitü;
+
+die Fakultät -en
+fakülte;
+
+der Fachbereich -e
+yön; departman; fakülte;
+
+die Vorlesung -en
+ders;
+
+das Seminar -e
+seminer;
+
+die Übung -en
+egzersiz; pratik ders;
+
+die Stimmung -en
+ruh hali; atmosfer;
+
+die Laune -n
+ruh hali;
+
+das Gefühl -e
+duygu; duyum;
+
+das Interesse -n
+ilgi;
+
+der Eindruck "-e
+izlenim;
+
+die Sorge -n
+bakım; kaygı;
+
+die Angst "-e
+korku;
+
+der Wunsch "-e
+dilek;
+
+die Hoffnung -en
+umut;
+
+der Traum "-e
+rüya;
+
+der Streit -e
+anlaşmazlık; argüman;
+
+der Beruf -e
+meslek;
+
+der Arbeitnehmer -
+işçi; çalışan;
+
+die Arbeitnehmerin -nen
+çalışan;
+
+der Arbeitgeber -
+işveren;
+
+die Arbeitgeberin -nen
+işveren;
+
+die Stelle -n
+iş unvanı; iş yeri;
+
+die Schicht -en
+değişiklik;
+
+der Lohn "-e
+ücret;
+
+das Gehalt "-er
+maaş;
+
+die Kündigung -en
+işten çıkarılma; fesih;
+
+der Urlaub -e
+tatil; tatiller;
+
+die Vertretung -en
+ikame; temsil;
+
+die Fortbildung -en
+ileri eğitim;
+
+die Weiterbildung -en
+ek eğitim;
+
+die Schulung -en
+eğitim;
+
+die Qualifikation -en
+yeterlilik;
+
+das Zertifikat -e
+sertifika;
+
+die Probezeit -en
+denetimli serbestlik;
+
+die Beförderung -en
+terfi;
+
+die Karriere -n
+kariyer;
+
+die Führung -en
+yönetim; kontrol;
+
+der Leiter -
+gözetmen;
+
+die Leiterin -nen
+yönetici;
+
+der Chef -s
+şef; patron;
+
+die Chefin -nen
+patron;
+
+das Team -s
+takım;
+
+der Kollege -n
+meslektaş;
+
+die Kollegin -nen
+meslektaş;
+
+das Formular -e
+form;
+
+das Feld -er
+alan; form alanı; bölge;
+
+die Zeile -n
+çizgi;
+
+die Spalte -n
+sütun;
+
+die Tabelle -n
+masa;
+
+der Datensatz "-e
+veri kaydı; veri seti;
+
+die Datenbank -en
+veritabanı;
+
+der Speicher -
+hafıza; depolama;
+
+die Cloud -s
+bulut hizmeti;
+
+die Lizenz -en
+lisans;
+
+der Angriff -e
+saldırı;
+
+die Schwachstelle -n
+güvenlik açığı; zayıf nokta;
+
+das Bildschirmfoto -s
+ekran görüntüsü;
+
+die Kreuzung -en
+kavşak;
+
+die Ampel -n
+trafik ışığı;
+
+die Brücke -n
+köprü;
+
+der Park -s
+park;
+
+der Einkauf "-e
+satın alma; alışveriş;
+
+der Laden "-
+dükkan;
+
+das Geschäft -e
+dükkan; dava;
+
+das Zentrum -en
+merkez;
+
+der Bewohner -
+sakin;
+
+die Bewohnerin -nen
+sakin;
+
+der Besucher -
+ziyaretçi; misafir;
+
+die Besucherin -nen
+ziyaretçi;
+
+der Gast "-e
+misafir;
+
+die Aussicht -en
+görünüm; perspektif;
+
+der Blick -e
+görüş; görünüm;
+
+das Lehrbuch "-er
+ders kitabı;
+
+das Wörterbuch "-er
+sözlük;
+
+die Vokabel -n
+kelime; kelime birimi;
+
+das Niveau -s
+seviye;
+
+das Kapitel -
+bölüm;
+
+der Abschnitt -e
+bölüm; paragraf;
+
+der Rand "-er
+kenar; alan;
+
+das Werkzeug -e
+araç;
+
+die Schraube -n
+vida;
+
+der Nagel "-
+çivi;
+
+der Hammer "-
+çekiç;
+
+die Zange -n
+pense; forseps;
+
+die Leitung -en
+tel; yönetim;
+
+das Kabel -
+kablo;
+
+die Steckdose -n
+soket;
+
+der Stecker -
+fiş;
+
+die Spannung -en
+voltaj; gerilim;
+
+die Temperatur -en
+sıcaklık;
+
+das Gas -e
+gaz;
+
+der Kommentar -e
+yorum;
+
+die Rezension -en
+inceleme;
+
+das Profil -e
+profil;
+
+der Account -s
+hesap;
+
+der Algorithmus -en
+algoritma;
+
+der Trend -s
+eğilim;
+
+die Zuständigkeit -en
+yeterlilik; sorumluluk alanı;
+
+die Kompetenz -en
+yeterlilik; beceri;
+
+die Fähigkeit -en
+yetenek; beceri;
+
+das Verhalten (sg.)
+davranış;
+
+die Haltung -en
+pozisyon; duruş; tutum;
+
+die Gewissheit -en
+güven; güvenilirlik;
+
+der Ausblick -e
+perspektif; tahmin;
+
+der Platz "-e
+yer; kare;
+
+der Sitz -e
+koltuk; yer;
+
+der Hafen "-
+liman;
+
+der Flughafen "-
+havaalanı;
+
+der Bahnhof "-e
+tren istasyonu;
+
+der Bahnsteig -e
+peron; platform;
+
+die Haltestelle -n
+durak;
+
+das Gleis -e
+ray (demiryolu); parça;
+
+die Fahrkarte -n
+bilet;
+
+der Fahrer -
+sürücü;
+
+die Fahrerin -nen
+sürücü;
+
+der Verkehr (sg.)
+yol trafiği; ulaşım;
+
+der Stau -s
+trafik sıkışıklığı;
+
+die Strecke -n
+arsa; rota; mesafe;
+
+die Richtung -en
+yön;
+
+der Standort -e
+konum; platform; taban;
+
+der Ort -e
+yer; nüfuslu alan;
+
+das Ausland (sg.)
+yurtdışında;
+
+die Heimat -en
+vatan; yerli toprak;
+
+der Ausländer -
+yabancı;
+
+die Ausländerin -nen
+yabancı;
+
+der Bürger -
+vatandaş; sakin;
+
+die Bürgerin -nen
+vatandaş;
+
+die Staatsangehörigkeit -en
+vatandaşlık; milliyet;
+
+die Botschaft -en
+elçilik; haber;
+
+das Konsulat -e
+konsolosluk;
+
+die Mehrheit -en
+çoğunluk;
+
+die Minderheit -en
+azınlık;
+
+die Abstimmung -en
+oy; koordinasyon;
+
+der Kandidat -en
+aday;
+
+die Kandidatin -nen
+aday;
+
+der Minister -
+bakan;
+
+die Ministerin -nen
+bakan;
+
+der Präsident -en
+başkan;
+
+die Präsidentin -nen
+başkan;
+
+die Steuerung -en
+kontrol;
+
+die Reparatur -en
+onarım;
+
+die Polizei (sg.)
+polis;
+
+der Polizist -en
+polis memuru;
+
+die Polizistin -nen
+polis;
+
+der Diebstahl "-e
+hırsızlık;
+
+der Unfall "-e
+kaza;
+
+die Rettung -en
+kurtuluş; kurtarma servisi;
+
+die Feuerwehr -en
+itfaiye servisi; itfaiye;
+
+der Notruf -e
+acil durum çağrısı; acil durum numarası;
+
+der Arzt "-e
+doktor;
+
+die Ärztin -nen
+doktor;
+
+das Krankenhaus "-er
+hastane;
+
+die Station -en
+departman; istasyon;
+
+die Tablette -n
+tablet;
+
+der Impfstoff -e
+aşı; aşı ilacı;
+
+die Impfung -en
+aşı;
+
+die Erkältung -en
+soğuk;
+
+die Grippe -n
+grip;
+
+das Fieber -
+ısı; ateş;
+
+der Husten -
+öksürük;
+
+der Schmerz -en
+acı;
+
+die Wunde -n
+yara;
+
+die Verletzung -en
+yaralanma; hasar;
+
+die Operation -en
+operasyon;
+
+der Einzelhandel (sg.)
+perakende;
+
+der Großhandel (sg.)
+toptan satış;
+
+der Handel (sg.)
+ticaret;
+
+die Messe -n
+fuar; sergi;
+
+die Ausstellung -en
+sergi;
+
+der Stand "-e
+stand; sayaç;
+
+das Einkommen -
+gelir;
+
+die Ausgabe -n
+tüketim; harcama;
+
+die Ausgabe -n
+yayın; baskı;
+
+die Abgabe -n
+koleksiyon; kesinti; değişiklik;
+
+die Finanzierung -en
+finansman;
+
+der Kredit -e
+kredi;
+
+das Darlehen -
+kredi;
+
+das Budget -s
+bütçe; tahmin;
+
+die Opposition -en
+muhalefet;
+
+der Konflikt -e
+çatışma;
+
+der Krieg -e
+savaş;
+
+der Frieden (sg.)
+barış;
+
+die Freiheit -en
+özgürlük;
+
+die Gerechtigkeit -en
+adalet;
+
+die Ausnahme -n
+istisna;
+
+der Standard -s
+standart;
+
+die Norm -en
+norm; standart;
+
+die Bewilligung -en
+izin; ödenek;
+
+die Anfrage -n
+sorgu; talep;
+
+die Auskunft "-e
+bilgi; açıklama;
+
+die Information -en
+bilgi; enformasyon;
+
+die Angabe -n
+bilgi; gösterge;
+
+der Wert -e
+değer; kıymet; tutar;
+
+der Anteil -e
+pay; parça;
+
+die Quote -n
+kota; pay;
+
+der Durchschnitt -e
+ortalama; ortalama seviye;
+
+die Stufe -n
+adım; seviye;
+
+der Rahmen -
+çerçeve;
+
+die Grenze -n
+sınır;
+
+das Limit -s
+sınır; sınırlama;
+
+die Priorität -en
+öncelik;
+
+der Schwerpunkt -e
+aksan; öncelik yönü; ağırlık merkezi;
+
+die Absicht -en
+niyet;
+
+die Planung -en
+planlama;
+
+die Taktik -en
+taktikler;
+
+der Schritt -e
+adım;
+
+die Probe -n
+deneme; prova;
+
+die Stichprobe -n
+örneklem; pilot örnek;
+
+die Kennzahl -en
+anahtar gösterge; ölçümler;
+
+die Auswertung -en
+sonuçların işlenmesi; analiz;
+
+die Analyse -n
+analiz;
+
+die Einsparung -en
+tasarruf; maliyet düşüşü;
+
+die Steigerung -en
+artış; yükseliş;
+
+die Verringerung -en
+düşüş;
+
+die Korrelation -en
+korelasyon;
+
+die Prognose -n
+tahmin;
+
+die Schätzung -en
+not; tahmin;
+
+die Berechnung -en
+hesaplama;
+
+die Gleichung -en
+denklem;
+
+die Variable -n
+değişken;
+
+der Faktor -en
+faktör;
+
+der Parameter -
+parametre;
+
+die Einschränkung -en
+sınırlama;
+
+die Zustimmung -en
+anlaşma; tamam;
+
+die Einwilligung -en
+anlaşma; izin;
+
+der Widerspruch "-e
+itiraz; tutarsızlık;
+
+die Beschwerde -n
+şikayet;
+
+der Kompromiss -e
+uzlaşma;
+
+der Fortschritt -e
+ilerleme; promosyon;
+
+die Einnahme -n
+kabul; alma;
+
+die Rückerstattung -en
+geri ödeme; tazminat;
+
+die Vergütung -en
+ücret; ödeme;
+
+die Abrechnung -en
+hesaplama; rapor; kapanış;
+
+die Pauschale -n
+toplu ödeme; sabit miktar;
+
+die Spende -n
+bağış;
+
+der Zuschuss "-e
+sübvansiyon; ek ücret;
+
+die Förderung -en
+destek; finansman; yardım;
+
+die Fertigkeit -en
+beceri;
+
+die Eigenschaft -en
+mülk; kalite;
+
+der Anlass "-e
+fırsat; neden;
+
+die Gelegenheit -en
+fırsat;
+
+das Wissen (sg.)
+bilgi;
+
+die Auswirkung -en
+etki; sonuç;
+
+das Experiment -e
+deney;
+
+der Stoff -e
+madde; malzeme; tekstil;
+
+der Bestandteil -e
+bileşen;
+
+die Mischung -en
+karışım;
+
+das Mittel -
+araçlar; hazırlık;
+
+der Ursprung "-e
+kaynak; köken;
+
+die Küche -n
+mutfak;
+
+der Kühlschrank "-e
+buzdolabı;
+
+der Ofen "-
+fırın;
+
+der Herd -e
+ocak;
+
+die Pfanne -n
+tava;
+
+der Topf "-e
+tencere;
+
+der Löffel -
+kaşık;
+
+die Gabel -n
+çatal;
+
+das Messer -
+bıçak;
+
+der Teller -
+tabak;
+
+die Schüssel -n
+kase; çanak;
+
+das Glas "-er
+bardak; cam;
+
+die Tasse -n
+fincan;
+
+die Flasche -n
+şişe;
+
+die U-Bahn -en
+metro;
+
+die S-Bahn -en
+şehir treni;
+
+die Straßenbahn -en
+tramvay;
+
+das Fahrrad "-er
+bisiklet;
+
+das Auto -s
+otomobil; araba;
+
+der Zug "-e
+tren;
+
+das Flugzeug -e
+uçak;
+
+das Schiff -e
+gemi;
+
+die Aussprache -n
+telaffuz;
+
+die Grammatik -en
+gramer;
+
+der Satz "-e
+teklif; cümle;
+
+der Begriff -e
+kavram; dönem;
+
+die Definition -en
+tanım;
+
+das Synonym -e
+eşanlamlı;
+
+das Gegenteil -e
+tam tersi; zıt anlamlı;
+
+die Einleitung -en
+giriş;
+
+das Fazit -s
+sonuç;
+
+die These -n
+tez;
+
+das Argument -e
+argüman;
+
+die Debatte -n
+tartışma;
+
+die Perspektive -n
+perspektif; bakış açısı;
+
+die Herausforderung -en
+çağrı; zor görev;
+
+die Zusammenarbeit -en
+işbirliği;
+
+die Partnerschaft -en
+ortaklık;
+
+die Struktur -en
+yapı;
+
+das System -e
+sistem;
+
+die Auswahl -en
+seçim;
+
+die Variante -n
+seçenek; çeşitlilik;
+
+die Version -en
+versiyon;
+
+die Kategorie -n
+kategori;
+
+das Gebiet -e
+bölge;
+
+die Umgebung -en
+çevre; arazi;
+
+die Lage -n
+pozisyon; durum;
+
+die Entfernung -en
+mesafe;
+
+die Nähe (sg.)
+samimiyet;
+
+die Kante -n
+kenar;
+
+die Ecke -n
+köşe;
+
+die Mitte -n
+orta; merkez;
+
+die Tiefe -n
+derinlik;
+
+die Breite -n
+genişlik;
+
+die Höhe -n
+yükseklik;
+
+die Länge -n
+uzunluk;
+
+die Zahl -en
+sayı; miktar;
+
+die Rate -n
+teklif; ödeme;
+
+der Verbraucher -
+tüketici;
+
+die Verbraucherin -nen
+tüketici;
+
+der Endkunde -n
+son müşteri;
+
+die Zielgruppe -n
+hedef grup; seyirci;
+
+das Publikum -a
+halk; seyirciler; seyirci;
+
+die Öffentlichkeit -en
+halk;
+
+die Gemeinde -n
+topluluk; belediye;
+
+die Region -en
+bölge;
+
+das Dorf "-er
+köy;
+
+das Bundesland "-er
+federal eyalet;
+
+die Hauptstadt "-e
+başkent;
+
+der Bezirk -e
+bölge;
+
+der Stadtteil -e
+semt; çeyrek;
+
+die Baustelle -n
+inşaat alanı; onarılan alan;
+
+die Warteschlange -n
+kuyruk;
+
+die Einhaltung -en
+uyumluluk; yazışma;
+
+die Vorgabe -n
+gereksinim; orijinal görev; ön ayar;
+
+die Spezifikation -en
+Şartname; TK;
+
+der Entwurf "-e
+taslak; proje; eskiz;
+
+die Vorlage -n
+örnek;
+
+das Muster -
+örnek; desen;
+
+die Anleitung -en
+talimatlar; yönetim;
+
+die Abnahme -n
+kabul; düşüş;
+
+die Übergabe -n
+yayın;
+
+die Übernahme -n
+kabul; emilim;
+
+der Wettbewerb -e
+yarışma; rekabet;
+
+die Konkurrenz -en
+rekabet;
+
+der Mitbewerber -
+rakip;
+
+die Verschlüsselung -en
+şifreleme;
+
+die Authentifizierung -en
+kimlik doğrulama;
+
+die Berechtigung -en
+erişim hakkı; izin;
+
+die Sicherung -en
+rezervasyon; koruma; sigorta;
+
+das Zeichen -
+işaret; sembol;
+
+die Kennzeichnung -en
+işaretleme; atama;
+
+die Zuordnung -en
+eşleme; atama; bağlama;
+
+der Abschluss "-e
+son; mezuniyet;
+
+die Note -n
+değerlendirme;
+
+das Diplom -e
+diploma;
+
+die Hausaufgabe -n
+ödev;
+
+die Salbe -n
+merhem;
+
+die Spritze -n
+enjeksiyon; şırınga;
+
+die Dosis -en
+doz;
+
+die Nebenwirkung -en
+yan etki;
+
+die Wechselwirkung -en
+etkileşim;
+
+die Blutprobe -n
+kan testi; kan örneği;
+
+der Blutdruck (sg.)
+kan basıncı;
+
+der Puls -e
+nabız;
+
+der Baum "-e
+ağaç;
+
+die Pflanze -n
+bitki;
+
+das Tier -e
+hayvan;
+
+der Vogel "-
+kuş;
+
+der Hund -e
+köpek;
+
+die Katze -n
+kedi;
+
+die Blume -n
+çiçek;
+
+der Wald "-er
+orman;
+
+der Fluss "-e
+nehir;
+
+der See -en
+göl;
+
+das Meer -e
+deniz;
+
+der Berg -e
+dağ;
+
+das Tal "-er
+Vadi;
+
+der Strand "-e
+plaj;
+
+die Rückkehr -en
+dönüş;
+
+der Aufenthalt -e
+ikamet; durak;
+
+die Einreise -n
+giriş;
+
+die Ausreise -n
+çıkış;
+
+die Vermittlung -en
+arabuluculuk; istihdam;
+
+die Zustellung -en
+teslimat;
+
+die Laufzeit -en
+geçerlilik süresi; süre;
+
+die Gültigkeit -en
+gerçeklik; tarihten önceki en iyi tarih;
+
+die Belastung -en
+yük;
+
+die Entlastung -en
+boşaltma; rahatlama;
+
+die Abhängigkeit -en
+bağımlılık;
+
+die Unabhängigkeit -en
+bağımsızlık;
+
+die Erreichbarkeit -en
+erişilebilirlik;
+
+die Verfügbarkeit -en
+erişilebilirlik;
+
+die Zuverlässigkeit -en
+güvenilirlik;
+
+die Stabilität -en
+istikrar;
+
+die Genauigkeit -en
+doğruluk;
+
+die Abdeckung -en
+kaplama;
+
+die Einzigartigkeit -en
+benzersizlik;
+
+die Darstellung -en
+performans; ekran;
+
+die Abbildung -en
+görüntü; illüstrasyon;
+
+die Ausrichtung -en
+yönelim; ayar;
+
+die Auslastung -en
+yükleme; kapasite kullanımı;
+
+die Instandhaltung -en
+bakım;
+
+die Unterbrechung -en
+kesinti; mola;
+
+der Ausfall "-e
+ret; başarısızlık; sarkma;
+
+die Abhilfe -n
+iyileştirici önlemler; yardım;
+
+die Rückfrage -n
+açıklayıcı soru; ters istek;
+
+die Ergänzung -en
+ekleme;
+
+die Begründung -en
+gerekçe; motivasyon;
+
+die Rechtfertigung -en
+gerekçe; haklı argüman;
+
+die Ableitung -en
+çıktı; türev;
+
+die Übersetzung -en
+çeviri;
+
+die Rückübersetzung -en
+ters çeviri;
+
+die Vereinheitlichung -en
+birleşme;
+
+die Standardisierung -en
+standardizasyon;
+
+die Skalierung -en
+ölçeklendirme;
+
+die Priorisierung -en
+önceliklendirme;
+
+die Synchronisation -en
+senkronizasyon;
+
+die Automatisierung -en
+otomasyon;
+
+die Optimierung -en
+optimizasyon;
+
+die Validierung -en
+doğrulama; onay;
+
+die Verifizierung -en
+doğrulama; inceleme;
+
+die Dokumentation -en
+belgeler;
+
+die Konvention -en
+kongre; anlaşma;
+
+die Zulassung -en
+kabul; izin; sertifika;
+
+die Eignung -en
+uygunluk;
+
+die Haftung -en
+hukuki sorumluluk; garanti;
+
+die Haftpflicht -en
+hukuki sorumluluk;
+
+die Deckung -en
+sigorta kapsamı;
+
+die Prämie -n
+bonus; sigorta primi;
+
+die Selbstbeteiligung -en
+muafiyet; kişisel katılım;
+
+die Laufleistung -en
+kilometre;
+
+die Ausstattung -en
+ekipman;
+
+die Komponente -n
+bileşen;
+
+das Element -e
+eleman; bileşen;
+
+der Rohstoff -e
+ham maddeler; kaynak materyal;
+
+der Kunststoff -e
+plastik; sentetik malzeme;
+
+das Metall -e
+metal;
+
+das Holz "-er
+ahşap;
+
+der Stein -e
+taş;
+
+das Papier -e
+kağıt; belgeler;
+
+das Leder (sg.)
+deri;
+
+die Wand "-e
+duvar;
+
+der Boden "-en
+zemin; toprak; astarlama;
+
+der Schlüssel -
+anahtar;
+
+die Tasche -n
+çanta; cep;
+
+die Uhr -en
+saat;
+
+der Kalender -
+takvim;
+
+das Büro -s
+ofis; büro;
+
+das Gebäude -
+bina; yapı;
+
+der Raum "-e
+bina; uzay; oda;
+
+die Fläche -n
+kare; yüzey;
+
+das Haus "-er
+ev; bina;
+
+die Tür -en
+kapı;
+
+das Fenster -
+pencere;
+
+der Tisch -e
+masa;
+
+der Stuhl "-e
+sandalye;
+
+das Bett -en
+yatak;
+
+der Schrank "-e
+dolap;
+
+das Regal -e
+raf;
+
+der Teppich -e
+halı;
+
+die Decke -n
+tavan; battaniye;
+
+das Bad "-er
+banyo;
+
+das Badezimmer -
+banyo;
+
+die Dusche -n
+duş;
+
+die Badewanne -n
+kase;
+
+die Seife -n
+sabun;
+
+das Handtuch "-er
+havlu;
+
+die Zahnbürste -n
+diş fırçası;
+
+die Zahnpasta -s
+diş macunu;
+
+die Waschmaschine -n
+çamaşır makinesi;
+
+der Trockner -
+kurutucu;
+
+der Staubsauger -
+elektrikli süpürge;
+
+der Besen -
+süpürge;
+
+der Eimer -
+kova;
+
+das Waschmittel -
+deterjan;
+
+das Putzmittel -
+temizlik maddesi;
+
+das Licht -er
+ışık; ışıklar;
+
+der Strom "-e
+mevcut; elektrik; akış;
+
+die Energie -n
+enerji;
+
+der Akku -s
+pil;
+
+die Batterie -n
+pil;
+
+die Festplatte -n
+sabit disk;
+
+der Prozessor -en
+CPU;
+
+die Grafikkarte -n
+video kartı; grafik bağdaştırıcısı;
+
+die Software (sg.)
+yazılım;
+
+die Hardware (sg.)
+donanım; bilgisayar donanımı;
+
+der Browser -
+tarayıcı;
+
+die App -s
+mobil uygulama;
+
+die Plattform -en
+platform;
+
+der Arm -e
+kol;
+
+das Bein -e
+bacak;
+
+der Fuß "-e
+ayak; tek;
+
+das Knie -
+diz;
+
+die Brust "-e
+göğüs;
+
+die Schulter -n
+omuz;
+
+der Hals "-e
+boyun; boğaz;
+
+das Gesicht -er
+yüz;
+
+das Auge -n
+göz;
+
+das Ohr -en
+kulak;
+
+der Mund "-er
+ağız;
+
+die Zunge -n
+dil;
+
+der Zahn "-e
+diş;
+
+die Haut "-e
+deri;
+
+das Kleid -er
+elbise;
+
+das Hemd -en
+gömlek;
+
+die Hose -n
+pantolon;
+
+die Jacke -n
+ceket;
+
+der Schuh -e
+ayakkabılar; ayakkabı;
+
+der Gürtel -
+kemer;
+
+die Mütze -n
+kap;
+
+der Hut "-e
+şapka;
+
+der Handschuh -e
+eldiven;
+
+die Brille -n
+gözlük;
+
+der Vater "-er
+baba;
+
+die Mutter "-er
+anne;
+
+der Sohn "-e
+oğul;
+
+die Tochter "-er
+kızı;
+
+der Bruder "-er
+erkek kardeş;
+
+die Schwester -n
+kız kardeş;
+
+der Ehemann "-er
+koca; eş;
+
+die Ehefrau -en
+karısı; eş;
+
+der Partner -
+ortak;
+
+die Partnerin -nen
+ortak; kadın partner;
+
+der Freund -e
+arkadaş; erkek arkadaş;
+
+die Freundin -nen
+kadın arkadaş; kız arkadaş;
+
+die Straße -n
+sokak; cadde;
+
+die Insel -n
+ada;
+
+die Küste -n
+sahil; deniz kıyısı;
+
+das Ufer -
+kıyı (nehir/göl);
+
+die Wüste -n
+çöl;
+
+der Regen (sg.)
+yağmur;
+
+der Schnee (sg.)
+kar;
+
+der Wind -e
+rüzgar;
+
+die Wolke -n
+bulut;
+
+der Himmel -
+gökyüzü;
+
+die Sonne -n
+güneş;
+
+der Mond -e
+ay;
+
+der Stern -e
+yıldız;
+
+der Stift -e
+kalem;
+
+der Kugelschreiber -
+tükenmez kalem;
+
+der Bleistift -e
+kalem;
+
+das Heft -e
+not defteri; Broşür;
+
+das Buch "-er
+kitap;
+
+die Mappe -n
+klasör; evrak çantası;
+
+der Rucksack "-e
+sırt çantası;
+
+die Tafel -n
+tahta; yazı tahtası;
+
+die Kreide -n
+tebeşir;
+
+der Radiergummi -s
+silgi; kauçuk;
+
+die Kartoffel -n
+patates;
+
+der Fisch -e
+balık;
+
+das Hähnchen -
+piliç; tavuk yemeği;
+
+das Ei -er
+yumurta;
+
+der Käse -
+peynir;
+
+die Wurst "-e
+sosis;
+
+die Frucht "-e
+meyve; fetüs;
+
+der Apfel "-e
+elma;
+
+die Birne -n
+armut;
+
+die Orange -n
+portakal;
+
+die Zitrone -n
+limon;
+
+die Banane -n
+muz;
+
+die Traube -n
+üzüm; grup;
+
+die Tomate -n
+domates;
+
+die Gurke -n
+salatalık;
+
+die Zwiebel -n
+soğan;
+
+die Möhre -n
+havuç;
+
+der Salat -e
+salata; marul;
+
+die Suppe -n
+çorba;
+
+das Brot -e
+ekmek; somun;
+
+das Brötchen -
+çörek; ekmek;
+
+der Kuchen -
+pasta;
+
+die Torte -n
+kek;
+
+die Butter (sg.)
+tereyağı;
+
+der Joghurt -s
+yoğurt;
+
+der Schinken -
+jambon;
+
+die Sauce -n
+sos;
+
+das Gewürz -e
+baharat;
+
+das Frühstück -e
+kahvaltı;
+
+das Mittagessen -
+akşam yemeği;
+
+das Abendessen -
+akşam yemeği;
+
+die Mahlzeit -en
+yemek;
+
+der Hunger (sg.)
+açlık;
+
+der Durst (sg.)
+susuzluk;
+
+die Diät -en
+diyet;
+
+das Getränk -e
+içki;
+
+das Wasser (sg.)
+su;
+
+der Saft "-e
+meyve suyu;
+
+der Tee -s
+çay;
+
+der Kaffee -s
+kahve;
+
+die Milch (sg.)
+süt;
+
+das Bier -e
+bira;
+
+der Wein -e
+şarap;
+
+das Öl -e
+bitkisel yağ;
+
+der Zucker (sg.)
+şeker;
+
+das Salz -e
+tuz;
+
+der Pfeffer (sg.)
+biber;
+
+der Reis (sg.)
+pirinç;
+
+die Nudel -n
+erişte; makarna;
+
+der Supermarkt "-e
+süpermarket;
+
+die Bäckerei -en
+fırın;
+
+der Bäcker -
+fırıncı;
+
+die Bäckerin -nen
+fırıncı;
+
+die Metzgerei -en
+kasap dükkanı;
+
+das Restaurant -s
+restoran;
+
+das Café -s
+kafe;
+
+die Kantine -n
+yemekhane;
+
+das Menü -s
+menü;
+
+die Speise -n
+yemek;
+
+das Taxi -s
+taksi;
+
+der Bus -se
+otobüs;
+
+der Passagier -e
+yolcu;
+
+die Passagierin -nen
+yolcu;
+
+der Fahrschein -e
+bilet;
+
+die Pünktlichkeit (sg.)
+dakiklik;
+
+die Schule -n
+okul;
+
+der Lehrer -
+öğretmen;
+
+die Lehrerin -nen
+öğretmen;
+
+der Schüler -
+öğrenci; okul çocuğu;
+
+die Schülerin -nen
+kız öğrenci;
+
+die Klasse -n
+sınıf; kategori;
+
+das Klassenzimmer -
+sınıf;
+
+die Pause -n
+mola; duraklama;
+
+die Mensa -en
+öğrenci kantini;
+
+die Bibliothek -en
+kütüphane;
+
+das Lehrerzimmer -
+öğretmen odası;
+
+die Uni -s
+üniversite;
+
+der Student -en
+öğrenci;
+
+die Studentin -nen
+öğrenci;
+
+der Lehrerberuf -e
+öğretmenlik mesleği;
+
+der Koch "-e
+aşçı;
+
+die Köchin -nen
+aşçı;
+
+der Verkäufer -
+Satıcı;
+
+die Verkäuferin -nen
+pazarlamacı;
+
+der Ingenieur -e
+mühendis;
+
+die Ingenieurin -nen
+mühendis;
+
+der Techniker -
+teknisyen;
+
+die Technikerin -nen
+teknisyen;
+
+das Theater -
+tiyatro;
+
+das Museum -en
+müze;
+
+die Kirche -n
+kilise;
+
+die Moschee -n
+cami;
+
+die Synagoge -n
+sinagog;
+
+der Kiosk -e
+kiosk;
+
+das Einkaufszentrum -en
+alışveriş merkezi;
+
+die Drogerie -n
+ev kimyasalları mağazası; Drogerie;
+
+die Post (sg.)
+posta; postane;
+
+das Paket -e
+paket; plastik torba;
+
+der Brief -e
+mektup;
+
+die Briefmarke -n
+posta pulu;
+
+der Absender -
+gönderen;
+
+der Empfänger -
+alıcı;
+
+der Umschlag "-e
+zarf; kapak;
+
+die Adresse -n
+adres;
+
+die Hausnummer -n
+ev numarası;
+
+die Etage -n
+zemin;
+
+der Aufzug "-e
+asansör;
+
+die Treppe -n
+merdiven;
+
+der Hof "-e
+avlu; çiftçilik;
+
+der Garten "-
+bahçe;
+
+das Wohnzimmer -
+oturma odası;
+
+das Schlafzimmer -
+yatak odası;
+
+das Kinderzimmer -
+çocukların;
+
+das Arbeitszimmer -
+kabine;
+
+die Toilette -n
+tuvalet;
+
+der Flur -e
+koridor;
+
+der Balkon -e
+balkon;
+
+die Terrasse -n
+teras;
+
+die Kaution -en
+rehin;
+
+die Nebenkosten (pl.)
+faturalar; Ekle. giderler;
+
+der Vermieter -
+ev sahibi;
+
+die Vermieterin -nen
+ev sahibesi;
+
+der Mieter -
+kiracı;
+
+die Mieterin -nen
+kiracı;
+
+die Besichtigung -en
+muayene;
+
+die Renovierung -en
+onarım (kozmetik); güncelleme;
+
+die Möbel (pl.)
+mobilyalar;
+
+das Sofa -s
+kanepe;
+
+der Sessel -
+koltuk;
+
+die Lampe -n
+lamba;
+
+der Vorhang "-e
+perde;
+
+das Kissen -
+yastık;
+
+die Bettwäsche -n
+yatak çarşafları;
+
+der Fernseher -
+televizyon;
+
+die Fernbedienung -en
+uzaktan kumanda;
+
+das Radio -s
+radyo;
+
+die Musik (sg.)
+müzik;
+
+das Konzert -e
+konser;
+
+das Festival -s
+festival;
+
+die Kultur -en
+kültür;
+
+die Freizeit (sg.)
+boş zaman;
+
+das Hobby -s
+hobi; coşku;
+
+das Spiel -e
+oyun;
+
+der Fußball "-e
+futbol; futbol topu;
+
+das Tennis (sg.)
+tenis;
+
+das Schwimmbad "-er
+havuz;
+
+das Fitnessstudio -s
+spor kulübü; spor salonu;
+
+das Training -s
+eğitim;
+
+der Trainer -
+antrenör;
+
+die Trainerin -nen
+koç;
+
+die Leistung -en
+sonuç; performans;
+
+der Sieg -e
+zafer;
+
+die Niederlage -n
+yenilgi;
+
+die Mannschaft -en
+takım;
+
+der Sportler -
+atlet;
+
+die Sportlerin -nen
+atlet;
+
+der Fan -s
+hayran;
+
+das Ergebnis -se
+sonuç;
+
+der Rekord -e
+kayıt;
+
+der Schiedsrichter -
+hakem;
+
+die Schiedsrichterin -nen
+hakem;
+
+das Tor -e
+kapılar; amaç;
+
+der Ball "-e
+top;
+
+die Halle -n
+salon; arena;
+
+das Spielfeld -er
+oyun alanı;
+
+die Saison -s
+sezon;
+
+der Zuschauer -
+izleyici;
+
+die Zuschauerin -nen
+seyirci;
+
+der Wettkampf "-e
+rekabetçi maç; rekabet;
+
+die Umfrage -n
+anket;
+
+der Aspekt -e
+görünüş; (konunun) tarafı;
+
+die Sicht -en
+görüş; görünürlük; bakış açısı;
+
+die Einrichtung -en
+kurum;
+
+die Einrichtung -en
+durum; iç mekan;
+
+die Einrichtung -en
+ayar; kurulum;
+
+die Erinnerung -en
+hafıza; hatırlatma;
+
+die Verwendung -en
+kullanım; uygulama;
+
+die Anforderung -en
+gereksinim;
+
+die Verhandlung -en
+müzakere; duruşma;
+
+das Verbot -e
+yasak;
+
+die Erlaubnis -se
+izin;
+
+die Reklamation -en
+iddia; şikayet;
+
+die Beschädigung -en
+hasar;
+
+die Rücksendung -en
+dönüş; iade nakliye;
+
+der Koffer -
+bavul;
+
+das Gepäck (sg.)
+bagaj;
+
+die Rezeption -en
+resepsiyon;
+
+die Bordkarte -n
+biniş kartı;
+
+die Sicherheitskontrolle -n
+muayene; güvenlik kontrolü;
+
+die Zollkontrolle -n
+gümrük kontrolü;
+
+der Zoll "-e
+gümrükler; görev;
+
+der Flug "-e
+uçuş;
+
+die Währung -en
+para birimi;
+
+der Wechselkurs -e
+döviz kuru;
+
+die Bank -en
+banka;
+
+die Bank "-e
+tezgah; dükkan;
+
+das Geld (sg.)
+para; fonlar;
+
+der Schein -e
+banknot; fatura; sertifika;
+
+die Münze -n
+madeni para;
+
+das Portemonnaie -s
+çanta; cüzdan;
+
+die Mahnung -en
+ödeme hatırlatıcısı; uyarı;
+
+die Lastschrift -en
+otomatik ödeme; otomatik banka para çekme;
+
+die Filiale -n
+şube; departman;
+
+die Bedienung -en
+hizmet; kumanda;
+
+der Service -s
+hizmet;
+
+der Support -s
+destek;
+
+die Hotline -s
+yardım hattı;
+
+der Anruf -e
+telefon görüşmesi;
+
+das Signal -e
+sinyal;
+
+die Verlängerung -en
+uzatma; uzantı;
+
+die Sperrung -en
+engelleme; kapatma;
+
+die Entsperrung -en
+kilit açma; engeli kaldırma;
+
+die Fabrik -en
+fabrika;
+
+die Produktion -en
+üretim; yayın;
+
+der Versandhandel (sg.)
+mesafeli satış;
+
+die Aufsicht -en
+denetim;
+
+die Auflage -n
+dolaşım; sözleşme şartı;
+
+der Effekt -e
+etki;
+
+die Alternative -n
+alternatif; değiştirme;
+
+der Ersatz "-e
+değiştirme; yedek parça;
+
+das Ersatzteil -e
+yedek parça;
+
+die Instandsetzung -en
+onarım; iyileşme;
+
+das Zubehör (sg.)
+aksesuar; ek parça;
+
+die Bestätigung -en
+onay;
+
+die Veröffentlichung -en
+yayın;
+
+die Rede -n
+konuşma; performans;
+
+das Zitat -e
+alıntı;
+
+die Literatur (sg.)
+edebiyat; özel edebiyat;
+
+die Bibliografie -n
+kaynakça;
+
+der Autor -en
+yazar;
+
+die Autorin -nen
+yazar;
+
+der Verlag "-e
+yayınevi;
+
+die Überschrift -en
+başlık;
+
+der Absatz "-e
+paragraf; satış;
+
+die Quantität -en
+miktar; nicelik;
+
+die Verwaltung -en
+idare; yönetim;
+
+das Vorstellungsgespräch -e
+iş görüşmesi;
+
+der Gutschein -e
+kupon; hediye sertifikası;
+
+die Ermäßigung -en
+indirim; avantaj;
+
+die Warnung -en
+uyarı;
+
+die Nachbarschaft -en
+mahalle; çevre;
+
+die Innenstadt "-e
+şehir merkezi;
+
+der Stadtrand "-er
+şehrin eteklerinde;
+
+der Vorort -e
+banliyö;
+
+der Ausgleich -e
+denge; tazminat;
+
+die Geduld (sg.)
+sabır;
+
+die Überraschung -en
+sürpriz;
+
+die Kenntnis -se
+bilgi; farkındalık;
+
+die Wahrscheinlichkeit -en
+olasılık;
+
+die Anerkennung -en
+itiraf; tamam;
+
+die Einsicht -en
+anlayış; materyallere erişim;
+
+der Vorwurf "-e
+sitem; suçlama;
+
+die Verpflichtung -en
+yükümlülük;
+
+die Kritik -en
+eleştiri; inceleme;
+
+die Diskussion -en
+tartışma;
+
+der Besuch -e
+ziyaret;
+
+der Vertreter -
+temsilci; milletvekili;
+
+die Vertreterin -nen
+temsilci;
+
+der Auftraggeber -
+müşteri (tüzel kişi/kişi);
+
+die Auftraggeberin -nen
+müşteri;
+
+der Dienstleister -
+servis sağlayıcı; hizmet şirketi;
+
+die Dienstleistung -en
+hizmet;
+
+der Vertrieb -e
+satışlar; satış departmanı;
+
+die Technik -en
+teknik; alım;
+
+die Technologie -n
+teknoloji;
+
+die Branche -n
+endüstri; iş alanı;
+
+die Logistik -en
+lojistik;
+
+die Ausschreibung -en
+ihale;
+
+der Zuschlag "-e
+bir emrin verilmesi; ödenek; ek ücret;
+
+die Vergabe -n
+sipariş verme; ödül (sözleşme/ödül);
+
+die Überwachung -en
+izleme; denetim;
+
+die Entschädigung -en
+tazminat;
+
+die Panne -n
+kırılma; aksaklık;
+
+das Attest -e
+tıbbi sertifika; sonuç;
+
+das Symptom -e
+semptom; işaret;
+
+die Heilung -en
+tedavi; şifa;
+
+die Genesung -en
+iyileşme;
+
+die Infektion -en
+enfeksiyon;
+
+der Virus -en
+virüs;
+
+die Pandemie -n
+salgın;
+
+die Hygiene -n
+hijyen;
+
+die Bühne -n
+sahne;
+
+der Schauspieler -
+aktör;
+
+die Schauspielerin -nen
+aktris;
+
+die Aufführung -en
+sahneleme; oyun;
+
+die Premiere -n
+prömiyer;
+
+der Fußgänger -
+yaya;
+
+die Fußgängerin -nen
+yaya;
+
+der Zebrastreifen -
+yaya geçidi;
+
+die Einfahrt -en
+giriş;
+
+die Ausfahrt -en
+kalkış;
+
+die Umleitung -en
+dolambaçlı yol; yönlendirme;
+
+das Gewitter -
+fırtına;
+
+der Sturm "-e
+fırtına;
+
+der Nebel -
+sis;
+
+das Eis (sg.)
+buz; dondurma;
+
+die Hitze (sg.)
+ısı;
+
+die Kälte (sg.)
+soğuk;
+
+die Zutat -en
+içerik;
+
+die Portion -en
+porsiyon;
+
+der Geschmack "-er
+tat; bağımlılık;
+
+die Haltbarkeit -en
+tarihten önceki en iyi tarih; dayanıklılık;
+
+das Verfallsdatum -en
+son kullanma tarihi (tarih);
+
+die Zubereitung -en
+pişirme; hazırlık;
+
+die Freundschaft -en
+dostluk;
+
+die Bekanntschaft -en
+tanıdık;
+
+der Bekannte -n
+tanıdık;
+
+die Bekannte -n
+tanıdık;
+
+die Ehe -n
+evlilik (evlilik);
+
+die Scheidung -en
+boşanma;
+
+der Vorstand "-e
+tahta; yönetim kurulu;
+
+die Geschäftsführung -en
+şirket yönetimi; müdürlük;
+
+die Belegschaft -en
+personel; takım;
+
+die Personalabteilung -en
+İK departmanı;
+
+die Einarbeitung -en
+indüksiyon; mentorluk;
+
+die Teilzeit (sg.)
+eksik istihdam;
+
+die Vollzeit (sg.)
+tam istihdam;
+
+die Stellenausschreibung -en
+iş ilanı;
+
+die Stellenanzeige -n
+iş ilanı; eleman ilanı;
+
+die Einschreibung -en
+kayıt; üniversite kaydı;
+
+die Immatrikulation -en
+üniversite kaydı; üniversiteye kabul;
+
+das Referat -e
+rapor; özet;
+
+die Klausur -en
+yazılı sınav;
+
+das Examen -e
+sınav;
+
+das Zeugnis -se
+sertifika; karne;
+
+die Gutschrift -en
+alacak kaydı; alacak dekontu;
+
+die Hausordnung -en
+ev kuralları;
+
+das Ereignis -se
+olay;
+
+die Verzögerung -en
+gecikme; yavaşlama;
+
+die Daten (pl.)
+veriler; bilgiler;
+
+der Datenschutz (sg.)
+veri koruması;
+
+die Privatsphäre -n
+mahremiyet;
+
+die Bandbreite -n
+bant genişliği; aralık;
+
+die Latenz -en
+gecikme;
+
+der Absturz "-e
+çökme; sistem çökmesi;
+
+die Fehlfunktion -en
+arıza; hatalı çalışma;
+
+die Aktualisierung -en
+güncelleme;
+
+die Überprüfung -en
+inceleme; denetim;

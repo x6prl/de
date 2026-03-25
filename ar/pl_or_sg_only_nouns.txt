@@ -1,0 +1,41 @@
+das Geld (sg.)
+مال; نقود; أموال;
+
+das Wasser (sg.)
+ماء; مياه; مسطح مائي;
+
+die Milch (sg.)
+حليب;
+
+der Hunger (sg.)
+جوع; مجاعة; هلاك جوعًا;
+
+die Musik (sg.)
+موسيقى;
+
+der Regen (sg.)
+مطر; هطول المطر;
+
+die Leute (pl.)
+ناس; أشخاص;
+
+die Eltern (pl.)
+والدان; أب وأم;
+
+die Ferien (pl.)
+عطلة; إجازة; عطلة مدرسية; استراحة مدرسية;
+
+die Kosten (pl.)
+تكاليف; نفقات; رسوم;
+
+die Möbel (pl.)
+أثاث; مفروشات; قطع أثاث;
+
+die Lebensmittel (pl.)
+مواد غذائية; بقالة; مؤن;
+
+die Geschwister (pl.)
+إخوة وأخوات; أشقاء;
+
+die Daten (pl.)
+بيانات; معلومات; بيانات حاسوبية;

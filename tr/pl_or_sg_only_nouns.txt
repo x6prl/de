@@ -1,0 +1,41 @@
+das Geld (sg.)
+para; nakit; maddi kaynaklar;
+
+das Wasser (sg.)
+su; sular; su kütlesi;
+
+die Milch (sg.)
+süt;
+
+der Hunger (sg.)
+açlık; açlıktan kırılma; kıtlık;
+
+die Musik (sg.)
+müzik;
+
+der Regen (sg.)
+yağmur; yağış;
+
+die Leute (pl.)
+insanlar; ahali;
+
+die Eltern (pl.)
+ebeveynler; anne baba;
+
+die Ferien (pl.)
+tatil; tatil dönemi; okul tatili; okul arası;
+
+die Kosten (pl.)
+maliyetler; giderler; ücretler;
+
+die Möbel (pl.)
+mobilya; döşeme eşyaları; ev eşyaları;
+
+die Lebensmittel (pl.)
+gıda ürünleri; erzak; yiyecek maddeleri;
+
+die Geschwister (pl.)
+kardeşler; erkek ve kız kardeşler;
+
+die Daten (pl.)
+veriler; bilgiler; bilgisayar verileri;

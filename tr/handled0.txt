@@ -1,0 +1,134 @@
+die Aufgabe -n
+görev; alıştırma; ödev; işlev;
+Ich habe viele Aufgaben.
+Das sind meine Aufgaben im Büro.
+
+a höflich
+kibar{daha kibar, en kibar}; nazik{daha nazik, en nazik}; saygılı{daha saygılı, en saygılı};
+Er ist sehr höflich.
+Das war eine höfliche Antwort.
+
+der Nachbar -n
+komşu;
+Mein Nachbar ist sehr höflich.
+Die Nachbarn sind laut.
+
+die Nachbarin -nen
+komşu;
+Unsere Nachbarin ist sehr nett.
+
+Es geht los!
+başlıyor!; işte başlıyoruz!;
+
+Los geht's!
+haydi başlayalım!; işte başlıyoruz!;
+
+das Zeichen -
+işaret; sembol; belirti; iz; sinyal;
+Was bedeutet dieses Zeichen?
+Das ist ein Zeichen von Vertrauen.
+
+das Arbeitsblatt "-er
+çalışma kağıdı; alıştırma kağıdı; ders föyü;
+Bitte nehmt das Arbeitsblatt heraus.
+Ich habe das Arbeitsblatt nicht verstanden.
+
+das Fragezeichen -
+soru işareti;
+Hier fehlt ein Fragezeichen.
+
+die Postleitzahl -en
+posta kodu;
+Wie lautet Ihre Postleitzahl?
+
+die Abstimmung -en
+oylama;
+Die Abstimmung beginnt um neun Uhr.
+
+v abstimmen
+oy vermek{oy verir, oy verdi}; oy kullanmak{oy kullanır, oy kullandı};
+[über+Akk]
+Wir stimmen morgen darüber ab.
+
+v wählen
+oy vermek{oy verir, oy verdi};
+Viele Menschen wählen am Sonntag.
+
+v wählen
+seçmek{seçer, seçti}; göreve getirmek{göreve getirir, göreve getirdi};
+[j-n; etw.]
+
+die Wahl -en
+tercih; seçim;
+Die Wahl findet am Sonntag statt.
+
+Dafür!
+lehte!; ben bunun lehineyim!;
+
+Ganz klar dagegen!
+kesinlikle karşı!; açıkça karşıyım!;
+
+Ich bin dafür!
+ben bunun lehineyim!;
+
+Ich bin entschieden dagegen!
+ben buna kesinlikle karşıyım!;
+
+v hinzufügen
+eklemek{ekler, ekledi}; dahil etmek{dahil eder, dahil etti};
+[etw.]
+Kannst du das noch hinzufügen?
+
+a meistens
+genellikle; çoğu zaman; çoğu durumda;
+Ich komme meistens zu spät.
+Meistens ist es ruhig hier.
+
+v raten-rät / riet / hat geraten
+tavsiye etmek{tavsiye eder, tavsiye etti}; önermek{önerir, önerdi};
+[j-m]
+Ich rate dir, früher zu schlafen.
+
+v raten-rät / riet / hat geraten
+tahmin etmek{tahmin eder, tahmin etti}; kestirmek{kestirir, kestirdi};
+[etw.]
+Rate mal!
+Du musst nicht raten.
+
+a manchmal
+bazen; ara sıra; kimi zaman;
+Ich bin manchmal müde.
+Manchmal regnet es tagelang.
+
+v sagen
+söylemek{söyler, söyledi}; demek{der, dedi};
+[etw.]
+Er sagt das oft.
+Sie sagt die Wahrheit.
+
+Da bist du ja!
+işte buradasın!; sonunda geldin!;
+
+a richtig
+doğru{daha doğru, en doğru}; haklı; gerçek{daha gerçek, en gerçek};
+Das ist richtig.
+
+Du kommst aber spät!
+amma geç geldin!; gerçekten geç geldin!;
+
+a wichtig
+önemli{daha önemli, en önemli}; kayda değer{daha kayda değer, en kayda değer};
+Das ist sehr wichtig.
+
+das Paar -e
+çift; ikili;
+Sie sind ein Paar.
+
+das Leben (sg.)
+hayat;
+Das Leben ist nicht immer leicht.
+
+a schwer
+ağır{daha ağır, en ağır}; zor{daha zor, en zor}; güç{daha güç, en güç};
+Der Koffer ist schwer.
+Die Aufgabe ist schwer.
