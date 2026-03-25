@@ -20,6 +20,26 @@ Ich helfe dir gern.
 
 The grammar line is a government line, not a free-form notes line. Its purpose is limited to learner-relevant argument structure and government. Separate grammar elements with `; `.
 
+The translation line may optionally attach reverse-recall prompt cues directly to an individual translation item with `{}`:
+
+```text
+translation{cue1, cue2}; other translation;
+```
+
+Use this only for prompt-only English forms that should map back to the German base lemma in reverse recall. These cues are not additional forward translations. Keep them compact and attach them to the closest base gloss. Do not insert a space before `{`. Literal `{` or `}` in translation text are not supported.
+
+```text
+v gehen-geht / ging / ist gegangen
+go{goes, went, gone};
+
+a gut besser am besten
+good{better, best};
+
+v helfen-hilft / half / hat geholfen
+help{helps};
+[j-m]
+```
+
 Recommended grammar elements:
 
 * argument placeholders: `j-n`, `j-m`, `j-s`, `etw.`
@@ -164,7 +184,7 @@ to hang, to be suspended;
     make; do;
     
     v essen-isst / aß / hat gegessen
-    eat;
+    eat{eats, ate, eaten};
     ```
 
 *   **Corner Cases:** 
@@ -234,7 +254,7 @@ female acquaintance, friend;
     Irregular adjectives, and adjectives with no comparatives (like *dead* or *pregnant*).
     ```text
     a gut besser am besten
-    good;
+    good{better, best};
     
     a hoch höher am höchsten
     high;

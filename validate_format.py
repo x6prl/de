@@ -13,6 +13,7 @@ NOUN_PREFIXES = ("der ", "die ", "das ", "(-) ")
 PLURAL_MARKER_RE = re.compile(r'^(?:\((?:sg|pl)\.\)|[-"][^\s]*)$')
 VERB_SPLIT_RE = re.compile(r"\s*/\s*")
 GRAMMAR_LINE_RE = re.compile(r"^\[(.*)\]$")
+TRANSLATION_CUES_RE = re.compile(r"^(?P<gloss>.*\S)\{(?P<cues>[^{}]+)\}$")
 
 
 @dataclass(frozen=True)
@@ -179,6 +180,29 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
     for part in parts:
         if not part:
             errors.append(ValidationError(path, line_no, "translation line contains an empty translation item"))
+            break
+        if "{" not in part and "}" not in part:
+            continue
+
+        match = TRANSLATION_CUES_RE.match(part)
+        if not match:
+            errors.append(
+                ValidationError(
+                    path,
+                    line_no,
+                    "translation reverse-cue block must be `gloss{cue1, cue2}` at the end of a translation item",
+                )
+            )
+            break
+
+        gloss = match.group("gloss").strip()
+        if not gloss:
+            errors.append(ValidationError(path, line_no, "translation item with reverse cues must include a gloss"))
+            break
+
+        cues = [cue.strip() for cue in match.group("cues").split(",")]
+        if any(cue == "" for cue in cues):
+            errors.append(ValidationError(path, line_no, "translation reverse-cue list contains an empty cue"))
             break
 
     return errors

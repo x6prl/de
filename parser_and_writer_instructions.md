@@ -60,7 +60,7 @@ typedef struct {
         PhraseData phrase;
     } data;
     
-    StringView translations; // The whole second line
+    StringView translations; // The whole second line; items may optionally use gloss{cue1, cue2}
     StringView grammar;      // Optional 3rd line: [government; pattern]
     StringView examples;     // 4th+ lines, or 3rd+ if no grammar line
 } DictEntry;
@@ -100,6 +100,10 @@ Identify the entry type by checking the first few characters.
 
 #### C. Parsing Translations, Grammar & Examples (Lines 2+)
 *   **Translations**: Read the next line. Trim the trailing `;` if it exists (as shown in your examples). Store as a single `StringView`.
+    *   Each semicolon-separated translation item may optionally end with a reverse-recall cue block: `gloss{cue1, cue2}`.
+    *   Treat the text before `{` as the display gloss. Treat the comma-separated items inside `{}` as prompt-only aliases for reverse recall, not as extra forward translations.
+    *   Require the cue block to attach directly to the gloss with no intervening space. Reserve literal `{` and `}` for this syntax only.
+    *   If you do not need reverse-recall prompts at parse time, storing the raw translation line unchanged is sufficient.
 *   **Optional Grammar Line**: Peek at the next non-consumed line.
     *   If it starts with `[` and ends with `]`, store it as `grammar` and consume it.
     *   At most one grammar line is allowed per entry, and it must come immediately after the translation line.
@@ -141,5 +145,7 @@ The writer simply reverses the process. Because C lacks built-in string formatti
     *   *Parser mitigation*: If an empty line is encountered while in `STATE_TRANSLATION`, emit a warning/error with the current file line number.
 3.  **Malformed Grammar Lines**: A bracketed grammar line anywhere other than the single optional slot after the translation line should be treated as invalid format, not as an example line.
     *   *Parser mitigation*: If a second bracketed line appears before the entry-closing empty line, emit a warning/error with the current file line number.
-4.  **Whitespace Management**: Ensure your `StringView` extraction uses a `trim()` function to strip leading/trailing spaces (e.g., spaces around the ` / ` verb delimiters), so `aß` doesn't get captured as `" aß "`.
-5.  **UTF-8 Encoding**: C string functions (`strchr`, `memchr`) are byte-oriented. Because standard German characters (Umlaute `ä, ö, ü, ß`) and prefixes (`der`, `die`, `a`, `v`) use ASCII spaces, brackets, hyphens, and slashes, byte-oriented searching for ` ` (0x20), `[` (0x5B), `]` (0x5D), `-` (0x2D), and `/` (0x2F) is **100% safe in UTF-8**. You do not need a heavy wide-character (wchar_t) library for the structural parsing.
+4.  **Malformed Translation Cue Blocks**: If a translation item contains `{` or `}`, require the form `gloss{cue1, cue2}` with the cue block at the end of the item.
+    *   *Parser mitigation*: Reject empty cue lists, unmatched braces, or brace blocks that appear in the middle of the gloss.
+5.  **Whitespace Management**: Ensure your `StringView` extraction uses a `trim()` function to strip leading/trailing spaces (e.g., spaces around the ` / ` verb delimiters), so `aß` doesn't get captured as `" aß "`.
+6.  **UTF-8 Encoding**: C string functions (`strchr`, `memchr`) are byte-oriented. Because standard German characters (Umlaute `ä, ö, ü, ß`) and prefixes (`der`, `die`, `a`, `v`) use ASCII spaces, brackets, braces, hyphens, and slashes, byte-oriented searching for ` ` (0x20), `[` (0x5B), `]` (0x5D), `{` (0x7B), `}` (0x7D), `-` (0x2D), and `/` (0x2F) is **100% safe in UTF-8**. You do not need a heavy wide-character (wchar_t) library for the structural parsing.
