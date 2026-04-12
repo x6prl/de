@@ -1094,7 +1094,7 @@ die Stelle -n
 job title; place (of work);
 
 die Schicht -en
-change;
+shift;
 
 der Lohn "-e
 salary (hourly/working);
@@ -1448,7 +1448,7 @@ der Polizist -en
 police officer;
 
 die Polizistin -nen
-police;
+police officer;
 
 der Diebstahl "-e
 theft;

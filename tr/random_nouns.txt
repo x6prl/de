@@ -1094,7 +1094,7 @@ die Stelle -n
 iş unvanı; iş yeri;
 
 die Schicht -en
-değişiklik;
+vardiya;
 
 der Lohn "-e
 ücret;
@@ -1169,7 +1169,7 @@ die Spalte -n
 sütun;
 
 die Tabelle -n
-masa;
+tablo;
 
 der Datensatz "-e
 veri kaydı; veri seti;
