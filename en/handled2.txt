@@ -1,0 +1,201 @@
+der Fußboden "-
+floor; flooring;
+
+der Hefter -
+folder; binder;
+
+der Farbstift -e
+colored pencil;
+
+der Locher -
+hole punch;
+
+der Spitzer -
+pencil sharpener;
+
+das Brillenetui -s
+glasses case; eyeglasses case;
+
+das Mäppchen -
+pencil case;
+
+der Beutel -
+bag; pouch;
+
+die Stofftasche -n
+cloth bag; fabric bag;
+
+Was ist nie dabei?
+What do you never have with you?;
+
+nicht wichtig
+not important;
+
+das Taschentuch "-er
+handkerchief; tissue;
+
+a bestimmt
+certain; definite; specific;
+
+a unbestimmt
+indefinite; vague;
+
+bestimmter Artikel
+definite article;
+
+unbestimmter Artikel
+indefinite article;
+
+die Lageristin -nen
+warehouse worker; storekeeper;
+
+der Lagerist -en
+warehouse worker; storekeeper;
+
+das Ding -e
+thing; item;
+
+das Radieschen -
+radish;
+
+der Tacker -
+stapler;
+
+Es ist weg.
+It's gone.; It's missing.;
+
+Es ist kaputt.
+It's broken.;
+
+Es funktioniert nicht.
+It doesn't work.;
+
+eine historische Stätte
+historical site; historic site;
+
+Samar und Mohamad kommen am Morgen zu zweit.
+Samar and Mohamad come together in the morning.;
+
+der Kassenbon -s
+cash register receipt; receipt;
+
+der Bon -s
+receipt; slip;
+
+v decken
+cover;
+[etw.]
+
+den Tisch decken
+set the table;
+
+das Knäckebrot -e
+crispbread;
+
+die Uroma -s
+great-grandmother;
+
+der Uropa -s
+great-grandfather;
+
+das Treffen -
+meeting; get-together;
+
+Die Katze ist getigert.
+The cat is tabby.; The cat is striped.;
+
+Zuerst räume ich auf, dann putze ich.
+First I tidy up, then I clean.;
+
+Ich wasche mein Gesicht.
+I wash my face.;
+
+Ich putze meine Zähne.
+I brush my teeth.;
+
+Ich kämme meine Haare.
+I comb my hair.;
+
+Ich dusche.
+I take a shower.;
+
+Ich finde den Geruch gut.
+I find the smell pleasant.;
+
+Ich mag den Geruch.
+I like the smell.;
+
+Lin frühstückt im Alltag nie zu Hause.
+Lin never eats breakfast at home on weekdays.;
+
+der Stammbaum "-e
+family tree;
+
+das Einzelkind -er
+only child;
+
+der Zwilling -e
+twin;
+
+der Onkel -
+uncle;
+
+die Tante -n
+aunt;
+
+die Cousine -n
+female cousin;
+
+der Cousin -s
+male cousin;
+
+der Neffe -n
+nephew;
+
+die Nichte -n
+niece;
+
+der Schwager "-
+brother-in-law;
+
+die Schwägerin -nen
+sister-in-law;
+
+der Schwiegervater "-
+father-in-law;
+
+die Schwiegermutter "-
+mother-in-law;
+
+der Enkel -
+grandson;
+
+die Enkelin -nen
+granddaughter;
+
+der Urenkel -
+great-grandson;
+
+die Urenkelin -nen
+great-granddaughter;
+
+die Stiefmutter "-
+stepmother;
+
+der Stiefvater "-
+stepfather;
+
+die Stiefkinder (pl.)
+stepchildren;
+
+der Kuss "-e
+kiss;
+
+Herzlichen Glückwunsch!
+Congratulations!; Many congratulations!;
+
+Ich beneide dich.
+I envy you.;
+
+Er hat eine Beziehung.
+He is in a relationship.;

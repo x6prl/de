@@ -1,0 +1,201 @@
+der Fußboden "-
+zemin; döşeme;
+
+der Hefter -
+dosya; klasör;
+
+der Farbstift -e
+renkli kalem;
+
+der Locher -
+delgeç;
+
+der Spitzer -
+kalemtıraş;
+
+das Brillenetui -s
+gözlük kılıfı; gözlük kabı;
+
+das Mäppchen -
+kalem kutusu; kalemlik;
+
+der Beutel -
+torba; kese;
+
+die Stofftasche -n
+bez çanta; kumaş çanta;
+
+Was ist nie dabei?
+Yanında hiç olmayan şey nedir?;
+
+nicht wichtig
+önemli değil;
+
+das Taschentuch "-er
+mendil; kağıt mendil;
+
+a bestimmt
+belirli; kesin;
+
+a unbestimmt
+belirsiz; muğlak;
+
+bestimmter Artikel
+belirli artikel;
+
+unbestimmter Artikel
+belirsiz artikel;
+
+die Lageristin -nen
+kadın depo görevlisi; kadın ambar görevlisi;
+
+der Lagerist -en
+depo görevlisi; ambar görevlisi;
+
+das Ding -e
+şey; nesne;
+
+das Radieschen -
+turp;
+
+der Tacker -
+zımba;
+
+Es ist weg.
+Ortada yok.; Kayboldu.;
+
+Es ist kaputt.
+Bozuk.;
+
+Es funktioniert nicht.
+Çalışmıyor.;
+
+eine historische Stätte
+tarihi mekan; tarihi yer;
+
+Samar und Mohamad kommen am Morgen zu zweit.
+Samar ve Mohamad sabah birlikte geliyor.;
+
+der Kassenbon -s
+kasa fişi; fiş;
+
+der Bon -s
+fiş; makbuz;
+
+v decken
+örtmek;
+[etw.]
+
+den Tisch decken
+sofrayı kurmak;
+
+das Knäckebrot -e
+gevrek ekmek; çıtır ekmek;
+
+die Uroma -s
+büyük büyükanne;
+
+der Uropa -s
+büyük büyükbaba;
+
+das Treffen -
+buluşma; görüşme;
+
+Die Katze ist getigert.
+Kedi tekir.;
+
+Zuerst räume ich auf, dann putze ich.
+Önce toparlıyorum, sonra temizliyorum.;
+
+Ich wasche mein Gesicht.
+Yüzümü yıkıyorum.;
+
+Ich putze meine Zähne.
+Dişlerimi fırçalıyorum.;
+
+Ich kämme meine Haare.
+Saçımı tarıyorum.;
+
+Ich dusche.
+Duş alıyorum.;
+
+Ich finde den Geruch gut.
+Bu kokuyu güzel buluyorum.;
+
+Ich mag den Geruch.
+Bu kokuyu seviyorum.;
+
+Lin frühstückt im Alltag nie zu Hause.
+Lin hafta içi asla evde kahvaltı yapmaz.;
+
+der Stammbaum "-e
+aile ağacı; soyağacı;
+
+das Einzelkind -er
+tek çocuk;
+
+der Zwilling -e
+ikiz;
+
+der Onkel -
+amca; dayı;
+
+die Tante -n
+hala; teyze;
+
+die Cousine -n
+kız kuzen;
+
+der Cousin -s
+erkek kuzen;
+
+der Neffe -n
+erkek yeğen;
+
+die Nichte -n
+kız yeğen;
+
+der Schwager "-
+kayınbirader; enişte;
+
+die Schwägerin -nen
+baldız; elti; görümce;
+
+der Schwiegervater "-
+kayınpeder;
+
+die Schwiegermutter "-
+kayınvalide;
+
+der Enkel -
+erkek torun;
+
+die Enkelin -nen
+kız torun;
+
+der Urenkel -
+torununun oğlu;
+
+die Urenkelin -nen
+torununun kızı;
+
+die Stiefmutter "-
+üvey anne;
+
+der Stiefvater "-
+üvey baba;
+
+die Stiefkinder (pl.)
+üvey çocuklar;
+
+der Kuss "-e
+öpücük;
+
+Herzlichen Glückwunsch!
+Tebrikler!; İçten tebrikler!;
+
+Ich beneide dich.
+Seni kıskanıyorum.; Sana imreniyorum.;
+
+Er hat eine Beziehung.
+Onun bir ilişkisi var.; O bir ilişki içinde.;
