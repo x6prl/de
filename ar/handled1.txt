@@ -5,7 +5,7 @@ jeden zweiten Tag
 كل يومين; يومًا بعد يوم;
 
 v verwechseln
-يخلط; يلتبس عليه; يخطئ بين;
+يخلط{يخلط, خلط}; يلتبس عليه; يخطئ بين;
 [j-n; mit+Dat]
 
 gegen sechs Uhr
@@ -18,19 +18,19 @@ a offen
 مفتوح;
 
 v aufräumen
-يرتب; ينظف;
+يرتب{يرتب, رتب}; ينظف;
 [etw.]
 
 v anschauen-schaut an / schaute an / hat angeschaut
-ينظر إلى; يشاهد; يتأمل;
+ينظر إلى{ينظر إلى, نظر إلى}; يشاهد; يتأمل;
 [j-n; etw.]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-يدعو;
+يدعو{يدعو, دعا};
 [j-n; zu+Dat]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-يحمّل; يشحن;
+يحمّل{يحمّل, حمّل}; يشحن;
 [etw.]
 
 a dann
@@ -58,20 +58,20 @@ die Verabredung -en
 موعد; اتفاق;
 
 v wachen
-يبقى مستيقظًا; يحرس;
+يبقى مستيقظًا{يبقى مستيقظًا, بقي مستيقظًا}; يحرس;
 
 v wecken
-يوقظ;
+يوقظ{يوقظ, أيقظ};
 [j-n]
 
 v dauern
-يستغرق; يدوم;
+يستغرق{يستغرق, استغرق}; يدوم;
 
 Wie lange dauert etw.?
 كم يستغرق ذلك؟; كم يدوم ذلك؟;
 
 v sehen-sieht / sah / hat gesehen
-يرى;
+يرى{يرى, رأى};
 
 Ich sehe eine Katze auf der Straße.
 أرى قطة في الشارع.;
@@ -185,7 +185,7 @@ echt gut
 جيد جدًا; جيد حقًا;
 
 v kochen
-يطبخ; يسلق;
+يطبخ{يطبخ, طبخ}; يسلق;
 
 v braten-brät / briet / hat gebraten
 يقلي; يشوي في المقلاة;
@@ -305,13 +305,13 @@ die Zwiebel -n
 بصلة;
 
 v finden-findet / fand / hat gefunden
-يجد;
+يجد{يجد, وجد};
 
 v finden-findet / fand / hat gefunden
 يعتبر; يرى;
 
 v geben-gibt / gab / hat gegeben
-يعطي;
+يعطي{يعطي, أعطى};
 [j-m; etw.]
 
 v holen
@@ -321,7 +321,7 @@ v mögen-mag / mochte / hat gemocht
 يحب;
 
 v nehmen-nimmt / nahm / hat genommen
-يأخذ;
+يأخذ{يأخذ, أخذ};
 
 v schmecken
 طعمه جيد; يكون لذيذًا;
@@ -367,7 +367,7 @@ der Geruch "-e
 رائحة;
 
 v hören
-يسمع;
+يسمع{يسمع, سمع};
 
 das Gehör (sg.)
 سمع; حاسة السمع;
@@ -470,14 +470,14 @@ die Zeit (sg.)
 وقت; زمن;
 
 v anrufen-ruft an / rief an / hat angerufen
-يتصل هاتفيًا;
+يتصل هاتفيًا{يتصل هاتفيًا, اتصل هاتفيًا};
 [j-n]
 
 v aufstehen-steht auf / stand auf / ist aufgestanden
 ينهض; يستيقظ;
 
 v beginnen-beginnt / begann / hat begonnen
-يبدأ;
+يبدأ{يبدأ, بدأ};
 
 v besuchen
 يزور; يرتاد;
@@ -662,10 +662,10 @@ v wechseln
 يغيّر; يستبدل;
 
 v wissen-weiß / wusste / hat gewusst
-يعرف;
+يعرف{يعرف, عرف};
 
 v zeigen
-يُري; يبيّن;
+يُري{يُري, أرى}; يبيّن;
 
 a fertig
 جاهز; منتهٍ;
@@ -802,29 +802,29 @@ v buchstabieren
 يتهجّى; يلفظ حرفًا حرفًا;
 
 v fragen
-يسأل;
+يسأل{يسأل, سأل};
 [j-n; etw.]
 
 v heißen-heißt / hieß / hat geheißen
-يُسمّى;
+يُسمّى{يُسمّى, سُمّي};
 
 v kennen-kennt / kannte / hat gekannt
 يعرف;
 
 v kommen-kommt / kam / ist gekommen
-يأتي; يصل;
+يأتي{يأتي, أتى}; يصل;
 
 v lesen-liest / las / hat gelesen
-يقرأ;
+يقرأ{يقرأ, قرأ};
 
 v schreiben-schreibt / schrieb / hat geschrieben
-يكتب;
+يكتب{يكتب, كتب};
 
 v sein-ist / war / ist gewesen
-يكون;
+يكون{يكون, كان};
 
 v sprechen-spricht / sprach / hat gesprochen
-يتحدث; يتكلم;
+يتحدث{يتحدث, تحدث}; يتكلم;
 
 v vorstellen-stellt vor / stellte vor / hat vorgestellt
 يقدّم; يعرّف;

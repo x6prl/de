@@ -5,7 +5,7 @@ jeden zweiten Tag
 iki günde bir; gün aşırı;
 
 v verwechseln
-karıştırmak; birbirine karıştırmak;
+karıştırmak{karıştırır, karıştırdı}; birbirine karıştırmak;
 [j-n; mit+Dat]
 
 gegen sechs Uhr
@@ -18,19 +18,19 @@ a offen
 açık;
 
 v aufräumen
-toparlamak; düzenlemek;
+toparlamak{toparlar, toparladı}; düzenlemek;
 [etw.]
 
 v anschauen-schaut an / schaute an / hat angeschaut
-bakmak; seyretmek; incelemek;
+bakmak{bakar, baktı}; seyretmek; incelemek;
 [j-n; etw.]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-davet etmek;
+davet etmek{davet eder, davet etti};
 [j-n; zu+Dat]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-yüklemek; doldurmak;
+yüklemek{yükler, yükledi}; doldurmak;
 [etw.]
 
 a dann
@@ -58,20 +58,20 @@ die Verabredung -en
 randevu; anlaşma;
 
 v wachen
-uyanık kalmak; nöbet tutmak;
+uyanık kalmak{uyanık kalır, uyanık kaldı}; nöbet tutmak;
 
 v wecken
-uyandırmak;
+uyandırmak{uyandırır, uyandırdı};
 [j-n]
 
 v dauern
-sürmek;
+sürmek{sürer, sürdü};
 
 Wie lange dauert etw.?
 bu ne kadar sürer?; bu ne kadar devam eder?;
 
 v sehen-sieht / sah / hat gesehen
-görmek;
+görmek{görür, gördü};
 
 Ich sehe eine Katze auf der Straße.
 Sokakta bir kedi görüyorum.;
@@ -185,16 +185,16 @@ echt gut
 gerçekten iyi; çok iyi;
 
 v kochen
-yemek pişirmek; haşlamak;
+yemek pişirmek{yemek pişirir, yemek pişirdi}; haşlamak;
 
 v braten-brät / briet / hat gebraten
-kızartmak; tavada pişirmek;
+kızartmak{kızartır, kızarttı}; tavada pişirmek;
 
 v backen-backt,bäckt / backte,buk / hat gebacken
-fırında pişirmek; pişirmek;
+fırında pişirmek{fırında pişirir, fırında pişirdi}; pişirmek;
 
 v grillen
-ızgara yapmak; mangalda pişirmek;
+ızgara yapmak{ızgara yapar, ızgara yaptı}; mangalda pişirmek;
 
 Sie sind schon da?
 Siz zaten burada mısınız?; Onlar zaten burada mı?;
@@ -305,29 +305,29 @@ die Zwiebel -n
 soğan;
 
 v finden-findet / fand / hat gefunden
-bulmak;
+bulmak{bulur, buldu};
 
 v finden-findet / fand / hat gefunden
-bulmak; düşünmek;
+bulmak{bulur, buldu}; düşünmek;
 
 v geben-gibt / gab / hat gegeben
-vermek;
+vermek{verir, verdi};
 [j-m; etw.]
 
 v holen
-gidip almak; getirmek; almak;
+gidip almak{gidip alır, gidip aldı}; getirmek; almak;
 
 v mögen-mag / mochte / hat gemocht
-sevmek; hoşlanmak;
+sevmek{sever, sevdi}; hoşlanmak;
 
 v nehmen-nimmt / nahm / hat genommen
-almak;
+almak{alır, aldı};
 
 v schmecken
-güzel gelmek; lezzetli olmak;
+güzel gelmek{güzel gelir, güzel geldi}; lezzetli olmak;
 
 v schmecken
-tadını almak;
+tadını almak{tadını alır, tadını aldı};
 [etw.]
 
 a leer
@@ -361,13 +361,13 @@ der Geschmack "-er
 tat; lezzet;
 
 v riechen-riecht / roch / hat gerochen
-kokmak; kokusunu almak;
+kokmak{kokar, koktu}; kokusunu almak;
 
 der Geruch "-e
 koku;
 
 v hören
-duymak;
+duymak{duyar, duydu};
 
 das Gehör (sg.)
 işitme; duyma;
@@ -376,10 +376,10 @@ die Stieftochter "-
 üvey kız evlat;
 
 v hüpfen
-zıplamak; hoplamak;
+zıplamak{zıplar, zıpladı}; hoplamak;
 
 v schicken
-göndermek;
+göndermek{gönderir, gönderdi};
 [j-m; etw.]
 
 der Abend -e
@@ -470,55 +470,55 @@ die Zeit (sg.)
 zaman;
 
 v anrufen-ruft an / rief an / hat angerufen
-aramak; telefon etmek;
+aramak{arar, aradı}; telefon etmek;
 [j-n]
 
 v aufstehen-steht auf / stand auf / ist aufgestanden
-kalkmak;
+kalkmak{kalkar, kalktı};
 
 v beginnen-beginnt / begann / hat begonnen
-başlamak;
+başlamak{başlar, başladı};
 
 v besuchen
-ziyaret etmek; gitmek;
+ziyaret etmek{ziyaret eder, ziyaret etti}; gitmek;
 [j-n; etw.]
 
 v einkaufen-kauft ein / kaufte ein / hat eingekauft
-alışveriş yapmak; alışverişe gitmek;
+alışveriş yapmak{alışveriş yapar, alışveriş yaptı}; alışverişe gitmek;
 
 v fahren-fährt / fuhr / ist gefahren
-gitmek; yolculuk etmek;
+gitmek{gider, gitti}; yolculuk etmek;
 
 v fahren-fährt / fuhr / hat gefahren
-araç sürmek;
+araç sürmek{araç sürer, araç sürdü};
 [etw.]
 
 v fernsehen-sieht fern / sah fern / hat ferngesehen
-televizyon seyretmek;
+televizyon seyretmek{televizyon seyreder, televizyon seyretti};
 
 v frühstücken
-kahvaltı etmek;
+kahvaltı etmek{kahvaltı eder, kahvaltı etti};
 
 v putzen
-temizlemek; silmek;
+temizlemek{temizler, temizledi}; silmek;
 
 v schlafen-schläft / schlief / hat geschlafen
-uyumak;
+uyumak{uyur, uyudu};
 
 v tanzen
-dans etmek;
+dans etmek{dans eder, dans etti};
 
 v telefonieren
-telefonda konuşmak;
+telefonda konuşmak{telefonda konuşur, telefonda konuştu};
 
 v träumen
-hayal kurmak; rüya görmek;
+hayal kurmak{hayal kurar, hayal kurdu}; rüya görmek;
 
 v waschen-wäscht / wusch / hat gewaschen
-yıkamak;
+yıkamak{yıkar, yıkadı};
 
 v zoomen
-Zoom'da görüşmek; Zoom araması yapmak;
+Zoom'da görüşmek{Zoom'da görüşür, Zoom'da görüştü}; Zoom araması yapmak;
 
 a früh
 erken;
@@ -647,25 +647,25 @@ die Tür -en
 kapı;
 
 v arbeiten
-çalışmak;
+çalışmak{çalışır, çalıştı};
 
 v funktionieren
-çalışmak; işlemek;
+çalışmak{çalışır, çalıştı}; işlemek;
 
 v informieren
-bilgilendirmek; haber vermek;
+bilgilendirmek{bilgilendirir, bilgilendirdi}; haber vermek;
 
 v leben
-yaşamak;
+yaşamak{yaşar, yaşadı};
 
 v wechseln
-değiştirmek; yenisiyle değiştirmek;
+değiştirmek{değiştirir, değiştirdi}; yenisiyle değiştirmek;
 
 v wissen-weiß / wusste / hat gewusst
-bilmek;
+bilmek{bilir, bildi};
 
 v zeigen
-göstermek;
+göstermek{gösterir, gösterdi};
 
 a fertig
 hazır; bitmiş;
@@ -791,49 +791,49 @@ die Zahl -en
 sayı; rakam;
 
 v antworten
-cevap vermek; yanıtlamak;
+cevap vermek{cevap verir, cevap verdi}; yanıtlamak;
 [j-m]
 
 v begrüßen
-selamlamak; karşılamak;
+selamlamak{selamlar, selamladı}; karşılamak;
 [j-n]
 
 v buchstabieren
-harf harf söylemek; hecelemek;
+harf harf söylemek{harf harf söyler, harf harf söyledi}; hecelemek;
 
 v fragen
-sormak;
+sormak{sorar, sordu};
 [j-n; etw.]
 
 v heißen-heißt / hieß / hat geheißen
-adı olmak; denmek;
+adı olmak{adı olur, adı oldu}; denmek;
 
 v kennen-kennt / kannte / hat gekannt
-tanımak; bilmek;
+tanımak{tanır, tanıdı}; bilmek;
 
 v kommen-kommt / kam / ist gekommen
-gelmek; varmak;
+gelmek{gelir, geldi}; varmak;
 
 v lesen-liest / las / hat gelesen
-okumak;
+okumak{okur, okudu};
 
 v schreiben-schreibt / schrieb / hat geschrieben
-yazmak;
+yazmak{yazar, yazdı};
 
 v sein-ist / war / ist gewesen
-olmak;
+olmak{olur, oldu};
 
 v sprechen-spricht / sprach / hat gesprochen
-konuşmak;
+konuşmak{konuşur, konuştu};
 
 v vorstellen-stellt vor / stellte vor / hat vorgestellt
-tanıtmak; takdim etmek;
+tanıtmak{tanıtır, tanıttı}; takdim etmek;
 
 v wiederholen
-tekrarlamak;
+tekrarlamak{tekrarlar, tekrarladı};
 
 v wohnen
-oturmak; ikamet etmek;
+oturmak{oturur, oturdu}; ikamet etmek;
 
 auf Wiedersehen
 hoşça kalın; görüşürüz;
