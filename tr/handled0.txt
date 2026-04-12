@@ -1,21 +1,35 @@
 die Aufgabe -n
 görev; alıştırma; ödev; işlev;
+
 Ich habe viele Aufgaben.
+Benim çok görevim var.;
+
 Das sind meine Aufgaben im Büro.
+Bunlar benim bürodaki görevlerim.;
 
 a höflich
 kibar{daha kibar, en kibar}; nazik{daha nazik, en nazik}; saygılı{daha saygılı, en saygılı};
+
 Er ist sehr höflich.
+O çok kibar.;
+
 Das war eine höfliche Antwort.
+Bu kibar bir cevaptı.;
 
 der Nachbar -n
 komşu;
+
 Mein Nachbar ist sehr höflich.
+Komşum çok kibar.;
+
 Die Nachbarn sind laut.
+Komşular gürültülü.;
 
 die Nachbarin -nen
 komşu;
+
 Unsere Nachbarin ist sehr nett.
+Komşumuz çok hoş biri.;
 
 Es geht los!
 başlıyor!; işte başlıyoruz!;
@@ -25,34 +39,52 @@ haydi başlayalım!; işte başlıyoruz!;
 
 das Zeichen -
 işaret; sembol; belirti; iz; sinyal;
+
 Was bedeutet dieses Zeichen?
+Bu işaret ne anlama geliyor?;
+
 Das ist ein Zeichen von Vertrauen.
+Bu güvenin bir işaretidir.;
 
 das Arbeitsblatt "-er
 çalışma kağıdı; alıştırma kağıdı; ders föyü;
+
 Bitte nehmt das Arbeitsblatt heraus.
+Lütfen çalışma kağıdını çıkarın.;
+
 Ich habe das Arbeitsblatt nicht verstanden.
+Çalışma kağıdını anlamadım.;
 
 das Fragezeichen -
 soru işareti;
+
 Hier fehlt ein Fragezeichen.
+Burada bir soru işareti eksik.;
 
 die Postleitzahl -en
 posta kodu;
+
 Wie lautet Ihre Postleitzahl?
+Posta kodunuz nedir?;
 
 die Abstimmung -en
 oylama;
+
 Die Abstimmung beginnt um neun Uhr.
+Oylama saat dokuzda başlıyor.;
 
 v abstimmen
 oy vermek{oy verir, oy verdi}; oy kullanmak{oy kullanır, oy kullandı};
 [über+Akk]
+
 Wir stimmen morgen darüber ab.
+Bunu yarın oylayacağız.;
 
 v wählen
 oy vermek{oy verir, oy verdi};
+
 Viele Menschen wählen am Sonntag.
+Birçok insan pazar günü oy kullanıyor.;
 
 v wählen
 seçmek{seçer, seçti}; göreve getirmek{göreve getirir, göreve getirdi};
@@ -60,7 +92,9 @@ seçmek{seçer, seçti}; göreve getirmek{göreve getirir, göreve getirdi};
 
 die Wahl -en
 tercih; seçim;
+
 Die Wahl findet am Sonntag statt.
+Seçim pazar günü yapılıyor.;
 
 Dafür!
 lehte!; ben bunun lehineyim!;
@@ -77,58 +111,90 @@ ben buna kesinlikle karşıyım!;
 v hinzufügen
 eklemek{ekler, ekledi}; dahil etmek{dahil eder, dahil etti};
 [etw.]
+
 Kannst du das noch hinzufügen?
+Bunu da ekleyebilir misin?;
 
 a meistens
 genellikle; çoğu zaman; çoğu durumda;
+
 Ich komme meistens zu spät.
+Genellikle geç gelirim.;
+
 Meistens ist es ruhig hier.
+Burada genellikle sessiz olur.;
 
 v raten-rät / riet / hat geraten
 tavsiye etmek{tavsiye eder, tavsiye etti}; önermek{önerir, önerdi};
 [j-m]
+
 Ich rate dir, früher zu schlafen.
+Sana daha erken uyumanı tavsiye ediyorum.;
 
 v raten-rät / riet / hat geraten
 tahmin etmek{tahmin eder, tahmin etti}; kestirmek{kestirir, kestirdi};
 [etw.]
+
 Rate mal!
+Tahmin et bakalım!;
+
 Du musst nicht raten.
+Tahmin etmek zorunda değilsin.;
 
 a manchmal
 bazen; ara sıra; kimi zaman;
+
 Ich bin manchmal müde.
+Bazen yorgun olurum.;
+
 Manchmal regnet es tagelang.
+Bazen günlerce yağmur yağar.;
 
 v sagen
 söylemek{söyler, söyledi}; demek{der, dedi};
 [etw.]
+
 Er sagt das oft.
+Bunu sık sık söyler.;
+
 Sie sagt die Wahrheit.
+O gerçeği söylüyor.;
 
 Da bist du ja!
 işte buradasın!; sonunda geldin!;
 
 a richtig
 doğru{daha doğru, en doğru}; haklı; gerçek{daha gerçek, en gerçek};
+
 Das ist richtig.
+Bu doğru.;
 
 Du kommst aber spät!
 amma geç geldin!; gerçekten geç geldin!;
 
 a wichtig
 önemli{daha önemli, en önemli}; kayda değer{daha kayda değer, en kayda değer};
+
 Das ist sehr wichtig.
+Bu çok önemli.;
 
 das Paar -e
 çift; ikili;
+
 Sie sind ein Paar.
+Onlar bir çift.;
 
 das Leben (sg.)
 hayat;
+
 Das Leben ist nicht immer leicht.
+Hayat her zaman kolay değildir.;
 
 a schwer
 ağır{daha ağır, en ağır}; zor{daha zor, en zor}; güç{daha güç, en güç};
+
 Der Koffer ist schwer.
+Bavul ağır.;
+
 Die Aufgabe ist schwer.
+Görev zor.;

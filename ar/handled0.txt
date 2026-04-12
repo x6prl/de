@@ -1,21 +1,35 @@
 die Aufgabe -n
 مهمة; تمرين; واجب; وظيفة;
+
 Ich habe viele Aufgaben.
+لدي الكثير من المهام.;
+
 Das sind meine Aufgaben im Büro.
+هذه مهامي في المكتب.;
 
 a höflich
 مهذب; مؤدب; لبق;
+
 Er ist sehr höflich.
+هو مهذب جدًا.;
+
 Das war eine höfliche Antwort.
+كان ذلك ردًا مهذبًا.;
 
 der Nachbar -n
 جار;
+
 Mein Nachbar ist sehr höflich.
+جاري مهذب جدًا.;
+
 Die Nachbarn sind laut.
+الجيران صاخبون.;
 
 die Nachbarin -nen
 جارة;
+
 Unsere Nachbarin ist sehr nett.
+جارتنا لطيفة جدًا.;
 
 Es geht los!
 لقد بدأ الأمر!; ها نحن نبدأ!;
@@ -25,34 +39,52 @@ Los geht's!
 
 das Zeichen -
 علامة; رمز; دلالة; إشارة; أثر;
+
 Was bedeutet dieses Zeichen?
+ماذا تعني هذه العلامة؟;
+
 Das ist ein Zeichen von Vertrauen.
+هذه علامة على الثقة.;
 
 das Arbeitsblatt "-er
 ورقة عمل; ورقة تمارين; نشرة تعليمية;
+
 Bitte nehmt das Arbeitsblatt heraus.
+أخرجوا ورقة العمل من فضلكم.;
+
 Ich habe das Arbeitsblatt nicht verstanden.
+لم أفهم ورقة العمل.;
 
 das Fragezeichen -
 علامة استفهام;
+
 Hier fehlt ein Fragezeichen.
+هنا تنقص علامة استفهام.;
 
 die Postleitzahl -en
 رمز بريدي;
+
 Wie lautet Ihre Postleitzahl?
+ما هو رمزكم البريدي؟;
 
 die Abstimmung -en
 تصويت; اقتراع;
+
 Die Abstimmung beginnt um neun Uhr.
+يبدأ التصويت عند الساعة التاسعة.;
 
 v abstimmen
 يصوّت; يدلي بصوته;
 [über+Akk]
+
 Wir stimmen morgen darüber ab.
+سنصوّت على ذلك غدًا.;
 
 v wählen
 يصوّت;
+
 Viele Menschen wählen am Sonntag.
+كثير من الناس يصوّتون يوم الأحد.;
 
 v wählen
 يختار; ينتخب;
@@ -60,7 +92,9 @@ v wählen
 
 die Wahl -en
 اختيار; انتخابات;
+
 Die Wahl findet am Sonntag statt.
+تُجرى الانتخابات يوم الأحد.;
 
 Dafür!
 أؤيد ذلك!; أنا مع هذا!;
@@ -77,58 +111,90 @@ Ich bin entschieden dagegen!
 v hinzufügen
 يضيف; يدرج;
 [etw.]
+
 Kannst du das noch hinzufügen?
+هل يمكنك إضافة ذلك أيضًا؟;
 
 a meistens
 غالبًا; في معظم الأحيان; في أغلب الحالات;
+
 Ich komme meistens zu spät.
+غالبًا ما أصل متأخرًا.;
+
 Meistens ist es ruhig hier.
+غالبًا ما يكون الجو هادئًا هنا.;
 
 v raten-rät / riet / hat geraten
 ينصح; يوصي;
 [j-m]
+
 Ich rate dir, früher zu schlafen.
+أنصحك بأن تنام أبكر.;
 
 v raten-rät / riet / hat geraten
 يخمن; يقدّر;
 [etw.]
+
 Rate mal!
+خمن!;
+
 Du musst nicht raten.
+لست مضطرًا إلى التخمين.;
 
 a manchmal
 أحيانًا; في بعض الأحيان; من وقت لآخر;
+
 Ich bin manchmal müde.
+أكون متعبًا أحيانًا.;
+
 Manchmal regnet es tagelang.
+أحيانًا تمطر لأيام متتالية.;
 
 v sagen
 يقول; يخبر;
 [etw.]
+
 Er sagt das oft.
+هو يقول ذلك كثيرًا.;
+
 Sie sagt die Wahrheit.
+هي تقول الحقيقة.;
 
 Da bist du ja!
 ها أنت ذا!; ها أنت هنا أخيرًا!;
 
 a richtig
 صحيح; سليم; حقيقي;
+
 Das ist richtig.
+هذا صحيح.;
 
 Du kommst aber spät!
 لقد جئت متأخرًا فعلًا!; لقد تأخرت كثيرًا!;
 
 a wichtig
 مهم; جوهري;
+
 Das ist sehr wichtig.
+هذا مهم جدًا.;
 
 das Paar -e
 زوج; ثنائي;
+
 Sie sind ein Paar.
+إنهما زوجان.;
 
 das Leben (sg.)
 حياة;
+
 Das Leben ist nicht immer leicht.
+الحياة ليست سهلة دائمًا.;
 
 a schwer
 ثقيل; صعب; عسير;
+
 Der Koffer ist schwer.
+الحقيبة ثقيلة.;
+
 Die Aufgabe ist schwer.
+المهمة صعبة.;

@@ -1,21 +1,35 @@
 die Aufgabe -n
 задача; задание; обязанность; функция;
+
 Ich habe viele Aufgaben.
+У меня много задач.;
+
 Das sind meine Aufgaben im Büro.
+Это мои обязанности в офисе.;
 
 a höflich
 вежливый{вежливее, самый вежливый}; учтивый{учтивее, самый учтивый}; любезный{любезнее, самый любезный};
+
 Er ist sehr höflich.
+Он очень вежлив.;
+
 Das war eine höfliche Antwort.
+Это был вежливый ответ.;
 
 der Nachbar -n
 сосед;
+
 Mein Nachbar ist sehr höflich.
+Мой сосед очень вежлив.;
+
 Die Nachbarn sind laut.
+Соседи шумят.;
 
 die Nachbarin -nen
 соседка;
+
 Unsere Nachbarin ist sehr nett.
+Наша соседка очень милая.;
 
 Es geht los!
 начинается!; ну, начали!;
@@ -25,42 +39,62 @@ Los geht's!
 
 das Zeichen -
 знак; символ; признак; отметка; сигнал;
+
 Was bedeutet dieses Zeichen?
+Что означает этот знак?;
+
 Das ist ein Zeichen von Vertrauen.
+Это знак доверия.;
 
 das Arbeitsblatt "-er
 рабочий лист; лист с заданиями; учебный раздаточный материал;
+
 Bitte nehmt das Arbeitsblatt heraus.
+Достаньте, пожалуйста, рабочий лист.;
+
 Ich habe das Arbeitsblatt nicht verstanden.
+Я не понял этот лист с заданиями.;
 
 das Fragezeichen -
 вопросительный знак; знак вопроса;
+
 Hier fehlt ein Fragezeichen.
+Здесь не хватает вопросительного знака.;
 
 die Postleitzahl -en
 почтовый индекс;
+
 Wie lautet Ihre Postleitzahl?
+Какой у Вас почтовый индекс?;
 
 die Abstimmung -en
 голосование;
+
 Die Abstimmung beginnt um neun Uhr.
+Голосование начинается в девять часов.;
 
 v abstimmen
 голосовать{голосую, голосовал}; голосовать по вопросу;
 [über+Akk]
+
 Wir stimmen morgen darüber ab.
+Мы завтра проголосуем по этому вопросу.;
 
 v wählen
 голосовать{голосую, голосовал};
+
 Viele Menschen wählen am Sonntag.
+Многие люди голосуют в воскресенье.;
 
 v wählen
-выбирать{выбираю, выбирал}; избирать{избираю, избирал};
+выбирать{выбираю, выбирал}; избирать{избираю, выбирал};
 [j-n; etw.]
 
 die Wahl -en
 выбор; выборы;
+
 Die Wahl findet am Sonntag statt.
+Выборы состоятся в воскресенье.;
 
 Dafür!
 за!; я за!;
@@ -77,58 +111,90 @@ Ich bin entschieden dagegen!
 v hinzufügen
 добавлять{добавляю, добавлял}; прибавлять{прибавляю, прибавлял};
 [etw.]
+
 Kannst du das noch hinzufügen?
+Ты можешь это ещё добавить?;
 
 a meistens
 обычно; чаще всего; в большинстве случаев;
+
 Ich komme meistens zu spät.
+Я обычно опаздываю.;
+
 Meistens ist es ruhig hier.
+Здесь обычно тихо.;
 
 v raten-rät / riet / hat geraten
 советовать{советую, советовал}; рекомендовать{рекомендую, рекомендовал};
 [j-m]
+
 Ich rate dir, früher zu schlafen.
+Я советую тебе ложиться спать раньше.;
 
 v raten-rät / riet / hat geraten
 угадывать{угадываю, угадывал}; отгадывать{отгадываю, отгадывал};
 [etw.]
+
 Rate mal!
+Угадай!;
+
 Du musst nicht raten.
+Тебе не нужно гадать.;
 
 a manchmal
 иногда; порой; временами;
+
 Ich bin manchmal müde.
+Я иногда бываю уставшим.;
+
 Manchmal regnet es tagelang.
+Иногда дождь идёт много дней подряд.;
 
 v sagen
 говорить{говорю, говорит, говорил}; сказать{скажу, сказал};
 [etw.]
+
 Er sagt das oft.
+Он часто это говорит.;
+
 Sie sagt die Wahrheit.
+Она говорит правду.;
 
 Da bist du ja!
 а вот и ты!; вот ты где!;
 
 a richtig
 правильный{правильнее, самый правильный}; верный{вернее, самый верный}; истинный{истиннее, самый истинный}; правильно;
+
 Das ist richtig.
+Это правильно.;
 
 Du kommst aber spät!
 Ну ты и поздно пришёл!; Ты, однако, поздно пришёл!;
 
 a wichtig
 важный{важнее, самый важный}; существенный;
+
 Das ist sehr wichtig.
+Это очень важно.;
 
 das Paar -e
 пара; супружеская пара;
+
 Sie sind ein Paar.
+Они пара.;
 
 das Leben (sg.)
 жизнь;
+
 Das Leben ist nicht immer leicht.
+Жизнь не всегда легка.;
 
 a schwer
 тяжёлый{тяжелее, самый тяжелый}; трудный{труднее, самый трудный}; сложный{сложнее, самый сложный};
+
 Der Koffer ist schwer.
+Чемодан тяжёлый.;
+
 Die Aufgabe ist schwer.
+Задача трудная.;

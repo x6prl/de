@@ -1,21 +1,35 @@
 die Aufgabe -n
 task; exercise; duty; function;
+
 Ich habe viele Aufgaben.
+I have many tasks.;
+
 Das sind meine Aufgaben im Büro.
+Those are my tasks in the office.;
 
 a höflich
 polite{politer, politest}; courteous{more courteous, most courteous}; civil{more civil, most civil};
+
 Er ist sehr höflich.
+He is very polite.;
+
 Das war eine höfliche Antwort.
+That was a polite answer.;
 
 der Nachbar -n
 neighbor;
+
 Mein Nachbar ist sehr höflich.
+My neighbor is very polite.;
+
 Die Nachbarn sind laut.
+The neighbors are loud.;
 
 die Nachbarin -nen
 neighbor;
+
 Unsere Nachbarin ist sehr nett.
+Our neighbor is very nice.;
 
 Es geht los!
 it's starting!; here we go!;
@@ -25,34 +39,52 @@ let's go!; here we go!;
 
 das Zeichen -
 sign; symbol; indication; mark; signal;
+
 Was bedeutet dieses Zeichen?
+What does this sign mean?;
+
 Das ist ein Zeichen von Vertrauen.
+That is a sign of trust.;
 
 das Arbeitsblatt "-er
 worksheet; task sheet; educational handout;
+
 Bitte nehmt das Arbeitsblatt heraus.
+Please take out the worksheet.;
+
 Ich habe das Arbeitsblatt nicht verstanden.
+I didn't understand the worksheet.;
 
 das Fragezeichen -
 question mark;
+
 Hier fehlt ein Fragezeichen.
+A question mark is missing here.;
 
 die Postleitzahl -en
 postal code;
+
 Wie lautet Ihre Postleitzahl?
+What is your postal code?;
 
 die Abstimmung -en
 vote; ballot;
+
 Die Abstimmung beginnt um neun Uhr.
+The vote begins at nine o'clock.;
 
 v abstimmen
 vote{votes, voted}; cast a vote{casts a vote};
 [über+Akk]
+
 Wir stimmen morgen darüber ab.
+We are voting on that tomorrow.;
 
 v wählen
 vote{votes, voted};
+
 Viele Menschen wählen am Sonntag.
+Many people vote on Sunday.;
 
 v wählen
 choose{chooses, chose, chosen}; elect{elects, elected};
@@ -60,7 +92,9 @@ choose{chooses, chose, chosen}; elect{elects, elected};
 
 die Wahl -en
 choice; election;
+
 Die Wahl findet am Sonntag statt.
+The election takes place on Sunday.;
 
 Dafür!
 in favor!; I'm in favor!;
@@ -77,58 +111,90 @@ I am firmly against it!;
 v hinzufügen
 add{adds, added}; include{includes, included};
 [etw.]
+
 Kannst du das noch hinzufügen?
+Can you add that too?;
 
 a meistens
 usually; most of the time; in most cases;
+
 Ich komme meistens zu spät.
+I am usually late.;
+
 Meistens ist es ruhig hier.
+It is usually quiet here.;
 
 v raten-rät / riet / hat geraten
 advise{advises, advised}; recommend{recommends, recommended};
 [j-m]
+
 Ich rate dir, früher zu schlafen.
+I advise you to go to sleep earlier.;
 
 v raten-rät / riet / hat geraten
 guess{guesses, guessed}; estimate{estimates, estimated};
 [etw.]
+
 Rate mal!
+Guess!;
+
 Du musst nicht raten.
+You don't have to guess.;
 
 a manchmal
 sometimes; occasionally; at times;
+
 Ich bin manchmal müde.
+I am sometimes tired.;
+
 Manchmal regnet es tagelang.
+Sometimes it rains for days.;
 
 v sagen
 say{says, said}; tell{tells, told};
 [etw.]
+
 Er sagt das oft.
+He says that often.;
+
 Sie sagt die Wahrheit.
+She tells the truth.;
 
 Da bist du ja!
 there you are!; there you are at last!;
 
 a richtig
 correct{more correct, most correct}; right; true{truer, truest};
+
 Das ist richtig.
+That is correct.;
 
 Du kommst aber spät!
 you're really late!; you sure came late!;
 
 a wichtig
 important{more important, most important}; significant{more significant, most significant};
+
 Das ist sehr wichtig.
+That is very important.;
 
 das Paar -e
 pair; couple;
+
 Sie sind ein Paar.
+They are a couple.;
 
 das Leben (sg.)
 life;
+
 Das Leben ist nicht immer leicht.
+Life is not always easy.;
 
 a schwer
 heavy{heavier, heaviest}; difficult{more difficult, most difficult}; hard{harder, hardest};
+
 Der Koffer ist schwer.
+The suitcase is heavy.;
+
 Die Aufgabe ist schwer.
+The task is difficult.;
