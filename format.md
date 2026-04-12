@@ -1,5 +1,20 @@
 The dictionary format.
 
+### 0. Spirit
+
+This is a **learner-friendly dictionary**, not a maximally compressed lexicon.
+
+Prefer entries that match what a learner must memorize as separate units:
+
+* put common everyday meanings first
+* keep grammar lines limited to learner-relevant government
+* split entries when auxiliary, reflexive status, or government pattern changes
+* prefer clear base units over merged entries that hide pattern differences
+
+If two senses differ only semantically, but the German lemma and grammar line are identical, the current client storage may still merge them. So split entries mainly when the distinction is visible in the German-side entry itself or in the grammar line.
+
+If a learner-facing sentence should be translated, store it as its own phrase entry. Do not hide translated learner units as example lines under another entry.
+
 ### 1. Entry Layout
 
 The current 2-line core stays unchanged:
@@ -9,13 +24,12 @@ The current 2-line core stays unchanged:
 
 Entries are separated by an empty line.
 
-One optional grammar line may appear directly after the translation line. If present, it is always the third line, appears at most once per entry, and always uses square brackets. Any later non-empty lines are usage examples.
+One optional grammar line may appear directly after the translation line. If present, it is always the third line, appears at most once per entry, and always uses square brackets. The entry ends there. Any learner-facing example that should be translated must be stored as its own phrase entry, not as a trailing line inside another entry.
 
 ```text
 v helfen-hilft / half / hat geholfen
 help;
 [j-m]
-Ich helfe dir gern.
 ```
 
 The grammar line is a government line, not a free-form notes line. Its purpose is limited to learner-relevant argument structure and government. Separate grammar elements with `; `.
@@ -55,7 +69,7 @@ Recommended grammar elements:
 
 Prefer compact government notation over full syntactic templates. For example, prefer `[bei+Dat; für+Akk]` over `[bei+j-m; für+Akk]` unless the parser explicitly needs placeholders inside prepositional complements.
 
-Do not turn the grammar line into a general annotation field. Keep rare constructions, stylistic notes, and usage nuances in the example lines.
+Do not turn the grammar line into a general annotation field. If a construction or nuance is important enough to preserve and translate, add it as a separate phrase entry.
 
 ### 2. The Word Types & Examples
 

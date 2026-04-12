@@ -1,475 +1,1447 @@
 
-**die Aufgabe** -n — задача, задание, обязанность
-
-**Aufgaben** — это **множественное число** от **die Aufgabe**.
-
-Основные значения:
-
-1. **задачи / задания**
-   *Ich habe viele Aufgaben.* — У меня много заданий.
-2. **обязанности / функции**
-   *Das sind meine Aufgaben im Büro.* — Это мои обязанности в офисе.
-
-Кратко:
-
-* **die Aufgabe** — одна задача / одно задание
-* **die Aufgaben** — несколько задач / заданий
-
-Иногда по контексту переводится как:
-
-* **задания**
-* **задачи**
-* **обязанности**
-* **функции**
-
-
-**höflich** (—, —) — вежливый, учтивый, любезный
-
-Основные оттенки:
-
-* **вежливый** — нейтрально
-* **учтивый** — более книжно
-* **любезный** — если речь о доброжелательно-вежливом тоне
+**selten** — редко
 
 Примеры:
 
-* *Er ist sehr höflich.* — Он очень вежлив.
-* *Eine höfliche Antwort* — вежливый ответ
+* Ich esse **selten** Fast Food. — Я **редко** ем фастфуд.
+* So etwas passiert **selten**. — Такое **редко** случается.
 
-Важно:
+**jeden zweiten Tag** — через день, каждый второй день
 
-* **höflich** = именно **вежливый**
-* не путать с **freundlich** = **дружелюбный / приветливый**
+Примеры:
+
+* Ich gehe **jeden zweiten Tag** ins Fitnessstudio. — Я хожу в спортзал **через день**.
+* Sie ruft ihre Mutter **jeden zweiten Tag** an. — Она звонит маме **каждый второй день**.
+
+**manchmal** — иногда, порой, временами
+
+Примеры:
+
+* **Manchmal** bin ich müde. — **Иногда** я устаю.
+* Es regnet **manchmal** im Sommer. — Летом **порой** идёт дождь.
+
+
+Для **selten** английский аналог — **seldom** или чаще в живой речи **rarely**.
+
+Примеры:
+
+* Ich esse selten Fast Food. — I **rarely** eat fast food.
+* So etwas passiert selten. — That **seldom** happens.
+
+Нюанс:
+
+* **rarely** — самый обычный и естественный вариант
+* **seldom** — тоже правильно, но чуть книжнее
+
+Для полноты:
+
+* **manchmal** — **sometimes**
+* **jeden zweiten Tag** — **every other day**
+
+
+
+ **verwechseln** — путать, перепутать.
+
+Примеры:
+
+* Ich habe dich mit deinem Bruder **verwechselt**. — Я **перепутал** тебя с твоим братом.
+* Sie haben ihre Mäntel **verwechselt**. — Они **перепутали** свои пальто.
+
+По-английски:
+
+* **mistook**
+* **mixed up**
+* **confused** 
+
+gegen sechs Uhr — около шести часов, примерно в шесть
+
+Примеры:
+
+    Ich komme gegen sechs Uhr nach Hause. — Я приду домой около шести часов.
+
+    Wir treffen uns gegen sechs Uhr. — Мы встречаемся примерно в шесть.
+
+По-английски:
+
+    around six o’clock
+
+    at about six o’clock
+
+gegen sechs Uhr — это around six / at about six, то есть примерно в районе шести, не обязательно после 6.
+
+Это может быть:
+
+    чуть до шести
+
+    ровно в шесть
+
+    чуть после шести
+
+Поэтому near 6 тоже по смыслу близко, но по-английски естественнее:
+
+    around six
+
+    at about six
+
+Не значит:
+
+    after six = nach sechs Uhr
 
 Сравнение:
 
-* **höflich** — соблюдает вежливость
-* **freundlich** — проявляет теплоту и доброжелательность
+    gegen sechs Uhr — около шести
 
+    um sechs Uhr — в шесть ровно
 
-**der Nachbar** -n, **die Nachbarin** -nen — сосед, соседка
-
-**Nachbar** означает:
-
-* **сосед** — человек, который живёт рядом
-* иногда **ближний / соседний** по контексту
+    nach sechs Uhr — после шести
 
 Примеры:
 
-* *Mein Nachbar ist sehr höflich.* — Мой сосед очень вежлив.
-* *Die Nachbarn sind laut.* — Соседи шумные.
+    Wir kommen gegen sechs Uhr. — Мы придём около шести.
 
-Важно:
+    Wir kommen nach sechs Uhr. — Мы придём после шести.
+Ich habe keine Zeit zum Spielen. — У меня нет времени играть.
 
-* **der Nachbar** — сосед
-* **die Nachbarin** — соседка
-* **die Nachbarn** — соседи
+Возможный более естественный вариант:
 
-Близкие слова:
+    У меня нет времени на игры.
 
-* **die Nachbarschaft** — соседство, район, соседская среда
-* **das Nachbarhaus** — соседний дом
-* **das Nachbarland** — соседняя страна
+Ключевое:
 
+    keine Zeit — нет времени
 
-1. **Wie geht’s los?** — «С чего начать? / Как это начинается?» ([instagram.com][1])
-2. **Es geht los! / Los geht’s!** — «Начинается! / Поехали! / Ну, начали!» ([context.reverso.net][2])
+    zum Spielen — чтобы играть / на игру / на игры
+offen — открытый; открыт
 
 Примеры:
 
-* *Wie geht’s los?* — С чего начать?
-* *Es geht los!* — Начинается!
-* *Los geht’s!* — Поехали! / Начнём!
+    Die Tür ist offen. — Дверь открыта.
 
-**das Zeichen** - — знак, символ, отметка, признак
+    Das Geschäft ist noch offen. — Магазин ещё открыт.
 
-**Zeichen** может значить:
+По-английски:
 
-1. **знак / символ**
-   *ein mathematisches Zeichen* — математический знак
+    open
 
-2. **признак / примета**
-   *ein gutes Zeichen* — хороший признак
+Нюанс:
 
-3. **сигнал / знак**
-   *Er gab ein Zeichen.* — Он подал знак.
+    offen = состояние «открыт»
 
-4. **рисунок / штрих / черта** — реже, по контексту
-
-Важно:
-
-* **das Zeichen** — ед. число
-* **die Zeichen** — мн. число
-
-Близкие слова:
-
-* **das Verkehrszeichen** — дорожный знак
-* **das Sternzeichen** — знак зодиака
-* **das Satzzeichen** — знак препинания
+    öffnen = открывать
+aufräumen — убирать, прибира́ть, наводить порядок
 
 Примеры:
 
-* *Was bedeutet dieses Zeichen?* — Что означает этот знак?
-* *Das ist ein Zeichen von Vertrauen.* — Это признак доверия.
+    Ich muss mein Zimmer aufräumen. — Мне нужно убрать свою комнату.
 
-**das Arbeitsblatt** -¨er — рабочий лист, лист с заданиями, раздаточный учебный лист
+    Räum bitte die Küche auf. — Пожалуйста, приведи в порядок кухню.
+
+Антоним зависит от смысла:
+
+    unordentlich machen — приводить в беспорядок
+
+    Unordnung machen — устраивать беспорядок
+
+    verwüsten — разгромить, сильно разворотить
+
+    разговорно по смыслу: alles liegen lassen — всё оставлять как есть, не убирать
+
+Самая понятная пара:
+
+    aufräumen — убирать, наводить порядок
+
+    Unordnung machen / unordentlich machen — устраивать беспорядок
+
+По-английски:
+
+    aufräumen — to tidy up / to clean up
+
+    антоним — to make a mess
+
+Пример пары:
+
+    Er hat sein Zimmer aufgeräumt. — Он убрал свою комнату.
+
+    Die Kinder haben wieder Unordnung gemacht. — Дети опять устроили беспорядок.
+anschauen — смотреть, посмотреть; рассматривать
 
 Основные значения:
 
-1. **рабочий лист** — нейтрально
-2. **лист с заданиями** — чаще в школе / на курсах
-3. **раздаточный материал** — по контексту
+    etwas anschauen — посмотреть что-то
+
+    jemanden / etwas anschauen — смотреть на кого-то / что-то
 
 Примеры:
 
-* *Bitte nehmt das Arbeitsblatt heraus.* — Пожалуйста, достаньте рабочий лист.
-* *Ich habe das Arbeitsblatt nicht verstanden.* — Я не понял лист с заданиями.
+    Ich will mir diesen Film anschauen. — Я хочу посмотреть этот фильм.
 
-Состав слова:
+    Schau mich bitte an. — Посмотри на меня, пожалуйста.
 
-* **Arbeit** — работа
-* **Blatt** — лист
+    Sie hat das Bild lange angeschaut. — Она долго рассматривала картину.
 
-То есть буквально: **рабочий лист**.
+По-английски:
 
-Часто в учебном контексте:
+    to look at
 
-* **das Arbeitsblatt** — лист с упражнениями / заданиями
-* **das Heft** — тетрадь
-* **das Lehrbuch** — учебник
+    to watch — если речь о фильме, видео, передаче
 
-**das Fragezeichen** — вопросительный знак
+Нюанс:
 
-Также: **знак вопроса** (в обычной речи чаще)
+    anschauen часто разговорнее, чем ansehen
 
-**das Zeichen** — знак; символ; метка
+    ansehen и anschauen во многих случаях почти одинаковы
 
-По контексту может значить:
-— **знак**
-— **символ**
-— **признак**
-— **жест**
-— **буква / письменный знак**
+Словарная форма:
 
-**die Postleitzahl** индекс почтовый
+    anschauen (schaut an, schaute an, hat angeschaut) — смотреть, посмотреть; to look at, to watch
+einladen — приглашать; загружать; грузить
 
-Сокращённо: **die PLZ**.
+Основное значение:
 
-**die Abstimmung** — голосование
-**abstimmen** — голосовать
+    jemanden einladen — приглашать кого-то
 
-Также часто:
-**wählen** — голосовать, выбирать (на выборах, за кандидата)
-**die Wahl** — выбор; выборы
+Примеры:
+
+    Ich möchte dich zur Party einladen. — Я хочу пригласить тебя на вечеринку.
+
+    Sie hat uns zum Abendessen eingeladen. — Она пригласила нас на ужин.
+
+Другие значения:
+
+    eine Datei hochladen / einladen — загружать файл
+
+    das Auto einladen — загружать машину
+
+По-английски:
+
+    to invite
+
+    по другому контексту: to load
+
+Словарная форма:
+
+    einladen (lädt ein, lud ein, hat eingeladen) — приглашать; to invite
+
+Похожие слова:
+
+    Einladung — приглашение
+
+    der Gast — гость
+
+    besuchen — навещать / посещать
+
+Присылай следующее слово.
+
+dann — тогда, потом, затем
+
+Основные употребления:
+
+    по времени — потом / затем
+
+    Ich mache meine Hausaufgaben und dann spiele ich.
+    — Я делаю домашнее задание, а потом играю.
+
+    в значении “тогда” — как следствие или вывод
+
+    Wenn du müde bist, geh dann schlafen.
+    — Если ты устал, тогда иди спать.
+
+    в вопросе или уточнении
+
+    Was machen wir dann?
+    — Что мы тогда / потом будем делать?
+
+Нюанс:
+
+    dann — обычно тогда / потом
+
+    denn — это уже другое слово: потому что / же в вопросах
+
+Примеры в предложении:
+
+    Ich komme nach Hause und dann esse ich.
+    — Я прихожу домой и потом ем.
+
+    Erst lernen wir, dann machen wir eine Pause.
+    — Сначала мы учимся, потом делаем перерыв.
+
+    Bist du dann zu Hause?
+    — Ты тогда будешь дома?
+
+По-английски:
+
+    then
+
+    иногда: after that
+
+Мини-совет:
+erst ..., dann ... = сначала ..., потом ...
+
+die Wäsche — бельё, стирка, одежда для стирки
+
+По-английски:
+
+    laundry
+
+    иногда: washing
+
+Примеры:
+
+    Ich mache die Wäsche. — Я занимаюсь стиркой.
+
+    Die Wäsche ist noch nass. — Бельё ещё мокрое.
+
+    Kannst du die Wäsche waschen? — Ты можешь постирать бельё?
+
+Нюанс:
+
+    Wäsche может значить и бельё, и стирку — зависит от контекста.
+Ich wasche Wäsche. — Я стираю бельё / Я занимаюсь стиркой.
+
+Нюанс:
+
+    По-немецки чаще естественнее: Ich wasche Wäsche = я стираю бельё
+
+    Ещё более обычно говорят: Ich mache die Wäsche — я занимаюсь стиркой / я стираю
 
 Разница:
-— **abstimmen** = голосовать по вопросу / резолюции
-— **wählen** = выбирать кандидата / партию / орган власти
 
-— **Dafür!**
-— **Auf keinen Fall dagegen!** / **Ganz klar dagegen!**
+    Wäsche waschen — именно стирать
 
-Естественнее в паре:
-— **Dafür!**
-— **Ganz klar dagegen!**
+    die Wäsche machen — более общее: заниматься стиркой
 
-Если это именно при голосовании, тоже хорошо:
-— **Ich bin dafür!**
-— **Ich bin entschieden dagegen!**
+По-английски:
 
-**hinzufügen** — добавить
+    I wash clothes / laundry
 
-Также по контексту:
-— **ergänzen** — добавить, дополнить
-— **zufügen** — прибавить / добавить
-— **einfügen** — вставить, добавить внутрь текста/списка
+    естественнее: I’m doing the laundry
+in Kraft — в силе; в действии
 
+Чаще всего:
 
-**meistens** — **обычно; чаще всего; в большинстве случаев**. Это **наречие**. ([Duden][1])
+    in Kraft sein — быть в силе, действовать
+
+    in Kraft treten — вступать в силу
 
 Примеры:
-— **Ich komme meistens zu spät.** — Я обычно опаздываю.
-— **Meistens ist es ruhig hier.** — Здесь чаще всего тихо.
 
-Близкие варианты:
-— **meist** — обычно, по большей части
-— **meistens** — обычно, чаще всего ([Duden][2])
+    Das Gesetz ist schon in Kraft. — Закон уже в силе.
 
-**raten** (rät, riet, hat geraten) —
+    Die neuen Regeln treten morgen in Kraft. — Новые правила завтра вступают в силу.
 
-1. **советовать, рекомендовать**
-2. **угадывать, отгадывать**; *to advise; to guess*
+По-английски:
 
-Значение зависит от контекста:
+    in force
 
-* **Ich rate dir, früher zu schlafen.** — Я советую тебе ложиться спать раньше.
-* **Rate mal!** — Угадай!
-* **Kannst du das Wort raten?** — Ты можешь угадать это слово?
+    effective / come into effect — по контексту
+
+Нюанс:
+
+    Kraft само по себе часто значит сила
+
+    но выражение in Kraft обычно переводится как в силе / действует
+die Regel -n — правило
+
+По-английски:
+
+    rule
+
+Примеры:
+
+    Das ist eine wichtige Regel. — Это важное правило.
+
+    Wir lernen heute eine neue Grammatikregel. — Сегодня мы учим новое грамматическое правило.
+
+Нюанс:
+
+    Regel — общее правило
+
+    Grammatikregel — грамматическое правило
+
+    in der Regel — как правило, обычно
+
+Пример:
+
+    In der Regel komme ich pünktlich. — Как правило, я прихожу вовремя.
+die Verabredung -en — договорённость; встреча по договорённости
+
+По-английски:
+
+    appointment
+
+    date / arrangement, по контексту
+
+Примеры:
+
+    Ich habe heute eine Verabredung. — У меня сегодня встреча.
+
+    Wir haben eine Verabredung für morgen. — У нас есть договорённость / встреча на завтра.
+
+Нюанс:
+
+    Verabredund — это опечатка
+
+    правильная форма: Verabredung
+
+    часто значит именно заранее назначенную встречу
+
+Словарно:
+
+    sich verabreden — договариваться о встрече
+wachen — бодрствовать, не спать; быть начеку
+wecken — будить, разбудить
+
+Разница:
+
+    wachen = сам не спишь
+
+    wecken = будишь кого-то другого
+
+Примеры:
+
+    Ich wache noch. — Я ещё не сплю / бодрствую.
+
+    Die Mutter weckt das Kind. — Мать будит ребёнка.
+
+    Er hat mich um 6 Uhr geweckt. — Он разбудил меня в 6 часов.
 
 Важно:
-Есть два очень частых значения, и их нужно различать по контексту:
 
-* **jemandem zu etwas raten** — советовать кому-то что-то
-* **etwas raten** — угадывать что-то
+    wachen не очень частое слово в обычной речи в значении “не спать”
 
-Родственные формы:
+    чаще встречаются:
 
-* **der Rat** — совет
-* **der Ratschlag** — рекомендация, совет
-* **das Rätsel** - — загадка
-* **erraten** (errät, erriet, hat erraten) — отгадать
+        wach sein — быть бодрым / не спать
 
-Совет:
-Запоминайте так: **raten** может быть и «советовать», и «угадывать»; без контекста возможны оба варианта.
+        aufwachen — просыпаться
 
-**manchmal** — иногда
+        wecken — будить
 
-Также частые варианты по контексту:
+Полезная связка:
 
-* **gelegentlich** — иногда, от случая к случаю
-* **mitunter** — иногда, порой
-* **ab und zu** — иногда, время от времени
-* **bisweilen** — иногда, подчас (книжн.)
+    ich bin wach — я не сплю / я бодрствую
+
+    ich wache auf — я просыпаюсь
+
+    ich wecke dich — я тебя бужу
+
+По-английски:
+
+    wachen — to stay awake / to keep watch
+
+    wecken — to wake someone up
+
+
+    aufwachen — просыпаться / wake up
+
+    wecken — будить / wake someone up
+
+    wach sein — не спать, быть бодрым / be awake
+
+Пара:
+
+    Ich wache auf. — I wake up.
+
+    Meine Mutter weckt mich. — My mother wakes me up.
+dauern — длиться, продолжаться
 
 Примеры:
 
-* **Ich bin manchmal müde.** — Я иногда устаю.
-* **Manchmal regnet es tagelang.** — Иногда дождь идёт целыми днями.
+    Der Film dauert zwei Stunden. — Фильм длится два часа.
 
-* **sagen** — to say
+    Wie lange dauert der Kurs? — Сколько длится курс?
 
-* **er sagt** — he says
+Да, в обычном значении dauern почти не употребляется с 1-м и 2-м лицом, потому что обычно не человек “длится”, а событие / процесс / состояние.
 
-* **sie sagt** — she says
+Естественно:
 
-* **da bist du ja!** — there you are! / so, here you are!
+    Das dauert lange. — Это длится долго.
 
-* **richtig** — correct / right / true
+    Die Besprechung dauert bis 5 Uhr. — Собрание длится до 5 часов.
 
-* **Du kommst aber spät!** — You’re very late! / You’re coming late, though!
+Неестественно:
 
-* **wichtig** — important
+    Ich dauere
 
-* **das Paar** / **ein Paar** — couple
+    Du dauerst
 
-* **sie sind ein Paar** — they are a couple
+То есть грамматически формы можно образовать, но в нормальной речи они почти не нужны.
 
-* **das Leben** — life
+Что обычно говорят вместо этого:
 
-* **schwer** — hard / difficult
+    Ich brauche lange. — Мне нужно много времени.
 
-* **Können Sie das denn verstehen?** — Can you understand that, then?
+    Es dauert lange. — Это длится долго.
 
-* **verstehen** — to understand
+Спряжение:
 
-* **Ich verstehe es nicht mehr.** — I don’t understand it anymore.
+    ich dauere
 
-* **nicht mehr** — no longer / anymore
+    du dauerst
 
-* **was ist denn los?** — what’s going on? / what’s the matter?
+    er/sie/es dauert
 
-* **Denk mal nach!** — Think about it! / Use your brain!
+    wir dauern
 
-* **nachdenken** — to think something over / reflect
+    ihr dauert
 
-* **Ich hab keine Ahnung!** — I have no idea!
+    sie dauern
 
-* **keine Ahnung haben** — to have no idea
+Но реально чаще всего встретишь:
 
-* **Typisch Mann!** — Typical man! / So typical of a man!
+    es dauert
 
-* **Ruhe haben** — to have peace and quiet / be left alone
+    der Unterricht dauert
 
-* **reden** — to talk
+    wie lange dauert ...?
 
-* **Lust auf etwas haben** — to feel like something / be in the mood for something
+По-английски:
 
-* **Streit** — argument / quarrel / fight
+    to last
 
-* **lesen** — to read
+    to take — в конструкциях типа Es dauert zwei Stunden = It takes two hours
 
-* **möchte lieber** — would prefer to
+Нюанс:
 
-* **fragen** — to ask
+    dauern = фокус на продолжительности
 
-* **Was denkst du jetzt?** — What are you thinking now?
+    brauchen = фокус на том, сколько времени кому-то нужно
 
-* **unerhört** — outrageous / unbelievable / unacceptable
+Сравнение:
 
-* **vorbei sein** — to be over
+    Der Test dauert 30 Minuten. — Тест длится 30 минут.
 
-* **kein Paar** — not a couple
+    Ich brauche 30 Minuten für den Test. — Мне нужно 30 минут на тест.
+Wie lange dauert etwas? — Сколько длится что-то? / Как долго что-то длится?
 
-* **einziehen** — to move in
+Это стандартный вопрос с dauern.
 
-* **ausziehen** — to move out
+Шаблон:
 
-* **Versteht das irgendwer?** — Does anyone understand that?
+    Wie lange dauert + существительное?
 
-* **irgendwer** — anyone / anybody
-
-* **traurig** — sad
-
-* **auf der Bank sitzen** — to sit on the bench
-
-* **vorbeikommen / vorbeigehen** — to come by / pass by
-
-* **neu in dieser Stadt** — new in this city / new to this town
-
-* **suchen** — to look for
-
-* **’nen** — colloquial short form of **einen**
-
-* **Freund** — friend / boyfriend (depends on context)
-
-* **werden ein Paar** — become a couple
-
-* **von vorne losgehen** — to start again from the beginning
-
-* **Niemand weiß** — nobody knows
-
-* **wie lang das hält** — how long that will last
-
-* **halten** — to last
-
-* **die Hoffnung** — hope
-
-* **groß** — great / big / strong
-
-**Полезные разговорные фразы из текста:**
-
-* **Hey, da bist du ja!** — Hey, there you are!
-* **Was ist denn los?** — What’s wrong? / What’s going on?
-* **Ich hab keine Ahnung.** — I have no idea.
-* **Jetzt ist es vorbei.** — Now it’s over.
-
-Frühjahrsmüdigkeit — весенняя усталость, «весенняя вялость», сонливость и упадок сил весной. 
-
-**ein Fach** — предмет, область, специальность; также «отделение, ячейка, полка/секция» в зависимости от контекста. Словарная форма **Fach** — существительное среднего рода. ([Duden][1])
-
-**einfach** — простой, легко, просто. Если вы имели в виду слитное написание, то это уже другое слово. ([Duden][2])
+    Wie lange dauert + das / es?
 
 Примеры:
 
-* **Das ist mein Lieblingsfach.** — Это мой любимый предмет.
-* **Das ist einfach.** — Это просто.
+    Wie lange dauert der Film? — Сколько длится фильм?
 
+    Wie lange dauert der Unterricht? — Сколько длится урок?
 
-**Nomen — существительные**
+    Wie lange dauert es? — Сколько это длится? / Сколько времени это занимает?
 
-**Arabisch** — арабский язык
-**der Beruf, -e** — профессия
-**das Bild, -er** — картина, изображение, фото
-**Deutsch** — немецкий язык
-**der Deutschkurs, -e** — курс немецкого языка
-**die E-Mail-Adresse, -n** — адрес электронной почты
-**Englisch** — английский язык
-**der Friseur, -e** — парикмахер
-**die Friseurin, -nen** — парикмахерша
-**die Handynummer, -n** — номер мобильного телефона
-**die Homepage, -s** — домашняя страница, сайт
-**der Informatiker, -** — информатик, айтишник
-**die Informatikerin, -nen** — женщина-информатик, айтишница
-**die Information, -en** — информация
-**der Junge, -n** — мальчик
-**das Kind, -er** — ребёнок
-**der Koch, Köche** — повар
-**die Köchin, -nen** — повариха, женщина-повар
-**der Kontakt, -e** — контакт
-**der Krankenpfleger, -** — медбрат, медработник
-**die Krankenschwester, -n** — медсестра
-**der Lehrer, -** — учитель
-**die Lehrerin, -nen** — учительница
-**das Mädchen, -** — девочка
-**der Mitarbeiter, -** — сотрудник
-**die Mitarbeiterin, -nen** — сотрудница
-**der Moment, -e** — момент
-**die Nachricht, -en** — сообщение, новость
-**die Party, -s** — вечеринка
-**der Polizist, -en** — полицейский
-**die Polizistin, -nen** — женщина-полицейский
-**das Problem, -e** — проблема
-**das Restaurant, -s** — ресторан
-**die Sprache, -n** — язык
-**das Team, -s** — команда
-**die Tochter, Töchter** — дочь
-**der Verkäufer, -** — продавец
-**die Verkäuferin, -nen** — продавщица
-**das Wort, Wörter** — слово
-**der Zettel, -** — листок, бумажка, записка
+По-английски:
 
-**Verben — глаголы**
+    How long does something last?
 
-**beantworten** — отвечать
-**haben** — иметь
-**lernen** — учить, изучать
-**machen** — делать
-**notieren** — записывать, отмечать
-**sprechen** — говорить
+    очень часто: How long does it take?
 
-**Adjektive — прилагательные**
+Нюанс:
 
-**gut** — хороший, хорошо
-**laut** — громкий, громко
-**neu** — новый
-**schön** — красивый, прекрасный
+    Wie lange dauert der Film? = How long does the film last?
 
-**andere Wörter — другие слова**
+    Wie lange dauert es? = How long does it take?
 
-**als (als Kind)** — как, в качестве; **als Kind** — ребёнком, в детстве
-**auch** — тоже, также
-**bei (bei Instagram)** — у, на; **bei Instagram** — в Instagram
-**ein bisschen** — немного
-**für** — для
-**hier** — здесь
-**ja – nein** — да — нет
-**minus** — минус
-**nicht** — не
-**ohne** — без
-**Wann?** — когда?
-**Was?** — что?
+Формула ответа:
 
-— **Kann ich rausgehen?**
-— более вежливо: **Darf ich rausgehen?**
+    Es dauert zwei Stunden. — Это длится два часа.
 
-По ситуации:
+    Der Kurs dauert drei Monate. — Курс длится три месяца.
+Ich sehe eine Katze auf der Straße. — Я вижу кошку на улице.
 
-* в классе: **Darf ich raus?**
-* нейтрально: **Kann ich hinausgehen?**
+По-английски:
 
-**Mäppchen** — пенал.
-**Federmappe** — пенал, футляр для ручек и карандашей.
-**Mappe** — папка.
+    I see a cat on the street.
 
-Краткое различие:
+Ключевое:
 
-* **Mäppchen / Federmappe** — обычно то, где лежат ручки, карандаши, ластик.
-* **Mappe** — папка для бумаг, файлов, тетрадей.
+    sehen — видеть
+
+    die Katze — кошка
+
+    auf der Straße — на улице / на дороге
+
+Небольшой нюанс:
+
+    auf der Straße чаще всего = на улице.
+das Lebensmittel — продукт питания, пищевой продукт
+По-английски: food item, food product, groceries (по контексту)
+
+Пример:
+
+    Obst und Brot sind Lebensmittel. — Фрукты и хлеб — это продукты питания.
+
+das Transportmittel — транспортное средство; средство перевозки
+По-английски: means of transport, transport vehicle
+
+Пример:
+
+    Ein LKW ist ein Transportmittel für Waren. — Грузовик — это средство перевозки товаров.
+
+das Verkehrsmittel — вид транспорта; транспортное средство
+По-английски: means of transportation, mode of transport
+
+Пример:
+
+    Bus, Bahn und Fahrrad sind Verkehrsmittel. — Автобус, поезд и велосипед — это виды транспорта.
+
+Нюанс:
+
+    Lebensmittel — еда, продукты
+
+    Transportmittel — любое средство для перевозки чего-то
+
+    Verkehrsmittel — транспорт, которым пользуются для передвижения
+
+Кратко:
+
+    Lebensmittel = food
+
+    Transportmittel = transport means
+
+    Verkehrsmittel = means of transportation
+
+Чаще в быту встретишь именно Verkehrsmittel.
+der Einkaufskorb -¨e — корзина для покупок, покупательская корзина
+
+По-английски:
+
+    shopping basket
 
 Примеры:
 
-* **Mein Mäppchen ist blau.** — Мой пенал синий.
-* **Die Federmappe liegt auf dem Tisch.** — Пенал лежит на столе.
-* **Die Mappe ist in der Tasche.** — Папка в сумке.
+    Ich lege die Äpfel in den Einkaufskorb. — Я кладу яблоки в корзину для покупок.
 
-Мини-словарь:
+    Der Einkaufskorb ist schon voll. — Корзина для покупок уже полная.
 
-* **das Mäppchen** — пенал
-* **die Federmappe, -n** — пенал
-* **die Mappe, -n** — папка
+Нюанс:
 
-Самое употребительное:
+    Einkaufskorb — обычно именно корзина
 
-* **der Geldbeutel** — кошелёк
-* **die Geldbörse** — кошелёк, бумажник
+    Einkaufswagen — тележка в магазине
+die Einkaufstasche -n — сумка для покупок, хозяйственная сумка
 
-* **Mein Geldbeutel ist leer.** — Мой кошелёк пуст.
-* **Die Geldbörse liegt in der Tasche.** — Кошелёк лежит в сумке.
+По-английски:
 
-Если речь о маленьком кошельке для мелочи, часто говорят:
+    shopping bag
 
-* **das Kleingeldfach** — отделение для мелочи
-* **der Münzbeutel** — кошелёк для монет
+Примеры:
 
-**die Kirsche, -n** — вишня; черешня
+    Ich habe eine Einkaufstasche dabei. — У меня с собой сумка для покупок.
+
+    Die Milch ist in der Einkaufstasche. — Молоко в сумке для покупок.
+
+Нюанс:
+
+    Einkaufstasche — сумка
+
+    Einkaufskorb — корзина
+
+    Einkaufswagen — тележка в магазине
+auf dem Markt — на рынке
+
+Примеры:
+
+    Ich kaufe Obst auf dem Markt. — Я покупаю фрукты на рынке.
+
+    Es gibt frisches Gemüse auf dem Markt. — На рынке есть свежие овощи.
+
+По-английски:
+
+    at the market
+
+    on the market — только в другом смысле, не здесь
+
+Нюанс:
+
+    auf dem Markt = физически на рынке
+
+    auf dem Markt sein = быть в продаже / быть на рынке
+der Kalbsbraten — жаркое из телятины, запечённая телятина
+
+По-английски:
+
+    roast veal
+
+    veal roast
+
+Разбор:
+
+    das Kalb — телёнок
+
+    der Braten — жаркое
+
+Пример:
+
+    Zum Sonntagessen gibt es Kalbsbraten. — На воскресный обед будет жаркое из телятины.
+die Tomatensoße — томатный соус
+
+По-английски:
+
+    tomato sauce
+
+Примеры:
+
+    Die Pasta schmeckt mit Tomatensoße sehr gut. — Паста очень вкусная с томатным соусом.
+
+    Ich mache heute Tomatensoße selbst. — Я сегодня сам(а) делаю томатный соус.
+
+Нюанс:
+
+    Soße и Sauce — оба варианта возможны
+
+    Tomatensoße — более «по-немецки»
+
+    Tomatensauce — тоже очень часто употребляется
+ein halbes Kilo — полкилограмма, половина килограмма
+
+По-английски:
+
+    half a kilo
+
+    half a kilogram
+
+Примеры:
+
+    Ich nehme ein halbes Kilo Tomaten. — Я возьму полкило помидоров.
+
+    Wir brauchen ein halbes Kilo Kartoffeln. — Нам нужно полкилограмма картошки.
+
+Нюанс:
+
+    Kilo = разговорное сокращение от Kilogramm
+
+    правильно писать: ein halbes Kilo
+    не kilo, а Kilo с большой буквы.
+
+
+der Becher — стаканчик, баночка, упаковка-стакан
+English: cup, tub
+
+die Packung — пачка, упаковка
+English: pack, package
+
+die Flasche — бутылка
+English: bottle
+
+die Tüte — пакетик, пакет, кулёк
+English: bag
+
+die Tafel — плитка
+English: bar, tablet
+Пример: eine Tafel Schokolade — плитка шоколада
+
+das Netz — сетка, сеточка
+English: net, mesh
+Пример: ein Netz Orangen — сетка апельсинов
+
+das Glas — стакан; банка
+English: glass, jar
+
+die Dose — банка, жестянка, упаковка
+English: can, tin, container
+
+die Schachtel — коробка, коробочка
+English: box
+
+die Schale — миска, чашка, лоток, мисочка
+English: bowl, tray
+Это часто слова для упаковки продуктов:
+
+    eine Flasche Wasser — бутылка воды
+
+    eine Packung Butter — пачка масла
+
+    eine Dose Cola — банка колы
+
+    ein Glas Marmelade — банка варенья
+
+    eine Tüte Chips — пакет чипсов
+
+    eine Tafel Schokolade — плитка шоколада
+günstig и billig оба могут значить дешёвый, но оттенок разный.
+
+günstig — недорогой, выгодный, по хорошей цене
+billig — дешёвый; иногда ещё слишком дешёвый / низкого качества / примитивный
+
+Главная разница:
+
+    günstig — обычно позитивно
+
+    billig — может звучать нейтрально, но часто имеет негативный оттенок
+
+Примеры:
+
+    Das Handy ist günstig. — Этот телефон недорогой / по хорошей цене.
+
+    Das Handy ist billig. — Этот телефон дешёвый.
+    Иногда это может намекать: слишком дешёвый, возможно плохого качества.
+
+Ещё пример:
+
+    Wir suchen ein günstiges Hotel. — Мы ищем недорогой отель.
+
+    Das sieht billig aus. — Это выглядит дёшево.
+
+По-английски:
+
+    günstig — affordable, inexpensive, good value
+
+    billig — cheap
+
+Нюанс:
+
+    когда хочешь сказать «дешёвый, но это хорошо», лучше günstig
+
+    когда хочешь сказать «дешёвый и не очень хороший», часто billig
+
+Полезная формула:
+
+    günstig = cheap in a good way
+
+    billig = cheap, often in a bad way
+nicht wahr? — не так ли? / правда? / верно?
+
+По-английски:
+
+    isn’t it?
+
+    right?
+
+    is that correct? — реже
+
+Примеры:
+
+    Das ist schön, nicht wahr? — Это красиво, не так ли?
+
+    Du kommst morgen, nicht wahr? — Ты придёшь завтра, верно?
+
+Нюанс:
+
+    Nicht war? — неправильно
+
+    правильно: nicht wahr?
+
+    в разговорной речи ещё очень часто:
+
+        oder? — да? / не так ли?
+
+        stimmt’s? — правда? / верно?
+
+Сравнение:
+
+    Es ist kalt, nicht wahr? — Холодно, не так ли?
+
+    Es ist kalt, oder? — Холодно, да?
+allgemein — общий; в целом; общеупотребительный
+
+По-английски:
+
+    general
+
+    generally
+
+Примеры:
+
+    Das ist eine allgemeine Regel. — Это общее правило.
+
+    Allgemein gesagt ist das richtig. — В целом это правильно.
+
+Нюанс:
+
+    allgemein может быть:
+
+        прилагательным: allgemeine Informationen — общая информация
+
+        наречием: allgemein gesagt — в целом говоря
+das Gramm -e — грамм
+der Kilo (разг.) — килограмм
+das Kilogramm -e — килограмм (полная форма)
+
+По-английски:
+
+    gram
+
+    kilo / kilogram
+
+Примеры:
+
+    100 Gramm Käse — 100 грамм сыра
+
+    ein Kilo Äpfel — килограмм яблок
+
+    ein Kilogramm Fleisch — один килограмм мяса
+
+Нюанс:
+
+    Kilo — разговорное сокращение от Kilogramm
+
+    в магазине чаще услышишь: ein Kilo Tomaten
+
+    Gramm — всегда нейтральное (das)
+
+    Kilogramm — тоже das, но в речи часто заменяется на der Kilo
+Правильно: ein Bund Karotten
+
+der Bund ¨e — пучок, связка (овощей, зелени)
+
+👉 ein Bund Karotten — пучок моркови
+
+Примеры:
+
+    Ich kaufe ein Bund Karotten. — Я покупаю пучок моркови.
+
+    Ein Bund Petersilie kostet 1 Euro. — Пучок петрушки стоит 1 евро.
+
+По-английски:
+
+    a bunch of carrots
+
+❗ Ошибка:
+
+    Bunt = «цветной»
+
+    нужно Bund = «пучок»
+
+Похожие слова:
+
+    ein Kilo Karotten — килограмм моркови
+
+    eine Tüte Karotten — пакет моркови
+die Knoblauchzehe -n — зубчик чеснока
+
+По-английски:
+
+    clove of garlic
+
+Разбор:
+
+    der Knoblauch — чеснок
+
+    die Zehe — зубчик (также «палец на ноге»)
+
+Примеры:
+
+    Ich brauche zwei Knoblauchzehen. — Мне нужно два зубчика чеснока.
+
+    Eine Knoblauchzehe reicht. — Одного зубчика чеснока достаточно.
+der Wortstamm ¨e — корень слова, основа слова
+
+По-английски:
+
+    word stem
+
+    root (в общем смысле)
+
+Примеры:
+
+    Der Wortstamm von „spielen“ ist „spiel-“. — Корень слова „spielen“ — „spiel-“.
+
+    Viele Wörter haben denselben Wortstamm. — Многие слова имеют один и тот же корень.
+
+Нюанс:
+
+    Wortstamm — чаще «основа слова» (без окончаний)
+
+    die Wurzel — «корень» в более узком, лингвистическом смысле
+das Wochenende -n — выходные
+
+По-английски:
+
+    weekend
+
+Примеры:
+
+    Am Wochenende habe ich frei. — На выходных я свободен.
+
+    Was machst du am Wochenende? — Что ты делаешь на выходных?
+
+❗ Ошибка:
+
+    Wohenende → правильно Wochenende
+
+Нюанс:
+
+    am Wochenende — на выходных
+
+    übers Wochenende — на выходные (на период)
+der Bund ¨e — пучок; связка; союз; федерация
+
+По-английски:
+
+    bunch
+
+    bundle
+
+    federation / union (в другом значении)
+
+Основные значения:
+
+    пучок (овощей, зелени)
+
+    ein Bund Karotten — пучок моркови
+
+    союз / объединение
+
+    der Deutsche Bund — Германский союз
+
+    край / пояс (одежды)
+
+    der Bund der Hose — пояс брюк
+
+Примеры:
+
+    Ich kaufe einen Bund Petersilie. — Я покупаю пучок петрушки.
+
+    Der Bund ist wichtig in der Geschichte. — Союз важен в истории.
+
+Нюанс:
+
+    в магазине почти всегда: Bund = пучок
+
+    не путать с bunt — цветной
+der Nachtisch — десерт (самое разговорное и частое)
+По-английски: dessert
+
+Пример:
+
+    Was gibt es zum Nachtisch? — Что на десерт?
+
+das Dessert — десерт (заимствование, звучит более «ресторанно»)
+По-английски: dessert
+
+Пример:
+
+    Ich nehme ein Dessert. — Я возьму десерт.
+
+die Nachspeise — десерт (более формально/книжно)
+По-английски: dessert
+
+Пример:
+
+    Die Nachspeise war sehr lecker. — Десерт был очень вкусный.
+
+Нюанс:
+
+    Nachtisch — самый обычный, повседневный
+
+    Dessert — чуть более элегантный (кафе, ресторан)
+
+    Nachspeise — формальный или письменный стиль
+
+Коротко:
+
+    дома → Nachtisch
+
+    в ресторане → Dessert
+
+    в тексте/меню → Nachspeise
+die Lücke -n — пробел, пропуск, промежуток, брешь
+
+По-английски:
+
+    gap
+
+    hole
+
+    blank (в тексте/задании)
+
+Примеры:
+
+    Fülle die Lücke im Text aus. — Заполни пробел в тексте.
+
+    Es gibt eine große Lücke im Zaun. — В заборе есть большая дыра / брешь.
+
+    Zwischen den Häusern ist eine Lücke. — Между домами есть промежуток.
+
+Нюанс:
+
+    в заданиях/тестах → пропуск / blank
+
+    в пространстве → промежуток / gap
+
+    в структуре или защите → брешь / gap
+das Besteck — столовые приборы
+По-английски: cutlery / silverware
+
+Примеры:
+
+    Leg bitte das Besteck auf den Tisch. — Пожалуйста, положи столовые приборы на стол.
+
+    Das Besteck liegt in der Schublade. — Приборы лежат в ящике.
+
+echt gut — действительно хорошо / очень хорошо
+
+По-английски:
+
+    really good
+
+    really nice / really great (по контексту)
+
+Примеры:
+
+    Der Film ist echt gut. — Фильм действительно хороший.
+
+    Das Essen schmeckt echt gut. — Еда очень вкусная.
+
+Нюанс:
+
+    echt усиливает значение: «в самом деле», «по-настоящему»
+
+    разговорное, часто = wirklich (действительно)
+kochen (Essen zubereiten/machen) — готовить (в общем смысле)
+
+    Ich koche — я готовлю
+
+    По-английски: to cook
+
+kochen (in Wasser) — варить (в воде)
+
+    Eier, Nudeln, Kartoffeln kochen
+
+    Die Eier kochen. — Яйца варятся
+
+    По-английски: to boil
+
+braten (in der Pfanne) — жарить (на сковороде)
+
+    Fleisch, Eier, Wurst braten
+
+    Ich brate Fleisch. — Я жарю мясо
+
+    По-английски: to fry / to pan-fry
+
+backen (im Ofen) — печь (в духовке)
+
+    Brot, Pizza, Kuchen backen
+
+    Ich backe Brot. — Я пеку хлеб
+
+    По-английски: to bake
+
+grillen (auf dem Grill) — жарить на гриле, готовить на углях
+
+    Bratwurst, Würstchen, Fleisch grillen
+
+    Wir grillen heute. — Мы сегодня жарим на гриле
+
+    По-английски: to grill / to barbecue
+
+Коротко:
+
+    kochen — готовить
+
+    kochen (Wasser) — варить
+
+    braten — жарить
+
+    backen — печь
+
+    grillen — жарить на гриле
+Sie sind schon da? — Они уже здесь? / Вы уже здесь?
+
+или
+
+Sie waren schon kurz da. — Они ненадолго уже заходили / были тут недолго.
+
+Разбор ошибок:
+
+    war → может быть waren или war
+
+    shon → schon
+
+    sind — правильно, если настоящее время
+
+Полезные варианты:
+
+    Sie sind schon da. — Они уже здесь. / Вы уже здесь.
+
+    Waren Sie schon da? — Вы уже были там? / Вы уже были здесь?
+
+    Sie waren nur kurz da. — Они были здесь только недолго.
+
+Если хочешь сказать «Они скоро будут здесь», тогда:
+
+    Sie sind bald da. — Они скоро будут здесь.
+
+
+    der Apfel, Äpfel — яблоко
+
+    die Banane, -n — банан
+
+    das Besteck (Sg.) — столовые приборы
+
+    die Blume, -n — цветок
+
+    die Butter (Sg.) — масло
+
+    die Dose, -n — банка
+
+    das Ei, -er — яйцо
+
+    die Flasche, -n — бутылка
+
+    das Fleisch (Sg.) — мясо
+
+    das Frühstück, -e — завтрак
+
+    die Gabel, -n — вилка
+
+    das Gemüse (Sg.) — овощи / овощи как продукт
+
+    das Gramm, - — грамм
+
+    der Joghurt, -s — йогурт
+
+    die Karotte, -n — морковь
+
+    die Kartoffel, -n — картофель, картошка
+
+    das Kilo, -s — кило, килограмм
+
+    der Kühlschrank, -schränke — холодильник
+
+    das Lebensmittel, - — продукт питания
+
+    der Liter, - — литр
+
+    der Löffel, - — ложка
+
+    die Marmelade, -n — джем, варенье
+
+    die Menge, -n — количество
+
+    das Messer, - — нож
+
+    das Müsli, -s — мюсли
+
+    der Nachtisch, -e — десерт
+
+    das Öl, -e — масло
+
+    die Orange, -n — апельсин
+
+    die Packung, -en — пачка, упаковка
+
+    die Paprika, -s — паприка; сладкий перец
+
+    der Pilz, -e — гриб
+
+    der Reis (Sg.) — рис
+
+    der Salat, -e — салат
+
+    die Serviette, -n — салфетка
+
+    das Stück, -e — кусок; штука
+
+    die Suppe, -n — суп
+
+    der Teller, - — тарелка
+
+    die Tomate, -n — помидор
+
+    der Wein, -e — вино
+
+    die Wurst, Würste — колбаса; сосиска
+
+    die Zitrone, -n — лимон
+
+    die Zwiebel, -n — лук
+
+Verben
+
+    finden — находить; считать, находить каким-то
+
+    geben — давать
+
+    holen — приносить, брать, сходить за чем-то
+
+    mögen — любить, нравиться
+
+    nehmen — брать
+
+    schmecken — быть вкусным; иметь вкус
+
+Adjektive
+
+    leer — пустой
+
+    teuer – günstig — дорогой — недорогой, выгодный
+
+andere Wörter
+
+    etwas – nichts — что-то — ничего
+
+    fast — почти
+
+    Guten Appetit! — приятного аппетита!
+
+    Prost! — за здоровье! / твоё здоровье!
+
+Небольшие замечания:
+
+    (Sg.) = слово обычно употребляется в единственном числе.
+
+    Paprika в быту очень часто значит именно болгарский перец.
+
+    Öl — это и растительное масло, и масло вообще по контексту.
+verschieden — разный, различный; раздельный; различающийся
+
+По-английски:
+
+    different
+
+    various (по контексту)
+
+Примеры:
+
+    Wir haben verschiedene Meinungen. — У нас разные мнения.
+
+    Es gibt verschiedene Möglichkeiten. — Есть различные возможности.
+
+Нюанс:
+
+    verschieden часто = разный / различный
+
+    verschiedene — форма прилагательного перед существительным: разные
+
+    не путать с verschieden в старом/книжном значении умерший, но это уже другой, редкий смысл
+
+Словарно:
+
+    verschieden (—, —) — разный, различный; different, various
+das Genussmittel — средство наслаждения; стимулятор; продукт не первой необходимости
+die Genussmittel — кофе, табак, алкоголь, сладости и т.п.
+По-английски: luxury food, stimulant, indulgence item
+
+das Lebensmittel — продукт питания, пищевой продукт
+die Lebensmittel — продукты питания
+По-английски: food item, foodstuff, groceries
+
+Разница:
+
+    Lebensmittel — то, что едят и пьют для питания
+
+    Genussmittel — то, что употребляют больше для удовольствия, а не для необходимости
+
+Примеры:
+
+    Brot, Reis, Milch sind Lebensmittel. — Хлеб, рис, молоко — это продукты питания.
+
+    Kaffee, Zigaretten und Alkohol gelten oft als Genussmittel. — Кофе, сигареты и алкоголь часто считаются средствами наслаждения.
+
+Нюанс:
+
+    Lebensmittel — нейтральное бытовое слово
+
+    Genussmittel — более специальное, часто в учебниках, официальной речи или классификации
+
+Пример:
+
+    Zucker ist ein Lebensmittel, aber für viele auch ein Genussmittel.
+    — Сахар — это продукт питания, но для многих также источник удовольствия / Genussmittel.
+
+
+    schmecken — чувствовать вкус; быть вкусным
+    der Geschmack — вкус
+
+    riechen — пахнуть; чувствовать запах
+    der Geruch — запах
+
+    hören — слышать
+    das Gehör — слух
+
+Примеры:
+
+    Die Suppe schmeckt gut. — Суп вкусный.
+
+    Der Kaffee riecht gut. — Кофе хорошо пахнет.
+
+    Ich höre Musik. — Я слушаю / слышу музыку.
+
+Важно:
+
+    das Ghör → правильно das Gehör
+
+    у schmecken есть два частых значения:
+
+        Das Essen schmeckt gut. — Еда вкусная.
+
+        Ich schmecke Knoblauch. — Я чувствую вкус чеснока.
+
+Небольшая полезная пара:
+
+    sehen — das Sehen / die Sicht — видеть / зрение, видимость
+
+    fühlen — das Gefühl — чувствовать / чувство, ощущение
+
+
+    Stief- — падчери-/пасынок-/сводный через брак, то есть приставка со значением «неродной, по браку»
+
+    die Stieftochter — падчерица
+
+По-английски:
+
+    step-
+
+    stepdaughter
+
+Примеры:
+
+    Sie ist meine Stieftochter. — Она моя падчерица.
+
+    Stief- в словах показывает родство не по крови, а через брак.
+
+Похожие слова:
+
+    der Stiefsohn — пасынок
+
+    die Stiefmutter — мачеха
+
+    der Stiefvater — отчим
+
+❗ Исправления:
+
+    Stief — правильно
+
+    die Stinftochter → правильно die Stieftochter
+
+
+    hüpfen — прыгать, скакать, подпрыгивать
+
+Примеры:
+
+    Der kleine Hase hüpft über die Wiese. — Маленький заяц прыгает по лугу.
+
+    Das Kind hüpft vor Freude. — Ребёнок прыгает от радости.
+
+Нюанс:
+
+    hüpfen — это лёгкое, подпрыгивающее движение
+
+    для общего «прыгать» ещё есть springen
+schicken — посылать, отправлять
+
+По-английски:
+
+    to send
+
+Примеры:
+
+    Ich schicke dir eine Nachricht. — Я отправляю тебе сообщение.
+
+    Kannst du mir das Foto schicken? — Ты можешь прислать мне это фото?
+
+Словарная форма:
+
+    schicken (schickt, schickte, hat geschickt) — отправлять; to send
+
+Нюанс:
+
+    eine Nachricht schicken — отправить сообщение
+
+    eine E-Mail schicken — отправить письмо
+
+    jemandem etwas schicken — послать кому-то что-то
 

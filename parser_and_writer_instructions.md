@@ -62,7 +62,6 @@ typedef struct {
     
     StringView translations; // The whole second line; items may optionally use gloss{cue1, cue2}
     StringView grammar;      // Optional 3rd line: [government; pattern]
-    StringView examples;     // 4th+ lines, or 3rd+ if no grammar line
 } DictEntry;
 ```
 
@@ -72,7 +71,7 @@ typedef struct {
 
 #### A. I/O and State Machine
 1.  **Read Strategy**: Load the entire file into memory using `mmap()`. Iterate through the file with a pointer `const char* p`.
-2.  **State Machine**: Maintain a state variable: `STATE_LEMMA` -> `STATE_TRANSLATION` -> `STATE_GRAMMAR_OR_EXAMPLE_OR_EMPTY`.
+2.  **State Machine**: Maintain a state variable: `STATE_LEMMA` -> `STATE_TRANSLATION` -> `STATE_GRAMMAR_OR_EMPTY`.
 3.  **Line Iteration**: Create a helper function `StringView next_line(const char** p)` that reads until `\n`, advances `p`, and strips carriage returns (`\r`).
 
 #### B. Parsing the Lemma Line (Line 1)
@@ -98,7 +97,7 @@ Identify the entry type by checking the first few characters.
 *   **Phrases** (Fallback):
     *   If none of the above prefixes match, treat the entire line as a Phrase.
 
-#### C. Parsing Translations, Grammar & Examples (Lines 2+)
+#### C. Parsing Translations & Grammar (Lines 2+)
 *   **Translations**: Read the next line. Trim the trailing `;` if it exists (as shown in your examples). Store as a single `StringView`.
     *   Each semicolon-separated translation item may optionally end with a cue block: `gloss{cue1, cue2}`.
     *   Treat the text before `{` as the base gloss. Treat the comma-separated items inside `{}` as attached cue forms, not as extra translation items.
@@ -107,8 +106,8 @@ Identify the entry type by checking the first few characters.
 *   **Optional Grammar Line**: Peek at the next non-consumed line.
     *   If it starts with `[` and ends with `]`, store it as `grammar` and consume it.
     *   At most one grammar line is allowed per entry, and it must come immediately after the translation line.
-*   **Examples**: Continue reading lines after the translation line or optional grammar line.
-    *   If the line is **not empty**, append it to the `examples` buffer. (In a string-view approach, just mark the start of the first example, and extend the length until an empty line is hit).
+*   **Entry End**: After the translation line or optional grammar line, the next line must be empty or end-of-file.
+    *   If the line is **not empty**, treat it as invalid trailing entry content. Learner-facing examples must be stored as separate phrase entries so they can be translated.
     *   If the line **is empty** (`len == 0`), the entry is complete. Emit the `DictEntry` to your output array/callback, reset the state to `STATE_LEMMA`, and continue.
 
 ---
@@ -129,10 +128,9 @@ The writer simply reverses the process. Because C lacks built-in string formatti
     *   If `comparative` exists, append ` %.*s %.*s`.
 *   **Phrases**: Print as-is `%.*s\n`.
 
-**2. Outputting Translations, Grammar & Examples**:
+**2. Outputting Translations & Grammar**:
 *   Print the translations. Append `;` if it was stripped during parsing. Print `\n`.
 *   If `grammar` length > 0, print the grammar line followed by `\n`.
-*   If `examples` length > 0, print the examples block followed by `\n`.
 *   **Crucial Rule**: Print exactly one empty `\n` to close the entry and act as the delimiter for the next block.
 
 ---
@@ -143,8 +141,8 @@ The writer simply reverses the process. Because C lacks built-in string formatti
     *   *Parser mitigation*: If in `STATE_LEMMA` and an empty line is read, simply `continue` without throwing an error.
 2.  **Missing Translation Line**: A malformed entry might have a lemma and immediately an empty line. 
     *   *Parser mitigation*: If an empty line is encountered while in `STATE_TRANSLATION`, emit a warning/error with the current file line number.
-3.  **Malformed Grammar Lines**: A bracketed grammar line anywhere other than the single optional slot after the translation line should be treated as invalid format, not as an example line.
-    *   *Parser mitigation*: If a second bracketed line appears before the entry-closing empty line, emit a warning/error with the current file line number.
+3.  **Malformed Grammar or Trailing Lines**: A bracketed grammar line anywhere other than the single optional slot after the translation line should be treated as invalid format. Any other non-empty line before the entry-closing empty line is also invalid trailing content.
+    *   *Parser mitigation*: If a second bracketed line or any other unexpected non-empty line appears before the entry-closing empty line, emit a warning/error with the current file line number.
 4.  **Malformed Translation Cue Blocks**: If a translation item contains `{` or `}`, require the form `gloss{cue1, cue2}` with the cue block at the end of the item.
     *   *Parser mitigation*: Reject empty cue lists, unmatched braces, or brace blocks that appear in the middle of the gloss.
 5.  **Whitespace Management**: Ensure your `StringView` extraction uses a `trim()` function to strip leading/trailing spaces (e.g., spaces around the ` / ` verb delimiters), so `aß` doesn't get captured as `" aß "`.

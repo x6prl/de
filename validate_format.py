@@ -270,17 +270,25 @@ def validate_file(path: Path) -> list[ValidationError]:
                 index += 1
 
         while index < total:
-            raw_example = lines[index]
-            example_line_no = index + 1
-            example = add_whitespace_error(errors, path, example_line_no, raw_example)
-            if example == "":
+            raw_trailing = lines[index]
+            trailing_line_no = index + 1
+            trailing = add_whitespace_error(errors, path, trailing_line_no, raw_trailing)
+            if trailing == "":
                 break
-            if GRAMMAR_LINE_RE.match(example):
+            if GRAMMAR_LINE_RE.match(trailing):
                 errors.append(
                     ValidationError(
                         path,
-                        example_line_no,
+                        trailing_line_no,
                         "grammar line is only allowed directly after a translation line",
+                    )
+                )
+            else:
+                errors.append(
+                    ValidationError(
+                        path,
+                        trailing_line_no,
+                        "extra entry line is not allowed; store translatable examples as separate phrase entries",
                     )
                 )
             index += 1

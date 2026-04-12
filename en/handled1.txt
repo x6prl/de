@@ -1,0 +1,888 @@
+a selten
+rarely; seldom;
+
+jeden zweiten Tag
+every other day; every second day;
+
+a manchmal
+sometimes; occasionally; at times;
+
+v verwechseln
+mix up{mixes up, mixed up}; confuse{confuses, confused};
+[j-n; mit+Dat]
+
+gegen sechs Uhr
+around six o'clock; at about six o'clock;
+
+Ich habe keine Zeit zum Spielen.
+I have no time to play.;
+
+a offen
+open;
+
+v aufräumen
+tidy up{tidies up, tidied up}; clean up{cleans up, cleaned up};
+[etw.]
+
+v anschauen-schaut an / schaute an / hat angeschaut
+look at{looks at, looked at}; watch{watches, watched};
+[j-n; etw.]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+invite{invites, invited};
+[j-n; zu+Dat]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+load{loads, loaded};
+[etw.]
+
+a dann
+then; afterwards; in that case;
+
+erst ..., dann ...
+first ..., then ...;
+
+die Wäsche (sg.)
+laundry; washing; clothes to be washed;
+
+Ich wasche Wäsche.
+I wash clothes.; I am doing the laundry.;
+
+in Kraft
+in force; effective;
+
+die Regel -n
+rule;
+
+in der Regel
+as a rule; usually;
+
+die Verabredung -en
+appointment; arrangement;
+
+v wachen
+stay awake{stays awake, stayed awake}; keep watch{keeps watch, kept watch};
+
+v wecken
+wake{wakes, woke, woken}; wake up{wakes up, woke up, woken up};
+[j-n]
+
+v dauern
+last{lasts, lasted}; take{takes, took, taken};
+
+Wie lange dauert etw.?
+how long does it last?; how long does it take?;
+
+v sehen-sieht / sah / hat gesehen
+see{sees, saw, seen};
+
+Ich sehe eine Katze auf der Straße.
+I see a cat on the street.;
+
+das Lebensmittel -
+food item; food product; grocery item;
+
+das Transportmittel -
+means of transport; transport vehicle;
+
+das Verkehrsmittel -
+means of transportation; mode of transport;
+
+der Einkaufskorb "-e
+shopping basket;
+
+die Einkaufstasche -n
+shopping bag;
+
+auf dem Markt
+at the market;
+
+der Kalbsbraten (sg.)
+roast veal; veal roast;
+
+die Tomatensoße -n
+tomato sauce;
+
+ein halbes Kilo
+half a kilo; half a kilogram;
+
+der Becher -
+cup; tub;
+
+die Packung -en
+pack; package;
+
+die Flasche -n
+bottle;
+
+die Tüte -n
+bag; small bag;
+
+die Tafel -n
+board; blackboard; bar; tablet;
+
+das Netz -e
+net; mesh;
+
+das Glas "-er
+drinking glass; glass; jar;
+
+die Dose -n
+can; tin; container;
+
+die Schachtel -n
+box;
+
+die Schale -n
+bowl; tray;
+
+a günstig
+inexpensive; affordable; good value;
+
+a billig
+cheap;
+
+nicht wahr?
+isn't it?; right?;
+
+a allgemein
+general; generally;
+
+das Gramm -
+gram;
+
+das Kilo -s
+kilo; kilogram;
+
+das Kilogramm -e
+kilogram;
+
+der Bund "-e
+bunch; bundle; federation; union;
+
+die Knoblauchzehe -n
+clove of garlic;
+
+der Wortstamm "-e
+word stem; root;
+
+das Wochenende -n
+weekend;
+
+der Nachtisch -e
+dessert;
+
+das Dessert -s
+dessert;
+
+die Nachspeise -n
+dessert;
+
+die Lücke -n
+gap; blank; hole;
+
+das Besteck (sg.)
+cutlery; silverware;
+
+echt gut
+really good; very good;
+
+v kochen
+cook{cooks, cooked}; boil{boils, boiled};
+
+v braten-brät / briet / hat gebraten
+fry{fries, fried}; pan-fry{pan-fries, pan-fried};
+
+v backen-backt,bäckt / backte,buk / hat gebacken
+bake{bakes, baked};
+
+v grillen
+grill{grills, grilled}; barbecue{barbecues, barbecued};
+
+Sie sind schon da?
+are you already here?; are they already here?;
+
+Sie waren schon kurz da.
+they already stopped by briefly.; you already stopped by briefly.;
+
+der Apfel "-
+apple;
+
+die Banane -n
+banana;
+
+die Blume -n
+flower;
+
+die Butter (sg.)
+butter;
+
+das Ei -er
+egg;
+
+das Fleisch (sg.)
+meat;
+
+das Frühstück -e
+breakfast;
+
+die Gabel -n
+fork;
+
+das Gemüse (sg.)
+vegetables;
+
+der Joghurt -s
+yogurt;
+
+die Karotte -n
+carrot;
+
+die Kartoffel -n
+potato;
+
+der Kühlschrank "-e
+refrigerator; fridge;
+
+der Liter -
+liter;
+
+der Löffel -
+spoon;
+
+die Marmelade (sg.)
+jam; marmalade;
+
+die Menge -n
+amount; quantity;
+
+das Messer -
+knife;
+
+das Müsli (sg.)
+muesli;
+
+das Öl -e
+oil;
+
+die Orange -n
+orange;
+
+die Paprika -s
+bell pepper; paprika;
+
+der Pilz -e
+mushroom;
+
+der Reis (sg.)
+rice;
+
+der Salat -e
+salad; lettuce;
+
+die Serviette -n
+napkin; serviette;
+
+das Stück -e
+piece; item;
+
+die Suppe -n
+soup;
+
+der Teller -
+plate;
+
+die Tomate -n
+tomato;
+
+der Wein -e
+wine;
+
+die Wurst "-e
+sausage;
+
+die Zitrone -n
+lemon;
+
+die Zwiebel -n
+onion;
+
+v finden-findet / fand / hat gefunden
+find{finds, found};
+
+v finden-findet / fand / hat gefunden
+consider{considers, considered}; regard{regards, regarded};
+
+v geben-gibt / gab / hat gegeben
+give{gives, gave, given};
+[j-m; etw.]
+
+v holen
+fetch{fetches, fetched}; get{gets, got, gotten}; bring{brings, brought};
+
+v mögen-mag / mochte / hat gemocht
+like{likes, liked};
+
+v nehmen-nimmt / nahm / hat genommen
+take{takes, took, taken};
+
+v schmecken
+taste good{tastes good, tasted good};
+
+v schmecken
+taste{tastes, tasted};
+[etw.]
+
+a leer
+empty;
+
+a teuer
+expensive; costly;
+
+etwas
+something;
+
+nichts
+nothing;
+
+a fast
+almost;
+
+Guten Appetit!
+enjoy your meal!;
+
+Prost!
+cheers!;
+
+a verschieden
+different; various; separate;
+
+das Genussmittel -
+luxury good; stimulant; indulgence item;
+
+der Geschmack "-er
+taste; flavor;
+
+v riechen-riecht / roch / hat gerochen
+smell{smells, smelled}; smell of{smells of, smelled of};
+
+der Geruch "-e
+smell; odor;
+
+v hören
+hear{hears, heard};
+
+das Gehör (sg.)
+hearing;
+
+die Stieftochter "-
+stepdaughter;
+
+v hüpfen
+hop{hops, hopped}; bounce{bounces, bounced};
+
+v schicken
+send{sends, sent};
+[j-m; etw.]
+
+der Abend -e
+evening;
+
+der Alltag (sg.)
+everyday life; daily routine;
+
+die Arbeit -en
+work; job;
+
+die E-Mail -s
+email; e-mail;
+
+der Film -e
+film; movie;
+
+die Freizeit (sg.)
+free time; leisure time;
+
+der Fußball (sg.)
+soccer; football;
+
+der Kalender -
+calendar;
+
+das Kino -s
+cinema; movie theater;
+
+der Mittag -e
+noon; midday; lunchtime;
+
+der Montag -e
+Monday;
+
+der Dienstag -e
+Tuesday;
+
+der Mittwoch -e
+Wednesday;
+
+der Donnerstag -e
+Thursday;
+
+der Freitag -e
+Friday;
+
+der Samstag -e
+Saturday;
+
+der Sonntag -e
+Sunday;
+
+der Morgen -
+morning;
+
+die Musik (sg.)
+music;
+
+der Nachmittag -e
+afternoon;
+
+die Nacht "-e
+night;
+
+das Picknick -s
+picnic;
+
+der Sport (sg.)
+sport; exercise;
+
+die Stunde -n
+hour;
+
+die Uhr -en
+clock; watch;
+
+der Vormittag -e
+morning before noon; late morning;
+
+die Woche -n
+week;
+
+die Wohnung -en
+apartment; flat;
+
+die Zeit (sg.)
+time;
+
+v anrufen-ruft an / rief an / hat angerufen
+call{calls, called}; phone{phones, phoned};
+[j-n]
+
+v aufstehen-steht auf / stand auf / ist aufgestanden
+get up{gets up, got up, gotten up};
+
+v beginnen-beginnt / begann / hat begonnen
+begin{begins, began, begun}; start{starts, started};
+
+v besuchen
+visit{visits, visited};
+[j-n; etw.]
+
+v einkaufen-kauft ein / kaufte ein / hat eingekauft
+shop{shops, shopped}; do the shopping{does the shopping, did the shopping, done the shopping};
+
+v fahren-fährt / fuhr / ist gefahren
+go{goes, went, gone}; travel{travels, traveled};
+
+v fahren-fährt / fuhr / hat gefahren
+drive{drives, drove, driven};
+[etw.]
+
+v fernsehen-sieht fern / sah fern / hat ferngesehen
+watch TV{watches TV, watched TV}; watch television{watches television, watched television};
+
+v frühstücken
+have breakfast{has breakfast, had breakfast}; eat breakfast{eats breakfast, ate breakfast, eaten breakfast};
+
+v putzen
+clean{cleans, cleaned}; tidy up{tidies up, tidied up};
+
+v schlafen-schläft / schlief / hat geschlafen
+sleep{sleeps, slept};
+
+v tanzen
+dance{dances, danced};
+
+v telefonieren
+talk on the phone{talks on the phone, talked on the phone}; telephone{telephones, telephoned};
+
+v träumen
+dream{dreams, dreamed, dreamed}; have dreams{has dreams, had dreams};
+
+v waschen-wäscht / wusch / hat gewaschen
+wash{washes, washed}; do the washing{does the washing, did the washing, done the washing};
+
+v zoomen
+zoom{zooms, zoomed}; have a Zoom call{has a Zoom call, had a Zoom call};
+
+a früh
+early;
+
+a spät
+late;
+
+a geöffnet
+open;
+
+a geschlossen
+closed;
+
+a nie
+never;
+
+a oft
+often;
+
+a nur
+only; just;
+
+a später
+later;
+
+von ... bis
+from ... to;
+
+wann?
+when?;
+
+wie lange?
+how long?;
+
+das Auto -s
+car; automobile;
+
+der Bahnhof "-e
+station; train station;
+
+der Bildschirm -e
+screen; monitor;
+
+die Brille -n
+glasses; spectacles;
+
+das Buch "-er
+book;
+
+der Computer -
+computer;
+
+das Fahrrad "-er
+bicycle; bike;
+
+das Fenster -
+window;
+
+das Geld (sg.)
+money;
+
+das Handy -s
+mobile phone; cell phone;
+
+das Haus "-er
+house; home;
+
+das Heft -e
+notebook; exercise book;
+
+der Hund -e
+dog;
+
+die Jacke -n
+jacket;
+
+der Kaffee (sg.)
+coffee;
+
+die Katze -n
+cat;
+
+der Kuli -s
+pen; ballpoint pen;
+
+die Lampe -n
+lamp;
+
+der Laptop -s
+laptop;
+
+die Maus "-e
+mouse;
+
+die Notiz -en
+note; notation;
+
+der Rucksack "-e
+backpack; rucksack;
+
+die Schere -n
+scissors;
+
+der Schlüssel -
+key;
+
+die Schule -n
+school;
+
+der Stift -e
+pen; pencil;
+
+der Stuhl "-e
+chair;
+
+das Tablet -s
+tablet;
+
+die Tasche -n
+bag;
+
+der Tisch -e
+table;
+
+die Tür -en
+door;
+
+v arbeiten
+work{works, worked};
+
+v funktionieren
+work{works, worked}; function{functions, functioned};
+
+v informieren
+inform{informs, informed}; notify{notifies, notified};
+
+v leben
+live{lives, lived};
+
+v wechseln
+change{changes, changed}; replace{replaces, replaced};
+
+v wissen-weiß / wusste / hat gewusst
+know{knows, knew, known};
+
+v zeigen
+show{shows, showed, shown};
+
+a fertig
+ready; finished;
+
+a freundlich
+friendly;
+
+a kaputt
+broken;
+
+a kurz
+short;
+
+a lang
+long;
+
+a langsam
+slow;
+
+a schnell
+fast; quick;
+
+a richtig
+correct; right;
+
+a falsch
+wrong; incorrect;
+
+a wichtig
+important;
+
+alle
+all; everyone;
+
+a gern
+gladly; with pleasure;
+
+a heute
+today;
+
+a schon
+already;
+
+so
+so; like this;
+
+Vielen Dank!
+thank you very much!; many thanks!;
+
+a vielleicht
+maybe; perhaps;
+
+zu zweit / dritt / viert
+as a pair; as three; as four;
+
+die Adresse -n
+address;
+
+die Anmeldung -en
+registration; sign-up;
+
+die Antwort -en
+answer;
+
+die Familie -n
+family;
+
+der Familienname -n
+surname; family name;
+
+die Firma -en
+company; firm;
+
+das Formular -e
+form;
+
+das Foto -s
+photo; photograph;
+
+die Frage -n
+question;
+
+die Hausnummer -n
+house number;
+
+der Irak (sg.)
+Iraq;
+
+der Kurs -e
+course;
+
+das Land "-er
+country;
+
+der Name -n
+name;
+
+die Nummer -n
+number;
+
+der Ort -e
+place; town; locality;
+
+der Papa -s
+dad; papa;
+
+die Mama -s
+mom; mama;
+
+die Person -en
+person;
+
+die Postleitzahl -en
+postal code; ZIP code;
+
+der Satz "-e
+sentence;
+
+die Stadt "-e
+city; town;
+
+die Straße -n
+street;
+
+die Telefonnummer -n
+telephone number; phone number;
+
+der Vorname -n
+first name; given name;
+
+die Zahl -en
+number; digit;
+
+v antworten
+answer{answers, answered}; reply{replies, replied};
+[j-m]
+
+v begrüßen
+greet{greets, greeted};
+[j-n]
+
+v buchstabieren
+spell{spells, spelled}; spell out{spells out, spelled out};
+
+v fragen
+ask{asks, asked};
+[j-n; etw.]
+
+v heißen-heißt / hieß / hat geheißen
+be called{is called, was called, been called}; be named{is named, was named, been named};
+
+v kennen-kennt / kannte / hat gekannt
+know{knows, knew, known};
+
+v kommen-kommt / kam / ist gekommen
+come{comes, came, come}; arrive{arrives, arrived};
+
+v lesen-liest / las / hat gelesen
+read{reads, read};
+
+v sagen
+say{says, said};
+[etw.]
+
+v schreiben-schreibt / schrieb / hat geschrieben
+write{writes, wrote, written};
+
+v sein-ist / war / ist gewesen
+be{is, was, been};
+
+v sprechen-spricht / sprach / hat gesprochen
+speak{speaks, spoke, spoken}; talk{talks, talked};
+
+v vorstellen-stellt vor / stellte vor / hat vorgestellt
+introduce{introduces, introduced}; present{presents, presented};
+
+v wiederholen
+repeat{repeats, repeated};
+
+v wohnen
+live{lives, lived}; reside{resides, resided};
+
+auf Wiedersehen
+goodbye;
+
+aus + Dat.
+from; out of;
+
+bitte
+please;
+
+danke
+thank you; thanks;
+
+Entschuldigung!
+excuse me!; sorry!;
+
+in + Akk./Dat.
+in;
+
+a jetzt
+now;
+
+und
+and;
+
+wie
+how;
+
+Wie geht's?
+how are you?;
+
+wo
+where?;
+
+woher
+where from?;
