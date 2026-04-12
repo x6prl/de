@@ -1,6 +1,3 @@
-die Arbeit -en
-работа; труд;
-
 das Leben (sg.)
 жизнь; существование;
 
@@ -28,17 +25,11 @@ das Projekt -e
 das Problem -e
 проблема;
 
-die Frage -n
-вопрос;
-
 der Grund "-e
 причина; основание;
 
 die Grundlage -n
 основа; база;
-
-die Antwort -en
-ответ;
 
 das Thema -en
 тема; вопрос; предмет разговора;
@@ -69,9 +60,6 @@ die Chance -n
 
 das Risiko -en
 риск;
-
-die Regel -n
-правило;
 
 die Situation -en
 ситуация; положение;
@@ -183,9 +171,6 @@ der Vertrag "-e
 
 die Bedingung -en
 условие;
-
-die Anmeldung -en
-регистрация; запись; заявка;
 
 die Beratung -en
 консультация; совет;
@@ -328,9 +313,6 @@ der Notfall "-e
 der Umfang "-e
 объём; охват;
 
-die Menge -n
-количество; множество;
-
 die Reihe -n
 ряд; очередь;
 
@@ -411,9 +393,6 @@ die Zeitung -en
 
 der Artikel -
 статья; товар;
-
-der Film -e
-фильм;
 
 die Serie -n
 сериал; серия;
@@ -532,9 +511,6 @@ der Zeitpunkt -e
 die Anzahl -en
 количество; численность;
 
-der Kurs -e
-курс (учебный/валютный);
-
 die Gebühr -en
 сбор; пошлина; комиссия;
 
@@ -543,9 +519,6 @@ der Schaden "-en
 
 die Versorgung -en
 обеспечение; снабжение;
-
-das Verkehrsmittel -
-транспортное средство;
 
 die Fahrt -en
 поездка; рейс;
@@ -568,18 +541,6 @@ das Gerät -e
 die Maschine -n
 машина; механизм;
 
-der Computer -
-компьютер;
-
-der Laptop -s
-ноутбук;
-
-das Handy -s
-мобильный телефон; смартфон;
-
-die E-Mail -s
-электронное письмо; e-mail;
-
 die Webseite -n
 веб-страница; сайт;
 
@@ -594,9 +555,6 @@ der Test -s
 
 die Aufgabe -n
 задание; задача;
-
-die Notiz -en
-заметка;
 
 die Übersicht -en
 обзор; сводка;
@@ -678,9 +636,6 @@ die Ressource -n
 
 der Zugriff -e
 доступ; обращение (к данным);
-
-die Wohnung -en
-квартира; жильё;
 
 die Heizung -en
 отопление; система отопления;
@@ -777,9 +732,6 @@ der Hersteller -
 
 der Lieferant -en
 поставщик;
-
-die Firma -en
-фирма; компания;
 
 der Betrieb -e
 предприятие; производство;
@@ -1027,12 +979,6 @@ die Taste -n
 die Tastatur -en
 клавиатура;
 
-die Maus "-e
-мышь (компьютерная);
-
-der Bildschirm -e
-экран; монитор;
-
 der Drucker -
 принтер;
 
@@ -1212,9 +1158,6 @@ der Kollege -n
 
 die Kollegin -nen
 коллега;
-
-das Formular -e
-бланк; форма;
 
 das Feld -er
 поле; поле формы; область;
@@ -1405,9 +1348,6 @@ der Hafen "-
 der Flughafen "-
 аэропорт;
 
-der Bahnhof "-e
-вокзал; железнодорожная станция;
-
 der Bahnsteig -e
 платформа (на вокзале); перрон;
 
@@ -1440,9 +1380,6 @@ die Richtung -en
 
 der Standort -e
 местоположение; площадка; база;
-
-der Ort -e
-место; населённый пункт;
 
 das Ausland (sg.)
 заграница; зарубежье;
@@ -1831,9 +1768,6 @@ der Ursprung "-e
 die Küche -n
 кухня;
 
-der Kühlschrank "-e
-холодильник;
-
 der Ofen "-
 духовка; печь;
 
@@ -1846,29 +1780,11 @@ die Pfanne -n
 der Topf "-e
 кастрюля; горшок;
 
-der Löffel -
-ложка;
-
-die Gabel -n
-вилка;
-
-das Messer -
-нож;
-
-der Teller -
-тарелка;
-
 die Schüssel -n
 миска; чашка (большая);
 
-das Glas "-er
-стакан; бокал; стекло;
-
 die Tasse -n
 чашка;
-
-die Flasche -n
-бутылка;
 
 die U-Bahn -en
 метро;
@@ -1878,12 +1794,6 @@ die S-Bahn -en
 
 die Straßenbahn -en
 трамвай;
-
-das Fahrrad "-er
-велосипед;
-
-das Auto -s
-автомобиль; машина;
 
 der Zug "-e
 поезд;
@@ -1899,9 +1809,6 @@ die Aussprache -n
 
 die Grammatik -en
 грамматика;
-
-der Satz "-e
-предложение; фраза;
 
 der Begriff -e
 понятие; термин;
@@ -1995,9 +1902,6 @@ die Höhe -n
 
 die Länge -n
 длина;
-
-die Zahl -en
-число; количество;
 
 die Rate -n
 ставка; взнос (рассрочка);
@@ -2154,15 +2058,6 @@ das Tier -e
 
 der Vogel "-
 птица;
-
-der Hund -e
-собака;
-
-die Katze -n
-кошка;
-
-die Blume -n
-цветок;
 
 der Wald "-er
 лес;
@@ -2380,18 +2275,6 @@ die Wand "-e
 der Boden "-en
 пол; почва; грунт;
 
-der Schlüssel -
-ключ;
-
-die Tasche -n
-сумка; карман;
-
-die Uhr -en
-часы;
-
-der Kalender -
-календарь;
-
 das Büro -s
 офис; бюро;
 
@@ -2403,21 +2286,6 @@ der Raum "-e
 
 die Fläche -n
 площадь; поверхность;
-
-das Haus "-er
-дом; здание;
-
-die Tür -en
-дверь;
-
-das Fenster -
-окно;
-
-der Tisch -e
-стол;
-
-der Stuhl "-e
-стул;
 
 das Bett -en
 кровать;
@@ -2569,9 +2437,6 @@ das Hemd -en
 die Hose -n
 брюки; штаны;
 
-die Jacke -n
-куртка; пиджак;
-
 der Schuh -e
 обувь; ботинок;
 
@@ -2586,9 +2451,6 @@ der Hut "-e
 
 der Handschuh -e
 перчатка;
-
-die Brille -n
-очки;
 
 der Vater "-er
 отец;
@@ -2626,9 +2488,6 @@ der Freund -e
 die Freundin -nen
 подруга; девушка;
 
-die Straße -n
-улица; дорога (городская);
-
 die Insel -n
 остров;
 
@@ -2665,29 +2524,14 @@ der Mond -e
 der Stern -e
 звезда;
 
-der Stift -e
-ручка; карандаш (общ.);
-
 der Kugelschreiber -
 шариковая ручка;
 
 der Bleistift -e
 карандаш;
 
-das Heft -e
-тетрадь; брошюра;
-
-das Buch "-er
-книга;
-
 die Mappe -n
 папка; портфель;
-
-der Rucksack "-e
-рюкзак;
-
-die Tafel -n
-доска (школьная); плита;
 
 die Kreide -n
 мел;
@@ -2695,23 +2539,14 @@ die Kreide -n
 der Radiergummi -s
 ластик; резинка;
 
-die Kartoffel -n
-картофель; картофелина;
-
 der Fisch -e
 рыба;
 
 das Hähnchen -
 цыплёнок; курица (блюдо);
 
-das Ei -er
-яйцо;
-
 der Käse -
 сыр;
-
-die Wurst "-e
-колбаса; сосиска;
 
 die Frucht "-e
 фрукт; плод;
@@ -2722,35 +2557,14 @@ der Apfel "-e
 die Birne -n
 груша;
 
-die Orange -n
-апельсин;
-
-die Zitrone -n
-лимон;
-
-die Banane -n
-банан;
-
 die Traube -n
 виноград (ягода); гроздь;
-
-die Tomate -n
-помидор;
 
 die Gurke -n
 огурец;
 
-die Zwiebel -n
-лук (репчатый);
-
 die Möhre -n
 морковь;
-
-der Salat -e
-салат; зелень;
-
-die Suppe -n
-суп;
 
 das Brot -e
 хлеб; буханка;
@@ -2764,12 +2578,6 @@ der Kuchen -
 die Torte -n
 торт;
 
-die Butter (sg.)
-масло сливочное;
-
-der Joghurt -s
-йогурт;
-
 der Schinken -
 ветчина;
 
@@ -2778,9 +2586,6 @@ die Sauce -n
 
 das Gewürz -e
 специя; пряность;
-
-das Frühstück -e
-завтрак;
 
 das Mittagessen -
 обед;
@@ -2821,12 +2626,6 @@ die Milch (sg.)
 das Bier -e
 пиво;
 
-der Wein -e
-вино;
-
-das Öl -e
-масло (растительное);
-
 der Zucker (sg.)
 сахар;
 
@@ -2835,9 +2634,6 @@ das Salz -e
 
 der Pfeffer (sg.)
 перец;
-
-der Reis (sg.)
-рис;
 
 die Nudel -n
 лапша; макароны;
@@ -2889,9 +2685,6 @@ der Fahrschein -e
 
 die Pünktlichkeit (sg.)
 пунктуальность;
-
-die Schule -n
-школа;
 
 der Lehrer -
 учитель;
@@ -3004,12 +2797,6 @@ der Empfänger -
 der Umschlag "-e
 конверт; обложка;
 
-die Adresse -n
-адрес;
-
-die Hausnummer -n
-номер дома;
-
 die Etage -n
 этаж;
 
@@ -3082,9 +2869,6 @@ das Sofa -s
 der Sessel -
 кресло;
 
-die Lampe -n
-лампа;
-
 der Vorhang "-e
 штора;
 
@@ -3103,9 +2887,6 @@ die Fernbedienung -en
 das Radio -s
 радио; радиоприёмник;
 
-die Musik (sg.)
-музыка;
-
 das Konzert -e
 концерт;
 
@@ -3114,9 +2895,6 @@ das Festival -s
 
 die Kultur -en
 культура;
-
-die Freizeit (sg.)
-досуг; свободное время;
 
 das Hobby -s
 хобби; увлечение;
@@ -3283,9 +3061,6 @@ die Bank -en
 die Bank "-e
 скамья; лавка;
 
-das Geld (sg.)
-деньги; средства;
-
 der Schein -e
 банкнота; купюра; свидетельство;
 
@@ -3390,7 +3165,6 @@ die Autorin -nen
 
 der Verlag "-e
 издательство;
-
 
 die Überschrift -en
 заголовок;
@@ -3595,9 +3369,6 @@ die Zutat -en
 
 die Portion -en
 порция;
-
-der Geschmack "-er
-вкус; пристрастие;
 
 die Haltbarkeit -en
 срок годности; стойкость;

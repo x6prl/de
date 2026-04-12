@@ -1,6 +1,3 @@
-die Arbeit -en
-work; labor;
-
 das Leben (sg.)
 life; existence;
 
@@ -28,17 +25,11 @@ project;
 das Problem -e
 problem;
 
-die Frage -n
-question;
-
 der Grund "-e
 cause; base;
 
 die Grundlage -n
 warp; base;
-
-die Antwort -en
-answer;
 
 das Thema -en
 topic; question; subject of conversation;
@@ -69,9 +60,6 @@ chance; opportunity;
 
 das Risiko -en
 risk;
-
-die Regel -n
-rule;
 
 die Situation -en
 situation; position;
@@ -183,9 +171,6 @@ contract; contract;
 
 die Bedingung -en
 condition;
-
-die Anmeldung -en
-registration; recording; bid;
 
 die Beratung -en
 consultation; advice;
@@ -328,9 +313,6 @@ emergency;
 der Umfang "-e
 volume; coverage;
 
-die Menge -n
-quantity; multitude;
-
 die Reihe -n
 row; queue;
 
@@ -411,9 +393,6 @@ newspaper;
 
 der Artikel -
 article; product;
-
-der Film -e
-movie;
 
 die Serie -n
 series; series;
@@ -532,9 +511,6 @@ moment (of time);
 die Anzahl -en
 quantity; number;
 
-der Kurs -e
-rate (educational/currency);
-
 die Gebühr -en
 collection; duty; commission;
 
@@ -543,9 +519,6 @@ damage; damage;
 
 die Versorgung -en
 security; supply;
-
-das Verkehrsmittel -
-vehicle;
 
 die Fahrt -en
 drive; flight;
@@ -568,18 +541,6 @@ device; device;
 die Maschine -n
 car; mechanism;
 
-der Computer -
-computer;
-
-der Laptop -s
-laptop;
-
-das Handy -s
-mobile phone; smartphone;
-
-die E-Mail -s
-email; e-mail;
-
 die Webseite -n
 web page; website;
 
@@ -594,9 +555,6 @@ test; examination;
 
 die Aufgabe -n
 exercise; task;
-
-die Notiz -en
-note;
 
 die Übersicht -en
 review; summary;
@@ -678,9 +636,6 @@ resource;
 
 der Zugriff -e
 access; access (to data);
-
-die Wohnung -en
-apartment; housing;
 
 die Heizung -en
 heating; heating system;
@@ -777,9 +732,6 @@ manufacturer;
 
 der Lieferant -en
 supplier;
-
-die Firma -en
-firm; company;
 
 der Betrieb -e
 enterprise; production;
@@ -1027,12 +979,6 @@ key; button;
 die Tastatur -en
 keyboard;
 
-die Maus "-e
-mouse (computer);
-
-der Bildschirm -e
-screen; monitor;
-
 der Drucker -
 printer;
 
@@ -1212,9 +1158,6 @@ colleague;
 
 die Kollegin -nen
 colleague;
-
-das Formular -e
-form; form;
 
 das Feld -er
 field; form field; region;
@@ -1405,9 +1348,6 @@ port; harbor;
 der Flughafen "-
 airport;
 
-der Bahnhof "-e
-railway station; railway station;
-
 der Bahnsteig -e
 platform (at the station); platform;
 
@@ -1440,9 +1380,6 @@ direction;
 
 der Standort -e
 location; platform; base;
-
-der Ort -e
-place; populated area;
 
 das Ausland (sg.)
 abroad; abroad;
@@ -1831,9 +1768,6 @@ source; origin;
 die Küche -n
 kitchen;
 
-der Kühlschrank "-e
-fridge;
-
 der Ofen "-
 oven; bake;
 
@@ -1846,29 +1780,11 @@ pan;
 der Topf "-e
 pot; pot;
 
-der Löffel -
-spoon;
-
-die Gabel -n
-fork;
-
-das Messer -
-knife;
-
-der Teller -
-plate;
-
 die Schüssel -n
 bowl; cup (large);
 
-das Glas "-er
-cup; glass; glass;
-
 die Tasse -n
 cup;
-
-die Flasche -n
-bottle;
 
 die U-Bahn -en
 metro;
@@ -1878,12 +1794,6 @@ city ​​train;
 
 die Straßenbahn -en
 tram;
-
-das Fahrrad "-er
-bike;
-
-das Auto -s
-automobile; car;
 
 der Zug "-e
 train;
@@ -1899,9 +1809,6 @@ pronunciation;
 
 die Grammatik -en
 grammar;
-
-der Satz "-e
-offer; phrase;
 
 der Begriff -e
 concept; term;
@@ -1995,9 +1902,6 @@ height;
 
 die Länge -n
 length;
-
-die Zahl -en
-number; quantity;
 
 die Rate -n
 bid; payment (installments);
@@ -2154,15 +2058,6 @@ animal;
 
 der Vogel "-
 bird;
-
-der Hund -e
-dog;
-
-die Katze -n
-cat;
-
-die Blume -n
-flower;
 
 der Wald "-er
 forest;
@@ -2380,18 +2275,6 @@ wall;
 der Boden "-en
 floor; soil; priming;
 
-der Schlüssel -
-key;
-
-die Tasche -n
-bag; pocket;
-
-die Uhr -en
-watch;
-
-der Kalender -
-calendar;
-
 das Büro -s
 office; bureau;
 
@@ -2403,21 +2286,6 @@ premises; space; room;
 
 die Fläche -n
 square; surface;
-
-das Haus "-er
-house; building;
-
-die Tür -en
-door;
-
-das Fenster -
-window;
-
-der Tisch -e
-table;
-
-der Stuhl "-e
-chair;
 
 das Bett -en
 bed;
@@ -2569,9 +2437,6 @@ shirt;
 die Hose -n
 trousers; trousers;
 
-die Jacke -n
-jacket; blazer;
-
 der Schuh -e
 shoes; shoe;
 
@@ -2586,9 +2451,6 @@ hat;
 
 der Handschuh -e
 glove;
-
-die Brille -n
-glasses;
 
 der Vater "-er
 father;
@@ -2626,9 +2488,6 @@ friend; boyfriend;
 die Freundin -nen
 female friend; girlfriend;
 
-die Straße -n
-street; road (urban);
-
 die Insel -n
 island;
 
@@ -2665,29 +2524,14 @@ moon; month;
 der Stern -e
 star;
 
-der Stift -e
-pen; pencil (gen.);
-
 der Kugelschreiber -
 ballpen;
 
 der Bleistift -e
 pencil;
 
-das Heft -e
-notebook; brochure;
-
-das Buch "-er
-book;
-
 die Mappe -n
 folder; briefcase;
-
-der Rucksack "-e
-backpack;
-
-die Tafel -n
-blackboard (school); plate;
 
 die Kreide -n
 chalk;
@@ -2695,23 +2539,14 @@ chalk;
 der Radiergummi -s
 eraser; rubber;
 
-die Kartoffel -n
-potato; potato;
-
 der Fisch -e
 fish;
 
 das Hähnchen -
 chick; chicken (dish);
 
-das Ei -er
-egg;
-
 der Käse -
 cheese;
-
-die Wurst "-e
-sausage; sausage;
 
 die Frucht "-e
 fruit; fetus;
@@ -2722,35 +2557,14 @@ apple;
 die Birne -n
 pear;
 
-die Orange -n
-orange;
-
-die Zitrone -n
-lemon;
-
-die Banane -n
-banana;
-
 die Traube -n
 grapes (berry); bunch;
-
-die Tomate -n
-tomato;
 
 die Gurke -n
 cucumber;
 
-die Zwiebel -n
-onion (onion);
-
 die Möhre -n
 carrot;
-
-der Salat -e
-salad; green;
-
-die Suppe -n
-soup;
 
 das Brot -e
 bread; loaf;
@@ -2764,12 +2578,6 @@ pie; cake (baked goods);
 die Torte -n
 cake;
 
-die Butter (sg.)
-butter;
-
-der Joghurt -s
-yogurt;
-
 der Schinken -
 ham;
 
@@ -2778,9 +2586,6 @@ sauce;
 
 das Gewürz -e
 spice; spice;
-
-das Frühstück -e
-breakfast;
 
 das Mittagessen -
 dinner;
@@ -2821,12 +2626,6 @@ milk;
 das Bier -e
 beer;
 
-der Wein -e
-wine;
-
-das Öl -e
-oil (vegetable);
-
 der Zucker (sg.)
 sugar;
 
@@ -2835,9 +2634,6 @@ salt;
 
 der Pfeffer (sg.)
 pepper;
-
-der Reis (sg.)
-rice;
 
 die Nudel -n
 noodles; pasta;
@@ -2889,9 +2685,6 @@ ticket;
 
 die Pünktlichkeit (sg.)
 punctuality;
-
-die Schule -n
-school;
 
 der Lehrer -
 teacher;
@@ -3004,12 +2797,6 @@ recipient;
 der Umschlag "-e
 envelope; cover;
 
-die Adresse -n
-address;
-
-die Hausnummer -n
-house number;
-
 die Etage -n
 floor;
 
@@ -3082,9 +2869,6 @@ sofa;
 der Sessel -
 armchair;
 
-die Lampe -n
-lamp;
-
 der Vorhang "-e
 curtain;
 
@@ -3103,9 +2887,6 @@ remote control;
 das Radio -s
 radio; radio;
 
-die Musik (sg.)
-music;
-
 das Konzert -e
 concert;
 
@@ -3114,9 +2895,6 @@ festival;
 
 die Kultur -en
 culture;
-
-die Freizeit (sg.)
-leisure; free time;
 
 das Hobby -s
 hobby; enthusiasm;
@@ -3283,9 +3061,6 @@ bank;
 die Bank "-e
 bench; shop;
 
-das Geld (sg.)
-money; funds;
-
 der Schein -e
 banknote; bill; certificate;
 
@@ -3390,7 +3165,6 @@ author;
 
 der Verlag "-e
 publishing house;
-
 
 die Überschrift -en
 title;
@@ -3595,9 +3369,6 @@ ingredient;
 
 die Portion -en
 portion;
-
-der Geschmack "-er
-taste; addiction;
 
 die Haltbarkeit -en
 best before date; durability;

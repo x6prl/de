@@ -1,6 +1,3 @@
-das Geld (sg.)
-مال; نقود; أموال;
-
 das Wasser (sg.)
 ماء; مياه; مسطح مائي;
 
@@ -9,9 +6,6 @@ die Milch (sg.)
 
 der Hunger (sg.)
 جوع; مجاعة; هلاك جوعًا;
-
-die Musik (sg.)
-موسيقى;
 
 der Regen (sg.)
 مطر; هطول المطر;

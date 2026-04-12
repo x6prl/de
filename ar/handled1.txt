@@ -4,9 +4,6 @@ a selten
 jeden zweiten Tag
 كل يومين; يومًا بعد يوم;
 
-a manchmal
-أحيانًا; في بعض الأحيان; من وقت لآخر;
-
 v verwechseln
 يخلط; يلتبس عليه; يخطئ بين;
 [j-n; mit+Dat]
@@ -254,7 +251,7 @@ die Marmelade (sg.)
 مربى;
 
 die Menge -n
-كمية;
+كمية; مقدار;
 
 das Messer -
 سكين;
@@ -581,7 +578,7 @@ das Fenster -
 نافذة;
 
 das Geld (sg.)
-مال;
+مال; نقود; أموال;
 
 das Handy -s
 هاتف محمول;
@@ -641,7 +638,7 @@ das Tablet -s
 جهاز لوحي;
 
 die Tasche -n
-حقيبة;
+حقيبة; جيب;
 
 der Tisch -e
 طاولة;
@@ -691,14 +688,8 @@ a langsam
 a schnell
 سريع;
 
-a richtig
-صحيح; سليم;
-
 a falsch
 خاطئ; غير صحيح;
-
-a wichtig
-مهم;
 
 alle
 الجميع; كلهم;
@@ -728,10 +719,10 @@ die Adresse -n
 عنوان;
 
 die Anmeldung -en
-تسجيل; اشتراك;
+تسجيل; اشتراك; قيد;
 
 die Antwort -en
-إجابة; رد;
+إجابة; جواب; رد;
 
 die Familie -n
 عائلة;
@@ -758,7 +749,7 @@ der Irak (sg.)
 العراق;
 
 der Kurs -e
-دورة; صف;
+دورة; صف; سعر صرف;
 
 das Land "-er
 بلد; دولة;
@@ -780,9 +771,6 @@ die Mama -s
 
 die Person -en
 شخص;
-
-die Postleitzahl -en
-رمز بريدي;
 
 der Satz "-e
 جملة;
@@ -828,10 +816,6 @@ v kommen-kommt / kam / ist gekommen
 
 v lesen-liest / las / hat gelesen
 يقرأ;
-
-v sagen
-يقول;
-[etw.]
 
 v schreiben-schreibt / schrieb / hat geschrieben
 يكتب;

@@ -1,6 +1,3 @@
-das Geld (sg.)
-para; nakit; maddi kaynaklar;
-
 das Wasser (sg.)
 su; sular; su kütlesi;
 
@@ -9,9 +6,6 @@ süt;
 
 der Hunger (sg.)
 açlık; açlıktan kırılma; kıtlık;
-
-die Musik (sg.)
-müzik;
 
 der Regen (sg.)
 yağmur; yağış;

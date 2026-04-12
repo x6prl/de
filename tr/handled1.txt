@@ -4,9 +4,6 @@ nadiren; seyrek olarak;
 jeden zweiten Tag
 iki günde bir; gün aşırı;
 
-a manchmal
-bazen; ara sıra; kimi zaman;
-
 v verwechseln
 karıştırmak; birbirine karıştırmak;
 [j-n; mit+Dat]
@@ -254,7 +251,7 @@ die Marmelade (sg.)
 reçel;
 
 die Menge -n
-miktar;
+miktar; nicelik;
 
 das Messer -
 bıçak;
@@ -392,7 +389,7 @@ der Alltag (sg.)
 gündelik hayat; günlük yaşam;
 
 die Arbeit -en
-iş; çalışma;
+iş; çalışma; emek;
 
 die E-Mail -s
 e-posta;
@@ -467,7 +464,7 @@ die Woche -n
 hafta;
 
 die Wohnung -en
-daire; ev;
+daire; ev; konut;
 
 die Zeit (sg.)
 zaman;
@@ -581,13 +578,13 @@ das Fenster -
 pencere;
 
 das Geld (sg.)
-para;
+para; nakit; maddi kaynaklar;
 
 das Handy -s
-cep telefonu;
+cep telefonu; akıllı telefon;
 
 das Haus "-er
-ev; ev binası;
+ev; bina;
 
 das Heft -e
 defter;
@@ -641,7 +638,7 @@ das Tablet -s
 tablet;
 
 die Tasche -n
-çanta;
+çanta; cep;
 
 der Tisch -e
 masa;
@@ -691,14 +688,8 @@ yavaş;
 a schnell
 hızlı;
 
-a richtig
-doğru; uygun;
-
 a falsch
 yanlış; hatalı;
-
-a wichtig
-önemli;
 
 alle
 herkes; hepsi;
@@ -758,7 +749,7 @@ der Irak (sg.)
 Irak;
 
 der Kurs -e
-kurs;
+kurs; kur;
 
 das Land "-er
 ülke;
@@ -781,9 +772,6 @@ anne; anneciğim;
 die Person -en
 kişi;
 
-die Postleitzahl -en
-posta kodu;
-
 der Satz "-e
 cümle;
 
@@ -791,7 +779,7 @@ die Stadt "-e
 şehir; kent;
 
 die Straße -n
-sokak;
+sokak; cadde;
 
 die Telefonnummer -n
 telefon numarası;
@@ -828,10 +816,6 @@ gelmek; varmak;
 
 v lesen-liest / las / hat gelesen
 okumak;
-
-v sagen
-söylemek; demek;
-[etw.]
 
 v schreiben-schreibt / schrieb / hat geschrieben
 yazmak;

@@ -4,9 +4,6 @@ rarely; seldom;
 jeden zweiten Tag
 every other day; every second day;
 
-a manchmal
-sometimes; occasionally; at times;
-
 v verwechseln
 mix up{mixes up, mixed up}; confuse{confuses, confused};
 [j-n; mit+Dat]
@@ -254,7 +251,7 @@ die Marmelade (sg.)
 jam; marmalade;
 
 die Menge -n
-amount; quantity;
+amount; quantity; multitude;
 
 das Messer -
 knife;
@@ -392,7 +389,7 @@ der Alltag (sg.)
 everyday life; daily routine;
 
 die Arbeit -en
-work; job;
+work; job; labor;
 
 die E-Mail -s
 email; e-mail;
@@ -467,7 +464,7 @@ die Woche -n
 week;
 
 die Wohnung -en
-apartment; flat;
+apartment; flat; housing;
 
 die Zeit (sg.)
 time;
@@ -581,13 +578,13 @@ das Fenster -
 window;
 
 das Geld (sg.)
-money;
+money; cash; funds;
 
 das Handy -s
-mobile phone; cell phone;
+mobile phone; cell phone; smartphone;
 
 das Haus "-er
-house; home;
+house; home; building;
 
 das Heft -e
 notebook; exercise book;
@@ -596,7 +593,7 @@ der Hund -e
 dog;
 
 die Jacke -n
-jacket;
+jacket; blazer;
 
 der Kaffee (sg.)
 coffee;
@@ -614,7 +611,7 @@ der Laptop -s
 laptop;
 
 die Maus "-e
-mouse;
+mouse; computer mouse;
 
 die Notiz -en
 note; notation;
@@ -641,7 +638,7 @@ das Tablet -s
 tablet;
 
 die Tasche -n
-bag;
+bag; pocket;
 
 der Tisch -e
 table;
@@ -691,14 +688,8 @@ slow;
 a schnell
 fast; quick;
 
-a richtig
-correct; right;
-
 a falsch
 wrong; incorrect;
-
-a wichtig
-important;
 
 alle
 all; everyone;
@@ -728,7 +719,7 @@ die Adresse -n
 address;
 
 die Anmeldung -en
-registration; sign-up;
+registration; sign-up; application;
 
 die Antwort -en
 answer;
@@ -758,7 +749,7 @@ der Irak (sg.)
 Iraq;
 
 der Kurs -e
-course;
+course; exchange rate;
 
 das Land "-er
 country;
@@ -781,9 +772,6 @@ mom; mama;
 die Person -en
 person;
 
-die Postleitzahl -en
-postal code; ZIP code;
-
 der Satz "-e
 sentence;
 
@@ -791,7 +779,7 @@ die Stadt "-e
 city; town;
 
 die Straße -n
-street;
+street; road;
 
 die Telefonnummer -n
 telephone number; phone number;
@@ -828,10 +816,6 @@ come{comes, came, come}; arrive{arrives, arrived};
 
 v lesen-liest / las / hat gelesen
 read{reads, read};
-
-v sagen
-say{says, said};
-[etw.]
 
 v schreiben-schreibt / schrieb / hat geschrieben
 write{writes, wrote, written};

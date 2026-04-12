@@ -1,6 +1,3 @@
-das Geld (sg.)
-money; cash; funds;
-
 das Wasser (sg.)
 water; waters; body of water;
 
@@ -9,9 +6,6 @@ milk;
 
 der Hunger (sg.)
 hunger; starvation; famine;
-
-die Musik (sg.)
-music;
 
 der Regen (sg.)
 rain; rainfall;

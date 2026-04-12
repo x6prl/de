@@ -1,6 +1,3 @@
-die Arbeit -en
-iş; emek;
-
 das Leben (sg.)
 hayat; varoluş;
 
@@ -28,17 +25,11 @@ proje;
 das Problem -e
 sorun;
 
-die Frage -n
-soru;
-
 der Grund "-e
 neden; temel;
 
 die Grundlage -n
 temel; dayanak;
-
-die Antwort -en
-cevap; yanıt;
 
 das Thema -en
 konu; mesele; sohbet konusu;
@@ -69,9 +60,6 @@ die Chance -n
 
 das Risiko -en
 risk;
-
-die Regel -n
-kural;
 
 die Situation -en
 durum; vaziyet;
@@ -183,9 +171,6 @@ sözleşme; kontrat;
 
 die Bedingung -en
 koşul; şart;
-
-die Anmeldung -en
-kayıt; başvuru; bildirim;
 
 die Beratung -en
 danışmanlık; tavsiye;
@@ -328,9 +313,6 @@ acil durum;
 der Umfang "-e
 kapsam; hacim;
 
-die Menge -n
-miktar; nicelik;
-
 die Reihe -n
 sıra; kuyruk;
 
@@ -411,9 +393,6 @@ gazete;
 
 der Artikel -
 makale; ürün;
-
-der Film -e
-film;
 
 die Serie -n
 seri;
@@ -532,9 +511,6 @@ belirli an;
 die Anzahl -en
 miktar; sayı;
 
-der Kurs -e
-oran;
-
 die Gebühr -en
 koleksiyon; görev; komisyon;
 
@@ -543,9 +519,6 @@ hasar;
 
 die Versorgung -en
 güvenlik; arz;
-
-das Verkehrsmittel -
-araç;
 
 die Fahrt -en
 yolculuk; sefer;
@@ -568,18 +541,6 @@ cihaz;
 die Maschine -n
 araba; mekanizma;
 
-der Computer -
-bilgisayar;
-
-der Laptop -s
-dizüstü bilgisayar;
-
-das Handy -s
-cep telefonu; akıllı telefon;
-
-die E-Mail -s
-e-posta;
-
 die Webseite -n
 web sayfası; web sitesi;
 
@@ -594,9 +555,6 @@ test; inceleme;
 
 die Aufgabe -n
 egzersiz; görev;
-
-die Notiz -en
-not;
 
 die Übersicht -en
 inceleme; özet;
@@ -678,9 +636,6 @@ kaynak;
 
 der Zugriff -e
 erişim; veriye erişim;
-
-die Wohnung -en
-daire; konut;
 
 die Heizung -en
 ısıtma; ısıtma sistemi;
@@ -777,9 +732,6 @@ der Hersteller -
 
 der Lieferant -en
 tedarikçi;
-
-die Firma -en
-firma; şirket;
 
 der Betrieb -e
 işletme; üretim;
@@ -1027,12 +979,6 @@ anahtar; düğme;
 die Tastatur -en
 klavye;
 
-die Maus "-e
-fare;
-
-der Bildschirm -e
-ekran; monitör;
-
 der Drucker -
 yazıcı;
 
@@ -1212,9 +1158,6 @@ meslektaş;
 
 die Kollegin -nen
 meslektaş;
-
-das Formular -e
-form;
 
 das Feld -er
 alan; form alanı; bölge;
@@ -1405,9 +1348,6 @@ liman;
 der Flughafen "-
 havaalanı;
 
-der Bahnhof "-e
-tren istasyonu;
-
 der Bahnsteig -e
 peron; platform;
 
@@ -1440,9 +1380,6 @@ yön;
 
 der Standort -e
 konum; platform; taban;
-
-der Ort -e
-yer; nüfuslu alan;
 
 das Ausland (sg.)
 yurtdışında;
@@ -1831,9 +1768,6 @@ kaynak; köken;
 die Küche -n
 mutfak;
 
-der Kühlschrank "-e
-buzdolabı;
-
 der Ofen "-
 fırın;
 
@@ -1846,29 +1780,11 @@ tava;
 der Topf "-e
 tencere;
 
-der Löffel -
-kaşık;
-
-die Gabel -n
-çatal;
-
-das Messer -
-bıçak;
-
-der Teller -
-tabak;
-
 die Schüssel -n
 kase; çanak;
 
-das Glas "-er
-bardak; cam;
-
 die Tasse -n
 fincan;
-
-die Flasche -n
-şişe;
 
 die U-Bahn -en
 metro;
@@ -1878,12 +1794,6 @@ die S-Bahn -en
 
 die Straßenbahn -en
 tramvay;
-
-das Fahrrad "-er
-bisiklet;
-
-das Auto -s
-otomobil; araba;
 
 der Zug "-e
 tren;
@@ -1899,9 +1809,6 @@ telaffuz;
 
 die Grammatik -en
 gramer;
-
-der Satz "-e
-teklif; cümle;
 
 der Begriff -e
 kavram; dönem;
@@ -1995,9 +1902,6 @@ yükseklik;
 
 die Länge -n
 uzunluk;
-
-die Zahl -en
-sayı; miktar;
 
 die Rate -n
 teklif; ödeme;
@@ -2154,15 +2058,6 @@ hayvan;
 
 der Vogel "-
 kuş;
-
-der Hund -e
-köpek;
-
-die Katze -n
-kedi;
-
-die Blume -n
-çiçek;
 
 der Wald "-er
 orman;
@@ -2380,18 +2275,6 @@ duvar;
 der Boden "-en
 zemin; toprak; astarlama;
 
-der Schlüssel -
-anahtar;
-
-die Tasche -n
-çanta; cep;
-
-die Uhr -en
-saat;
-
-der Kalender -
-takvim;
-
 das Büro -s
 ofis; büro;
 
@@ -2403,21 +2286,6 @@ bina; uzay; oda;
 
 die Fläche -n
 kare; yüzey;
-
-das Haus "-er
-ev; bina;
-
-die Tür -en
-kapı;
-
-das Fenster -
-pencere;
-
-der Tisch -e
-masa;
-
-der Stuhl "-e
-sandalye;
 
 das Bett -en
 yatak;
@@ -2569,9 +2437,6 @@ gömlek;
 die Hose -n
 pantolon;
 
-die Jacke -n
-ceket;
-
 der Schuh -e
 ayakkabılar; ayakkabı;
 
@@ -2586,9 +2451,6 @@ der Hut "-e
 
 der Handschuh -e
 eldiven;
-
-die Brille -n
-gözlük;
 
 der Vater "-er
 baba;
@@ -2626,9 +2488,6 @@ arkadaş; erkek arkadaş;
 die Freundin -nen
 kadın arkadaş; kız arkadaş;
 
-die Straße -n
-sokak; cadde;
-
 die Insel -n
 ada;
 
@@ -2665,29 +2524,14 @@ ay;
 der Stern -e
 yıldız;
 
-der Stift -e
-kalem;
-
 der Kugelschreiber -
 tükenmez kalem;
 
 der Bleistift -e
 kalem;
 
-das Heft -e
-not defteri; Broşür;
-
-das Buch "-er
-kitap;
-
 die Mappe -n
 klasör; evrak çantası;
-
-der Rucksack "-e
-sırt çantası;
-
-die Tafel -n
-tahta; yazı tahtası;
 
 die Kreide -n
 tebeşir;
@@ -2695,23 +2539,14 @@ tebeşir;
 der Radiergummi -s
 silgi; kauçuk;
 
-die Kartoffel -n
-patates;
-
 der Fisch -e
 balık;
 
 das Hähnchen -
 piliç; tavuk yemeği;
 
-das Ei -er
-yumurta;
-
 der Käse -
 peynir;
-
-die Wurst "-e
-sosis;
 
 die Frucht "-e
 meyve; fetüs;
@@ -2722,35 +2557,14 @@ elma;
 die Birne -n
 armut;
 
-die Orange -n
-portakal;
-
-die Zitrone -n
-limon;
-
-die Banane -n
-muz;
-
 die Traube -n
 üzüm; grup;
-
-die Tomate -n
-domates;
 
 die Gurke -n
 salatalık;
 
-die Zwiebel -n
-soğan;
-
 die Möhre -n
 havuç;
-
-der Salat -e
-salata; marul;
-
-die Suppe -n
-çorba;
 
 das Brot -e
 ekmek; somun;
@@ -2764,12 +2578,6 @@ pasta;
 die Torte -n
 kek;
 
-die Butter (sg.)
-tereyağı;
-
-der Joghurt -s
-yoğurt;
-
 der Schinken -
 jambon;
 
@@ -2778,9 +2586,6 @@ sos;
 
 das Gewürz -e
 baharat;
-
-das Frühstück -e
-kahvaltı;
 
 das Mittagessen -
 akşam yemeği;
@@ -2821,12 +2626,6 @@ süt;
 das Bier -e
 bira;
 
-der Wein -e
-şarap;
-
-das Öl -e
-bitkisel yağ;
-
 der Zucker (sg.)
 şeker;
 
@@ -2835,9 +2634,6 @@ tuz;
 
 der Pfeffer (sg.)
 biber;
-
-der Reis (sg.)
-pirinç;
 
 die Nudel -n
 erişte; makarna;
@@ -2889,9 +2685,6 @@ bilet;
 
 die Pünktlichkeit (sg.)
 dakiklik;
-
-die Schule -n
-okul;
 
 der Lehrer -
 öğretmen;
@@ -3004,12 +2797,6 @@ alıcı;
 der Umschlag "-e
 zarf; kapak;
 
-die Adresse -n
-adres;
-
-die Hausnummer -n
-ev numarası;
-
 die Etage -n
 zemin;
 
@@ -3082,9 +2869,6 @@ kanepe;
 der Sessel -
 koltuk;
 
-die Lampe -n
-lamba;
-
 der Vorhang "-e
 perde;
 
@@ -3103,9 +2887,6 @@ uzaktan kumanda;
 das Radio -s
 radyo;
 
-die Musik (sg.)
-müzik;
-
 das Konzert -e
 konser;
 
@@ -3114,9 +2895,6 @@ festival;
 
 die Kultur -en
 kültür;
-
-die Freizeit (sg.)
-boş zaman;
 
 das Hobby -s
 hobi; coşku;
@@ -3282,9 +3060,6 @@ banka;
 
 die Bank "-e
 tezgah; dükkan;
-
-das Geld (sg.)
-para; fonlar;
 
 der Schein -e
 banknot; fatura; sertifika;
@@ -3594,9 +3369,6 @@ içerik;
 
 die Portion -en
 porsiyon;
-
-der Geschmack "-er
-tat; bağımlılık;
 
 die Haltbarkeit -en
 tarihten önceki en iyi tarih; dayanıklılık;

@@ -4,9 +4,6 @@ a selten
 jeden zweiten Tag
 через день; каждый второй день;
 
-a manchmal
-иногда; порой; временами;
-
 v verwechseln
 путать; перепутать;
 [j-n; mit+Dat]
@@ -215,7 +212,7 @@ die Blume -n
 цветок;
 
 die Butter (sg.)
-масло;
+сливочное масло;
 
 das Ei -er
 яйцо;
@@ -254,7 +251,7 @@ die Marmelade (sg.)
 джем; варенье;
 
 die Menge -n
-количество;
+количество; множество;
 
 das Messer -
 нож;
@@ -263,7 +260,7 @@ das Müsli (sg.)
 мюсли;
 
 das Öl -e
-масло;
+растительное масло;
 
 die Orange -n
 апельсин;
@@ -392,7 +389,7 @@ der Alltag (sg.)
 повседневная жизнь; будни;
 
 die Arbeit -en
-работа;
+работа; труд;
 
 die E-Mail -s
 электронное письмо; e-mail;
@@ -401,7 +398,7 @@ der Film -e
 фильм;
 
 die Freizeit (sg.)
-свободное время;
+свободное время; досуг;
 
 der Fußball (sg.)
 футбол;
@@ -467,7 +464,7 @@ die Woche -n
 неделя;
 
 die Wohnung -en
-квартира;
+квартира; жильё;
 
 die Zeit (sg.)
 время;
@@ -581,13 +578,13 @@ das Fenster -
 окно;
 
 das Geld (sg.)
-деньги;
+деньги; наличные; средства;
 
 das Handy -s
-мобильный телефон;
+мобильный телефон; смартфон;
 
 das Haus "-er
-дом;
+дом; здание;
 
 das Heft -e
 тетрадь;
@@ -596,7 +593,7 @@ der Hund -e
 собака;
 
 die Jacke -n
-куртка;
+куртка; пиджак;
 
 der Kaffee (sg.)
 кофе;
@@ -614,7 +611,7 @@ der Laptop -s
 ноутбук;
 
 die Maus "-e
-мышь;
+мышь; компьютерная мышь;
 
 die Notiz -en
 заметка; запись;
@@ -641,7 +638,7 @@ das Tablet -s
 планшет;
 
 die Tasche -n
-сумка;
+сумка; карман;
 
 der Tisch -e
 стол;
@@ -691,14 +688,8 @@ a langsam
 a schnell
 быстрый;
 
-a richtig
-правильный;
-
 a falsch
 неправильный;
-
-a wichtig
-важный;
 
 alle
 все;
@@ -728,7 +719,7 @@ die Adresse -n
 адрес;
 
 die Anmeldung -en
-регистрация; запись;
+регистрация; запись; заявка;
 
 die Antwort -en
 ответ;
@@ -758,7 +749,7 @@ der Irak (sg.)
 Ирак;
 
 der Kurs -e
-курс;
+курс; обменный курс;
 
 das Land "-er
 страна;
@@ -781,9 +772,6 @@ die Mama -s
 die Person -en
 человек; персона;
 
-die Postleitzahl -en
-почтовый индекс;
-
 der Satz "-e
 предложение;
 
@@ -791,7 +779,7 @@ die Stadt "-e
 город;
 
 die Straße -n
-улица;
+улица; дорога;
 
 die Telefonnummer -n
 номер телефона;
@@ -828,10 +816,6 @@ v kommen-kommt / kam / ist gekommen
 
 v lesen-liest / las / hat gelesen
 читать;
-
-v sagen
-говорить; сказать;
-[etw.]
 
 v schreiben-schreibt / schrieb / hat geschrieben
 писать;

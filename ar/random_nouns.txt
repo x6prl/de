@@ -1,6 +1,3 @@
-die Arbeit -en
-عمل; شغل;
-
 das Leben (sg.)
 حياة; وجود;
 
@@ -28,17 +25,11 @@ das Projekt -e
 das Problem -e
 مشكلة;
 
-die Frage -n
-سؤال;
-
 der Grund "-e
 سبب; أساس;
 
 die Grundlage -n
 أساس; قاعدة;
-
-die Antwort -en
-إجابة; جواب;
 
 das Thema -en
 موضوع; مسألة; موضوع حديث;
@@ -69,9 +60,6 @@ die Chance -n
 
 das Risiko -en
 خطر; مجازفة;
-
-die Regel -n
-قاعدة;
 
 die Situation -en
 وضع; حالة;
@@ -183,9 +171,6 @@ der Vertrag "-e
 
 die Bedingung -en
 شرط;
-
-die Anmeldung -en
-تسجيل; قيد; طلب تسجيل;
 
 die Beratung -en
 استشارة; نصيحة;
@@ -328,9 +313,6 @@ der Notfall "-e
 der Umfang "-e
 نطاق; حجم;
 
-die Menge -n
-كمية; مقدار;
-
 die Reihe -n
 صف; سلسلة;
 
@@ -411,9 +393,6 @@ die Zeitung -en
 
 der Artikel -
 مقال; سلعة;
-
-der Film -e
-فيلم;
 
 die Serie -n
 مسلسل;
@@ -532,9 +511,6 @@ der Zeitpunkt -e
 die Anzahl -en
 عدد;
 
-der Kurs -e
-دورة; سعر صرف;
-
 die Gebühr -en
 رسوم;
 
@@ -543,9 +519,6 @@ der Schaden "-en
 
 die Versorgung -en
 إمداد; رعاية;
-
-das Verkehrsmittel -
-وسيلة نقل;
 
 die Fahrt -en
 رحلة;
@@ -568,18 +541,6 @@ das Gerät -e
 die Maschine -n
 آلة;
 
-der Computer -
-حاسوب;
-
-der Laptop -s
-حاسوب محمول;
-
-das Handy -s
-هاتف محمول;
-
-die E-Mail -s
-بريد إلكتروني;
-
 die Webseite -n
 صفحة ويب; موقع;
 
@@ -594,9 +555,6 @@ der Test -s
 
 die Aufgabe -n
 مهمة; تمرين;
-
-die Notiz -en
-ملاحظة;
 
 die Übersicht -en
 نظرة عامة;
@@ -678,9 +636,6 @@ die Ressource -n
 
 der Zugriff -e
 وصول; نفاذ;
-
-die Wohnung -en
-شقة;
 
 die Heizung -en
 تدفئة;
@@ -777,9 +732,6 @@ der Hersteller -
 
 der Lieferant -en
 مورد;
-
-die Firma -en
-شركة;
 
 der Betrieb -e
 منشأة; تشغيل;
@@ -1027,12 +979,6 @@ die Taste -n
 die Tastatur -en
 لوحة مفاتيح;
 
-die Maus "-e
-فأرة;
-
-der Bildschirm -e
-شاشة;
-
 der Drucker -
 طابعة;
 
@@ -1212,9 +1158,6 @@ der Kollege -n
 
 die Kollegin -nen
 زميلة;
-
-das Formular -e
-استمارة;
 
 das Feld -er
 حقل; مجال;
@@ -1405,9 +1348,6 @@ der Hafen "-
 der Flughafen "-
 مطار;
 
-der Bahnhof "-e
-محطة قطار;
-
 der Bahnsteig -e
 رصيف;
 
@@ -1440,9 +1380,6 @@ die Richtung -en
 
 der Standort -e
 موقع;
-
-der Ort -e
-مكان; بلدة;
 
 das Ausland (sg.)
 الخارج;
@@ -1831,9 +1768,6 @@ der Ursprung "-e
 die Küche -n
 مطبخ;
 
-der Kühlschrank "-e
-ثلاجة;
-
 der Ofen "-
 فرن;
 
@@ -1846,29 +1780,11 @@ die Pfanne -n
 der Topf "-e
 قدر;
 
-der Löffel -
-ملعقة;
-
-die Gabel -n
-شوكة;
-
-das Messer -
-سكين;
-
-der Teller -
-طبق;
-
 die Schüssel -n
 وعاء; سلطانية;
 
-das Glas "-er
-كأس; زجاج;
-
 die Tasse -n
 فنجان;
-
-die Flasche -n
-زجاجة;
 
 die U-Bahn -en
 مترو;
@@ -1878,12 +1794,6 @@ die S-Bahn -en
 
 die Straßenbahn -en
 ترام;
-
-das Fahrrad "-er
-دراجة;
-
-das Auto -s
-سيارة;
 
 der Zug "-e
 قطار;
@@ -1899,9 +1809,6 @@ die Aussprache -n
 
 die Grammatik -en
 قواعد;
-
-der Satz "-e
-جملة;
 
 der Begriff -e
 مصطلح; مفهوم;
@@ -1995,9 +1902,6 @@ die Höhe -n
 
 die Länge -n
 طول;
-
-die Zahl -en
-رقم; عدد;
 
 die Rate -n
 قسط; معدل;
@@ -2154,15 +2058,6 @@ das Tier -e
 
 der Vogel "-
 طائر;
-
-der Hund -e
-كلب;
-
-die Katze -n
-قطة;
-
-die Blume -n
-زهرة;
 
 der Wald "-er
 غابة;
@@ -2380,18 +2275,6 @@ die Wand "-e
 der Boden "-en
 أرضية; تربة;
 
-der Schlüssel -
-مفتاح;
-
-die Tasche -n
-حقيبة; جيب;
-
-die Uhr -en
-ساعة;
-
-der Kalender -
-تقويم;
-
 das Büro -s
 مكتب;
 
@@ -2403,21 +2286,6 @@ der Raum "-e
 
 die Fläche -n
 مساحة; سطح;
-
-das Haus "-er
-بيت;
-
-die Tür -en
-باب;
-
-das Fenster -
-نافذة;
-
-der Tisch -e
-طاولة;
-
-der Stuhl "-e
-كرسي;
 
 das Bett -en
 سرير;
@@ -2569,9 +2437,6 @@ das Hemd -en
 die Hose -n
 سروال;
 
-die Jacke -n
-سترة;
-
 der Schuh -e
 حذاء;
 
@@ -2586,9 +2451,6 @@ der Hut "-e
 
 der Handschuh -e
 قفاز;
-
-die Brille -n
-نظارات;
 
 der Vater "-er
 أب;
@@ -2626,9 +2488,6 @@ der Freund -e
 die Freundin -nen
 صديقة; حبيبة;
 
-die Straße -n
-شارع;
-
 die Insel -n
 جزيرة;
 
@@ -2665,29 +2524,14 @@ der Mond -e
 der Stern -e
 نجم;
 
-der Stift -e
-قلم;
-
 der Kugelschreiber -
 قلم حبر;
 
 der Bleistift -e
 قلم رصاص;
 
-das Heft -e
-دفتر;
-
-das Buch "-er
-كتاب;
-
 die Mappe -n
 حافظة;
-
-der Rucksack "-e
-حقيبة ظهر;
-
-die Tafel -n
-سبورة;
 
 die Kreide -n
 طباشير;
@@ -2695,23 +2539,14 @@ die Kreide -n
 der Radiergummi -s
 ممحاة;
 
-die Kartoffel -n
-بطاطا;
-
 der Fisch -e
 سمك;
 
 das Hähnchen -
 دجاج;
 
-das Ei -er
-بيضة;
-
 der Käse -
 جبن;
-
-die Wurst "-e
-نقانق;
 
 die Frucht "-e
 فاكهة;
@@ -2722,35 +2557,14 @@ der Apfel "-e
 die Birne -n
 كمثرى;
 
-die Orange -n
-برتقالة;
-
-die Zitrone -n
-ليمونة;
-
-die Banane -n
-موزة;
-
 die Traube -n
 عنب;
-
-die Tomate -n
-طماطم;
 
 die Gurke -n
 خيار;
 
-die Zwiebel -n
-بصلة;
-
 die Möhre -n
 جزرة;
-
-der Salat -e
-سلطة;
-
-die Suppe -n
-حساء;
 
 das Brot -e
 خبز;
@@ -2764,12 +2578,6 @@ der Kuchen -
 die Torte -n
 تورتة;
 
-die Butter (sg.)
-زبدة;
-
-der Joghurt -s
-زبادي;
-
 der Schinken -
 هام;
 
@@ -2778,9 +2586,6 @@ die Sauce -n
 
 das Gewürz -e
 بهار;
-
-das Frühstück -e
-فطور;
 
 das Mittagessen -
 غداء;
@@ -2821,12 +2626,6 @@ die Milch (sg.)
 das Bier -e
 جعة;
 
-der Wein -e
-نبيذ;
-
-das Öl -e
-زيت;
-
 der Zucker (sg.)
 سكر;
 
@@ -2835,9 +2634,6 @@ das Salz -e
 
 der Pfeffer (sg.)
 فلفل;
-
-der Reis (sg.)
-أرز;
 
 die Nudel -n
 معكرونة;
@@ -2889,9 +2685,6 @@ der Fahrschein -e
 
 die Pünktlichkeit (sg.)
 دقة المواعيد;
-
-die Schule -n
-مدرسة;
 
 der Lehrer -
 معلم;
@@ -3004,12 +2797,6 @@ der Empfänger -
 der Umschlag "-e
 ظرف;
 
-die Adresse -n
-عنوان;
-
-die Hausnummer -n
-رقم المنزل;
-
 die Etage -n
 طابق;
 
@@ -3082,9 +2869,6 @@ das Sofa -s
 der Sessel -
 كرسي بذراعين;
 
-die Lampe -n
-مصباح;
-
 der Vorhang "-e
 ستارة;
 
@@ -3103,9 +2887,6 @@ die Fernbedienung -en
 das Radio -s
 راديو;
 
-die Musik (sg.)
-موسيقى;
-
 das Konzert -e
 حفل موسيقي;
 
@@ -3114,9 +2895,6 @@ das Festival -s
 
 die Kultur -en
 ثقافة;
-
-die Freizeit (sg.)
-وقت فراغ;
 
 das Hobby -s
 هواية;
@@ -3282,9 +3060,6 @@ die Bank -en
 
 die Bank "-e
 مقعد;
-
-das Geld (sg.)
-مال; أموال;
 
 der Schein -e
 ورقة نقدية; شهادة;
@@ -3594,9 +3369,6 @@ die Zutat -en
 
 die Portion -en
 حصة;
-
-der Geschmack "-er
-طعم;
 
 die Haltbarkeit -en
 مدة الصلاحية; متانة;
