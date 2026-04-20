@@ -844,9 +844,6 @@ aus + Dat.
 bitte
 من فضلك; تفضل;
 
-danke
-شكرًا;
-
 Entschuldigung!
 عذرًا!; آسف!;
 

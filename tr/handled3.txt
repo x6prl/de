@@ -1,0 +1,194 @@
+die Anzeige -n
+ilan; duyuru;
+
+das Bad "er
+banyo; banyo odası;
+
+der Balkon -e
+balkon;
+
+das Bett -en
+yatak;
+
+die Dusche -n
+duş;
+
+das Erdgeschoss -e
+zemin kat; giriş katı;
+
+der Flur -e
+koridor; antre;
+
+die Garage -n
+garaj;
+
+der Garten "-
+bahçe;
+
+das Haus "er
+ev; konut;
+
+die Heizung -en
+ısıtma; ısıtma sistemi;
+
+der Keller -
+bodrum; kiler;
+
+die Küche -n
+mutfak;
+
+die Miete -n
+kira; kira ücreti;
+
+der Mieter -
+kiracı;
+
+die Mieterin -nen
+kiracı;
+
+die Möbel (pl.)
+mobilyalar;
+
+der Monat -e
+ay;
+
+der Nachbar -n
+komşu;
+
+die Nachbarin -nen
+komşu;
+
+die Nebenkosten (pl.)
+ek giderler; yan giderler;
+
+der Platz (sg.)
+yer; alan; boş yer;
+
+der Schrank "e
+dolap; gardırop;
+
+der Sessel -
+koltuk;
+
+das Sofa -s
+kanepe; koltuk;
+
+der Spielplatz "-e
+çocuk parkı; oyun parkı;
+
+die Toilette -n
+tuvalet;
+
+der Vermieter -
+ev sahibi; kiraya veren;
+
+die Vermieterin -nen
+ev sahibesi; kiraya veren kadın;
+
+die Wohnung -en
+daire; ev; konut;
+
+das Zentrum -en
+merkez; şehir merkezi;
+
+das Zimmer -
+oda;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+bir yere koymak{bir yere koyar, bir yere koydu}; bırakmak{bırakır, bıraktı}; kapatmak{kapatır, kapattı};
+
+v benutzen / benutzte / hat benutzt
+kullanmak{kullanır, kullandı};
+
+v bezahlen / bezahlte / hat bezahlt
+ödemek{öder, ödedi}; parasını vermek{parasını verir, parasını verdi};
+
+v dürfen-darf / durfte / hat gedurft
+izinli olmak{izinli olur, izinli oldu}; izin verilmiş olmak;
+
+v grillen / grillte / hat gegrillt
+ızgara yapmak{ızgara yapar, ızgara yaptı}; mangalda pişirmek;
+
+v mieten / mietete / hat gemietet
+kiralamak{kiralar, kiraladı};
+
+v parken / parkte / hat geparkt
+park etmek{park eder, park etti};
+
+v putzen / putzte / hat geputzt
+temizlemek{temizler, temizledi}; toparlamak{toparlar, toparladı};
+
+v rauchen / rauchte / hat geraucht
+sigara içmek{sigara içer, sigara içti};
+
+v wollen-will / wollte / hat gewollt
+istemek{ister, istedi};
+
+a alt
+eski{daha eski, en eski}; yaşlı{daha yaşlı, en yaşlı};
+
+a neu
+yeni{daha yeni, en yeni};
+
+a billig
+ucuz;
+
+a teuer
+pahalı;
+
+a dunkel
+karanlık{daha karanlık, en karanlık}; koyu{daha koyu, en koyu};
+
+a hell
+aydınlık{daha aydınlık, en aydınlık}; açık renkli{daha açık, en açık};
+
+a erlaubt
+izin verilen; serbest;
+
+a verboten
+yasak;
+
+a groß
+büyük{daha büyük, en büyük}; geniş{daha geniş, en geniş};
+
+a klein
+küçük{daha küçük, en küçük};
+
+a hoch
+yüksek{daha yüksek, en yüksek};
+
+a jung
+genç{daha genç, en genç};
+
+a kalt
+soğuk{daha soğuk, en soğuk};
+
+a warm
+sıcak{daha sıcak, en sıcak};
+
+a laut
+gürültülü{daha gürültülü, en gürültülü}; yüksek sesli;
+
+a ruhig
+sessiz{daha sessiz, en sessiz}; sakin{daha sakin, en sakin};
+
+a modern
+modern; çağdaş;
+
+a weit
+uzak{daha uzak, en uzak}; geniş{daha geniş, en geniş}; ferah{daha ferah, en ferah};
+
+a wichtig
+önemli{daha önemli, en önemli}; kayda değer{daha kayda değer, en kayda değer};
+
+ein bisschen
+biraz; azıcık;
+
+a leider
+maalesef; ne yazık ki;
+
+a sehr
+çok; fazlasıyla;
+
+a wenig
+az; az miktarda;

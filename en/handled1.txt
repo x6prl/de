@@ -844,9 +844,6 @@ from; out of;
 bitte
 please;
 
-danke
-thank you; thanks;
-
 Entschuldigung!
 excuse me!; sorry!;
 

@@ -1,0 +1,194 @@
+die Anzeige -n
+إعلان; إشعار;
+
+das Bad "er
+حمّام; غرفة استحمام;
+
+der Balkon -e
+شرفة;
+
+das Bett -en
+سرير;
+
+die Dusche -n
+دش; غرفة استحمام;
+
+das Erdgeschoss -e
+الطابق الأرضي;
+
+der Flur -e
+ممر; ردهة;
+
+die Garage -n
+مرآب; كراج;
+
+der Garten "-
+حديقة;
+
+das Haus "er
+بيت; منزل;
+
+die Heizung -en
+تدفئة; نظام تدفئة;
+
+der Keller -
+قبو; سرداب;
+
+die Küche -n
+مطبخ;
+
+die Miete -n
+إيجار; أجرة السكن;
+
+der Mieter -
+مستأجر;
+
+die Mieterin -nen
+مستأجرة;
+
+die Möbel (pl.)
+أثاث;
+
+der Monat -e
+شهر;
+
+der Nachbar -n
+جار;
+
+die Nachbarin -nen
+جارة;
+
+die Nebenkosten (pl.)
+تكاليف إضافية; رسوم خدمات;
+
+der Platz (sg.)
+مكان; مساحة; متسع;
+
+der Schrank "e
+خزانة; دولاب;
+
+der Sessel -
+كرسي بذراعين;
+
+das Sofa -s
+أريكة;
+
+der Spielplatz "-e
+ملعب أطفال;
+
+die Toilette -n
+مرحاض; دورة مياه;
+
+der Vermieter -
+مالك مؤجر; مالك العقار;
+
+die Vermieterin -nen
+مالكة مؤجرة; مالكة العقار;
+
+die Wohnung -en
+شقة;
+
+das Zentrum -en
+مركز; وسط المدينة;
+
+das Zimmer -
+غرفة;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+يضع{يضع, وضع}; يترك{يترك, ترك}; يطفئ{يطفئ, أطفأ};
+
+v benutzen / benutzte / hat benutzt
+يستخدم{يستخدم, استخدم};
+
+v bezahlen / bezahlte / hat bezahlt
+يدفع{يدفع, دفع}; يسدد{يسدد, سدد};
+
+v dürfen-darf / durfte / hat gedurft
+يُسمح له بـ{يُسمح له, سُمح له}; يجوز له;
+
+v grillen / grillte / hat gegrillt
+يشوي{يشوي, شوى}; يشوي على الفحم;
+
+v mieten / mietete / hat gemietet
+يستأجر{يستأجر, استأجر};
+
+v parken / parkte / hat geparkt
+يركن{يركن, ركن}; يصفّ السيارة;
+
+v putzen / putzte / hat geputzt
+ينظف{ينظف, نظف}; يرتب{يرتب, رتب};
+
+v rauchen / rauchte / hat geraucht
+يدخن{يدخن, دخن};
+
+v wollen-will / wollte / hat gewollt
+يريد{يريد, أراد};
+
+a alt
+قديم{أقدم, الأقدم}; مسنّ{أكبر سنًا, الأكبر سنًا};
+
+a neu
+جديد{أحدث, الأحدث};
+
+a billig
+رخيص;
+
+a teuer
+غالٍ; مكلف;
+
+a dunkel
+مظلم{أظلم, الأظلم}; داكن{أدكن, الأدكن};
+
+a hell
+مضيء{أكثر إضاءة, الأكثر إضاءة}; فاتح{أفتح, الأفتح};
+
+a erlaubt
+مسموح; مسموح به;
+
+a verboten
+ممنوع; محظور;
+
+a groß
+كبير{أكبر, الأكبر}; واسع{أوسع, الأوسع};
+
+a klein
+صغير{أصغر, الأصغر};
+
+a hoch
+عالٍ{أعلى, الأعلى}; مرتفع{أعلى, الأعلى};
+
+a jung
+شاب{أصغر سنًا, الأصغر سنًا}; صغير السن;
+
+a kalt
+بارد{أبرد, الأبرد};
+
+a warm
+دافئ{أدفأ, الأدفأ};
+
+a laut
+صاخب{أصخب, الأصخب}; مرتفع الصوت;
+
+a ruhig
+هادئ{أهدأ, الأهدأ}; ساكن;
+
+a modern
+حديث; عصري;
+
+a weit
+بعيد{أبعد, الأبعد}; واسع{أوسع, الأوسع}; فسيح{أفسح, الأفسح};
+
+a wichtig
+مهم{أهمّ, الأهمّ}; جوهري;
+
+ein bisschen
+قليلًا; بعض الشيء;
+
+a leider
+للأسف;
+
+a sehr
+جدًا; للغاية;
+
+a wenig
+قليل; قليلًا;

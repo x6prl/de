@@ -1,0 +1,194 @@
+die Anzeige -n
+advertisement; ad; listing; notice;
+
+das Bad "er
+bathroom; bath;
+
+der Balkon -e
+balcony;
+
+das Bett -en
+bed;
+
+die Dusche -n
+shower;
+
+das Erdgeschoss -e
+ground floor; first floor;
+
+der Flur -e
+hallway; corridor; entrance hall;
+
+die Garage -n
+garage;
+
+der Garten "-
+garden; yard;
+
+das Haus "er
+house; home;
+
+die Heizung -en
+heating; heating system;
+
+der Keller -
+basement; cellar;
+
+die Küche -n
+kitchen;
+
+die Miete -n
+rent;
+
+der Mieter -
+tenant; renter;
+
+die Mieterin -nen
+tenant; renter;
+
+die Möbel (pl.)
+furniture;
+
+der Monat -e
+month;
+
+der Nachbar -n
+neighbor;
+
+die Nachbarin -nen
+neighbor;
+
+die Nebenkosten (pl.)
+utilities; additional costs; service charges;
+
+der Platz (sg.)
+space; room; place;
+
+der Schrank "e
+cabinet; cupboard; wardrobe; closet;
+
+der Sessel -
+armchair;
+
+das Sofa -s
+sofa; couch;
+
+der Spielplatz "-e
+playground;
+
+die Toilette -n
+toilet; restroom;
+
+der Vermieter -
+landlord;
+
+die Vermieterin -nen
+landlady; landlord;
+
+die Wohnung -en
+apartment; flat;
+
+das Zentrum -en
+center; downtown;
+
+das Zimmer -
+room;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+put down{puts down, put down}; leave{leaves, left}; switch off{switches off, switched off};
+
+v benutzen / benutzte / hat benutzt
+use{uses, used};
+
+v bezahlen / bezahlte / hat bezahlt
+pay{pays, paid}; pay for{pays for, paid for};
+
+v dürfen-darf / durfte / hat gedurft
+may; be allowed to{is allowed to, was allowed to, been allowed to};
+
+v grillen / grillte / hat gegrillt
+grill{grills, grilled}; barbecue{barbecues, barbecued};
+
+v mieten / mietete / hat gemietet
+rent{rents, rented}; lease{leases, leased};
+
+v parken / parkte / hat geparkt
+park{parks, parked};
+
+v putzen / putzte / hat geputzt
+clean{cleans, cleaned}; tidy up{tidies up, tidied up};
+
+v rauchen / rauchte / hat geraucht
+smoke{smokes, smoked};
+
+v wollen-will / wollte / hat gewollt
+want{wants, wanted};
+
+a alt
+old{older, oldest}; aged{more aged, most aged};
+
+a neu
+new{newer, newest};
+
+a billig
+cheap;
+
+a teuer
+expensive; costly;
+
+a dunkel
+dark{darker, darkest};
+
+a hell
+bright{brighter, brightest}; light{lighter, lightest};
+
+a erlaubt
+allowed; permitted;
+
+a verboten
+forbidden; prohibited;
+
+a groß
+big{bigger, biggest}; large{larger, largest};
+
+a klein
+small{smaller, smallest}; little{less, least};
+
+a hoch
+high{higher, highest}; tall{taller, tallest};
+
+a jung
+young{younger, youngest};
+
+a kalt
+cold{colder, coldest};
+
+a warm
+warm{warmer, warmest};
+
+a laut
+loud{louder, loudest}; noisy{noisier, noisiest};
+
+a ruhig
+quiet{quieter, quietest}; calm{calmer, calmest};
+
+a modern
+modern{more modern, most modern};
+
+a weit
+far{farther, farthest}; wide{wider, widest}; spacious{more spacious, most spacious};
+
+a wichtig
+important{more important, most important}; significant{more significant, most significant};
+
+ein bisschen
+a little; a bit;
+
+a leider
+unfortunately;
+
+a sehr
+very;
+
+a wenig
+little; not much; few;

@@ -1,0 +1,194 @@
+die Anzeige -n
+объявление;
+
+das Bad "er
+ванная; ванная комната;
+
+der Balkon -e
+балкон;
+
+das Bett -en
+кровать;
+
+die Dusche -n
+душ;
+
+das Erdgeschoss -e
+первый этаж;
+
+der Flur -e
+коридор; прихожая;
+
+die Garage -n
+гараж;
+
+der Garten "-
+сад;
+
+das Haus "er
+дом;
+
+die Heizung -en
+отопление;
+
+der Keller -
+подвал;
+
+die Küche -n
+кухня;
+
+die Miete -n
+квартплата; арендная плата;
+
+der Mieter -
+арендатор; квартиросъёмщик;
+
+die Mieterin -nen
+арендатор; квартиросъёмщица;
+
+die Möbel (pl.)
+мебель;
+
+der Monat -e
+месяц;
+
+der Nachbar -n
+сосед;
+
+die Nachbarin -nen
+соседка;
+
+die Nebenkosten (pl.)
+коммунальные расходы; дополнительные расходы;
+
+der Platz (sg.)
+место; пространство;
+
+der Schrank "e
+шкаф;
+
+der Sessel -
+кресло;
+
+das Sofa -s
+диван;
+
+der Spielplatz "-e
+детская площадка;
+
+die Toilette -n
+туалет;
+
+der Vermieter -
+арендодатель; хозяин квартиры;
+
+die Vermieterin -nen
+арендодатель; хозяйка квартиры;
+
+die Wohnung -en
+квартира;
+
+das Zentrum -en
+центр;
+
+das Zimmer -
+комната;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+ставить{ставлю, ставил}; оставлять{оставляю, оставлял}; отключать{отключаю, отключал};
+
+v benutzen / benutzte / hat benutzt
+использовать{использую, использовал};
+
+v bezahlen / bezahlte / hat bezahlt
+платить{плачу, платил}; оплачивать{оплачиваю, оплачивал};
+
+v dürfen-darf / durfte / hat gedurft
+мочь{могу, мог}; иметь разрешение;
+
+v grillen / grillte / hat gegrillt
+жарить на гриле{жарю на гриле, жарил на гриле}; готовить на углях;
+
+v mieten / mietete / hat gemietet
+снимать{снимаю, снимал}; арендовать{арендую, арендовал};
+
+v parken / parkte / hat geparkt
+парковаться{паркуюсь, парковался};
+
+v putzen / putzte / hat geputzt
+чистить{чищу, чистил}; убирать{убираю, убирал};
+
+v rauchen / rauchte / hat geraucht
+курить{курю, курил};
+
+v wollen-will / wollte / hat gewollt
+хотеть{хочу, хотел};
+
+a alt
+старый{старее, самый старый};
+
+a neu
+новый{новее, самый новый};
+
+a billig
+дешёвый;
+
+a teuer
+дорогой;
+
+a dunkel
+тёмный{темнее, самый тёмный};
+
+a hell
+светлый{светлее, самый светлый};
+
+a erlaubt
+разрешённый; допустимый;
+
+a verboten
+запрещённый;
+
+a groß
+большой{больше, самый большой};
+
+a klein
+маленький{меньше, самый маленький};
+
+a hoch
+высокий{выше, самый высокий};
+
+a jung
+молодой{моложе, самый молодой};
+
+a kalt
+холодный{холоднее, самый холодный};
+
+a warm
+тёплый{теплее, самый тёплый};
+
+a laut
+шумный{шумнее, самый шумный};
+
+a ruhig
+тихий{тише, самый тихий}; спокойный{спокойнее, самый спокойный};
+
+a modern
+современный;
+
+a weit
+далёкий; широкий{шире, самый широкий}; просторный{просторнее, самый просторный};
+
+a wichtig
+важный{важнее, самый важный};
+
+ein bisschen
+немного;
+
+a leider
+к сожалению;
+
+a sehr
+очень;
+
+a wenig
+мало; немного;

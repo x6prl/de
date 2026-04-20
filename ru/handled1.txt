@@ -844,9 +844,6 @@ aus + Dat.
 bitte
 пожалуйста;
 
-danke
-спасибо;
-
 Entschuldigung!
 извините!;
 

@@ -844,9 +844,6 @@ aus + Dat.
 bitte
 lütfen; buyurun;
 
-danke
-teşekkürler; teşekkür ederim;
-
 Entschuldigung!
 affedersiniz!; özür dilerim!;
 
