@@ -14,6 +14,7 @@ PLURAL_MARKER_RE = re.compile(r'^(?:\((?:sg|pl)\.\)|[-"][^\s]*)$')
 VERB_SPLIT_RE = re.compile(r"\s*/\s*")
 GRAMMAR_LINE_RE = re.compile(r"^\[(.*)\]$")
 TRANSLATION_CUES_RE = re.compile(r"^(?P<gloss>.*\S)\{(?P<cues>[^{}]+)\}$")
+TRANSLATION_CUE_ITEM_RE = re.compile(r"^(?P<tag>[a-z]{3})=(?P<value>.*\S)$")
 
 
 @dataclass(frozen=True)
@@ -190,7 +191,7 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
                 ValidationError(
                     path,
                     line_no,
-                    "translation reverse-cue block must be `gloss{cue1, cue2}` at the end of a translation item",
+                    "translation reverse-cue block must be `gloss{tag=value, tag=value}` at the end of a translation item",
                 )
             )
             break
@@ -204,6 +205,34 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
         if any(cue == "" for cue in cues):
             errors.append(ValidationError(path, line_no, "translation reverse-cue list contains an empty cue"))
             break
+
+        seen_tags: set[str] = set()
+        for cue in cues:
+            cue_match = TRANSLATION_CUE_ITEM_RE.match(cue)
+            if not cue_match:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        "translation reverse-cue item must be `tag=value` with a 3-letter lowercase ASCII tag",
+                    )
+                )
+                break
+
+            tag = cue_match.group("tag")
+            if tag in seen_tags:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        f"translation reverse-cue list contains duplicate tag {tag!r}",
+                    )
+                )
+                break
+            seen_tags.add(tag)
+        else:
+            continue
+        break
 
     return errors
 

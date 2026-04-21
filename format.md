@@ -34,30 +34,43 @@ help;
 
 The grammar line is a government line, not a free-form notes line. Its purpose is limited to learner-relevant argument structure and government. Separate grammar elements with `; `.
 
-The translation line may optionally attach cues directly to an individual translation item with `{}`:
+The translation line may optionally attach typed cues directly to an individual translation item with `{}`:
 
 ```text
-translation{cue1, cue2}; other translation;
+translation{tag=value, tag=value}; other translation;
 ```
 
 Use this for compact related forms attached to a base translation gloss. These cues are not separate translation items. Keep them compact and attach them to the closest base gloss. Do not insert a space before `{`. Literal `{` or `}` in translation text are not supported.
+
+Cue keys are typed markers. Use exactly 3 lowercase ASCII letters plus `=`, so the marker is 4 bytes total, for example `sup=`. The meaning of the cue is carried by the marker, not by position. Cue values stay language-specific surface forms.
 
 Typical uses include inflected verb forms and adjective comparative/superlative forms in the translation language:
 
 ```text
 v gehen-geht / ging / ist gegangen
-go{goes, went, gone};
+go{prs=goes, pst=went, par=gone};
 
 a gut besser am besten
-good{better, best};
+good{cmp=better, sup=best};
 
 a wichtig
-important{more important, most important};
+important{cmp=more important, sup=most important};
 
 v helfen-hilft / half / hat geholfen
-help{helps};
+help{prs=helps};
 [j-m]
 ```
+
+Recommended cue markers:
+
+* verb present/finite cue: `prs=`
+* verb past cue: `pst=`
+* verb participle cue: `par=`
+* auxiliary cue if explicitly needed: `aux=`
+* adjective comparative cue: `cmp=`
+* adjective superlative cue: `sup=`
+
+Do not rely on cue order. Consumers should match cues by marker. Unknown markers may be preserved as opaque typed cues.
 
 Recommended grammar elements:
 
