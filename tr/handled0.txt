@@ -8,7 +8,7 @@ Das sind meine Aufgaben im Büro.
 Bunlar benim bürodaki görevlerim.;
 
 a höflich
-kibar{daha kibar, en kibar}; nazik{daha nazik, en nazik}; saygılı{daha saygılı, en saygılı};
+kibar{cmp=daha kibar, sup=en kibar}; nazik{cmp=daha nazik, sup=en nazik}; saygılı{cmp=daha saygılı, sup=en saygılı};
 
 Er ist sehr höflich.
 O çok kibar.;
@@ -74,20 +74,20 @@ Die Abstimmung beginnt um neun Uhr.
 Oylama saat dokuzda başlıyor.;
 
 v abstimmen
-oy vermek{oy verir, oy verdi}; oy kullanmak{oy kullanır, oy kullandı};
+oy vermek{prs=oy verir, pst=oy verdi}; oy kullanmak{prs=oy kullanır, pst=oy kullandı};
 [über+Akk]
 
 Wir stimmen morgen darüber ab.
 Bunu yarın oylayacağız.;
 
 v wählen
-oy vermek{oy verir, oy verdi};
+oy vermek{prs=oy verir, pst=oy verdi};
 
 Viele Menschen wählen am Sonntag.
 Birçok insan pazar günü oy kullanıyor.;
 
 v wählen
-seçmek{seçer, seçti}; göreve getirmek{göreve getirir, göreve getirdi};
+seçmek{prs=seçer, pst=seçti}; göreve getirmek{prs=göreve getirir, pst=göreve getirdi};
 [j-n; etw.]
 
 die Wahl -en
@@ -109,7 +109,7 @@ Ich bin entschieden dagegen!
 ben buna kesinlikle karşıyım!;
 
 v hinzufügen
-eklemek{ekler, ekledi}; dahil etmek{dahil eder, dahil etti};
+eklemek{prs=ekler, pst=ekledi}; dahil etmek{prs=dahil eder, pst=dahil etti};
 [etw.]
 
 Kannst du das noch hinzufügen?
@@ -125,14 +125,14 @@ Meistens ist es ruhig hier.
 Burada genellikle sessiz olur.;
 
 v raten-rät / riet / hat geraten
-tavsiye etmek{tavsiye eder, tavsiye etti}; önermek{önerir, önerdi};
+tavsiye etmek{prs=tavsiye eder, pst=tavsiye etti}; önermek{prs=önerir, pst=önerdi};
 [j-m]
 
 Ich rate dir, früher zu schlafen.
 Sana daha erken uyumanı tavsiye ediyorum.;
 
 v raten-rät / riet / hat geraten
-tahmin etmek{tahmin eder, tahmin etti}; kestirmek{kestirir, kestirdi};
+tahmin etmek{prs=tahmin eder, pst=tahmin etti}; kestirmek{prs=kestirir, pst=kestirdi};
 [etw.]
 
 Rate mal!
@@ -151,7 +151,7 @@ Manchmal regnet es tagelang.
 Bazen günlerce yağmur yağar.;
 
 v sagen
-söylemek{söyler, söyledi}; demek{der, dedi};
+söylemek{prs=söyler, pst=söyledi}; demek{prs=der, pst=dedi};
 [etw.]
 
 Er sagt das oft.
@@ -164,7 +164,7 @@ Da bist du ja!
 işte buradasın!; sonunda geldin!;
 
 a richtig
-doğru{daha doğru, en doğru}; haklı; gerçek{daha gerçek, en gerçek};
+doğru{cmp=daha doğru, sup=en doğru}; haklı; gerçek{cmp=daha gerçek, sup=en gerçek};
 
 Das ist richtig.
 Bu doğru.;
@@ -173,7 +173,7 @@ Du kommst aber spät!
 amma geç geldin!; gerçekten geç geldin!;
 
 a wichtig
-önemli{daha önemli, en önemli}; kayda değer{daha kayda değer, en kayda değer};
+önemli{cmp=daha önemli, sup=en önemli}; kayda değer{cmp=daha kayda değer, sup=en kayda değer};
 
 Das ist sehr wichtig.
 Bu çok önemli.;
@@ -191,7 +191,7 @@ Das Leben ist nicht immer leicht.
 Hayat her zaman kolay değildir.;
 
 a schwer
-ağır{daha ağır, en ağır}; zor{daha zor, en zor}; güç{daha güç, en güç};
+ağır{cmp=daha ağır, sup=en ağır}; zor{cmp=daha zor, sup=en zor}; güç{cmp=daha güç, sup=en güç};
 
 Der Koffer ist schwer.
 Bavul ağır.;

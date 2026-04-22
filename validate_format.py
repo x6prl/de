@@ -15,6 +15,7 @@ VERB_SPLIT_RE = re.compile(r"\s*/\s*")
 GRAMMAR_LINE_RE = re.compile(r"^\[(.*)\]$")
 TRANSLATION_CUES_RE = re.compile(r"^(?P<gloss>.*\S)\{(?P<cues>[^{}]+)\}$")
 TRANSLATION_CUE_ITEM_RE = re.compile(r"^(?P<tag>[a-z]{3})=(?P<value>.*\S)$")
+KNOWN_CUE_TAGS = {"prs", "pst", "par", "aux", "cmp", "sup"}
 
 
 @dataclass(frozen=True)
@@ -165,7 +166,7 @@ def validate_lemma(path: Path, line_no: int, lemma: str) -> list[ValidationError
     return []
 
 
-def validate_translation(path: Path, line_no: int, translation: str) -> list[ValidationError]:
+def validate_translation(path: Path, line_no: int, lemma: str, translation: str) -> list[ValidationError]:
     errors: list[ValidationError] = []
     if not translation:
         return [ValidationError(path, line_no, "translation line is empty")]
@@ -220,6 +221,47 @@ def validate_translation(path: Path, line_no: int, translation: str) -> list[Val
                 break
 
             tag = cue_match.group("tag")
+            value = cue_match.group("value").strip()
+            if tag not in KNOWN_CUE_TAGS:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        f"translation reverse-cue tag {tag!r} is unknown; use one of {sorted(KNOWN_CUE_TAGS)!r}",
+                    )
+                )
+                break
+
+            if tag == "prs" and "/" in value:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        "translation `prs=` cue must contain a single third-person present form, not multiple forms",
+                    )
+                )
+                break
+
+            if lemma.startswith("v ") and tag in {"cmp", "sup"}:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        f"verb translation item cannot use adjective cue tag {tag!r}",
+                    )
+                )
+                break
+
+            if lemma.startswith("a ") and tag in {"prs", "pst", "par", "aux"}:
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        f"adjective translation item cannot use verb cue tag {tag!r}",
+                    )
+                )
+                break
+
             if tag in seen_tags:
                 errors.append(
                     ValidationError(
@@ -284,7 +326,7 @@ def validate_file(path: Path) -> list[ValidationError]:
         raw_translation = lines[index]
         translation_line_no = index + 1
         translation = add_whitespace_error(errors, path, translation_line_no, raw_translation)
-        errors.extend(validate_translation(path, translation_line_no, translation))
+        errors.extend(validate_translation(path, translation_line_no, lemma_line, translation))
         index += 1
 
         if translation == "":

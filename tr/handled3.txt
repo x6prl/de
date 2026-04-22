@@ -95,40 +95,40 @@ das Zimmer -
 oda;
 
 v abstellen-stellt ab / stellte ab / hat abgestellt
-bir yere koymak{bir yere koyar, bir yere koydu}; bırakmak{bırakır, bıraktı}; kapatmak{kapatır, kapattı};
+bir yere koymak{prs=bir yere koyar, pst=bir yere koydu}; bırakmak{prs=bırakır, pst=bıraktı}; kapatmak{prs=kapatır, pst=kapattı};
 
 v benutzen / benutzte / hat benutzt
-kullanmak{kullanır, kullandı};
+kullanmak{prs=kullanır, pst=kullandı};
 
 v bezahlen / bezahlte / hat bezahlt
-ödemek{öder, ödedi}; parasını vermek{parasını verir, parasını verdi};
+ödemek{prs=öder, pst=ödedi}; parasını vermek{prs=parasını verir, pst=parasını verdi};
 
 v dürfen-darf / durfte / hat gedurft
-izinli olmak{izinli olur, izinli oldu}; izin verilmiş olmak;
+izinli olmak{prs=izinli olur, pst=izinli oldu}; izin verilmiş olmak;
 
 v grillen / grillte / hat gegrillt
-ızgara yapmak{ızgara yapar, ızgara yaptı}; mangalda pişirmek;
+ızgara yapmak{prs=ızgara yapar, pst=ızgara yaptı}; mangalda pişirmek;
 
 v mieten / mietete / hat gemietet
-kiralamak{kiralar, kiraladı};
+kiralamak{prs=kiralar, pst=kiraladı};
 
 v parken / parkte / hat geparkt
-park etmek{park eder, park etti};
+park etmek{prs=park eder, pst=park etti};
 
 v putzen / putzte / hat geputzt
-temizlemek{temizler, temizledi}; toparlamak{toparlar, toparladı};
+temizlemek{prs=temizler, pst=temizledi}; toparlamak{prs=toparlar, pst=toparladı};
 
 v rauchen / rauchte / hat geraucht
-sigara içmek{sigara içer, sigara içti};
+sigara içmek{prs=sigara içer, pst=sigara içti};
 
 v wollen-will / wollte / hat gewollt
-istemek{ister, istedi};
+istemek{prs=ister, pst=istedi};
 
 a alt
-eski{daha eski, en eski}; yaşlı{daha yaşlı, en yaşlı};
+eski{cmp=daha eski, sup=en eski}; yaşlı{cmp=daha yaşlı, sup=en yaşlı};
 
 a neu
-yeni{daha yeni, en yeni};
+yeni{cmp=daha yeni, sup=en yeni};
 
 a billig
 ucuz;
@@ -137,10 +137,10 @@ a teuer
 pahalı;
 
 a dunkel
-karanlık{daha karanlık, en karanlık}; koyu{daha koyu, en koyu};
+karanlık{cmp=daha karanlık, sup=en karanlık}; koyu{cmp=daha koyu, sup=en koyu};
 
 a hell
-aydınlık{daha aydınlık, en aydınlık}; açık renkli{daha açık, en açık};
+aydınlık{cmp=daha aydınlık, sup=en aydınlık}; açık renkli{cmp=daha açık, sup=en açık};
 
 a erlaubt
 izin verilen; serbest;
@@ -149,37 +149,37 @@ a verboten
 yasak;
 
 a groß
-büyük{daha büyük, en büyük}; geniş{daha geniş, en geniş};
+büyük{cmp=daha büyük, sup=en büyük}; geniş{cmp=daha geniş, sup=en geniş};
 
 a klein
-küçük{daha küçük, en küçük};
+küçük{cmp=daha küçük, sup=en küçük};
 
 a hoch
-yüksek{daha yüksek, en yüksek};
+yüksek{cmp=daha yüksek, sup=en yüksek};
 
 a jung
-genç{daha genç, en genç};
+genç{cmp=daha genç, sup=en genç};
 
 a kalt
-soğuk{daha soğuk, en soğuk};
+soğuk{cmp=daha soğuk, sup=en soğuk};
 
 a warm
-sıcak{daha sıcak, en sıcak};
+sıcak{cmp=daha sıcak, sup=en sıcak};
 
 a laut
-gürültülü{daha gürültülü, en gürültülü}; yüksek sesli;
+gürültülü{cmp=daha gürültülü, sup=en gürültülü}; yüksek sesli;
 
 a ruhig
-sessiz{daha sessiz, en sessiz}; sakin{daha sakin, en sakin};
+sessiz{cmp=daha sessiz, sup=en sessiz}; sakin{cmp=daha sakin, sup=en sakin};
 
 a modern
 modern; çağdaş;
 
 a weit
-uzak{daha uzak, en uzak}; geniş{daha geniş, en geniş}; ferah{daha ferah, en ferah};
+uzak{cmp=daha uzak, sup=en uzak}; geniş{cmp=daha geniş, sup=en geniş}; ferah{cmp=daha ferah, sup=en ferah};
 
 a wichtig
-önemli{daha önemli, en önemli}; kayda değer{daha kayda değer, en kayda değer};
+önemli{cmp=daha önemli, sup=en önemli}; kayda değer{cmp=daha kayda değer, sup=en kayda değer};
 
 ein bisschen
 biraz; azıcık;

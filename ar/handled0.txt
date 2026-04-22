@@ -74,20 +74,20 @@ Die Abstimmung beginnt um neun Uhr.
 يبدأ التصويت عند الساعة التاسعة.;
 
 v abstimmen
-يصوّت{يصوّت, صوّت}; يدلي بصوته;
+يصوّت{prs=يصوّت, pst=صوّت}; يدلي بصوته;
 [über+Akk]
 
 Wir stimmen morgen darüber ab.
 سنصوّت على ذلك غدًا.;
 
 v wählen
-يصوّت{يصوّت, صوّت};
+يصوّت{prs=يصوّت, pst=صوّت};
 
 Viele Menschen wählen am Sonntag.
 كثير من الناس يصوّتون يوم الأحد.;
 
 v wählen
-يختار{يختار, اختار}; ينتخب;
+يختار{prs=يختار, pst=اختار}; ينتخب;
 [j-n; etw.]
 
 die Wahl -en
@@ -109,7 +109,7 @@ Ich bin entschieden dagegen!
 أنا ضده بشدة!; أنا أعارض ذلك بحزم!;
 
 v hinzufügen
-يضيف{يضيف, أضاف}; يدرج;
+يضيف{prs=يضيف, pst=أضاف}; يدرج;
 [etw.]
 
 Kannst du das noch hinzufügen?
@@ -125,14 +125,14 @@ Meistens ist es ruhig hier.
 غالبًا ما يكون الجو هادئًا هنا.;
 
 v raten-rät / riet / hat geraten
-ينصح{ينصح, نصح}; يوصي;
+ينصح{prs=ينصح, pst=نصح}; يوصي;
 [j-m]
 
 Ich rate dir, früher zu schlafen.
 أنصحك بأن تنام أبكر.;
 
 v raten-rät / riet / hat geraten
-يخمن{يخمن, خمن}; يقدّر;
+يخمن{prs=يخمن, pst=خمن}; يقدّر;
 [etw.]
 
 Rate mal!
@@ -151,7 +151,7 @@ Manchmal regnet es tagelang.
 أحيانًا تمطر لأيام متتالية.;
 
 v sagen
-يقول{يقول, قال}; يخبر;
+يقول{prs=يقول, pst=قال}; يخبر;
 [etw.]
 
 Er sagt das oft.
@@ -164,7 +164,7 @@ Da bist du ja!
 ها أنت ذا!; ها أنت هنا أخيرًا!;
 
 a richtig
-صحيح{أصحّ, الأصحّ}; سليم; حقيقي;
+صحيح{cmp=أصحّ, sup=الأصحّ}; سليم; حقيقي;
 
 Das ist richtig.
 هذا صحيح.;
@@ -173,7 +173,7 @@ Du kommst aber spät!
 لقد جئت متأخرًا فعلًا!; لقد تأخرت كثيرًا!;
 
 a wichtig
-مهم{أهمّ, الأهمّ}; جوهري;
+مهم{cmp=أهمّ, sup=الأهمّ}; جوهري;
 
 Das ist sehr wichtig.
 هذا مهم جدًا.;
@@ -191,7 +191,7 @@ Das Leben ist nicht immer leicht.
 الحياة ليست سهلة دائمًا.;
 
 a schwer
-ثقيل{أثقل, الأثقل}; صعب; عسير;
+ثقيل{cmp=أثقل, sup=الأثقل}; صعب; عسير;
 
 Der Koffer ist schwer.
 الحقيبة ثقيلة.;

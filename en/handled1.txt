@@ -5,7 +5,7 @@ jeden zweiten Tag
 every other day; every second day;
 
 v verwechseln
-mix up{mixes up, mixed up}; confuse{confuses, confused};
+mix up{prs=mixes up, pst=mixed up}; confuse{prs=confuses, pst=confused};
 [j-n; mit+Dat]
 
 gegen sechs Uhr
@@ -18,19 +18,19 @@ a offen
 open;
 
 v aufräumen
-tidy up{tidies up, tidied up}; clean up{cleans up, cleaned up};
+tidy up{prs=tidies up, pst=tidied up}; clean up{prs=cleans up, pst=cleaned up};
 [etw.]
 
 v anschauen-schaut an / schaute an / hat angeschaut
-look at{looks at, looked at}; watch{watches, watched};
+look at{prs=looks at, pst=looked at}; watch{prs=watches, pst=watched};
 [j-n; etw.]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-invite{invites, invited};
+invite{prs=invites, pst=invited};
 [j-n; zu+Dat]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-load{loads, loaded};
+load{prs=loads, pst=loaded};
 [etw.]
 
 a dann
@@ -58,20 +58,20 @@ die Verabredung -en
 appointment; arrangement;
 
 v wachen
-stay awake{stays awake, stayed awake}; keep watch{keeps watch, kept watch};
+stay awake{prs=stays awake, pst=stayed awake}; keep watch{prs=keeps watch, pst=kept watch};
 
 v wecken
-wake{wakes, woke, woken}; wake up{wakes up, woke up, woken up};
+wake{prs=wakes, pst=woke, par=woken}; wake up{prs=wakes up, pst=woke up, par=woken up};
 [j-n]
 
 v dauern
-last{lasts, lasted}; take{takes, took, taken};
+last{prs=lasts, pst=lasted}; take{prs=takes, pst=took, par=taken};
 
 Wie lange dauert etw.?
 how long does it last?; how long does it take?;
 
 v sehen-sieht / sah / hat gesehen
-see{sees, saw, seen};
+see{prs=sees, pst=saw, par=seen};
 
 Ich sehe eine Katze auf der Straße.
 I see a cat on the street.;
@@ -185,16 +185,16 @@ echt gut
 really good; very good;
 
 v kochen
-cook{cooks, cooked}; boil{boils, boiled};
+cook{prs=cooks, pst=cooked}; boil{prs=boils, pst=boiled};
 
 v braten-brät / briet / hat gebraten
-fry{fries, fried}; pan-fry{pan-fries, pan-fried};
+fry{prs=fries, pst=fried}; pan-fry{prs=pan-fries, pst=pan-fried};
 
 v backen-backt,bäckt / backte,buk / hat gebacken
-bake{bakes, baked};
+bake{prs=bakes, pst=baked};
 
 v grillen
-grill{grills, grilled}; barbecue{barbecues, barbecued};
+grill{prs=grills, pst=grilled}; barbecue{prs=barbecues, pst=barbecued};
 
 Sie sind schon da?
 are you already here?; are they already here?;
@@ -305,29 +305,29 @@ die Zwiebel -n
 onion;
 
 v finden-findet / fand / hat gefunden
-find{finds, found};
+find{prs=finds, pst=found};
 
 v finden-findet / fand / hat gefunden
-consider{considers, considered}; regard{regards, regarded};
+consider{prs=considers, pst=considered}; regard{prs=regards, pst=regarded};
 
 v geben-gibt / gab / hat gegeben
-give{gives, gave, given};
+give{prs=gives, pst=gave, par=given};
 [j-m; etw.]
 
 v holen
-fetch{fetches, fetched}; get{gets, got, gotten}; bring{brings, brought};
+fetch{prs=fetches, pst=fetched}; get{prs=gets, pst=got, par=gotten}; bring{prs=brings, pst=brought};
 
 v mögen-mag / mochte / hat gemocht
-like{likes, liked};
+like{prs=likes, pst=liked};
 
 v nehmen-nimmt / nahm / hat genommen
-take{takes, took, taken};
+take{prs=takes, pst=took, par=taken};
 
 v schmecken
-taste good{tastes good, tasted good};
+taste good{prs=tastes good, pst=tasted good};
 
 v schmecken
-taste{tastes, tasted};
+taste{prs=tastes, pst=tasted};
 [etw.]
 
 a leer
@@ -361,13 +361,13 @@ der Geschmack "-er
 taste; flavor;
 
 v riechen-riecht / roch / hat gerochen
-smell{smells, smelled}; smell of{smells of, smelled of};
+smell{prs=smells, pst=smelled}; smell of{prs=smells of, pst=smelled of};
 
 der Geruch "-e
 smell; odor;
 
 v hören
-hear{hears, heard};
+hear{prs=hears, pst=heard};
 
 das Gehör (sg.)
 hearing;
@@ -376,10 +376,10 @@ die Stieftochter "-
 stepdaughter;
 
 v hüpfen
-hop{hops, hopped}; bounce{bounces, bounced};
+hop{prs=hops, pst=hopped}; bounce{prs=bounces, pst=bounced};
 
 v schicken
-send{sends, sent};
+send{prs=sends, pst=sent};
 [j-m; etw.]
 
 der Abend -e
@@ -470,55 +470,55 @@ die Zeit (sg.)
 time;
 
 v anrufen-ruft an / rief an / hat angerufen
-call{calls, called}; phone{phones, phoned};
+call{prs=calls, pst=called}; phone{prs=phones, pst=phoned};
 [j-n]
 
 v aufstehen-steht auf / stand auf / ist aufgestanden
-get up{gets up, got up, gotten up};
+get up{prs=gets up, pst=got up, par=gotten up};
 
 v beginnen-beginnt / begann / hat begonnen
-begin{begins, began, begun}; start{starts, started};
+begin{prs=begins, pst=began, par=begun}; start{prs=starts, pst=started};
 
 v besuchen
-visit{visits, visited};
+visit{prs=visits, pst=visited};
 [j-n; etw.]
 
 v einkaufen-kauft ein / kaufte ein / hat eingekauft
-shop{shops, shopped}; do the shopping{does the shopping, did the shopping, done the shopping};
+shop{prs=shops, pst=shopped}; do the shopping{prs=does the shopping, pst=did the shopping, par=done the shopping};
 
 v fahren-fährt / fuhr / ist gefahren
-go{goes, went, gone}; travel{travels, traveled};
+go{prs=goes, pst=went, par=gone}; travel{prs=travels, pst=traveled};
 
 v fahren-fährt / fuhr / hat gefahren
-drive{drives, drove, driven};
+drive{prs=drives, pst=drove, par=driven};
 [etw.]
 
 v fernsehen-sieht fern / sah fern / hat ferngesehen
-watch TV{watches TV, watched TV}; watch television{watches television, watched television};
+watch TV{prs=watches TV, pst=watched TV}; watch television{prs=watches television, pst=watched television};
 
 v frühstücken
-have breakfast{has breakfast, had breakfast}; eat breakfast{eats breakfast, ate breakfast, eaten breakfast};
+have breakfast{prs=has breakfast, pst=had breakfast}; eat breakfast{prs=eats breakfast, pst=ate breakfast, par=eaten breakfast};
 
 v putzen
-clean{cleans, cleaned}; tidy up{tidies up, tidied up};
+clean{prs=cleans, pst=cleaned}; tidy up{prs=tidies up, pst=tidied up};
 
 v schlafen-schläft / schlief / hat geschlafen
-sleep{sleeps, slept};
+sleep{prs=sleeps, pst=slept};
 
 v tanzen
-dance{dances, danced};
+dance{prs=dances, pst=danced};
 
 v telefonieren
-talk on the phone{talks on the phone, talked on the phone}; telephone{telephones, telephoned};
+talk on the phone{prs=talks on the phone, pst=talked on the phone}; telephone{prs=telephones, pst=telephoned};
 
 v träumen
-dream{dreams, dreamed, dreamed}; have dreams{has dreams, had dreams};
+dream{prs=dreams, pst=dreamed, par=dreamed}; have dreams{prs=has dreams, pst=had dreams};
 
 v waschen-wäscht / wusch / hat gewaschen
-wash{washes, washed}; do the washing{does the washing, did the washing, done the washing};
+wash{prs=washes, pst=washed}; do the washing{prs=does the washing, pst=did the washing, par=done the washing};
 
 v zoomen
-zoom{zooms, zoomed}; have a Zoom call{has a Zoom call, had a Zoom call};
+zoom{prs=zooms, pst=zoomed}; have a Zoom call{prs=has a Zoom call, pst=had a Zoom call};
 
 a früh
 early;
@@ -647,25 +647,25 @@ die Tür -en
 door;
 
 v arbeiten
-work{works, worked};
+work{prs=works, pst=worked};
 
 v funktionieren
-work{works, worked}; function{functions, functioned};
+work{prs=works, pst=worked}; function{prs=functions, pst=functioned};
 
 v informieren
-inform{informs, informed}; notify{notifies, notified};
+inform{prs=informs, pst=informed}; notify{prs=notifies, pst=notified};
 
 v leben
-live{lives, lived};
+live{prs=lives, pst=lived};
 
 v wechseln
-change{changes, changed}; replace{replaces, replaced};
+change{prs=changes, pst=changed}; replace{prs=replaces, pst=replaced};
 
 v wissen-weiß / wusste / hat gewusst
-know{knows, knew, known};
+know{prs=knows, pst=knew, par=known};
 
 v zeigen
-show{shows, showed, shown};
+show{prs=shows, pst=showed, par=shown};
 
 a fertig
 ready; finished;
@@ -791,49 +791,49 @@ die Zahl -en
 number; digit;
 
 v antworten
-answer{answers, answered}; reply{replies, replied};
+answer{prs=answers, pst=answered}; reply{prs=replies, pst=replied};
 [j-m]
 
 v begrüßen
-greet{greets, greeted};
+greet{prs=greets, pst=greeted};
 [j-n]
 
 v buchstabieren
-spell{spells, spelled}; spell out{spells out, spelled out};
+spell{prs=spells, pst=spelled}; spell out{prs=spells out, pst=spelled out};
 
 v fragen
-ask{asks, asked};
+ask{prs=asks, pst=asked};
 [j-n; etw.]
 
 v heißen-heißt / hieß / hat geheißen
-be called{is called, was called, been called}; be named{is named, was named, been named};
+be called{prs=is called, pst=was called, par=been called}; be named{prs=is named, pst=was named, par=been named};
 
 v kennen-kennt / kannte / hat gekannt
-know{knows, knew, known};
+know{prs=knows, pst=knew, par=known};
 
 v kommen-kommt / kam / ist gekommen
-come{comes, came, come}; arrive{arrives, arrived};
+come{prs=comes, pst=came, par=come}; arrive{prs=arrives, pst=arrived};
 
 v lesen-liest / las / hat gelesen
-read{reads, read};
+read{prs=reads, pst=read};
 
 v schreiben-schreibt / schrieb / hat geschrieben
-write{writes, wrote, written};
+write{prs=writes, pst=wrote, par=written};
 
 v sein-ist / war / ist gewesen
-be{is, was, been};
+be{prs=is, pst=was, par=been};
 
 v sprechen-spricht / sprach / hat gesprochen
-speak{speaks, spoke, spoken}; talk{talks, talked};
+speak{prs=speaks, pst=spoke, par=spoken}; talk{prs=talks, pst=talked};
 
 v vorstellen-stellt vor / stellte vor / hat vorgestellt
-introduce{introduces, introduced}; present{presents, presented};
+introduce{prs=introduces, pst=introduced}; present{prs=presents, pst=presented};
 
 v wiederholen
-repeat{repeats, repeated};
+repeat{prs=repeats, pst=repeated};
 
 v wohnen
-live{lives, lived}; reside{resides, resided};
+live{prs=lives, pst=lived}; reside{prs=resides, pst=resided};
 
 auf Wiedersehen
 goodbye;

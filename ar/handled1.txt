@@ -5,7 +5,7 @@ jeden zweiten Tag
 كل يومين; يومًا بعد يوم;
 
 v verwechseln
-يخلط{يخلط, خلط}; يلتبس عليه; يخطئ بين;
+يخلط{prs=يخلط, pst=خلط}; يلتبس عليه; يخطئ بين;
 [j-n; mit+Dat]
 
 gegen sechs Uhr
@@ -18,19 +18,19 @@ a offen
 مفتوح;
 
 v aufräumen
-يرتب{يرتب, رتب}; ينظف;
+يرتب{prs=يرتب, pst=رتب}; ينظف;
 [etw.]
 
 v anschauen-schaut an / schaute an / hat angeschaut
-ينظر إلى{ينظر إلى, نظر إلى}; يشاهد; يتأمل;
+ينظر إلى{prs=ينظر إلى, pst=نظر إلى}; يشاهد; يتأمل;
 [j-n; etw.]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-يدعو{يدعو, دعا};
+يدعو{prs=يدعو, pst=دعا};
 [j-n; zu+Dat]
 
 v einladen-lädt ein / lud ein / hat eingeladen
-يحمّل{يحمّل, حمّل}; يشحن;
+يحمّل{prs=يحمّل, pst=حمّل}; يشحن;
 [etw.]
 
 a dann
@@ -58,20 +58,20 @@ die Verabredung -en
 موعد; اتفاق;
 
 v wachen
-يبقى مستيقظًا{يبقى مستيقظًا, بقي مستيقظًا}; يحرس;
+يبقى مستيقظًا{prs=يبقى مستيقظًا, pst=بقي مستيقظًا}; يحرس;
 
 v wecken
-يوقظ{يوقظ, أيقظ};
+يوقظ{prs=يوقظ, pst=أيقظ};
 [j-n]
 
 v dauern
-يستغرق{يستغرق, استغرق}; يدوم;
+يستغرق{prs=يستغرق, pst=استغرق}; يدوم;
 
 Wie lange dauert etw.?
 كم يستغرق ذلك؟; كم يدوم ذلك؟;
 
 v sehen-sieht / sah / hat gesehen
-يرى{يرى, رأى};
+يرى{prs=يرى, pst=رأى};
 
 Ich sehe eine Katze auf der Straße.
 أرى قطة في الشارع.;
@@ -185,7 +185,7 @@ echt gut
 جيد جدًا; جيد حقًا;
 
 v kochen
-يطبخ{يطبخ, طبخ}; يسلق;
+يطبخ{prs=يطبخ, pst=طبخ}; يسلق;
 
 v braten-brät / briet / hat gebraten
 يقلي; يشوي في المقلاة;
@@ -305,13 +305,13 @@ die Zwiebel -n
 بصلة;
 
 v finden-findet / fand / hat gefunden
-يجد{يجد, وجد};
+يجد{prs=يجد, pst=وجد};
 
 v finden-findet / fand / hat gefunden
 يعتبر; يرى;
 
 v geben-gibt / gab / hat gegeben
-يعطي{يعطي, أعطى};
+يعطي{prs=يعطي, pst=أعطى};
 [j-m; etw.]
 
 v holen
@@ -321,7 +321,7 @@ v mögen-mag / mochte / hat gemocht
 يحب;
 
 v nehmen-nimmt / nahm / hat genommen
-يأخذ{يأخذ, أخذ};
+يأخذ{prs=يأخذ, pst=أخذ};
 
 v schmecken
 طعمه جيد; يكون لذيذًا;
@@ -367,7 +367,7 @@ der Geruch "-e
 رائحة;
 
 v hören
-يسمع{يسمع, سمع};
+يسمع{prs=يسمع, pst=سمع};
 
 das Gehör (sg.)
 سمع; حاسة السمع;
@@ -470,14 +470,14 @@ die Zeit (sg.)
 وقت; زمن;
 
 v anrufen-ruft an / rief an / hat angerufen
-يتصل هاتفيًا{يتصل هاتفيًا, اتصل هاتفيًا};
+يتصل هاتفيًا{prs=يتصل هاتفيًا, pst=اتصل هاتفيًا};
 [j-n]
 
 v aufstehen-steht auf / stand auf / ist aufgestanden
 ينهض; يستيقظ;
 
 v beginnen-beginnt / begann / hat begonnen
-يبدأ{يبدأ, بدأ};
+يبدأ{prs=يبدأ, pst=بدأ};
 
 v besuchen
 يزور; يرتاد;
@@ -662,10 +662,10 @@ v wechseln
 يغيّر; يستبدل;
 
 v wissen-weiß / wusste / hat gewusst
-يعرف{يعرف, عرف};
+يعرف{prs=يعرف, pst=عرف};
 
 v zeigen
-يُري{يُري, أرى}; يبيّن;
+يُري{prs=يُري, pst=أرى}; يبيّن;
 
 a fertig
 جاهز; منتهٍ;
@@ -802,29 +802,29 @@ v buchstabieren
 يتهجّى; يلفظ حرفًا حرفًا;
 
 v fragen
-يسأل{يسأل, سأل};
+يسأل{prs=يسأل, pst=سأل};
 [j-n; etw.]
 
 v heißen-heißt / hieß / hat geheißen
-يُسمّى{يُسمّى, سُمّي};
+يُسمّى{prs=يُسمّى, pst=سُمّي};
 
 v kennen-kennt / kannte / hat gekannt
 يعرف;
 
 v kommen-kommt / kam / ist gekommen
-يأتي{يأتي, أتى}; يصل;
+يأتي{prs=يأتي, pst=أتى}; يصل;
 
 v lesen-liest / las / hat gelesen
-يقرأ{يقرأ, قرأ};
+يقرأ{prs=يقرأ, pst=قرأ};
 
 v schreiben-schreibt / schrieb / hat geschrieben
-يكتب{يكتب, كتب};
+يكتب{prs=يكتب, pst=كتب};
 
 v sein-ist / war / ist gewesen
-يكون{يكون, كان};
+يكون{prs=يكون, pst=كان};
 
 v sprechen-spricht / sprach / hat gesprochen
-يتحدث{يتحدث, تحدث}; يتكلم;
+يتحدث{prs=يتحدث, pst=تحدث}; يتكلم;
 
 v vorstellen-stellt vor / stellte vor / hat vorgestellt
 يقدّم; يعرّف;

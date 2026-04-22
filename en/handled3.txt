@@ -95,40 +95,40 @@ das Zimmer -
 room;
 
 v abstellen-stellt ab / stellte ab / hat abgestellt
-put down{puts down, put down}; leave{leaves, left}; switch off{switches off, switched off};
+put down{prs=puts down, pst=put down}; leave{prs=leaves, pst=left}; switch off{prs=switches off, pst=switched off};
 
 v benutzen / benutzte / hat benutzt
-use{uses, used};
+use{prs=uses, pst=used};
 
 v bezahlen / bezahlte / hat bezahlt
-pay{pays, paid}; pay for{pays for, paid for};
+pay{prs=pays, pst=paid}; pay for{prs=pays for, pst=paid for};
 
 v dürfen-darf / durfte / hat gedurft
-may; be allowed to{is allowed to, was allowed to, been allowed to};
+may; be allowed to{prs=is allowed to, pst=was allowed to, par=been allowed to};
 
 v grillen / grillte / hat gegrillt
-grill{grills, grilled}; barbecue{barbecues, barbecued};
+grill{prs=grills, pst=grilled}; barbecue{prs=barbecues, pst=barbecued};
 
 v mieten / mietete / hat gemietet
-rent{rents, rented}; lease{leases, leased};
+rent{prs=rents, pst=rented}; lease{prs=leases, pst=leased};
 
 v parken / parkte / hat geparkt
-park{parks, parked};
+park{prs=parks, pst=parked};
 
 v putzen / putzte / hat geputzt
-clean{cleans, cleaned}; tidy up{tidies up, tidied up};
+clean{prs=cleans, pst=cleaned}; tidy up{prs=tidies up, pst=tidied up};
 
 v rauchen / rauchte / hat geraucht
-smoke{smokes, smoked};
+smoke{prs=smokes, pst=smoked};
 
 v wollen-will / wollte / hat gewollt
-want{wants, wanted};
+want{prs=wants, pst=wanted};
 
 a alt
-old{older, oldest}; aged{more aged, most aged};
+old{cmp=older, sup=oldest}; aged{cmp=more aged, sup=most aged};
 
 a neu
-new{newer, newest};
+new{cmp=newer, sup=newest};
 
 a billig
 cheap;
@@ -137,10 +137,10 @@ a teuer
 expensive; costly;
 
 a dunkel
-dark{darker, darkest};
+dark{cmp=darker, sup=darkest};
 
 a hell
-bright{brighter, brightest}; light{lighter, lightest};
+bright{cmp=brighter, sup=brightest}; light{cmp=lighter, sup=lightest};
 
 a erlaubt
 allowed; permitted;
@@ -149,37 +149,37 @@ a verboten
 forbidden; prohibited;
 
 a groß
-big{bigger, biggest}; large{larger, largest};
+big{cmp=bigger, sup=biggest}; large{cmp=larger, sup=largest};
 
 a klein
-small{smaller, smallest}; little{less, least};
+small{cmp=smaller, sup=smallest}; little{cmp=less, sup=least};
 
 a hoch
-high{higher, highest}; tall{taller, tallest};
+high{cmp=higher, sup=highest}; tall{cmp=taller, sup=tallest};
 
 a jung
-young{younger, youngest};
+young{cmp=younger, sup=youngest};
 
 a kalt
-cold{colder, coldest};
+cold{cmp=colder, sup=coldest};
 
 a warm
-warm{warmer, warmest};
+warm{cmp=warmer, sup=warmest};
 
 a laut
-loud{louder, loudest}; noisy{noisier, noisiest};
+loud{cmp=louder, sup=loudest}; noisy{cmp=noisier, sup=noisiest};
 
 a ruhig
-quiet{quieter, quietest}; calm{calmer, calmest};
+quiet{cmp=quieter, sup=quietest}; calm{cmp=calmer, sup=calmest};
 
 a modern
-modern{more modern, most modern};
+modern{cmp=more modern, sup=most modern};
 
 a weit
-far{farther, farthest}; wide{wider, widest}; spacious{more spacious, most spacious};
+far{cmp=farther, sup=farthest}; wide{cmp=wider, sup=widest}; spacious{cmp=more spacious, sup=most spacious};
 
 a wichtig
-important{more important, most important}; significant{more significant, most significant};
+important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
 
 ein bisschen
 a little; a bit;

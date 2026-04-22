@@ -8,7 +8,7 @@ Das sind meine Aufgaben im Büro.
 Those are my tasks in the office.;
 
 a höflich
-polite{politer, politest}; courteous{more courteous, most courteous}; civil{more civil, most civil};
+polite{cmp=politer, sup=politest}; courteous{cmp=more courteous, sup=most courteous}; civil{cmp=more civil, sup=most civil};
 
 Er ist sehr höflich.
 He is very polite.;
@@ -74,20 +74,20 @@ Die Abstimmung beginnt um neun Uhr.
 The vote begins at nine o'clock.;
 
 v abstimmen
-vote{votes, voted}; cast a vote{casts a vote};
+vote{prs=votes, pst=voted}; cast a vote{prs=casts a vote};
 [über+Akk]
 
 Wir stimmen morgen darüber ab.
 We are voting on that tomorrow.;
 
 v wählen
-vote{votes, voted};
+vote{prs=votes, pst=voted};
 
 Viele Menschen wählen am Sonntag.
 Many people vote on Sunday.;
 
 v wählen
-choose{chooses, chose, chosen}; elect{elects, elected};
+choose{prs=chooses, pst=chose, par=chosen}; elect{prs=elects, pst=elected};
 [j-n; etw.]
 
 die Wahl -en
@@ -109,7 +109,7 @@ Ich bin entschieden dagegen!
 I am firmly against it!;
 
 v hinzufügen
-add{adds, added}; include{includes, included};
+add{prs=adds, pst=added}; include{prs=includes, pst=included};
 [etw.]
 
 Kannst du das noch hinzufügen?
@@ -125,14 +125,14 @@ Meistens ist es ruhig hier.
 It is usually quiet here.;
 
 v raten-rät / riet / hat geraten
-advise{advises, advised}; recommend{recommends, recommended};
+advise{prs=advises, pst=advised}; recommend{prs=recommends, pst=recommended};
 [j-m]
 
 Ich rate dir, früher zu schlafen.
 I advise you to go to sleep earlier.;
 
 v raten-rät / riet / hat geraten
-guess{guesses, guessed}; estimate{estimates, estimated};
+guess{prs=guesses, pst=guessed}; estimate{prs=estimates, pst=estimated};
 [etw.]
 
 Rate mal!
@@ -151,7 +151,7 @@ Manchmal regnet es tagelang.
 Sometimes it rains for days.;
 
 v sagen
-say{says, said}; tell{tells, told};
+say{prs=says, pst=said}; tell{prs=tells, pst=told};
 [etw.]
 
 Er sagt das oft.
@@ -164,7 +164,7 @@ Da bist du ja!
 there you are!; there you are at last!;
 
 a richtig
-correct{more correct, most correct}; right; true{truer, truest};
+correct{cmp=more correct, sup=most correct}; right; true{cmp=truer, sup=truest};
 
 Das ist richtig.
 That is correct.;
@@ -173,7 +173,7 @@ Du kommst aber spät!
 you're really late!; you sure came late!;
 
 a wichtig
-important{more important, most important}; significant{more significant, most significant};
+important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
 
 Das ist sehr wichtig.
 That is very important.;
@@ -191,7 +191,7 @@ Das Leben ist nicht immer leicht.
 Life is not always easy.;
 
 a schwer
-heavy{heavier, heaviest}; difficult{more difficult, most difficult}; hard{harder, hardest};
+heavy{cmp=heavier, sup=heaviest}; difficult{cmp=more difficult, sup=most difficult}; hard{cmp=harder, sup=hardest};
 
 Der Koffer ist schwer.
 The suitcase is heavy.;
