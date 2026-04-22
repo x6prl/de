@@ -809,7 +809,7 @@ v heißen-heißt / hieß / hat geheißen
 be called{prs=is called, pst=was called, par=been called}; be named{prs=is named, pst=was named, par=been named};
 
 v kennen-kennt / kannte / hat gekannt
-know{prs=knows, pst=knew, par=known};
+be familiar with{prs=is familiar with, pst=was familiar with, par=been familiar with}; know;
 
 v kommen-kommt / kam / ist gekommen
 come{prs=comes, pst=came, par=come}; arrive{prs=arrives, pst=arrived};

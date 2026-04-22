@@ -1,7 +1,7 @@
 die Anzeige -n
 ilan; duyuru;
 
-das Bad "er
+das Bad "-er
 banyo; banyo odası;
 
 der Balkon -e
@@ -25,7 +25,7 @@ garaj;
 der Garten "-
 bahçe;
 
-das Haus "er
+das Haus "-er
 ev; konut;
 
 die Heizung -en
@@ -64,7 +64,7 @@ ek giderler; yan giderler;
 der Platz (sg.)
 yer; alan; boş yer;
 
-der Schrank "e
+der Schrank "-e
 dolap; gardırop;
 
 der Sessel -
@@ -140,7 +140,7 @@ a dunkel
 karanlık{cmp=daha karanlık, sup=en karanlık}; koyu{cmp=daha koyu, sup=en koyu};
 
 a hell
-aydınlık{cmp=daha aydınlık, sup=en aydınlık}; açık renkli{cmp=daha açık, sup=en açık};
+aydınlık{cmp=daha aydınlık, sup=en aydınlık}; açık renkli{cmp=daha açık renkli, sup=en açık renkli};
 
 a erlaubt
 izin verilen; serbest;

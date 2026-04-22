@@ -1,7 +1,7 @@
 die Anzeige -n
 advertisement; ad; listing; notice;
 
-das Bad "er
+das Bad "-er
 bathroom; bath;
 
 der Balkon -e
@@ -25,7 +25,7 @@ garage;
 der Garten "-
 garden; yard;
 
-das Haus "er
+das Haus "-er
 house; home;
 
 die Heizung -en
@@ -64,7 +64,7 @@ utilities; additional costs; service charges;
 der Platz (sg.)
 space; room; place;
 
-der Schrank "e
+der Schrank "-e
 cabinet; cupboard; wardrobe; closet;
 
 der Sessel -

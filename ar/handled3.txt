@@ -1,7 +1,7 @@
 die Anzeige -n
 إعلان; إشعار;
 
-das Bad "er
+das Bad "-er
 حمّام; غرفة استحمام;
 
 der Balkon -e
@@ -25,7 +25,7 @@ die Garage -n
 der Garten "-
 حديقة;
 
-das Haus "er
+das Haus "-er
 بيت; منزل;
 
 die Heizung -en
@@ -64,7 +64,7 @@ die Nebenkosten (pl.)
 der Platz (sg.)
 مكان; مساحة; متسع;
 
-der Schrank "e
+der Schrank "-e
 خزانة; دولاب;
 
 der Sessel -

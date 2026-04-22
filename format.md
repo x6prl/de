@@ -61,11 +61,11 @@ help{prs=helps};
 [j-m]
 ```
 
-For verbs, `prs=` is specifically the learner-facing third-person present form, not a generic present-tense bucket. Do not overload `prs=` with first-person, infinitive-like, or multiple person/number forms.
+For verbs, `prs=` is specifically the learner-facing third-person finite form. In many languages this is a present-tense form, but use the language-appropriate third-person finite form where the natural equivalent is non-past or future-like. Do not overload `prs=` with first-person, infinitive-like, or multiple person/number forms.
 
 Recommended cue markers:
 
-* verb third-person present cue: `prs=`
+* verb third-person finite cue: `prs=`
 * verb past cue: `pst=`
 * verb participle cue: `par=`
 * auxiliary cue if explicitly needed: `aux=`

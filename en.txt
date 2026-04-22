@@ -1,0 +1,4986 @@
+die Aufgabe -n
+task; exercise; duty; function;
+
+Ich habe viele Aufgaben.
+I have many tasks.;
+
+Das sind meine Aufgaben im Büro.
+Those are my tasks in the office.;
+
+a höflich
+polite{cmp=politer, sup=politest}; courteous{cmp=more courteous, sup=most courteous}; civil{cmp=more civil, sup=most civil};
+
+Er ist sehr höflich.
+He is very polite.;
+
+Das war eine höfliche Antwort.
+That was a polite answer.;
+
+der Nachbar -n
+neighbor;
+
+Mein Nachbar ist sehr höflich.
+My neighbor is very polite.;
+
+Die Nachbarn sind laut.
+The neighbors are loud.;
+
+die Nachbarin -nen
+neighbor;
+
+Unsere Nachbarin ist sehr nett.
+Our neighbor is very nice.;
+
+Es geht los!
+it's starting!; here we go!;
+
+Los geht's!
+let's go!; here we go!;
+
+das Zeichen -
+sign; symbol; indication; mark; signal;
+
+Was bedeutet dieses Zeichen?
+What does this sign mean?;
+
+Das ist ein Zeichen von Vertrauen.
+That is a sign of trust.;
+
+das Arbeitsblatt "-er
+worksheet; task sheet; educational handout;
+
+Bitte nehmt das Arbeitsblatt heraus.
+Please take out the worksheet.;
+
+Ich habe das Arbeitsblatt nicht verstanden.
+I didn't understand the worksheet.;
+
+das Fragezeichen -
+question mark;
+
+Hier fehlt ein Fragezeichen.
+A question mark is missing here.;
+
+die Postleitzahl -en
+postal code;
+
+Wie lautet Ihre Postleitzahl?
+What is your postal code?;
+
+die Abstimmung -en
+vote; ballot;
+
+Die Abstimmung beginnt um neun Uhr.
+The vote begins at nine o'clock.;
+
+v abstimmen
+vote{prs=votes, pst=voted}; cast a vote{prs=casts a vote};
+[über+Akk]
+
+Wir stimmen morgen darüber ab.
+We are voting on that tomorrow.;
+
+v wählen
+vote{prs=votes, pst=voted};
+
+Viele Menschen wählen am Sonntag.
+Many people vote on Sunday.;
+
+v wählen
+choose{prs=chooses, pst=chose, par=chosen}; elect{prs=elects, pst=elected};
+[j-n; etw.]
+
+die Wahl -en
+choice; election;
+
+Die Wahl findet am Sonntag statt.
+The election takes place on Sunday.;
+
+Dafür!
+in favor!; I'm in favor!;
+
+Ganz klar dagegen!
+clearly against it!; definitely against it!;
+
+Ich bin dafür!
+I'm for it!;
+
+Ich bin entschieden dagegen!
+I am firmly against it!;
+
+v hinzufügen
+add{prs=adds, pst=added}; include{prs=includes, pst=included};
+[etw.]
+
+Kannst du das noch hinzufügen?
+Can you add that too?;
+
+a meistens
+usually; most of the time; in most cases;
+
+Ich komme meistens zu spät.
+I am usually late.;
+
+Meistens ist es ruhig hier.
+It is usually quiet here.;
+
+v raten-rät / riet / hat geraten
+advise{prs=advises, pst=advised}; recommend{prs=recommends, pst=recommended};
+[j-m]
+
+Ich rate dir, früher zu schlafen.
+I advise you to go to sleep earlier.;
+
+v raten-rät / riet / hat geraten
+guess{prs=guesses, pst=guessed}; estimate{prs=estimates, pst=estimated};
+[etw.]
+
+Rate mal!
+Guess!;
+
+Du musst nicht raten.
+You don't have to guess.;
+
+a manchmal
+sometimes; occasionally; at times;
+
+Ich bin manchmal müde.
+I am sometimes tired.;
+
+Manchmal regnet es tagelang.
+Sometimes it rains for days.;
+
+v sagen
+say{prs=says, pst=said}; tell{prs=tells, pst=told};
+[etw.]
+
+Er sagt das oft.
+He says that often.;
+
+Sie sagt die Wahrheit.
+She tells the truth.;
+
+Da bist du ja!
+there you are!; there you are at last!;
+
+a richtig
+correct{cmp=more correct, sup=most correct}; right; true{cmp=truer, sup=truest};
+
+Das ist richtig.
+That is correct.;
+
+Du kommst aber spät!
+you're really late!; you sure came late!;
+
+a wichtig
+important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
+
+Das ist sehr wichtig.
+That is very important.;
+
+das Paar -e
+pair; couple;
+
+Sie sind ein Paar.
+They are a couple.;
+
+das Leben (sg.)
+life;
+
+Das Leben ist nicht immer leicht.
+Life is not always easy.;
+
+a schwer
+heavy{cmp=heavier, sup=heaviest}; difficult{cmp=more difficult, sup=most difficult}; hard{cmp=harder, sup=hardest};
+
+Der Koffer ist schwer.
+The suitcase is heavy.;
+
+Die Aufgabe ist schwer.
+The task is difficult.;
+
+a selten
+rarely; seldom;
+
+jeden zweiten Tag
+every other day; every second day;
+
+v verwechseln
+mix up{prs=mixes up, pst=mixed up}; confuse{prs=confuses, pst=confused};
+[j-n; mit+Dat]
+
+gegen sechs Uhr
+around six o'clock; at about six o'clock;
+
+Ich habe keine Zeit zum Spielen.
+I have no time to play.;
+
+a offen
+open;
+
+v aufräumen
+tidy up{prs=tidies up, pst=tidied up}; clean up{prs=cleans up, pst=cleaned up};
+[etw.]
+
+v anschauen-schaut an / schaute an / hat angeschaut
+look at{prs=looks at, pst=looked at}; watch{prs=watches, pst=watched};
+[j-n; etw.]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+invite{prs=invites, pst=invited};
+[j-n; zu+Dat]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+load{prs=loads, pst=loaded};
+[etw.]
+
+a dann
+then; afterwards; in that case;
+
+erst ..., dann ...
+first ..., then ...;
+
+die Wäsche (sg.)
+laundry; washing; clothes to be washed;
+
+Ich wasche Wäsche.
+I wash clothes.; I am doing the laundry.;
+
+in Kraft
+in force; effective;
+
+die Regel -n
+rule;
+
+in der Regel
+as a rule; usually;
+
+die Verabredung -en
+appointment; arrangement;
+
+v wachen
+stay awake{prs=stays awake, pst=stayed awake}; keep watch{prs=keeps watch, pst=kept watch};
+
+v wecken
+wake{prs=wakes, pst=woke, par=woken}; wake up{prs=wakes up, pst=woke up, par=woken up};
+[j-n]
+
+v dauern
+last{prs=lasts, pst=lasted}; take{prs=takes, pst=took, par=taken};
+
+Wie lange dauert etw.?
+how long does it last?; how long does it take?;
+
+v sehen-sieht / sah / hat gesehen
+see{prs=sees, pst=saw, par=seen};
+
+Ich sehe eine Katze auf der Straße.
+I see a cat on the street.;
+
+das Lebensmittel -
+food item; food product; grocery item;
+
+das Transportmittel -
+means of transport; transport vehicle;
+
+das Verkehrsmittel -
+means of transportation; mode of transport;
+
+der Einkaufskorb "-e
+shopping basket;
+
+die Einkaufstasche -n
+shopping bag;
+
+auf dem Markt
+at the market;
+
+der Kalbsbraten (sg.)
+roast veal; veal roast;
+
+die Tomatensoße -n
+tomato sauce;
+
+ein halbes Kilo
+half a kilo; half a kilogram;
+
+der Becher -
+cup; tub;
+
+die Packung -en
+pack; package;
+
+die Flasche -n
+bottle;
+
+die Tüte -n
+bag; small bag;
+
+die Tafel -n
+board; blackboard; bar; tablet;
+
+das Netz -e
+net; mesh;
+
+das Glas "-er
+drinking glass; glass; jar;
+
+die Dose -n
+can; tin; container;
+
+die Schachtel -n
+box;
+
+die Schale -n
+bowl; tray;
+
+a günstig
+inexpensive; affordable; good value;
+
+a billig
+cheap;
+
+nicht wahr?
+isn't it?; right?;
+
+a allgemein
+general; generally;
+
+das Gramm -
+gram;
+
+das Kilo -s
+kilo; kilogram;
+
+das Kilogramm -e
+kilogram;
+
+der Bund "-e
+bunch; bundle; federation; union;
+
+die Knoblauchzehe -n
+clove of garlic;
+
+der Wortstamm "-e
+word stem; root;
+
+das Wochenende -n
+weekend;
+
+der Nachtisch -e
+dessert;
+
+das Dessert -s
+dessert;
+
+die Nachspeise -n
+dessert;
+
+die Lücke -n
+gap; blank; hole;
+
+das Besteck (sg.)
+cutlery; silverware;
+
+echt gut
+really good; very good;
+
+v kochen
+cook{prs=cooks, pst=cooked}; boil{prs=boils, pst=boiled};
+
+v braten-brät / briet / hat gebraten
+fry{prs=fries, pst=fried}; pan-fry{prs=pan-fries, pst=pan-fried};
+
+v backen-backt,bäckt / backte,buk / hat gebacken
+bake{prs=bakes, pst=baked};
+
+v grillen
+grill{prs=grills, pst=grilled}; barbecue{prs=barbecues, pst=barbecued};
+
+Sie sind schon da?
+are you already here?; are they already here?;
+
+Sie waren schon kurz da.
+they already stopped by briefly.; you already stopped by briefly.;
+
+der Apfel "-
+apple;
+
+die Banane -n
+banana;
+
+die Blume -n
+flower;
+
+die Butter (sg.)
+butter;
+
+das Ei -er
+egg;
+
+das Fleisch (sg.)
+meat;
+
+das Frühstück -e
+breakfast;
+
+die Gabel -n
+fork;
+
+das Gemüse (sg.)
+vegetables;
+
+der Joghurt -s
+yogurt;
+
+die Karotte -n
+carrot;
+
+die Kartoffel -n
+potato;
+
+der Kühlschrank "-e
+refrigerator; fridge;
+
+der Liter -
+liter;
+
+der Löffel -
+spoon;
+
+die Marmelade (sg.)
+jam; marmalade;
+
+die Menge -n
+amount; quantity; multitude;
+
+das Messer -
+knife;
+
+das Müsli (sg.)
+muesli;
+
+das Öl -e
+oil;
+
+die Orange -n
+orange;
+
+die Paprika -s
+bell pepper; paprika;
+
+der Pilz -e
+mushroom;
+
+der Reis (sg.)
+rice;
+
+der Salat -e
+salad; lettuce;
+
+die Serviette -n
+napkin; serviette;
+
+das Stück -e
+piece; item;
+
+die Suppe -n
+soup;
+
+der Teller -
+plate;
+
+die Tomate -n
+tomato;
+
+der Wein -e
+wine;
+
+die Wurst "-e
+sausage;
+
+die Zitrone -n
+lemon;
+
+die Zwiebel -n
+onion;
+
+v finden-findet / fand / hat gefunden
+find{prs=finds, pst=found};
+
+v finden-findet / fand / hat gefunden
+consider{prs=considers, pst=considered}; regard{prs=regards, pst=regarded};
+
+v geben-gibt / gab / hat gegeben
+give{prs=gives, pst=gave, par=given};
+[j-m; etw.]
+
+v holen
+fetch{prs=fetches, pst=fetched}; get{prs=gets, pst=got, par=gotten}; bring{prs=brings, pst=brought};
+
+v mögen-mag / mochte / hat gemocht
+like{prs=likes, pst=liked};
+
+v nehmen-nimmt / nahm / hat genommen
+take{prs=takes, pst=took, par=taken};
+
+v schmecken
+taste good{prs=tastes good, pst=tasted good};
+
+v schmecken
+taste{prs=tastes, pst=tasted};
+[etw.]
+
+a leer
+empty;
+
+a teuer
+expensive; costly;
+
+etwas
+something;
+
+nichts
+nothing;
+
+a fast
+almost;
+
+Guten Appetit!
+enjoy your meal!;
+
+Prost!
+cheers!;
+
+a verschieden
+different; various; separate;
+
+das Genussmittel -
+luxury good; stimulant; indulgence item;
+
+der Geschmack "-er
+taste; flavor;
+
+v riechen-riecht / roch / hat gerochen
+smell{prs=smells, pst=smelled}; smell of{prs=smells of, pst=smelled of};
+
+der Geruch "-e
+smell; odor;
+
+v hören
+hear{prs=hears, pst=heard};
+
+das Gehör (sg.)
+hearing;
+
+die Stieftochter "-
+stepdaughter;
+
+v hüpfen
+hop{prs=hops, pst=hopped}; bounce{prs=bounces, pst=bounced};
+
+v schicken
+send{prs=sends, pst=sent};
+[j-m; etw.]
+
+der Abend -e
+evening;
+
+der Alltag (sg.)
+everyday life; daily routine;
+
+die Arbeit -en
+work; job; labor;
+
+die E-Mail -s
+email; e-mail;
+
+der Film -e
+film; movie;
+
+die Freizeit (sg.)
+free time; leisure time;
+
+der Fußball (sg.)
+soccer; football;
+
+der Kalender -
+calendar;
+
+das Kino -s
+cinema; movie theater;
+
+der Mittag -e
+noon; midday; lunchtime;
+
+der Montag -e
+Monday;
+
+der Dienstag -e
+Tuesday;
+
+der Mittwoch -e
+Wednesday;
+
+der Donnerstag -e
+Thursday;
+
+der Freitag -e
+Friday;
+
+der Samstag -e
+Saturday;
+
+der Sonntag -e
+Sunday;
+
+der Morgen -
+morning;
+
+die Musik (sg.)
+music;
+
+der Nachmittag -e
+afternoon;
+
+die Nacht "-e
+night;
+
+das Picknick -s
+picnic;
+
+der Sport (sg.)
+sport; exercise;
+
+die Stunde -n
+hour;
+
+die Uhr -en
+clock; watch;
+
+der Vormittag -e
+morning before noon; late morning;
+
+die Woche -n
+week;
+
+die Wohnung -en
+apartment; flat; housing;
+
+die Zeit (sg.)
+time;
+
+v anrufen-ruft an / rief an / hat angerufen
+call{prs=calls, pst=called}; phone{prs=phones, pst=phoned};
+[j-n]
+
+v aufstehen-steht auf / stand auf / ist aufgestanden
+get up{prs=gets up, pst=got up, par=gotten up};
+
+v beginnen-beginnt / begann / hat begonnen
+begin{prs=begins, pst=began, par=begun}; start{prs=starts, pst=started};
+
+v besuchen
+visit{prs=visits, pst=visited};
+[j-n; etw.]
+
+v einkaufen-kauft ein / kaufte ein / hat eingekauft
+shop{prs=shops, pst=shopped}; do the shopping{prs=does the shopping, pst=did the shopping, par=done the shopping};
+
+v fahren-fährt / fuhr / ist gefahren
+go{prs=goes, pst=went, par=gone}; travel{prs=travels, pst=traveled};
+
+v fahren-fährt / fuhr / hat gefahren
+drive{prs=drives, pst=drove, par=driven};
+[etw.]
+
+v fernsehen-sieht fern / sah fern / hat ferngesehen
+watch TV{prs=watches TV, pst=watched TV}; watch television{prs=watches television, pst=watched television};
+
+v frühstücken
+have breakfast{prs=has breakfast, pst=had breakfast}; eat breakfast{prs=eats breakfast, pst=ate breakfast, par=eaten breakfast};
+
+v putzen
+clean{prs=cleans, pst=cleaned}; tidy up{prs=tidies up, pst=tidied up};
+
+v schlafen-schläft / schlief / hat geschlafen
+sleep{prs=sleeps, pst=slept};
+
+v tanzen
+dance{prs=dances, pst=danced};
+
+v telefonieren
+talk on the phone{prs=talks on the phone, pst=talked on the phone}; telephone{prs=telephones, pst=telephoned};
+
+v träumen
+dream{prs=dreams, pst=dreamed, par=dreamed}; have dreams{prs=has dreams, pst=had dreams};
+
+v waschen-wäscht / wusch / hat gewaschen
+wash{prs=washes, pst=washed}; do the washing{prs=does the washing, pst=did the washing, par=done the washing};
+
+v zoomen
+zoom{prs=zooms, pst=zoomed}; have a Zoom call{prs=has a Zoom call, pst=had a Zoom call};
+
+a früh
+early;
+
+a spät
+late;
+
+a geöffnet
+open;
+
+a geschlossen
+closed;
+
+a nie
+never;
+
+a oft
+often;
+
+a nur
+only; just;
+
+a später
+later;
+
+von ... bis
+from ... to;
+
+wann?
+when?;
+
+wie lange?
+how long?;
+
+das Auto -s
+car; automobile;
+
+der Bahnhof "-e
+station; train station;
+
+der Bildschirm -e
+screen; monitor;
+
+die Brille -n
+glasses; spectacles;
+
+das Buch "-er
+book;
+
+der Computer -
+computer;
+
+das Fahrrad "-er
+bicycle; bike;
+
+das Fenster -
+window;
+
+das Geld (sg.)
+money; cash; funds;
+
+das Handy -s
+mobile phone; cell phone; smartphone;
+
+das Haus "-er
+house; home; building;
+
+das Heft -e
+notebook; exercise book;
+
+der Hund -e
+dog;
+
+die Jacke -n
+jacket; blazer;
+
+der Kaffee (sg.)
+coffee;
+
+die Katze -n
+cat;
+
+der Kuli -s
+pen; ballpoint pen;
+
+die Lampe -n
+lamp;
+
+der Laptop -s
+laptop;
+
+die Maus "-e
+mouse; computer mouse;
+
+die Notiz -en
+note; notation;
+
+der Rucksack "-e
+backpack; rucksack;
+
+die Schere -n
+scissors;
+
+der Schlüssel -
+key;
+
+die Schule -n
+school;
+
+der Stift -e
+pen; pencil;
+
+der Stuhl "-e
+chair;
+
+das Tablet -s
+tablet;
+
+die Tasche -n
+bag; pocket;
+
+der Tisch -e
+table;
+
+die Tür -en
+door;
+
+v arbeiten
+work{prs=works, pst=worked};
+
+v funktionieren
+work{prs=works, pst=worked}; function{prs=functions, pst=functioned};
+
+v informieren
+inform{prs=informs, pst=informed}; notify{prs=notifies, pst=notified};
+
+v leben
+live{prs=lives, pst=lived};
+
+v wechseln
+change{prs=changes, pst=changed}; replace{prs=replaces, pst=replaced};
+
+v wissen-weiß / wusste / hat gewusst
+know{prs=knows, pst=knew, par=known};
+
+v zeigen
+show{prs=shows, pst=showed, par=shown};
+
+a fertig
+ready; finished;
+
+a freundlich
+friendly;
+
+a kaputt
+broken;
+
+a kurz
+short;
+
+a lang
+long;
+
+a langsam
+slow;
+
+a schnell
+fast; quick;
+
+a falsch
+wrong; incorrect;
+
+alle
+all; everyone;
+
+a gern
+gladly; with pleasure;
+
+a heute
+today;
+
+a schon
+already;
+
+so
+so; like this;
+
+Vielen Dank!
+thank you very much!; many thanks!;
+
+a vielleicht
+maybe; perhaps;
+
+zu zweit / dritt / viert
+as a pair; as three; as four;
+
+die Adresse -n
+address;
+
+die Anmeldung -en
+registration; sign-up; application;
+
+die Antwort -en
+answer;
+
+die Familie -n
+family;
+
+der Familienname -n
+surname; family name;
+
+die Firma -en
+company; firm;
+
+das Formular -e
+form;
+
+das Foto -s
+photo; photograph;
+
+die Frage -n
+question;
+
+die Hausnummer -n
+house number;
+
+der Irak (sg.)
+Iraq;
+
+der Kurs -e
+course; exchange rate;
+
+das Land "-er
+country;
+
+der Name -n
+name;
+
+die Nummer -n
+number;
+
+der Ort -e
+place; town; locality;
+
+der Papa -s
+dad; papa;
+
+die Mama -s
+mom; mama;
+
+die Person -en
+person;
+
+der Satz "-e
+sentence;
+
+die Stadt "-e
+city; town;
+
+die Straße -n
+street; road;
+
+die Telefonnummer -n
+telephone number; phone number;
+
+der Vorname -n
+first name; given name;
+
+die Zahl -en
+number; digit;
+
+v antworten
+answer{prs=answers, pst=answered}; reply{prs=replies, pst=replied};
+[j-m]
+
+v begrüßen
+greet{prs=greets, pst=greeted};
+[j-n]
+
+v buchstabieren
+spell{prs=spells, pst=spelled}; spell out{prs=spells out, pst=spelled out};
+
+v fragen
+ask{prs=asks, pst=asked};
+[j-n; etw.]
+
+v heißen-heißt / hieß / hat geheißen
+be called{prs=is called, pst=was called, par=been called}; be named{prs=is named, pst=was named, par=been named};
+
+v kennen-kennt / kannte / hat gekannt
+be familiar with{prs=is familiar with, pst=was familiar with, par=been familiar with}; know;
+
+v kommen-kommt / kam / ist gekommen
+come{prs=comes, pst=came, par=come}; arrive{prs=arrives, pst=arrived};
+
+v lesen-liest / las / hat gelesen
+read{prs=reads, pst=read};
+
+v schreiben-schreibt / schrieb / hat geschrieben
+write{prs=writes, pst=wrote, par=written};
+
+v sein-ist / war / ist gewesen
+be{prs=is, pst=was, par=been};
+
+v sprechen-spricht / sprach / hat gesprochen
+speak{prs=speaks, pst=spoke, par=spoken}; talk{prs=talks, pst=talked};
+
+v vorstellen-stellt vor / stellte vor / hat vorgestellt
+introduce{prs=introduces, pst=introduced}; present{prs=presents, pst=presented};
+
+v wiederholen
+repeat{prs=repeats, pst=repeated};
+
+v wohnen
+live{prs=lives, pst=lived}; reside{prs=resides, pst=resided};
+
+auf Wiedersehen
+goodbye;
+
+aus + Dat.
+from; out of;
+
+bitte
+please;
+
+Entschuldigung!
+excuse me!; sorry!;
+
+in + Akk./Dat.
+in;
+
+a jetzt
+now;
+
+und
+and;
+
+wie
+how;
+
+Wie geht's?
+how are you?;
+
+wo
+where?;
+
+woher
+where from?;
+
+der Fußboden "-
+floor; flooring;
+
+der Hefter -
+folder; binder;
+
+der Farbstift -e
+colored pencil;
+
+der Locher -
+hole punch;
+
+der Spitzer -
+pencil sharpener;
+
+das Brillenetui -s
+glasses case; eyeglasses case;
+
+das Mäppchen -
+pencil case;
+
+der Beutel -
+bag; pouch;
+
+die Stofftasche -n
+cloth bag; fabric bag;
+
+Was ist nie dabei?
+What do you never have with you?;
+
+nicht wichtig
+not important;
+
+das Taschentuch "-er
+handkerchief; tissue;
+
+a bestimmt
+certain; definite; specific;
+
+a unbestimmt
+indefinite; vague;
+
+bestimmter Artikel
+definite article;
+
+unbestimmter Artikel
+indefinite article;
+
+die Lageristin -nen
+warehouse worker; storekeeper;
+
+der Lagerist -en
+warehouse worker; storekeeper;
+
+das Ding -e
+thing; item;
+
+das Radieschen -
+radish;
+
+der Tacker -
+stapler;
+
+Es ist weg.
+It's gone.; It's missing.;
+
+Es ist kaputt.
+It's broken.;
+
+Es funktioniert nicht.
+It doesn't work.;
+
+eine historische Stätte
+historical site; historic site;
+
+Samar und Mohamad kommen am Morgen zu zweit.
+Samar and Mohamad come together in the morning.;
+
+der Kassenbon -s
+cash register receipt; receipt;
+
+der Bon -s
+receipt; slip;
+
+v decken
+cover;
+[etw.]
+
+den Tisch decken
+set the table;
+
+das Knäckebrot -e
+crispbread;
+
+die Uroma -s
+great-grandmother;
+
+der Uropa -s
+great-grandfather;
+
+das Treffen -
+meeting; get-together;
+
+Die Katze ist getigert.
+The cat is tabby.; The cat is striped.;
+
+Zuerst räume ich auf, dann putze ich.
+First I tidy up, then I clean.;
+
+Ich wasche mein Gesicht.
+I wash my face.;
+
+Ich putze meine Zähne.
+I brush my teeth.;
+
+Ich kämme meine Haare.
+I comb my hair.;
+
+Ich dusche.
+I take a shower.;
+
+Ich finde den Geruch gut.
+I find the smell pleasant.;
+
+Ich mag den Geruch.
+I like the smell.;
+
+Lin frühstückt im Alltag nie zu Hause.
+Lin never eats breakfast at home on weekdays.;
+
+der Stammbaum "-e
+family tree;
+
+das Einzelkind -er
+only child;
+
+der Zwilling -e
+twin;
+
+der Onkel -
+uncle;
+
+die Tante -n
+aunt;
+
+die Cousine -n
+female cousin;
+
+der Cousin -s
+male cousin;
+
+der Neffe -n
+nephew;
+
+die Nichte -n
+niece;
+
+der Schwager "-
+brother-in-law;
+
+die Schwägerin -nen
+sister-in-law;
+
+der Schwiegervater "-
+father-in-law;
+
+die Schwiegermutter "-
+mother-in-law;
+
+der Enkel -
+grandson;
+
+die Enkelin -nen
+granddaughter;
+
+der Urenkel -
+great-grandson;
+
+die Urenkelin -nen
+great-granddaughter;
+
+die Stiefmutter "-
+stepmother;
+
+der Stiefvater "-
+stepfather;
+
+die Stiefkinder (pl.)
+stepchildren;
+
+der Kuss "-e
+kiss;
+
+Herzlichen Glückwunsch!
+Congratulations!; Many congratulations!;
+
+Ich beneide dich.
+I envy you.;
+
+Er hat eine Beziehung.
+He is in a relationship.;
+
+die Anzeige -n
+advertisement; ad; listing; notice;
+
+das Bad "-er
+bathroom; bath;
+
+der Balkon -e
+balcony;
+
+das Bett -en
+bed;
+
+die Dusche -n
+shower;
+
+das Erdgeschoss -e
+ground floor; first floor;
+
+der Flur -e
+hallway; corridor; entrance hall;
+
+die Garage -n
+garage;
+
+der Garten "-
+garden; yard;
+
+das Haus "-er
+house; home;
+
+die Heizung -en
+heating; heating system;
+
+der Keller -
+basement; cellar;
+
+die Küche -n
+kitchen;
+
+die Miete -n
+rent;
+
+der Mieter -
+tenant; renter;
+
+die Mieterin -nen
+tenant; renter;
+
+die Möbel (pl.)
+furniture;
+
+der Monat -e
+month;
+
+der Nachbar -n
+neighbor;
+
+die Nachbarin -nen
+neighbor;
+
+die Nebenkosten (pl.)
+utilities; additional costs; service charges;
+
+der Platz (sg.)
+space; room; place;
+
+der Schrank "-e
+cabinet; cupboard; wardrobe; closet;
+
+der Sessel -
+armchair;
+
+das Sofa -s
+sofa; couch;
+
+der Spielplatz "-e
+playground;
+
+die Toilette -n
+toilet; restroom;
+
+der Vermieter -
+landlord;
+
+die Vermieterin -nen
+landlady; landlord;
+
+die Wohnung -en
+apartment; flat;
+
+das Zentrum -en
+center; downtown;
+
+das Zimmer -
+room;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+put down{prs=puts down, pst=put down}; leave{prs=leaves, pst=left}; switch off{prs=switches off, pst=switched off};
+
+v benutzen / benutzte / hat benutzt
+use{prs=uses, pst=used};
+
+v bezahlen / bezahlte / hat bezahlt
+pay{prs=pays, pst=paid}; pay for{prs=pays for, pst=paid for};
+
+v dürfen-darf / durfte / hat gedurft
+may; be allowed to{prs=is allowed to, pst=was allowed to, par=been allowed to};
+
+v grillen / grillte / hat gegrillt
+grill{prs=grills, pst=grilled}; barbecue{prs=barbecues, pst=barbecued};
+
+v mieten / mietete / hat gemietet
+rent{prs=rents, pst=rented}; lease{prs=leases, pst=leased};
+
+v parken / parkte / hat geparkt
+park{prs=parks, pst=parked};
+
+v putzen / putzte / hat geputzt
+clean{prs=cleans, pst=cleaned}; tidy up{prs=tidies up, pst=tidied up};
+
+v rauchen / rauchte / hat geraucht
+smoke{prs=smokes, pst=smoked};
+
+v wollen-will / wollte / hat gewollt
+want{prs=wants, pst=wanted};
+
+a alt
+old{cmp=older, sup=oldest}; aged{cmp=more aged, sup=most aged};
+
+a neu
+new{cmp=newer, sup=newest};
+
+a billig
+cheap;
+
+a teuer
+expensive; costly;
+
+a dunkel
+dark{cmp=darker, sup=darkest};
+
+a hell
+bright{cmp=brighter, sup=brightest}; light{cmp=lighter, sup=lightest};
+
+a erlaubt
+allowed; permitted;
+
+a verboten
+forbidden; prohibited;
+
+a groß
+big{cmp=bigger, sup=biggest}; large{cmp=larger, sup=largest};
+
+a klein
+small{cmp=smaller, sup=smallest}; little{cmp=less, sup=least};
+
+a hoch
+high{cmp=higher, sup=highest}; tall{cmp=taller, sup=tallest};
+
+a jung
+young{cmp=younger, sup=youngest};
+
+a kalt
+cold{cmp=colder, sup=coldest};
+
+a warm
+warm{cmp=warmer, sup=warmest};
+
+a laut
+loud{cmp=louder, sup=loudest}; noisy{cmp=noisier, sup=noisiest};
+
+a ruhig
+quiet{cmp=quieter, sup=quietest}; calm{cmp=calmer, sup=calmest};
+
+a modern
+modern{cmp=more modern, sup=most modern};
+
+a weit
+far{cmp=farther, sup=farthest}; wide{cmp=wider, sup=widest}; spacious{cmp=more spacious, sup=most spacious};
+
+a wichtig
+important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
+
+ein bisschen
+a little; a bit;
+
+a leider
+unfortunately;
+
+a sehr
+very;
+
+a wenig
+little; not much; few;
+
+das Wasser (sg.)
+water; waters; body of water;
+
+die Milch (sg.)
+milk;
+
+der Hunger (sg.)
+hunger; starvation; famine;
+
+der Regen (sg.)
+rain; rainfall;
+
+die Leute (pl.)
+people; folks;
+
+die Eltern (pl.)
+parents; mother and father;
+
+die Ferien (pl.)
+holidays; vacation; school holidays; school break;
+
+die Kosten (pl.)
+costs; expenses; charges;
+
+die Möbel (pl.)
+furniture; furnishings; pieces of furniture;
+
+die Lebensmittel (pl.)
+food products; groceries; provisions;
+
+die Geschwister (pl.)
+siblings; brothers and sisters;
+
+die Daten (pl.)
+data; details; computer data;
+
+das Leben (sg.)
+life; existence;
+
+der Weg -e
+path; road; way;
+
+der Teil -e
+part; share;
+
+die Gruppe -n
+group;
+
+die Seite -n
+page; side;
+
+die Art -en
+view; type; way;
+
+der Bereich -e
+region; sphere; chapter;
+
+das Projekt -e
+project;
+
+das Problem -e
+problem;
+
+der Grund "-e
+cause; base;
+
+die Grundlage -n
+warp; base;
+
+das Thema -en
+topic; question; subject of conversation;
+
+das Ziel -e
+target;
+
+der Plan "-e
+plan; intention;
+
+der Termin -e
+meeting; appointed date; term;
+
+der Preis -e
+price; prize (award);
+
+der Markt "-e
+market;
+
+das Produkt -e
+product; product;
+
+die Lösung -en
+solution; solution (chemical);
+
+die Chance -n
+chance; opportunity;
+
+das Risiko -en
+risk;
+
+die Situation -en
+situation; position;
+
+die Hilfe -n
+help;
+
+der Unterricht -e
+class; lesson; education;
+
+die Prüfung -en
+exam; examination; trial;
+
+das Beispiel -e
+example; sample;
+
+die Erfahrung -en
+experience;
+
+das Studium -en
+study (at university); education;
+
+die Universität -en
+university;
+
+die Abteilung -en
+department; department; department;
+
+der Bericht -e
+report; report;
+
+die Methode -n
+method; way;
+
+der Versuch -e
+attempt; experiment;
+
+die Forschung -en
+study; scientific research;
+
+die Qualität -en
+quality;
+
+der Vorteil -e
+advantage;
+
+der Nachteil -e
+flaw;
+
+der Unterschied -e
+difference; difference;
+
+die Meinung -en
+opinion;
+
+die Entscheidung -en
+solution; decision making;
+
+die Voraussetzung -en
+premise; condition;
+
+der Einfluss "-e
+influence;
+
+die Wirkung -en
+action; effect;
+
+die Beziehung -en
+attitude; connection;
+
+die Möglichkeit -en
+opportunity;
+
+die Schwierigkeit -en
+difficulty; complexity;
+
+der Erfolg -e
+success;
+
+der Zugang "-e
+access; entrance; approach;
+
+der Beitrag "-e
+contribution; contribution; article (in the media);
+
+der Inhalt -e
+content;
+
+die Nachricht -en
+message; news;
+
+die Mitteilung -en
+notification; message;
+
+die Bestellung -en
+order;
+
+die Lieferung -en
+delivery; supply;
+
+die Nachfrage -n
+demand; request;
+
+das Angebot -e
+offer; offer;
+
+der Vertrag "-e
+contract; contract;
+
+die Bedingung -en
+condition;
+
+die Beratung -en
+consultation; advice;
+
+die Genehmigung -en
+permission; OK;
+
+die Einladung -en
+invitation;
+
+der Vorschlag "-e
+proposal (initiative);
+
+die Ablehnung -en
+refusal; deviation;
+
+die Gewohnheit -en
+habit;
+
+die Krankheit -en
+disease;
+
+die Behandlung -en
+treatment; treatment (with whom/what);
+
+das Medikament -e
+medicine;
+
+die Apotheke -n
+pharmacy;
+
+die Versicherung -en
+insurance; insurance;
+
+die Steuer -n
+tax;
+
+der Staat -en
+state;
+
+die Regierung -en
+government;
+
+das Gesetz -e
+law;
+
+das Gericht -e
+court; dish;
+
+der Prozess -e
+process; trial;
+
+die Industrie -n
+industry;
+
+die Rechnung -en
+check; invoice;
+
+die Quittung -en
+receipt; check;
+
+die Karte -n
+map; card;
+
+das Konto -en
+account (bank);
+
+der Nutzer -
+user;
+
+der Benutzer -
+user;
+
+das Passwort "-er
+password;
+
+die Datei -en
+file;
+
+das Programm -e
+program;
+
+die Anwendung -en
+application; application;
+
+die Einstellung -en
+setting; attitude; hiring;
+
+die Option -en
+option; option;
+
+die Funktion -en
+function;
+
+die Veranstaltung -en
+event;
+
+die Ursache -n
+cause;
+
+die Folge -n
+consequence; series; episode;
+
+der Zusammenhang "-e
+connection; context;
+
+der Vergleich -e
+comparison;
+
+die Ebene -n
+level; plane;
+
+der Betrag "-e
+sum; size;
+
+die Summe -n
+sum;
+
+der Umsatz "-e
+turnover (fin.);
+
+der Gewinn -e
+profit; winning;
+
+der Verlust -e
+loss; lesion;
+
+der Bedarf -e
+need; demand;
+
+die Nutzung -en
+usage;
+
+der Zweck -e
+target; appointment;
+
+der Notfall "-e
+emergency;
+
+der Umfang "-e
+volume; coverage;
+
+die Reihe -n
+row; queue;
+
+die Liste -n
+list;
+
+das Dokument -e
+document;
+
+die Frist -en
+term (limit);
+
+die Pflicht -en
+duty; duty;
+
+das Recht -e
+right;
+
+das Urteil -e
+sentence; judgment;
+
+der Anspruch "-e
+requirement; right (to something);
+
+der Antrag "-e
+statement; bid; petition;
+
+die Anlage -n
+attachment (to letter); installation; construction; attachment;
+
+die Ware -n
+product;
+
+die Zahlung -en
+payment;
+
+die Überweisung -en
+transfer (money); referral (to a doctor);
+
+die Werbung -en
+advertising;
+
+die Marke -n
+brand; brand;
+
+die Kampagne -n
+campaign;
+
+die Strategie -n
+strategy;
+
+die Präsentation -en
+presentation;
+
+der Vortrag "-e
+report; lecture;
+
+das Gespräch "-e
+conversation; talk;
+
+die Bedeutung -en
+meaning; meaning;
+
+die Erklärung -en
+explanation; declaration;
+
+die Beschreibung -en
+description;
+
+der Text -e
+text;
+
+die Geschichte -n
+story; story;
+
+die Zeitung -en
+newspaper;
+
+der Artikel -
+article; product;
+
+die Serie -n
+series; series;
+
+die Rolle -n
+role;
+
+die Figur -en
+figure; character;
+
+das Lied -er
+song;
+
+die Sicherheit -en
+safety;
+
+die Gefahr -en
+danger;
+
+der Schutz (sg.)
+protection;
+
+der Hinweis -e
+indication; note; clue;
+
+die Maßnahme -n
+measure; event;
+
+die Unterstützung -en
+support;
+
+der Kontakt -e
+contact; connection;
+
+die Verbindung -en
+compound; connection;
+
+die Entwicklung -en
+development;
+
+die Veränderung -en
+change;
+
+die Verbesserung -en
+improvement;
+
+die Verschlechterung -en
+deterioration;
+
+die Erweiterung -en
+extension;
+
+die Reduktion -en
+reduction; decrease;
+
+die Erhöhung -en
+promotion; increase;
+
+die Senkung -en
+decline; demotion;
+
+die Wahl -en
+choice; elections;
+
+die Konsequenz -en
+consequence;
+
+die Bedrohung -en
+threat;
+
+der Beweis -e
+proof;
+
+der Zweifel -
+doubt;
+
+der Ausgang "-e
+exit; exodus;
+
+der Eingang "-e
+entrance; admission;
+
+der Anfang "-e
+start;
+
+das Ende -n
+end;
+
+der Verlauf "-e
+move; flow;
+
+die Dauer (sg.)
+duration; duration;
+
+die Zukunft (sg.)
+future;
+
+die Vergangenheit (sg.)
+past;
+
+die Gegenwart (sg.)
+present;
+
+der Moment -e
+moment;
+
+der Zeitraum "-e
+period; time period;
+
+die Phase -n
+phase; stage;
+
+der Zeitpunkt -e
+moment (of time);
+
+die Anzahl -en
+quantity; number;
+
+die Gebühr -en
+collection; duty; commission;
+
+der Schaden "-en
+damage; damage;
+
+die Versorgung -en
+security; supply;
+
+die Fahrt -en
+drive; flight;
+
+das Ticket -s
+ticket; ticket;
+
+die Verspätung -en
+being late; delay;
+
+die Ankunft "-e
+arrival;
+
+die Abfahrt -en
+departure;
+
+das Gerät -e
+device; device;
+
+die Maschine -n
+car; mechanism;
+
+die Webseite -n
+web page; website;
+
+die Anzeige -n
+announcement; indication;
+
+die Meldung -en
+message; notification;
+
+der Test -s
+test; examination;
+
+die Aufgabe -n
+exercise; task;
+
+die Übersicht -en
+review; summary;
+
+die Zusammenfassung -en
+summary;
+
+der Job -s
+job (position); part-time job;
+
+die Bewerbung -en
+statement; response; bid;
+
+der Lebenslauf "-e
+life path; resume; autobiography;
+
+das Meeting -s
+meeting; meeting;
+
+die Besprechung -en
+meeting; discussion;
+
+die Konferenz -en
+conference;
+
+der Patient -en
+patient;
+
+die Patientin -nen
+patient;
+
+die Praxis -en
+practice; private clinic;
+
+das Rezept -e
+prescription (med.); recipe (culinary);
+
+die Untersuchung -en
+examination; study;
+
+die Diagnose -n
+diagnosis;
+
+die Therapie -n
+therapy; treatment;
+
+die Vorsorge -n
+prevention;
+
+die Pflege -n
+care;
+
+die Ernährung -en
+nutrition;
+
+das Gewicht -e
+weight;
+
+die Größe -n
+height; size;
+
+der Körper -
+body; organism;
+
+der Kopf "-e
+head;
+
+der Rücken -
+back;
+
+der Bauch "-e
+stomach;
+
+die Quelle -n
+source;
+
+die Ressource -n
+resource;
+
+der Zugriff -e
+access; access (to data);
+
+die Heizung -en
+heating; heating system;
+
+die Miete -n
+rent; rent;
+
+der Haushalt -e
+household; budget;
+
+der Abfall "-e
+waste; garbage;
+
+die Umwelt (sg.)
+environment;
+
+die Teilnahme -n
+participation;
+
+der Teilnehmer -
+participant;
+
+die Teilnehmerin -nen
+participant;
+
+die Rückmeldung -en
+feedback; response;
+
+die Bewertung -en
+grade; rating;
+
+die Einschätzung -en
+grade; judgment;
+
+die Umsetzung -en
+implementation; implementation;
+
+die Einführung -en
+introduction; implementation; presentation;
+
+die Erstellung -en
+creation; preparation;
+
+die Bearbeitung -en
+processing; revision;
+
+die Freigabe -n
+permission; OK; release;
+
+die Wartung -en
+maintenance;
+
+die Störung -en
+malfunction; failure;
+
+die Fehlermeldung -en
+error message;
+
+der Fehler -
+error;
+
+der Aufwand "-e
+cost; efforts;
+
+die Absage -n
+refusal; cancel;
+
+die Zusage -n
+agreement; confirmation;
+
+die Vereinbarung -en
+agreement; agreement;
+
+die Einigung -en
+settlement; agreement;
+
+die Trennung -en
+parting; separation;
+
+der Auftrag "-e
+order; assignment;
+
+der Kunde -n
+client; buyer;
+
+die Kundin -nen
+client; customer;
+
+der Anbieter -
+service provider; provider;
+
+der Hersteller -
+manufacturer;
+
+der Lieferant -en
+supplier;
+
+der Betrieb -e
+enterprise; production;
+
+das Unternehmen -
+enterprise; company;
+
+die Verantwortung -en
+responsibility;
+
+die Abwicklung -en
+execution; conducting (process);
+
+der Ablauf "-e
+progress (of process); order;
+
+der Vorgang "-e
+process; procedure; event;
+
+die Kapazität -en
+power; capacity; ability;
+
+das Lager -
+warehouse; stock;
+
+der Bestand "-e
+stock; availability; compound;
+
+das Sortiment -e
+assortment;
+
+der Rabatt -e
+discount;
+
+die Aktion -en
+promotion; promo;
+
+die Garantie -n
+guarantee;
+
+die Rückgabe -n
+return (product);
+
+der Umtausch "-e
+exchange (of goods);
+
+der Versand -e
+sending; delivery (by mail);
+
+der Empfang "-e
+reception; receiving; reception;
+
+die Betreuung -en
+accompaniment; supervision; care;
+
+die Recherche -n
+search (information); investigation;
+
+der Überblick -e
+general idea; review;
+
+der Einblick -e
+sight; understanding; familiarization;
+
+der Nachweis -e
+proof; confirmation;
+
+der Beleg -e
+supporting document; check;
+
+die Unterlage -n
+document; base (paper);
+
+die Bescheinigung -en
+reference; certificate;
+
+der Ausweis -e
+ID card; pass;
+
+der Pass "-e
+passport;
+
+die Kontrolle -n
+control; examination;
+
+die Abmeldung -en
+deregistration; unsubscribe;
+
+die Buchung -en
+booking; posting (accounting);
+
+die Reservierung -en
+reservation; reservation;
+
+die Stornierung -en
+cancel; cancellation;
+
+die Unterkunft "-e
+housing (temporary); overnight;
+
+die Übernachtung -en
+overnight; overnight accommodation;
+
+das Hotel -s
+hotel; hotel;
+
+die Pension -en
+boarding house; guest House;
+
+die Speisekarte -n
+menu;
+
+der Kellner -
+waiter;
+
+die Kellnerin -nen
+waitress;
+
+das Trinkgeld -er
+tips;
+
+die Öffnung -en
+opening; hole;
+
+die Schließung -en
+closure; liquidation;
+
+der Eintritt -e
+entrance; introduction;
+
+der Austritt -e
+exit; disposal;
+
+die Mitgliedschaft -en
+membership;
+
+das Mitglied -er
+member (of organization);
+
+der Verein -e
+club; association;
+
+der Verband "-e
+union; association;
+
+die Behörde -n
+department; government agency;
+
+das Amt "-er
+institution; job title;
+
+die Akte -n
+case (documents);
+
+der Ordner -
+folder; folder;
+
+der Anhang "-e
+attachment; attachment (to letter);
+
+das Protokoll -e
+protocol; magazine;
+
+die Sitzung -en
+meeting; session;
+
+der Ausschuss "-e
+committee; commission;
+
+die Kommission -en
+commission;
+
+der Beschluss "-e
+resolution; solution;
+
+die Richtlinie -n
+directive; management;
+
+die Vorschrift -en
+prescription; rule;
+
+die Verordnung -en
+resolution; regulations;
+
+die Klage -n
+lawsuit; complaint;
+
+die Berufung -en
+appeal; vocation;
+
+die Strafe -n
+fine; punishment;
+
+der Täter -
+criminal; guilty;
+
+die Tat -en
+act; action;
+
+das Opfer -
+sacrifice;
+
+der Zeuge -n
+witness;
+
+die Zeugin -nen
+witness;
+
+das Verfahren -
+procedure; process; method;
+
+das Update -s
+update (software);
+
+das Backup -s
+backup;
+
+der Server -
+server;
+
+der Dienst -e
+service; service; duty;
+
+die Schnittstelle -n
+interface; API;
+
+die Oberfläche -n
+interface; surface;
+
+die Ansicht -en
+view; display;
+
+die Suche -n
+search;
+
+der Filter -
+filter;
+
+der Cache -s
+cache;
+
+die Taste -n
+key; button;
+
+die Tastatur -en
+keyboard;
+
+der Drucker -
+printer;
+
+der Scanner -
+scanner;
+
+die Kamera -s
+camera;
+
+das Mikrofon -e
+microphone;
+
+der Lautsprecher -
+speaker; speaker;
+
+der Kopfhörer -
+headphones;
+
+das Netzwerk -e
+net;
+
+die Studie -n
+study;
+
+die Statistik -en
+statistics;
+
+das Diagramm -e
+diagram;
+
+die Grafik -en
+graphics; schedule;
+
+die Hypothese -n
+hypothesis;
+
+die Theorie -n
+theory;
+
+das Modell -e
+model; sample;
+
+das Labor -e
+laboratory;
+
+das Institut -e
+institute;
+
+die Fakultät -en
+faculty;
+
+der Fachbereich -e
+direction; department; faculty;
+
+die Vorlesung -en
+lecture;
+
+das Seminar -e
+seminar;
+
+die Übung -en
+exercise; practical lesson;
+
+die Stimmung -en
+mood; atmosphere;
+
+die Laune -n
+mood;
+
+das Gefühl -e
+feeling; sensation;
+
+das Interesse -n
+interest;
+
+der Eindruck "-e
+impression;
+
+die Sorge -n
+care; anxiety;
+
+die Angst "-e
+fear; fear;
+
+der Wunsch "-e
+wish; wish;
+
+die Hoffnung -en
+hope;
+
+der Traum "-e
+dream (vision); dream;
+
+der Streit -e
+dispute; argument;
+
+der Beruf -e
+profession;
+
+der Arbeitnehmer -
+worker; employee;
+
+die Arbeitnehmerin -nen
+employee;
+
+der Arbeitgeber -
+employer;
+
+die Arbeitgeberin -nen
+employer;
+
+die Stelle -n
+job title; place (of work);
+
+die Schicht -en
+shift;
+
+der Lohn "-e
+salary (hourly/working);
+
+das Gehalt "-er
+salary; salary;
+
+die Kündigung -en
+dismissal; termination;
+
+der Urlaub -e
+vacation; holidays;
+
+die Vertretung -en
+substitution; representation;
+
+die Fortbildung -en
+advanced training;
+
+die Weiterbildung -en
+additional training;
+
+die Schulung -en
+education; training;
+
+die Qualifikation -en
+qualification;
+
+das Zertifikat -e
+certificate;
+
+die Probezeit -en
+probation;
+
+die Beförderung -en
+promotion (promotion);
+
+die Karriere -n
+career;
+
+die Führung -en
+management; control;
+
+der Leiter -
+supervisor;
+
+die Leiterin -nen
+manager;
+
+der Chef -s
+chief; boss;
+
+die Chefin -nen
+boss;
+
+das Team -s
+team;
+
+der Kollege -n
+colleague;
+
+die Kollegin -nen
+colleague;
+
+das Feld -er
+field; form field; region;
+
+die Zeile -n
+line;
+
+die Spalte -n
+column; column;
+
+die Tabelle -n
+table;
+
+der Datensatz "-e
+record(data); data set;
+
+die Datenbank -en
+database;
+
+der Speicher -
+memory; storage;
+
+die Cloud -s
+cloud (service);
+
+die Lizenz -en
+license;
+
+der Angriff -e
+attack; attack;
+
+die Schwachstelle -n
+vulnerability; weak point;
+
+das Bildschirmfoto -s
+screenshot; screenshot;
+
+die Kreuzung -en
+crossroads;
+
+die Ampel -n
+traffic light;
+
+die Brücke -n
+bridge;
+
+der Park -s
+park;
+
+der Einkauf "-e
+purchase; shopping;
+
+der Laden "-
+shop; shop;
+
+das Geschäft -e
+shop; case;
+
+das Zentrum -en
+center;
+
+der Bewohner -
+inhabitant;
+
+die Bewohnerin -nen
+resident;
+
+der Besucher -
+visitor; guest;
+
+die Besucherin -nen
+visitor;
+
+der Gast "-e
+guest;
+
+die Aussicht -en
+view; perspective;
+
+der Blick -e
+sight; view;
+
+das Lehrbuch "-er
+textbook;
+
+das Wörterbuch "-er
+dictionary;
+
+die Vokabel -n
+word; vocabulary unit;
+
+das Niveau -s
+level;
+
+das Kapitel -
+chapter;
+
+der Abschnitt -e
+chapter; paragraph;
+
+der Rand "-er
+edge; field(page);
+
+das Werkzeug -e
+tool;
+
+die Schraube -n
+screw; screw;
+
+der Nagel "-
+nail; nail;
+
+der Hammer "-
+hammer;
+
+die Zange -n
+pliers; forceps;
+
+die Leitung -en
+wire; management;
+
+das Kabel -
+cable;
+
+die Steckdose -n
+socket;
+
+der Stecker -
+plug (plug);
+
+die Spannung -en
+voltage; tension;
+
+die Temperatur -en
+temperature;
+
+das Gas -e
+gas;
+
+der Kommentar -e
+comment;
+
+die Rezension -en
+review; review;
+
+das Profil -e
+profile;
+
+der Account -s
+account;
+
+der Algorithmus -en
+algorithm;
+
+der Trend -s
+trend; trend;
+
+die Zuständigkeit -en
+competence; area of ​​responsibility;
+
+die Kompetenz -en
+competence; skill;
+
+die Fähigkeit -en
+ability; skill;
+
+das Verhalten (sg.)
+behavior;
+
+die Haltung -en
+position; posture; attitude;
+
+die Gewissheit -en
+confidence; reliability;
+
+der Ausblick -e
+perspective; forecast;
+
+der Platz "-e
+place; square;
+
+der Sitz -e
+seat; place;
+
+der Hafen "-
+port; harbor;
+
+der Flughafen "-
+airport;
+
+der Bahnsteig -e
+platform (at the station); platform;
+
+die Haltestelle -n
+stop;
+
+das Gleis -e
+track (railway); track;
+
+die Fahrkarte -n
+ticket;
+
+der Fahrer -
+driver;
+
+die Fahrerin -nen
+driver;
+
+der Verkehr (sg.)
+road traffic; transport;
+
+der Stau -s
+traffic jam (traffic);
+
+die Strecke -n
+plot; route; distance;
+
+die Richtung -en
+direction;
+
+der Standort -e
+location; platform; base;
+
+das Ausland (sg.)
+abroad; abroad;
+
+die Heimat -en
+homeland; native land;
+
+der Ausländer -
+foreigner;
+
+die Ausländerin -nen
+foreigner;
+
+der Bürger -
+citizen; inhabitant;
+
+die Bürgerin -nen
+citizen;
+
+die Staatsangehörigkeit -en
+citizenship; nationality;
+
+die Botschaft -en
+embassy; news (message);
+
+das Konsulat -e
+consulate;
+
+die Mehrheit -en
+majority;
+
+die Minderheit -en
+minority;
+
+die Abstimmung -en
+vote; coordination;
+
+der Kandidat -en
+candidate;
+
+die Kandidatin -nen
+candidate;
+
+der Minister -
+minister;
+
+die Ministerin -nen
+minister;
+
+der Präsident -en
+president;
+
+die Präsidentin -nen
+president;
+
+die Steuerung -en
+control; control;
+
+die Reparatur -en
+repair;
+
+die Polizei (sg.)
+police;
+
+der Polizist -en
+police officer;
+
+die Polizistin -nen
+police officer;
+
+der Diebstahl "-e
+theft;
+
+der Unfall "-e
+accident; accident;
+
+die Rettung -en
+salvation; rescue service;
+
+die Feuerwehr -en
+fire service; fire brigade;
+
+der Notruf -e
+emergency call; emergency number;
+
+der Arzt "-e
+doctor;
+
+die Ärztin -nen
+doctor;
+
+das Krankenhaus "-er
+hospital; hospital;
+
+die Station -en
+department; station;
+
+die Tablette -n
+tablet;
+
+der Impfstoff -e
+vaccine; vaccination drug;
+
+die Impfung -en
+graft; vaccination;
+
+die Erkältung -en
+cold;
+
+die Grippe -n
+flu;
+
+das Fieber -
+heat; fever;
+
+der Husten -
+cough;
+
+der Schmerz -en
+pain;
+
+die Wunde -n
+wound;
+
+die Verletzung -en
+injury; damage;
+
+die Operation -en
+operation;
+
+der Einzelhandel (sg.)
+retail;
+
+der Großhandel (sg.)
+wholesale;
+
+der Handel (sg.)
+trade;
+
+die Messe -n
+fair; exhibition;
+
+die Ausstellung -en
+exhibition; exposition;
+
+der Stand "-e
+stand; counter;
+
+das Einkommen -
+income;
+
+die Ausgabe -n
+consumption; spending;
+
+die Ausgabe -n
+release; edition;
+
+die Abgabe -n
+collection; deduction; change;
+
+die Finanzierung -en
+financing;
+
+der Kredit -e
+credit;
+
+das Darlehen -
+loan; loan;
+
+das Budget -s
+budget; estimate;
+
+die Opposition -en
+opposition;
+
+der Konflikt -e
+conflict;
+
+der Krieg -e
+war;
+
+der Frieden (sg.)
+peace (absence of war);
+
+die Freiheit -en
+freedom;
+
+die Gerechtigkeit -en
+justice;
+
+die Ausnahme -n
+exception;
+
+der Standard -s
+standard;
+
+die Norm -en
+norm; standard;
+
+die Bewilligung -en
+permission; appropriation;
+
+die Anfrage -n
+request; appeal;
+
+die Auskunft "-e
+reference; information;
+
+die Information -en
+information; intelligence;
+
+die Angabe -n
+data; indication;
+
+der Wert -e
+meaning; price; size;
+
+der Anteil -e
+share; part;
+
+die Quote -n
+quota; share;
+
+der Durchschnitt -e
+average; average level;
+
+die Stufe -n
+step; level;
+
+der Rahmen -
+framework; frame; frame;
+
+die Grenze -n
+border; limit;
+
+das Limit -s
+limit; limitation;
+
+die Priorität -en
+priority;
+
+der Schwerpunkt -e
+accent; priority direction; center of gravity;
+
+die Absicht -en
+intention;
+
+die Planung -en
+planning;
+
+die Taktik -en
+tactics;
+
+der Schritt -e
+step;
+
+die Probe -n
+try; rehearsal;
+
+die Stichprobe -n
+sample (stat.); pilot sample;
+
+die Kennzahl -en
+key indicator; metrics;
+
+die Auswertung -en
+processing of results; analysis;
+
+die Analyse -n
+analysis;
+
+die Einsparung -en
+saving; cost reduction;
+
+die Steigerung -en
+increase; height;
+
+die Verringerung -en
+decrease; decline;
+
+die Korrelation -en
+correlation;
+
+die Prognose -n
+forecast;
+
+die Schätzung -en
+grade; estimate;
+
+die Berechnung -en
+calculation; calculation;
+
+die Gleichung -en
+equation;
+
+die Variable -n
+variable;
+
+der Faktor -en
+factor;
+
+der Parameter -
+parameter;
+
+die Einschränkung -en
+limitation;
+
+die Zustimmung -en
+agreement; OK;
+
+die Einwilligung -en
+agreement; permission;
+
+der Widerspruch "-e
+objection; inconsistency;
+
+die Beschwerde -n
+complaint;
+
+der Kompromiss -e
+compromise;
+
+der Fortschritt -e
+progress; promotion;
+
+die Einnahme -n
+admission; taking (medicine/food);
+
+die Rückerstattung -en
+refund; compensation;
+
+die Vergütung -en
+remuneration; payment;
+
+die Abrechnung -en
+calculation; report; closing (period);
+
+die Pauschale -n
+lump sum payment; fixed amount;
+
+die Spende -n
+donation;
+
+der Zuschuss "-e
+subsidy; surcharge;
+
+die Förderung -en
+support; financing; assistance;
+
+die Fertigkeit -en
+skill; skill;
+
+die Eigenschaft -en
+property; quality;
+
+der Anlass "-e
+occasion; cause (events);
+
+die Gelegenheit -en
+opportunity; opportunity;
+
+das Wissen (sg.)
+knowledge;
+
+die Auswirkung -en
+influence; consequence; effect;
+
+das Experiment -e
+experiment;
+
+der Stoff -e
+substance; material; textile;
+
+der Bestandteil -e
+component; component;
+
+die Mischung -en
+mixture;
+
+das Mittel -
+means; preparation;
+
+der Ursprung "-e
+source; origin;
+
+die Küche -n
+kitchen;
+
+der Ofen "-
+oven; bake;
+
+der Herd -e
+plate;
+
+die Pfanne -n
+pan;
+
+der Topf "-e
+pot; pot;
+
+die Schüssel -n
+bowl; cup (large);
+
+die Tasse -n
+cup;
+
+die U-Bahn -en
+metro;
+
+die S-Bahn -en
+city ​​train;
+
+die Straßenbahn -en
+tram;
+
+der Zug "-e
+train;
+
+das Flugzeug -e
+airplane;
+
+das Schiff -e
+ship; vessel;
+
+die Aussprache -n
+pronunciation;
+
+die Grammatik -en
+grammar;
+
+der Begriff -e
+concept; term;
+
+die Definition -en
+definition;
+
+das Synonym -e
+synonym;
+
+das Gegenteil -e
+opposite; antonym;
+
+die Einleitung -en
+introduction; introduction;
+
+das Fazit -s
+conclusion; result;
+
+die These -n
+thesis;
+
+das Argument -e
+argument;
+
+die Debatte -n
+debate; discussion;
+
+die Perspektive -n
+perspective; point of view;
+
+die Herausforderung -en
+call; difficult task;
+
+die Zusammenarbeit -en
+cooperation; collaboration;
+
+die Partnerschaft -en
+partnership;
+
+die Struktur -en
+structure;
+
+das System -e
+system;
+
+die Auswahl -en
+choice; selection;
+
+die Variante -n
+option; variety;
+
+die Version -en
+version;
+
+die Kategorie -n
+category;
+
+das Gebiet -e
+region; territory;
+
+die Umgebung -en
+environment; terrain;
+
+die Lage -n
+position; situation;
+
+die Entfernung -en
+distance;
+
+die Nähe (sg.)
+intimacy;
+
+die Kante -n
+edge; edge;
+
+die Ecke -n
+corner;
+
+die Mitte -n
+middle; center;
+
+die Tiefe -n
+depth;
+
+die Breite -n
+width;
+
+die Höhe -n
+height;
+
+die Länge -n
+length;
+
+die Rate -n
+bid; payment (installments);
+
+der Verbraucher -
+consumer;
+
+die Verbraucherin -nen
+consumer;
+
+der Endkunde -n
+end client;
+
+die Zielgruppe -n
+target group; audience;
+
+das Publikum -a
+public; spectators; audience;
+
+die Öffentlichkeit -en
+public; public;
+
+die Gemeinde -n
+community; municipality;
+
+die Region -en
+region;
+
+das Dorf "-er
+village; village;
+
+das Bundesland "-er
+federal state;
+
+die Hauptstadt "-e
+capital;
+
+der Bezirk -e
+district; district;
+
+der Stadtteil -e
+district (city); quarter;
+
+die Baustelle -n
+construction site; area being repaired;
+
+die Warteschlange -n
+queue;
+
+die Einhaltung -en
+compliance; correspondence;
+
+die Vorgabe -n
+requirement; original task; preset;
+
+die Spezifikation -en
+specification; TK;
+
+der Entwurf "-e
+draft; project; sketch;
+
+die Vorlage -n
+sample; sample;
+
+das Muster -
+sample; sample; pattern;
+
+die Anleitung -en
+instructions; management;
+
+die Abnahme -n
+acceptance; decline;
+
+die Übergabe -n
+broadcast;
+
+die Übernahme -n
+acceptance; absorption;
+
+der Wettbewerb -e
+contest; competition;
+
+die Konkurrenz -en
+competition; rivalry;
+
+der Mitbewerber -
+competitor;
+
+die Verschlüsselung -en
+encryption;
+
+die Authentifizierung -en
+authentication;
+
+die Berechtigung -en
+right of access; permission;
+
+die Sicherung -en
+reservation; protection; fuse;
+
+das Zeichen -
+sign; symbol;
+
+die Kennzeichnung -en
+marking; designation;
+
+die Zuordnung -en
+correlation; appointment; binding;
+
+der Abschluss "-e
+ending; graduation (diploma);
+
+die Note -n
+assessment (at school);
+
+das Diplom -e
+diploma;
+
+die Hausaufgabe -n
+homework;
+
+die Salbe -n
+ointment;
+
+die Spritze -n
+injection; syringe; injection;
+
+die Dosis -en
+dose;
+
+die Nebenwirkung -en
+side effect;
+
+die Wechselwirkung -en
+interaction;
+
+die Blutprobe -n
+blood test; blood sample;
+
+der Blutdruck (sg.)
+blood pressure;
+
+der Puls -e
+pulse;
+
+der Baum "-e
+tree;
+
+die Pflanze -n
+plant;
+
+das Tier -e
+animal;
+
+der Vogel "-
+bird;
+
+der Wald "-er
+forest;
+
+der Fluss "-e
+river;
+
+der See -en
+lake;
+
+das Meer -e
+sea;
+
+der Berg -e
+mountain;
+
+das Tal "-er
+valley;
+
+der Strand "-e
+beach;
+
+die Rückkehr -en
+return;
+
+der Aufenthalt -e
+residence; stop;
+
+die Einreise -n
+entry (into the country);
+
+die Ausreise -n
+leaving (from the country);
+
+die Vermittlung -en
+mediation; employment;
+
+die Zustellung -en
+delivery; delivery;
+
+die Laufzeit -en
+validity period; duration;
+
+die Gültigkeit -en
+reality; best before date;
+
+die Belastung -en
+load; burden;
+
+die Entlastung -en
+unloading; relief;
+
+die Abhängigkeit -en
+addiction;
+
+die Unabhängigkeit -en
+independence;
+
+die Erreichbarkeit -en
+accessibility (communication/accessibility);
+
+die Verfügbarkeit -en
+accessibility (availability);
+
+die Zuverlässigkeit -en
+reliability;
+
+die Stabilität -en
+stability;
+
+die Genauigkeit -en
+accuracy;
+
+die Abdeckung -en
+coating;
+
+die Einzigartigkeit -en
+uniqueness;
+
+die Darstellung -en
+performance; display;
+
+die Abbildung -en
+image; illustration;
+
+die Ausrichtung -en
+orientation; setting;
+
+die Auslastung -en
+loading; capacity utilization;
+
+die Instandhaltung -en
+maintenance; maintenance;
+
+die Unterbrechung -en
+interrupt; break;
+
+der Ausfall "-e
+refusal; failure; prolapse;
+
+die Abhilfe -n
+remedial measures; help;
+
+die Rückfrage -n
+clarifying question; reverse request;
+
+die Ergänzung -en
+addition;
+
+die Begründung -en
+justification; motivation;
+
+die Rechtfertigung -en
+justification; justificatory argumentation;
+
+die Ableitung -en
+output(log); derivative;
+
+die Übersetzung -en
+translation;
+
+die Rückübersetzung -en
+reverse translation;
+
+die Vereinheitlichung -en
+unification;
+
+die Standardisierung -en
+standardization;
+
+die Skalierung -en
+scaling;
+
+die Priorisierung -en
+prioritization;
+
+die Synchronisation -en
+synchronization;
+
+die Automatisierung -en
+automation;
+
+die Optimierung -en
+optimization;
+
+die Validierung -en
+validation; confirmation;
+
+die Verifizierung -en
+verification; examination;
+
+die Dokumentation -en
+documentation;
+
+die Konvention -en
+convention; agreement (international);
+
+die Zulassung -en
+admission; permission; certification;
+
+die Eignung -en
+suitability;
+
+die Haftung -en
+responsibility (legal); guarantee;
+
+die Haftpflicht -en
+civil liability;
+
+die Deckung -en
+coverage (insur.);
+
+die Prämie -n
+bonus; insurance premium;
+
+die Selbstbeteiligung -en
+franchise (insur.); personal participation;
+
+die Laufleistung -en
+mileage;
+
+die Ausstattung -en
+equipment; equipment;
+
+die Komponente -n
+component; component;
+
+das Element -e
+element; component;
+
+der Rohstoff -e
+raw materials; source material;
+
+der Kunststoff -e
+plastic; synthetic material;
+
+das Metall -e
+metal;
+
+das Holz "-er
+wood (material); wood;
+
+der Stein -e
+stone;
+
+das Papier -e
+paper; documents;
+
+das Leder (sg.)
+leather (material);
+
+die Wand "-e
+wall;
+
+der Boden "-en
+floor; soil; priming;
+
+das Büro -s
+office; bureau;
+
+das Gebäude -
+building; structure;
+
+der Raum "-e
+premises; space; room;
+
+die Fläche -n
+square; surface;
+
+das Bett -en
+bed;
+
+der Schrank "-e
+closet;
+
+das Regal -e
+shelf; rack;
+
+der Teppich -e
+carpet;
+
+die Decke -n
+ceiling; blanket;
+
+das Bad "-er
+bathroom; bath;
+
+das Badezimmer -
+bathroom;
+
+die Dusche -n
+shower;
+
+die Badewanne -n
+bath (bowl);
+
+die Seife -n
+soap;
+
+das Handtuch "-er
+towel;
+
+die Zahnbürste -n
+toothbrush;
+
+die Zahnpasta -s
+toothpaste;
+
+die Waschmaschine -n
+washing machine;
+
+der Trockner -
+dryer; dryer;
+
+der Staubsauger -
+vacuum cleaner;
+
+der Besen -
+broom; broom;
+
+der Eimer -
+bucket;
+
+das Waschmittel -
+detergent; detergent;
+
+das Putzmittel -
+cleaning agent;
+
+das Licht -er
+light; lights;
+
+der Strom "-e
+current; electricity; flow;
+
+die Energie -n
+energy;
+
+der Akku -s
+battery;
+
+die Batterie -n
+battery; battery;
+
+die Festplatte -n
+hard drive;
+
+der Prozessor -en
+CPU;
+
+die Grafikkarte -n
+video card; graphics adapter;
+
+die Software (sg.)
+software;
+
+die Hardware (sg.)
+hardware; computer hardware;
+
+der Browser -
+browser;
+
+die App -s
+application (mobile);
+
+die Plattform -en
+platform;
+
+der Arm -e
+arm (from shoulder);
+
+das Bein -e
+leg;
+
+der Fuß "-e
+foot; sole;
+
+das Knie -
+knee;
+
+die Brust "-e
+breast;
+
+die Schulter -n
+shoulder;
+
+der Hals "-e
+neck; throat;
+
+das Gesicht -er
+face;
+
+das Auge -n
+eye;
+
+das Ohr -en
+ear;
+
+der Mund "-er
+mouth;
+
+die Zunge -n
+language;
+
+der Zahn "-e
+tooth;
+
+die Haut "-e
+leather;
+
+das Kleid -er
+dress;
+
+das Hemd -en
+shirt;
+
+die Hose -n
+trousers; trousers;
+
+der Schuh -e
+shoes; shoe;
+
+der Gürtel -
+belt;
+
+die Mütze -n
+cap; cap;
+
+der Hut "-e
+hat;
+
+der Handschuh -e
+glove;
+
+der Vater "-er
+father;
+
+die Mutter "-er
+mother;
+
+der Sohn "-e
+son;
+
+die Tochter "-er
+daughter;
+
+der Bruder "-er
+brother;
+
+die Schwester -n
+sister;
+
+der Ehemann "-er
+husband; spouse;
+
+die Ehefrau -en
+wife; spouse;
+
+der Partner -
+partner;
+
+die Partnerin -nen
+partner; female partner;
+
+der Freund -e
+friend; boyfriend;
+
+die Freundin -nen
+female friend; girlfriend;
+
+die Insel -n
+island;
+
+die Küste -n
+coast; seashore;
+
+das Ufer -
+shore (river/lake);
+
+die Wüste -n
+desert;
+
+der Regen (sg.)
+rain;
+
+der Schnee (sg.)
+snow;
+
+der Wind -e
+wind;
+
+die Wolke -n
+cloud; cloud;
+
+der Himmel -
+sky;
+
+die Sonne -n
+sun;
+
+der Mond -e
+moon; month;
+
+der Stern -e
+star;
+
+der Kugelschreiber -
+ballpen;
+
+der Bleistift -e
+pencil;
+
+die Mappe -n
+folder; briefcase;
+
+die Kreide -n
+chalk;
+
+der Radiergummi -s
+eraser; rubber;
+
+der Fisch -e
+fish;
+
+das Hähnchen -
+chick; chicken (dish);
+
+der Käse -
+cheese;
+
+die Frucht "-e
+fruit; fetus;
+
+der Apfel "-e
+apple;
+
+die Birne -n
+pear;
+
+die Traube -n
+grapes (berry); bunch;
+
+die Gurke -n
+cucumber;
+
+die Möhre -n
+carrot;
+
+das Brot -e
+bread; loaf;
+
+das Brötchen -
+bun; bread;
+
+der Kuchen -
+pie; cake (baked goods);
+
+die Torte -n
+cake;
+
+der Schinken -
+ham;
+
+die Sauce -n
+sauce;
+
+das Gewürz -e
+spice; spice;
+
+das Mittagessen -
+dinner;
+
+das Abendessen -
+dinner;
+
+die Mahlzeit -en
+eating; meal;
+
+der Hunger (sg.)
+hunger;
+
+der Durst (sg.)
+thirst;
+
+die Diät -en
+diet;
+
+das Getränk -e
+drink;
+
+das Wasser (sg.)
+water;
+
+der Saft "-e
+juice;
+
+der Tee -s
+tea;
+
+der Kaffee -s
+coffee;
+
+die Milch (sg.)
+milk;
+
+das Bier -e
+beer;
+
+der Zucker (sg.)
+sugar;
+
+das Salz -e
+salt;
+
+der Pfeffer (sg.)
+pepper;
+
+die Nudel -n
+noodles; pasta;
+
+der Supermarkt "-e
+supermarket;
+
+die Bäckerei -en
+bakery; bakery;
+
+der Bäcker -
+baker;
+
+die Bäckerin -nen
+baker;
+
+die Metzgerei -en
+butcher shop; butcher shop;
+
+das Restaurant -s
+restaurant;
+
+das Café -s
+cafe;
+
+die Kantine -n
+dining room;
+
+das Menü -s
+menu (complex);
+
+die Speise -n
+dish; food;
+
+das Taxi -s
+taxi;
+
+der Bus -se
+bus;
+
+der Passagier -e
+passenger;
+
+die Passagierin -nen
+passenger;
+
+der Fahrschein -e
+ticket;
+
+die Pünktlichkeit (sg.)
+punctuality;
+
+der Lehrer -
+teacher;
+
+die Lehrerin -nen
+teacher;
+
+der Schüler -
+student; schoolboy;
+
+die Schülerin -nen
+schoolgirl;
+
+die Klasse -n
+class; category;
+
+das Klassenzimmer -
+classroom;
+
+die Pause -n
+break; pause;
+
+die Mensa -en
+student canteen;
+
+die Bibliothek -en
+library;
+
+das Lehrerzimmer -
+teacher's room;
+
+die Uni -s
+university (colloquial);
+
+der Student -en
+student;
+
+die Studentin -nen
+student;
+
+der Lehrerberuf -e
+teacher's profession;
+
+der Koch "-e
+cook;
+
+die Köchin -nen
+cook;
+
+der Verkäufer -
+salesman;
+
+die Verkäuferin -nen
+saleswoman;
+
+der Ingenieur -e
+engineer;
+
+die Ingenieurin -nen
+engineer;
+
+der Techniker -
+technician;
+
+die Technikerin -nen
+technician;
+
+das Theater -
+theater;
+
+das Museum -en
+museum;
+
+die Kirche -n
+church;
+
+die Moschee -n
+mosque;
+
+die Synagoge -n
+synagogue;
+
+der Kiosk -e
+kiosk;
+
+das Einkaufszentrum -en
+shopping mall;
+
+die Drogerie -n
+household chemicals store; drogerie;
+
+die Post (sg.)
+mail; post office;
+
+das Paket -e
+package; plastic bag;
+
+der Brief -e
+letter;
+
+die Briefmarke -n
+postage stamp;
+
+der Absender -
+sender;
+
+der Empfänger -
+recipient;
+
+der Umschlag "-e
+envelope; cover;
+
+die Etage -n
+floor;
+
+der Aufzug "-e
+elevator;
+
+die Treppe -n
+ladder;
+
+der Hof "-e
+yard; farming;
+
+der Garten "-
+garden;
+
+das Wohnzimmer -
+living room;
+
+das Schlafzimmer -
+bedroom;
+
+das Kinderzimmer -
+children's;
+
+das Arbeitszimmer -
+cabinet;
+
+die Toilette -n
+toilet;
+
+der Flur -e
+corridor;
+
+der Balkon -e
+balcony;
+
+die Terrasse -n
+terrace;
+
+die Kaution -en
+pledge;
+
+die Nebenkosten (pl.)
+utility bills; add. expenses;
+
+der Vermieter -
+landlord;
+
+die Vermieterin -nen
+landlady;
+
+der Mieter -
+tenant; lodger;
+
+die Mieterin -nen
+tenant;
+
+die Besichtigung -en
+inspection;
+
+die Renovierung -en
+repair (cosmetic); update;
+
+die Möbel (pl.)
+furniture;
+
+das Sofa -s
+sofa;
+
+der Sessel -
+armchair;
+
+der Vorhang "-e
+curtain;
+
+das Kissen -
+pillow;
+
+die Bettwäsche -n
+bed sheets;
+
+der Fernseher -
+TV;
+
+die Fernbedienung -en
+remote control;
+
+das Radio -s
+radio; radio;
+
+das Konzert -e
+concert;
+
+das Festival -s
+festival;
+
+die Kultur -en
+culture;
+
+das Hobby -s
+hobby; enthusiasm;
+
+das Spiel -e
+game;
+
+der Fußball "-e
+football; soccer ball;
+
+das Tennis (sg.)
+tennis;
+
+das Schwimmbad "-er
+pool;
+
+das Fitnessstudio -s
+fitness club; gym;
+
+das Training -s
+training;
+
+der Trainer -
+trainer;
+
+die Trainerin -nen
+coach;
+
+die Leistung -en
+result; performance;
+
+der Sieg -e
+victory;
+
+die Niederlage -n
+defeat;
+
+die Mannschaft -en
+team;
+
+der Sportler -
+athlete;
+
+die Sportlerin -nen
+athlete;
+
+der Fan -s
+fan; fan;
+
+das Ergebnis -se
+result; result;
+
+der Rekord -e
+record;
+
+der Schiedsrichter -
+referee (sports);
+
+die Schiedsrichterin -nen
+referee (sports);
+
+das Tor -e
+gates; goal;
+
+der Ball "-e
+ball; ball;
+
+die Halle -n
+hall; arena;
+
+das Spielfeld -er
+playing field;
+
+die Saison -s
+season;
+
+der Zuschauer -
+viewer;
+
+die Zuschauerin -nen
+spectator;
+
+der Wettkampf "-e
+competitive match; competition;
+
+die Umfrage -n
+survey; survey;
+
+der Aspekt -e
+aspect; side (of the issue);
+
+die Sicht -en
+sight; visibility; point of view;
+
+die Einrichtung -en
+institution;
+
+die Einrichtung -en
+situation; interior;
+
+die Einrichtung -en
+setting; installation;
+
+die Erinnerung -en
+memory; reminder;
+
+die Verwendung -en
+usage; application;
+
+die Anforderung -en
+requirement;
+
+die Verhandlung -en
+negotiation; trial;
+
+das Verbot -e
+ban;
+
+die Erlaubnis -se
+permission;
+
+die Reklamation -en
+claim; complaint;
+
+die Beschädigung -en
+damage;
+
+die Rücksendung -en
+return; return shipping;
+
+der Koffer -
+suitcase;
+
+das Gepäck (sg.)
+baggage;
+
+die Rezeption -en
+reception; reception;
+
+die Bordkarte -n
+boarding pass;
+
+die Sicherheitskontrolle -n
+inspection; security control;
+
+die Zollkontrolle -n
+customs control;
+
+der Zoll "-e
+customs; duty;
+
+der Flug "-e
+flight; flight;
+
+die Währung -en
+currency;
+
+der Wechselkurs -e
+exchange rate;
+
+die Bank -en
+bank;
+
+die Bank "-e
+bench; shop;
+
+der Schein -e
+banknote; bill; certificate;
+
+die Münze -n
+coin;
+
+das Portemonnaie -s
+purse; wallet;
+
+die Mahnung -en
+payment reminder; warning;
+
+die Lastschrift -en
+direct debit; automatic bank withdrawal;
+
+die Filiale -n
+branch; department;
+
+die Bedienung -en
+service; control (device);
+
+der Service -s
+service; service;
+
+der Support -s
+support (service);
+
+die Hotline -s
+hotline;
+
+der Anruf -e
+call (tel);
+
+das Signal -e
+signal;
+
+die Verlängerung -en
+extension; elongation;
+
+die Sperrung -en
+blocking; overlap;
+
+die Entsperrung -en
+unlock;
+
+die Fabrik -en
+factory; factory;
+
+die Produktion -en
+production; release;
+
+der Versandhandel (sg.)
+distance selling;
+
+die Aufsicht -en
+supervision; supervision;
+
+die Auflage -n
+circulation; condition (of the contract);
+
+der Effekt -e
+effect; impact;
+
+die Alternative -n
+alternative; replacement;
+
+der Ersatz "-e
+replacement; spare part;
+
+das Ersatzteil -e
+spare part;
+
+die Instandsetzung -en
+repair; recovery;
+
+das Zubehör (sg.)
+accessories; components;
+
+die Bestätigung -en
+confirmation;
+
+die Veröffentlichung -en
+publication; release;
+
+die Rede -n
+speech; performance;
+
+das Zitat -e
+quote;
+
+die Literatur (sg.)
+literature; special literature;
+
+die Bibliografie -n
+bibliography;
+
+der Autor -en
+author;
+
+die Autorin -nen
+author;
+
+der Verlag "-e
+publishing house;
+
+die Überschrift -en
+title;
+
+der Absatz "-e
+paragraph; sales;
+
+die Quantität -en
+quantity; volume;
+
+die Verwaltung -en
+administration; control;
+
+das Vorstellungsgespräch -e
+interview (for a job);
+
+der Gutschein -e
+coupon; gift certificate;
+
+die Ermäßigung -en
+discount; benefit;
+
+die Warnung -en
+warning; warning;
+
+die Nachbarschaft -en
+neighborhood; district (surroundings);
+
+die Innenstadt "-e
+city ​​center;
+
+der Stadtrand "-er
+outskirts of the city;
+
+der Vorort -e
+suburb;
+
+der Ausgleich -e
+balance; compensation;
+
+die Geduld (sg.)
+patience;
+
+die Überraschung -en
+surprise; surprise;
+
+die Kenntnis -se
+knowledge; awareness;
+
+die Wahrscheinlichkeit -en
+probability;
+
+die Anerkennung -en
+confession; OK;
+
+die Einsicht -en
+understanding; access to materials;
+
+der Vorwurf "-e
+reproach; accusation;
+
+die Verpflichtung -en
+obligation;
+
+die Kritik -en
+criticism; review;
+
+die Diskussion -en
+discussion; discussion;
+
+der Besuch -e
+visit; visit;
+
+der Vertreter -
+representative; deputy;
+
+die Vertreterin -nen
+representative;
+
+der Auftraggeber -
+customer (legal entity/person);
+
+die Auftraggeberin -nen
+client;
+
+der Dienstleister -
+service provider; service company;
+
+die Dienstleistung -en
+service;
+
+der Vertrieb -e
+sales; sales department;
+
+die Technik -en
+technique; reception (technical method);
+
+die Technologie -n
+technology;
+
+die Branche -n
+industry; business area;
+
+die Logistik -en
+logistics;
+
+die Ausschreibung -en
+tender; competition (for purchase);
+
+der Zuschlag "-e
+awarding an order; allowance; surcharge;
+
+die Vergabe -n
+placing an order; award (contract/prize);
+
+die Überwachung -en
+monitoring; supervision;
+
+die Entschädigung -en
+compensation; compensation;
+
+die Panne -n
+breaking; slip (failure);
+
+das Attest -e
+medical certificate; conclusion;
+
+das Symptom -e
+symptom; sign;
+
+die Heilung -en
+cure; healing;
+
+die Genesung -en
+recovery;
+
+die Infektion -en
+infection; infection;
+
+der Virus -en
+virus;
+
+die Pandemie -n
+pandemic;
+
+die Hygiene -n
+hygiene;
+
+die Bühne -n
+scene;
+
+der Schauspieler -
+actor;
+
+die Schauspielerin -nen
+actress;
+
+die Aufführung -en
+staging; play;
+
+die Premiere -n
+premiere;
+
+der Fußgänger -
+pedestrian;
+
+die Fußgängerin -nen
+pedestrian;
+
+der Zebrastreifen -
+pedestrian crossing;
+
+die Einfahrt -en
+entry;
+
+die Ausfahrt -en
+departure;
+
+die Umleitung -en
+detour; redirect;
+
+das Gewitter -
+storm;
+
+der Sturm "-e
+storm; storm;
+
+der Nebel -
+fog;
+
+das Eis (sg.)
+ice; ice cream;
+
+die Hitze (sg.)
+heat;
+
+die Kälte (sg.)
+cold;
+
+die Zutat -en
+ingredient;
+
+die Portion -en
+portion;
+
+die Haltbarkeit -en
+best before date; durability;
+
+das Verfallsdatum -en
+expiration date (date);
+
+die Zubereitung -en
+cooking (food); preparation;
+
+die Freundschaft -en
+friendship;
+
+die Bekanntschaft -en
+acquaintance;
+
+der Bekannte -n
+familiar;
+
+die Bekannte -n
+acquaintance;
+
+die Ehe -n
+marriage (matrimony);
+
+die Scheidung -en
+divorce;
+
+der Vorstand "-e
+board; board of Directors;
+
+die Geschäftsführung -en
+company management; directorate;
+
+die Belegschaft -en
+staff; team;
+
+die Personalabteilung -en
+HR department; HR department;
+
+die Einarbeitung -en
+induction; mentoring;
+
+die Teilzeit (sg.)
+underemployment;
+
+die Vollzeit (sg.)
+full employment;
+
+die Stellenausschreibung -en
+job advertisement;
+
+die Stellenanzeige -n
+vacancy; job advertisement;
+
+die Einschreibung -en
+enrollment; registration (at university);
+
+die Immatrikulation -en
+immatriculation; admission to university;
+
+das Referat -e
+report; abstract;
+
+die Klausur -en
+written exam (at university);
+
+das Examen -e
+exam;
+
+das Zeugnis -se
+certificate; certificate; characteristic;
+
+die Gutschrift -en
+credit note; offset of funds;
+
+die Hausordnung -en
+house rules (at home);
+
+das Ereignis -se
+event;
+
+die Verzögerung -en
+delay; slowdown;
+
+die Daten (pl.)
+data; intelligence;
+
+der Datenschutz (sg.)
+data protection;
+
+die Privatsphäre -n
+privacy; privacy;
+
+die Bandbreite -n
+bandwidth; range;
+
+die Latenz -en
+delay (network); latency;
+
+der Absturz "-e
+failure; crash (PO);
+
+die Fehlfunktion -en
+malfunction; incorrect work;
+
+die Aktualisierung -en
+update;
+
+die Überprüfung -en
+examination; audit;

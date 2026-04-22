@@ -35,16 +35,16 @@ das Taschentuch "-er
 носовой платок; бумажная салфетка;
 
 a bestimmt
-определённый; конкретный;
+определенный; конкретный;
 
 a unbestimmt
-неопределённый; расплывчатый;
+неопределенный; расплывчатый;
 
 bestimmter Artikel
-определённый артикль;
+определенный артикль;
 
 unbestimmter Artikel
-неопределённый артикль;
+неопределенный артикль;
 
 die Lageristin -nen
 кладовщица; работница склада;
@@ -74,7 +74,7 @@ eine historische Stätte
 историческое место; исторический объект;
 
 Samar und Mohamad kommen am Morgen zu zweit.
-Самар и Мохамад приходят утром вдвоём.;
+Самар и Мохамад приходят утром вдвоем.;
 
 der Kassenbon -s
 кассовый чек;
@@ -114,7 +114,7 @@ Ich putze meine Zähne.
 Я чищу зубы.;
 
 Ich kämme meine Haare.
-Я расчёсываю волосы.;
+Я расчесываю волосы.;
 
 Ich dusche.
 Я принимаю душ.;
@@ -132,7 +132,7 @@ der Stammbaum "-e
 родословное дерево; семейное дерево;
 
 das Einzelkind -er
-единственный ребёнок;
+единственный ребенок;
 
 der Zwilling -e
 близнец;
@@ -141,7 +141,7 @@ der Onkel -
 дядя;
 
 die Tante -n
-тётя;
+тетя;
 
 die Cousine -n
 двоюродная сестра;
@@ -162,10 +162,10 @@ die Schwägerin -nen
 свояченица; невестка;
 
 der Schwiegervater "-
-тесть; свёкор;
+тесть; свекор;
 
 die Schwiegermutter "-
-тёща; свекровь;
+теща; свекровь;
 
 der Enkel -
 внук;

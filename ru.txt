@@ -1,3 +1,1507 @@
+die Aufgabe -n
+задача; задание; обязанность; функция;
+
+Ich habe viele Aufgaben.
+У меня много задач.;
+
+Das sind meine Aufgaben im Büro.
+Это мои обязанности в офисе.;
+
+a höflich
+вежливый{cmp=вежливее, sup=самый вежливый}; учтивый{cmp=учтивее, sup=самый учтивый}; любезный{cmp=любезнее, sup=самый любезный};
+
+Er ist sehr höflich.
+Он очень вежлив.;
+
+Das war eine höfliche Antwort.
+Это был вежливый ответ.;
+
+der Nachbar -n
+сосед;
+
+Mein Nachbar ist sehr höflich.
+Мой сосед очень вежлив.;
+
+Die Nachbarn sind laut.
+Соседи шумят.;
+
+die Nachbarin -nen
+соседка;
+
+Unsere Nachbarin ist sehr nett.
+Наша соседка очень милая.;
+
+Es geht los!
+начинается!; ну, начали!;
+
+Los geht's!
+поехали!; ну, начали!;
+
+das Zeichen -
+знак; символ; признак; отметка; сигнал;
+
+Was bedeutet dieses Zeichen?
+Что означает этот знак?;
+
+Das ist ein Zeichen von Vertrauen.
+Это знак доверия.;
+
+das Arbeitsblatt "-er
+рабочий лист; лист с заданиями; учебный раздаточный материал;
+
+Bitte nehmt das Arbeitsblatt heraus.
+Достаньте, пожалуйста, рабочий лист.;
+
+Ich habe das Arbeitsblatt nicht verstanden.
+Я не понял этот лист с заданиями.;
+
+das Fragezeichen -
+вопросительный знак; знак вопроса;
+
+Hier fehlt ein Fragezeichen.
+Здесь не хватает вопросительного знака.;
+
+die Postleitzahl -en
+почтовый индекс;
+
+Wie lautet Ihre Postleitzahl?
+Какой у Вас почтовый индекс?;
+
+die Abstimmung -en
+голосование;
+
+Die Abstimmung beginnt um neun Uhr.
+Голосование начинается в девять часов.;
+
+v abstimmen
+голосовать{prs=голосует, pst=голосовал}; голосовать по вопросу;
+[über+Akk]
+
+Wir stimmen morgen darüber ab.
+Мы завтра проголосуем по этому вопросу.;
+
+v wählen
+голосовать{prs=голосует, pst=голосовал};
+
+Viele Menschen wählen am Sonntag.
+Многие люди голосуют в воскресенье.;
+
+v wählen
+выбирать{prs=выбирает, pst=выбирал}; избирать{prs=избирает, pst=выбирал};
+[j-n; etw.]
+
+die Wahl -en
+выбор; выборы;
+
+Die Wahl findet am Sonntag statt.
+Выборы состоятся в воскресенье.;
+
+Dafür!
+за!; я за!;
+
+Ganz klar dagegen!
+однозначно против!; категорически против!;
+
+Ich bin dafür!
+я за!;
+
+Ich bin entschieden dagegen!
+я решительно против!;
+
+v hinzufügen
+добавлять{prs=добавляет, pst=добавлял}; прибавлять{prs=прибавляет, pst=прибавлял};
+[etw.]
+
+Kannst du das noch hinzufügen?
+Ты можешь это еще добавить?;
+
+a meistens
+обычно; чаще всего; в большинстве случаев;
+
+Ich komme meistens zu spät.
+Я обычно опаздываю.;
+
+Meistens ist es ruhig hier.
+Здесь обычно тихо.;
+
+v raten-rät / riet / hat geraten
+советовать{prs=советует, pst=советовал}; рекомендовать{prs=рекомендует, pst=рекомендовал};
+[j-m]
+
+Ich rate dir, früher zu schlafen.
+Я советую тебе ложиться спать раньше.;
+
+v raten-rät / riet / hat geraten
+угадывать{prs=угадывает, pst=угадывал}; отгадывать{prs=отгадывает, pst=отгадывал};
+[etw.]
+
+Rate mal!
+Угадай!;
+
+Du musst nicht raten.
+Тебе не нужно гадать.;
+
+a manchmal
+иногда; порой; временами;
+
+Ich bin manchmal müde.
+Я иногда бываю уставшим.;
+
+Manchmal regnet es tagelang.
+Иногда дождь идет много дней подряд.;
+
+v sagen
+говорить{prs=говорит, pst=говорил}; сказать{prs=скажет, pst=сказал};
+[etw.]
+
+Er sagt das oft.
+Он часто это говорит.;
+
+Sie sagt die Wahrheit.
+Она говорит правду.;
+
+Da bist du ja!
+а вот и ты!; вот ты где!;
+
+a richtig
+правильный{cmp=правильнее, sup=самый правильный}; верный{cmp=вернее, sup=самый верный}; истинный{cmp=истиннее, sup=самый истинный}; правильно;
+
+Das ist richtig.
+Это правильно.;
+
+Du kommst aber spät!
+Ну ты и поздно пришел!; Ты, однако, поздно пришел!;
+
+a wichtig
+важный{cmp=важнее, sup=самый важный}; существенный;
+
+Das ist sehr wichtig.
+Это очень важно.;
+
+das Paar -e
+пара; супружеская пара;
+
+Sie sind ein Paar.
+Они пара.;
+
+das Leben (sg.)
+жизнь;
+
+Das Leben ist nicht immer leicht.
+Жизнь не всегда легка.;
+
+a schwer
+тяжелый{cmp=тяжелее, sup=самый тяжелый}; трудный{cmp=труднее, sup=самый трудный}; сложный{cmp=сложнее, sup=самый сложный};
+
+Der Koffer ist schwer.
+Чемодан тяжелый.;
+
+Die Aufgabe ist schwer.
+Задача трудная.;
+
+a selten
+редко;
+
+jeden zweiten Tag
+через день; каждый второй день;
+
+v verwechseln
+путать{prs=путает, pst=путал}; перепутать;
+[j-n; mit+Dat]
+
+gegen sechs Uhr
+около шести часов; примерно в шесть;
+
+Ich habe keine Zeit zum Spielen.
+У меня нет времени играть.;
+
+a offen
+открытый; открыт;
+
+v aufräumen
+убирать{prs=убирает, pst=убирал}; наводить порядок;
+[etw.]
+
+v anschauen-schaut an / schaute an / hat angeschaut
+смотреть{prs=смотрит, pst=смотрел}; посмотреть; рассматривать;
+[j-n; etw.]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+приглашать{prs=приглашает, pst=приглашал};
+[j-n; zu+Dat]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+загружать{prs=загружает, pst=загружал}; грузить;
+[etw.]
+
+a dann
+тогда; потом; затем;
+
+erst ..., dann ...
+сначала ..., потом ...;
+
+die Wäsche (sg.)
+белье; стирка; вещи для стирки;
+
+Ich wasche Wäsche.
+Я стираю белье.; Я занимаюсь стиркой.;
+
+in Kraft
+в силе; в действии;
+
+die Regel -n
+правило;
+
+in der Regel
+как правило; обычно;
+
+die Verabredung -en
+договоренность; встреча по договоренности;
+
+v wachen
+бодрствовать{prs=бодрствует, pst=бодрствовал}; быть начеку;
+
+v wecken
+будить{prs=будит, pst=будил}; разбудить;
+[j-n]
+
+v dauern
+длиться{prs=длится, pst=длилось}; продолжаться;
+
+Wie lange dauert etw.?
+сколько это длится?; как долго это длится?;
+
+v sehen-sieht / sah / hat gesehen
+видеть{prs=видит, pst=видел};
+
+Ich sehe eine Katze auf der Straße.
+Я вижу кошку на улице.;
+
+das Lebensmittel -
+продукт питания; пищевой продукт;
+
+das Transportmittel -
+средство перевозки; транспортное средство;
+
+das Verkehrsmittel -
+вид транспорта; транспортное средство;
+
+der Einkaufskorb "-e
+корзина для покупок;
+
+die Einkaufstasche -n
+сумка для покупок; хозяйственная сумка;
+
+auf dem Markt
+на рынке;
+
+der Kalbsbraten (sg.)
+жаркое из телятины; запеченная телятина;
+
+die Tomatensoße -n
+томатный соус;
+
+ein halbes Kilo
+полкилограмма; половина килограмма;
+
+der Becher -
+стаканчик; баночка;
+
+die Packung -en
+пачка; упаковка;
+
+die Flasche -n
+бутылка;
+
+die Tüte -n
+пакет; пакетик; кулек;
+
+die Tafel -n
+доска; плитка;
+
+das Netz -e
+сетка; сеточка;
+
+das Glas "-er
+стакан; стекло; банка;
+
+die Dose -n
+банка; жестянка; упаковка;
+
+die Schachtel -n
+коробка; коробочка;
+
+die Schale -n
+миска; лоток; чашка;
+
+a günstig
+недорогой; выгодный;
+
+a billig
+дешевый;
+
+nicht wahr?
+не так ли?; правда?;
+
+a allgemein
+общий; в целом; общеупотребительный;
+
+das Gramm -
+грамм;
+
+das Kilo -s
+кило; килограмм;
+
+das Kilogramm -e
+килограмм;
+
+der Bund "-e
+пучок; связка; союз; федерация;
+
+die Knoblauchzehe -n
+зубчик чеснока;
+
+der Wortstamm "-e
+корень слова; основа слова;
+
+das Wochenende -n
+выходные;
+
+der Nachtisch -e
+десерт;
+
+das Dessert -s
+десерт;
+
+die Nachspeise -n
+десерт;
+
+die Lücke -n
+пробел; пропуск; промежуток; брешь;
+
+das Besteck (sg.)
+столовые приборы;
+
+echt gut
+действительно хорошо; очень хорошо;
+
+v kochen
+готовить{prs=готовит, pst=готовил}; варить;
+
+v braten-brät / briet / hat gebraten
+жарить{prs=жарит, pst=жарил}; жарить на сковороде;
+
+v backen-backt,bäckt / backte,buk / hat gebacken
+печь{prs=печет, pst=пек};
+
+v grillen
+жарить на гриле{prs=жарит на гриле, pst=жарил на гриле}; готовить на углях;
+
+Sie sind schon da?
+Вы уже здесь?; Они уже здесь?;
+
+Sie waren schon kurz da.
+Вы уже ненадолго заходили.; Они уже заходили ненадолго.;
+
+der Apfel "-
+яблоко;
+
+die Banane -n
+банан;
+
+die Blume -n
+цветок;
+
+die Butter (sg.)
+сливочное масло;
+
+das Ei -er
+яйцо;
+
+das Fleisch (sg.)
+мясо;
+
+das Frühstück -e
+завтрак;
+
+die Gabel -n
+вилка;
+
+das Gemüse (sg.)
+овощи;
+
+der Joghurt -s
+йогурт;
+
+die Karotte -n
+морковь;
+
+die Kartoffel -n
+картофель; картошка;
+
+der Kühlschrank "-e
+холодильник;
+
+der Liter -
+литр;
+
+der Löffel -
+ложка;
+
+die Marmelade (sg.)
+джем; варенье;
+
+die Menge -n
+количество; множество;
+
+das Messer -
+нож;
+
+das Müsli (sg.)
+мюсли;
+
+das Öl -e
+растительное масло;
+
+die Orange -n
+апельсин;
+
+die Paprika -s
+паприка; сладкий перец;
+
+der Pilz -e
+гриб;
+
+der Reis (sg.)
+рис;
+
+der Salat -e
+салат;
+
+die Serviette -n
+салфетка;
+
+das Stück -e
+кусок; штука;
+
+die Suppe -n
+суп;
+
+der Teller -
+тарелка;
+
+die Tomate -n
+помидор;
+
+der Wein -e
+вино;
+
+die Wurst "-e
+колбаса; сосиска;
+
+die Zitrone -n
+лимон;
+
+die Zwiebel -n
+лук;
+
+v finden-findet / fand / hat gefunden
+находить{prs=находит, pst=находил};
+
+v finden-findet / fand / hat gefunden
+считать{prs=считает, pst=считал}; находить каким-то;
+
+v geben-gibt / gab / hat gegeben
+давать{prs=дает, pst=давал};
+[j-m; etw.]
+
+v holen
+приносить{prs=приносит, pst=приносил}; брать; сходить за чем-то;
+
+v mögen-mag / mochte / hat gemocht
+любить{prs=любит, pst=любил}; нравиться;
+
+v nehmen-nimmt / nahm / hat genommen
+брать{prs=берет, pst=брал}; взять;
+
+v schmecken
+быть вкусным{prs=будет вкусным, pst=было вкусным};
+
+v schmecken
+чувствовать вкус{prs=чувствует вкус, pst=чувствовал вкус};
+[etw.]
+
+a leer
+пустой;
+
+a teuer
+дорогой;
+
+etwas
+что-то;
+
+nichts
+ничего;
+
+a fast
+почти;
+
+Guten Appetit!
+приятного аппетита!;
+
+Prost!
+за здоровье!; твое здоровье!;
+
+a verschieden
+разный; различный;
+
+das Genussmittel -
+средство наслаждения; стимулятор; продукт не первой необходимости;
+
+der Geschmack "-er
+вкус;
+
+v riechen-riecht / roch / hat gerochen
+пахнуть{prs=пахнет, pst=пах}; чувствовать запах;
+
+der Geruch "-e
+запах;
+
+v hören
+слышать{prs=слышит, pst=слышал};
+
+das Gehör (sg.)
+слух;
+
+die Stieftochter "-
+падчерица;
+
+v hüpfen
+прыгать{prs=прыгает, pst=прыгал}; скакать; подпрыгивать;
+
+v schicken
+посылать{prs=посылает, pst=посылал}; отправлять;
+[j-m; etw.]
+
+der Abend -e
+вечер;
+
+der Alltag (sg.)
+повседневная жизнь; будни;
+
+die Arbeit -en
+работа; труд;
+
+die E-Mail -s
+электронное письмо; e-mail;
+
+der Film -e
+фильм;
+
+die Freizeit (sg.)
+свободное время; досуг;
+
+der Fußball (sg.)
+футбол;
+
+der Kalender -
+календарь;
+
+das Kino -s
+кинотеатр;
+
+der Mittag -e
+полдень; обеденное время;
+
+der Montag -e
+понедельник;
+
+der Dienstag -e
+вторник;
+
+der Mittwoch -e
+среда;
+
+der Donnerstag -e
+четверг;
+
+der Freitag -e
+пятница;
+
+der Samstag -e
+суббота;
+
+der Sonntag -e
+воскресенье;
+
+der Morgen -
+утро;
+
+die Musik (sg.)
+музыка;
+
+der Nachmittag -e
+вторая половина дня; послеобеденное время;
+
+die Nacht "-e
+ночь;
+
+das Picknick -s
+пикник;
+
+der Sport (sg.)
+спорт;
+
+die Stunde -n
+час;
+
+die Uhr -en
+часы;
+
+der Vormittag -e
+первая половина дня; дополуденное время;
+
+die Woche -n
+неделя;
+
+die Wohnung -en
+квартира; жилье;
+
+die Zeit (sg.)
+время;
+
+v anrufen-ruft an / rief an / hat angerufen
+звонить{prs=звонит, pst=звонил};
+[j-n]
+
+v aufstehen-steht auf / stand auf / ist aufgestanden
+вставать{prs=встает, pst=вставал};
+
+v beginnen-beginnt / begann / hat begonnen
+начинать{prs=начинает, pst=начинал}; начинаться;
+
+v besuchen
+посещать{prs=посещает, pst=посещал}; навещать;
+[j-n; etw.]
+
+v einkaufen-kauft ein / kaufte ein / hat eingekauft
+делать покупки{prs=делает покупки, pst=делал покупки}; закупаться;
+
+v fahren-fährt / fuhr / ist gefahren
+ехать{prs=едет, pst=ехал}; ездить; путешествовать;
+
+v fahren-fährt / fuhr / hat gefahren
+водить{prs=водит, pst=водил};
+[etw.]
+
+v fernsehen-sieht fern / sah fern / hat ferngesehen
+смотреть телевизор{prs=смотрит телевизор, pst=смотрел телевизор};
+
+v frühstücken
+завтракать{prs=завтракает, pst=завтракал};
+
+v putzen
+чистить{prs=чистит, pst=чистил}; убирать;
+
+v schlafen-schläft / schlief / hat geschlafen
+спать{prs=спит, pst=спал};
+
+v tanzen
+танцевать{prs=танцует, pst=танцевал};
+
+v telefonieren
+разговаривать по телефону{prs=разговаривает по телефону, pst=разговаривал по телефону};
+
+v träumen
+мечтать{prs=мечтает, pst=мечтал}; видеть сны;
+
+v waschen-wäscht / wusch / hat gewaschen
+мыть{prs=моет, pst=мыл}; стирать;
+
+v zoomen
+общаться в Zoom{prs=общается в Zoom, pst=общался в Zoom}; созваниваться в Zoom;
+
+a früh
+рано;
+
+a spät
+поздно;
+
+a geöffnet
+открыто;
+
+a geschlossen
+закрыто;
+
+a nie
+никогда;
+
+a oft
+часто;
+
+a nur
+только;
+
+a später
+позже;
+
+von ... bis
+с ... до;
+
+wann?
+когда?;
+
+wie lange?
+как долго?;
+
+das Auto -s
+машина; автомобиль;
+
+der Bahnhof "-e
+вокзал;
+
+der Bildschirm -e
+экран; монитор;
+
+die Brille -n
+очки;
+
+das Buch "-er
+книга;
+
+der Computer -
+компьютер;
+
+das Fahrrad "-er
+велосипед;
+
+das Fenster -
+окно;
+
+das Geld (sg.)
+деньги; наличные; средства;
+
+das Handy -s
+мобильный телефон; смартфон;
+
+das Haus "-er
+дом; здание;
+
+das Heft -e
+тетрадь;
+
+der Hund -e
+собака;
+
+die Jacke -n
+куртка; пиджак;
+
+der Kaffee (sg.)
+кофе;
+
+die Katze -n
+кошка;
+
+der Kuli -s
+ручка;
+
+die Lampe -n
+лампа;
+
+der Laptop -s
+ноутбук;
+
+die Maus "-e
+мышь; компьютерная мышь;
+
+die Notiz -en
+заметка; запись;
+
+der Rucksack "-e
+рюкзак;
+
+die Schere -n
+ножницы;
+
+der Schlüssel -
+ключ;
+
+die Schule -n
+школа;
+
+der Stift -e
+карандаш; ручка;
+
+der Stuhl "-e
+стул;
+
+das Tablet -s
+планшет;
+
+die Tasche -n
+сумка; карман;
+
+der Tisch -e
+стол;
+
+die Tür -en
+дверь;
+
+v arbeiten
+работать{prs=работает, pst=работал};
+
+v funktionieren
+работать{prs=работает, pst=работал}; функционировать;
+
+v informieren
+информировать{prs=информирует, pst=информировал}; сообщать;
+
+v leben
+жить{prs=живет, pst=жил};
+
+v wechseln
+менять{prs=меняет, pst=менял}; заменять;
+
+v wissen-weiß / wusste / hat gewusst
+знать{prs=знает, pst=знал};
+
+v zeigen
+показывать{prs=показывает, pst=показывал};
+
+a fertig
+готовый;
+
+a freundlich
+дружелюбный;
+
+a kaputt
+сломанный;
+
+a kurz
+короткий;
+
+a lang
+длинный;
+
+a langsam
+медленный;
+
+a schnell
+быстрый;
+
+a falsch
+неправильный;
+
+alle
+все;
+
+a gern
+охотно; с удовольствием;
+
+a heute
+сегодня;
+
+a schon
+уже;
+
+so
+так;
+
+Vielen Dank!
+большое спасибо!;
+
+a vielleicht
+возможно; может быть;
+
+zu zweit / dritt / viert
+вдвоем; втроем; вчетвером;
+
+die Adresse -n
+адрес;
+
+die Anmeldung -en
+регистрация; запись; заявка;
+
+die Antwort -en
+ответ;
+
+die Familie -n
+семья;
+
+der Familienname -n
+фамилия;
+
+die Firma -en
+фирма; компания;
+
+das Formular -e
+формуляр; бланк;
+
+das Foto -s
+фото; фотография;
+
+die Frage -n
+вопрос;
+
+die Hausnummer -n
+номер дома;
+
+der Irak (sg.)
+Ирак;
+
+der Kurs -e
+курс; обменный курс;
+
+das Land "-er
+страна;
+
+der Name -n
+имя;
+
+die Nummer -n
+номер;
+
+der Ort -e
+место; населенный пункт;
+
+der Papa -s
+папа;
+
+die Mama -s
+мама;
+
+die Person -en
+человек; персона;
+
+der Satz "-e
+предложение;
+
+die Stadt "-e
+город;
+
+die Straße -n
+улица; дорога;
+
+die Telefonnummer -n
+номер телефона;
+
+der Vorname -n
+имя;
+
+die Zahl -en
+число; цифра;
+
+v antworten
+отвечать{prs=отвечает, pst=отвечал};
+[j-m]
+
+v begrüßen
+приветствовать{prs=приветствует, pst=приветствовал};
+[j-n]
+
+v buchstabieren
+произносить по буквам{prs=произносит по буквам, pst=произносил по буквам};
+
+v fragen
+спрашивать{prs=спрашивает, pst=спрашивал};
+[j-n; etw.]
+
+v heißen-heißt / hieß / hat geheißen
+называться{prs=называется, pst=назывался};
+
+v kennen-kennt / kannte / hat gekannt
+быть знакомым с{prs=знаком с, pst=был знаком с}; знать;
+
+v kommen-kommt / kam / ist gekommen
+приходить{prs=приходит, pst=приходил}; приезжать;
+
+v lesen-liest / las / hat gelesen
+читать{prs=читает, pst=читал};
+
+v schreiben-schreibt / schrieb / hat geschrieben
+писать{prs=пишет, pst=писал};
+
+v sein-ist / war / ist gewesen
+быть{prs=будет, pst=был};
+
+v sprechen-spricht / sprach / hat gesprochen
+говорить{prs=говорит, pst=говорил};
+
+v vorstellen-stellt vor / stellte vor / hat vorgestellt
+представлять{prs=представляет, pst=представлял}; знакомить;
+
+v wiederholen
+повторять{prs=повторяет, pst=повторял};
+
+v wohnen
+жить{prs=живет, pst=жил}; проживать;
+
+auf Wiedersehen
+до свидания;
+
+aus + Dat.
+из;
+
+bitte
+пожалуйста;
+
+Entschuldigung!
+извините!;
+
+in + Akk./Dat.
+в;
+
+a jetzt
+сейчас;
+
+und
+и;
+
+wie
+как;
+
+Wie geht's?
+как дела?;
+
+wo
+где?;
+
+woher
+откуда?;
+
+der Fußboden "-
+пол; напольное покрытие;
+
+der Hefter -
+папка; скоросшиватель;
+
+der Farbstift -e
+цветной карандаш;
+
+der Locher -
+дырокол;
+
+der Spitzer -
+точилка;
+
+das Brillenetui -s
+футляр для очков;
+
+das Mäppchen -
+пенал;
+
+der Beutel -
+мешочек; пакет;
+
+die Stofftasche -n
+тканевая сумка; сумка из ткани;
+
+Was ist nie dabei?
+Чего у тебя никогда нет с собой?;
+
+nicht wichtig
+неважно; не важно;
+
+das Taschentuch "-er
+носовой платок; бумажная салфетка;
+
+a bestimmt
+определенный; конкретный;
+
+a unbestimmt
+неопределенный; расплывчатый;
+
+bestimmter Artikel
+определенный артикль;
+
+unbestimmter Artikel
+неопределенный артикль;
+
+die Lageristin -nen
+кладовщица; работница склада;
+
+der Lagerist -en
+кладовщик; работник склада;
+
+das Ding -e
+вещь; предмет;
+
+das Radieschen -
+редиска;
+
+der Tacker -
+степлер;
+
+Es ist weg.
+Этого нет.; Оно пропало.;
+
+Es ist kaputt.
+Это сломано.;
+
+Es funktioniert nicht.
+Это не работает.;
+
+eine historische Stätte
+историческое место; исторический объект;
+
+Samar und Mohamad kommen am Morgen zu zweit.
+Самар и Мохамад приходят утром вдвоем.;
+
+der Kassenbon -s
+кассовый чек;
+
+der Bon -s
+чек; квитанция;
+
+v decken
+покрывать; накрывать;
+[etw.]
+
+den Tisch decken
+накрывать на стол;
+
+das Knäckebrot -e
+хрустящие хлебцы; хлебцы;
+
+die Uroma -s
+прабабушка;
+
+der Uropa -s
+прадедушка;
+
+das Treffen -
+встреча;
+
+Die Katze ist getigert.
+Кошка полосатая.;
+
+Zuerst räume ich auf, dann putze ich.
+Сначала я прибираю, потом убираюсь.;
+
+Ich wasche mein Gesicht.
+Я умываю лицо.;
+
+Ich putze meine Zähne.
+Я чищу зубы.;
+
+Ich kämme meine Haare.
+Я расчесываю волосы.;
+
+Ich dusche.
+Я принимаю душ.;
+
+Ich finde den Geruch gut.
+Мне кажется, запах приятный.;
+
+Ich mag den Geruch.
+Мне нравится этот запах.;
+
+Lin frühstückt im Alltag nie zu Hause.
+Лин в будни никогда не завтракает дома.;
+
+der Stammbaum "-e
+родословное дерево; семейное дерево;
+
+das Einzelkind -er
+единственный ребенок;
+
+der Zwilling -e
+близнец;
+
+der Onkel -
+дядя;
+
+die Tante -n
+тетя;
+
+die Cousine -n
+двоюродная сестра;
+
+der Cousin -s
+двоюродный брат;
+
+der Neffe -n
+племянник;
+
+die Nichte -n
+племянница;
+
+der Schwager "-
+шурин; деверь; зять;
+
+die Schwägerin -nen
+свояченица; невестка;
+
+der Schwiegervater "-
+тесть; свекор;
+
+die Schwiegermutter "-
+теща; свекровь;
+
+der Enkel -
+внук;
+
+die Enkelin -nen
+внучка;
+
+der Urenkel -
+правнук;
+
+die Urenkelin -nen
+правнучка;
+
+die Stiefmutter "-
+мачеха;
+
+der Stiefvater "-
+отчим;
+
+die Stiefkinder (pl.)
+пасынки и падчерицы; дети супруга от предыдущего брака;
+
+der Kuss "-e
+поцелуй;
+
+Herzlichen Glückwunsch!
+Сердечно поздравляю!; Поздравляю!;
+
+Ich beneide dich.
+Я тебе завидую.;
+
+Er hat eine Beziehung.
+У него есть отношения.; Он в отношениях.;
+
+die Anzeige -n
+объявление;
+
+das Bad "-er
+ванная; ванная комната;
+
+der Balkon -e
+балкон;
+
+das Bett -en
+кровать;
+
+die Dusche -n
+душ;
+
+das Erdgeschoss -e
+первый этаж;
+
+der Flur -e
+коридор; прихожая;
+
+die Garage -n
+гараж;
+
+der Garten "-
+сад;
+
+das Haus "-er
+дом;
+
+die Heizung -en
+отопление;
+
+der Keller -
+подвал;
+
+die Küche -n
+кухня;
+
+die Miete -n
+квартплата; арендная плата;
+
+der Mieter -
+арендатор; квартиросъемщик;
+
+die Mieterin -nen
+арендатор; квартиросъемщица;
+
+die Möbel (pl.)
+мебель;
+
+der Monat -e
+месяц;
+
+der Nachbar -n
+сосед;
+
+die Nachbarin -nen
+соседка;
+
+die Nebenkosten (pl.)
+коммунальные расходы; дополнительные расходы;
+
+der Platz (sg.)
+место; пространство;
+
+der Schrank "-e
+шкаф;
+
+der Sessel -
+кресло;
+
+das Sofa -s
+диван;
+
+der Spielplatz "-e
+детская площадка;
+
+die Toilette -n
+туалет;
+
+der Vermieter -
+арендодатель; хозяин квартиры;
+
+die Vermieterin -nen
+арендодатель; хозяйка квартиры;
+
+die Wohnung -en
+квартира;
+
+das Zentrum -en
+центр;
+
+das Zimmer -
+комната;
+
+v abstellen-stellt ab / stellte ab / hat abgestellt
+ставить{prs=ставит, pst=ставил}; оставлять{prs=оставляет, pst=оставлял}; отключать{prs=отключает, pst=отключал};
+
+v benutzen / benutzte / hat benutzt
+использовать{prs=использует, pst=использовал};
+
+v bezahlen / bezahlte / hat bezahlt
+платить{prs=платит, pst=платил}; оплачивать{prs=оплачивает, pst=оплачивал};
+
+v dürfen-darf / durfte / hat gedurft
+мочь{prs=может, pst=мог}; иметь разрешение;
+
+v grillen / grillte / hat gegrillt
+жарить на гриле{prs=жарит на гриле, pst=жарил на гриле}; готовить на углях;
+
+v mieten / mietete / hat gemietet
+снимать{prs=снимает, pst=снимал}; арендовать{prs=арендует, pst=арендовал};
+
+v parken / parkte / hat geparkt
+парковаться{prs=паркуется, pst=парковался};
+
+v putzen / putzte / hat geputzt
+чистить{prs=чистит, pst=чистил}; убирать{prs=убирает, pst=убирал};
+
+v rauchen / rauchte / hat geraucht
+курить{prs=курит, pst=курил};
+
+v wollen-will / wollte / hat gewollt
+хотеть{prs=хочет, pst=хотел};
+
+a alt
+старый{cmp=старее, sup=самый старый};
+
+a neu
+новый{cmp=новее, sup=самый новый};
+
+a billig
+дешевый;
+
+a teuer
+дорогой;
+
+a dunkel
+темный{cmp=темнее, sup=самый темный};
+
+a hell
+светлый{cmp=светлее, sup=самый светлый};
+
+a erlaubt
+разрешенный; допустимый;
+
+a verboten
+запрещенный;
+
+a groß
+большой{cmp=больше, sup=самый большой};
+
+a klein
+маленький{cmp=меньше, sup=самый маленький};
+
+a hoch
+высокий{cmp=выше, sup=самый высокий};
+
+a jung
+молодой{cmp=моложе, sup=самый молодой};
+
+a kalt
+холодный{cmp=холоднее, sup=самый холодный};
+
+a warm
+теплый{cmp=теплее, sup=самый теплый};
+
+a laut
+шумный{cmp=шумнее, sup=самый шумный};
+
+a ruhig
+тихий{cmp=тише, sup=самый тихий}; спокойный{cmp=спокойнее, sup=самый спокойный};
+
+a modern
+современный;
+
+a weit
+далекий; широкий{cmp=шире, sup=самый широкий}; просторный{cmp=просторнее, sup=самый просторный};
+
+a wichtig
+важный{cmp=важнее, sup=самый важный};
+
+ein bisschen
+немного;
+
+a leider
+к сожалению;
+
+a sehr
+очень;
+
+a wenig
+мало; немного;
+
+das Wasser (sg.)
+вода; воды; водоем;
+
+die Milch (sg.)
+молоко;
+
+der Hunger (sg.)
+голод; голодание; массовый голод;
+
+der Regen (sg.)
+дождь; выпадение осадков;
+
+die Leute (pl.)
+люди; народ;
+
+die Eltern (pl.)
+родители; мать и отец;
+
+die Ferien (pl.)
+каникулы; отпуск; школьные каникулы; перерыв в занятиях;
+
+die Kosten (pl.)
+расходы; затраты; издержки;
+
+die Möbel (pl.)
+мебель; предметы мебели; обстановка;
+
+die Lebensmittel (pl.)
+продукты питания; продукты; съестные припасы;
+
+die Geschwister (pl.)
+братья и сестры; дети одних родителей;
+
+die Daten (pl.)
+данные; сведения; компьютерные данные;
+
 das Leben (sg.)
 жизнь; существование;
 

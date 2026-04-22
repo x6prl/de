@@ -237,7 +237,7 @@ def validate_translation(path: Path, line_no: int, lemma: str, translation: str)
                     ValidationError(
                         path,
                         line_no,
-                        "translation `prs=` cue must contain a single third-person present form, not multiple forms",
+                        "translation `prs=` cue must contain a single third-person finite form, not multiple forms",
                     )
                 )
                 break
