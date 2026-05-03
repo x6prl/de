@@ -169,12 +169,6 @@ deep{cmp=deeper, sup=deepest}; low{cmp=lower, sup=lowest};
 a niedrig
 low;
 
-der tiefste Preis
-the lowest price;
-
-der niedrigste Preis
-the lowest price;
-
 das Benzin (sg.)
 gasoline; petrol;
 

@@ -4,9 +4,6 @@ giriş; giriş ücreti; katılım;
 die Seite -n
 taraf; yan; sayfa;
 
-das Museum Museen
-müze;
-
 der Schalter -
 anahtar; şalter; gişe; hizmet noktası;
 
@@ -595,7 +592,7 @@ Doğum tarihiniz nedir?;
 Wann haben Sie Geburtstag?
 Doğum gününüz ne zaman?;
 
-das Geburtsdatum Geburtsdaten
+das Geburtsdatum -daten
 doğum tarihi;
 
 der Geburtstag -e
@@ -922,7 +919,7 @@ doğum yeri;
 die Kantine -n
 kantin; yemekhane;
 
-das Konto Konten
+das Konto -en
 hesap; banka hesabı;
 
 der Kunde -n
@@ -1081,7 +1078,7 @@ iptal etmek; rezervasyonu iptal etmek;
 v trainieren / - / hat trainiert
 antrenman yapmak; çalıştırmak; eğitmek;
 
-die Tür abschließen
+Die Tür abschließen
 kapıyı kilitlemek;
 
 eine Ausbildung abschließen

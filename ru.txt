@@ -2257,12 +2257,6 @@ a tief tiefer am tiefsten
 a niedrig
 низкий;
 
-der tiefste Preis
-самая низкая цена;
-
-der niedrigste Preis
-самая низкая цена;
-
 das Benzin (sg.)
 бензин;
 
@@ -2947,9 +2941,6 @@ der Eintritt (sg.)
 die Seite -n
 сторона; страница;
 
-das Museum Museen
-музей;
-
 der Schalter -
 выключатель; окошко; стойка обслуживания; переключатель;
 
@@ -3538,7 +3529,7 @@ Was ist Ihr Geburtsdatum?
 Wann haben Sie Geburtstag?
 Когда у Вас день рождения?;
 
-das Geburtsdatum Geburtsdaten
+das Geburtsdatum -daten
 TODO;
 
 der Geburtstag -e
@@ -3865,7 +3856,7 @@ der Geburtsort -e
 die Kantine -n
 столовая;
 
-das Konto Konten
+das Konto -en
 счёт; банковский счёт;
 
 der Kunde -n
@@ -4024,7 +4015,7 @@ v stornieren / - / hat storniert
 v trainieren / - / hat trainiert
 тренироваться; тренировать;
 
-die Tür abschließen
+Die Tür abschließen
 запирать дверь на ключ;
 
 eine Ausbildung abschließen

@@ -2254,12 +2254,6 @@ deep{cmp=deeper, sup=deepest}; low{cmp=lower, sup=lowest};
 a niedrig
 low;
 
-der tiefste Preis
-the lowest price;
-
-der niedrigste Preis
-the lowest price;
-
 das Benzin (sg.)
 gasoline; petrol;
 
@@ -2944,9 +2938,6 @@ entrance; admission; admission fee; entry;
 die Seite -n
 side; page;
 
-das Museum Museen
-museum;
-
 der Schalter -
 switch; counter; service desk; window;
 
@@ -3535,7 +3526,7 @@ What is your date of birth?;
 Wann haben Sie Geburtstag?
 When is your birthday?;
 
-das Geburtsdatum Geburtsdaten
+das Geburtsdatum -daten
 date of birth;
 
 der Geburtstag -e
@@ -3862,7 +3853,7 @@ place of birth;
 die Kantine -n
 canteen; cafeteria;
 
-das Konto Konten
+das Konto -en
 account; bank account;
 
 der Kunde -n
@@ -4021,7 +4012,7 @@ cancel;
 v trainieren / - / hat trainiert
 train; exercise; coach;
 
-die Tür abschließen
+Die Tür abschließen
 lock the door;
 
 eine Ausbildung abschließen

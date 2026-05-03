@@ -4,9 +4,6 @@ der Eintritt (sg.)
 die Seite -n
 جانب; جهة; صفحة;
 
-das Museum Museen
-متحف;
-
 der Schalter -
 مفتاح كهربائي; مفتاح تشغيل; شباك خدمة; كاونتر;
 
@@ -595,7 +592,7 @@ Was ist Ihr Geburtsdatum?
 Wann haben Sie Geburtstag?
 متى عيد ميلادك؟;
 
-das Geburtsdatum Geburtsdaten
+das Geburtsdatum -daten
 تاريخ الميلاد;
 
 der Geburtstag -e
@@ -922,7 +919,7 @@ der Geburtsort -e
 die Kantine -n
 مقصف; كافيتريا; مطعم موظفين;
 
-das Konto Konten
+das Konto -en
 حساب; حساب بنكي;
 
 der Kunde -n
@@ -1081,7 +1078,7 @@ v stornieren / - / hat storniert
 v trainieren / - / hat trainiert
 يتدرب; يدرّب; يمارس التدريب;
 
-die Tür abschließen
+Die Tür abschließen
 يقفل الباب بالمفتاح;
 
 eine Ausbildung abschließen

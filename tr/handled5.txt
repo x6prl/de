@@ -169,12 +169,6 @@ derin{cmp=daha derin, sup=en derin}; alçak{cmp=daha alçak, sup=en alçak};
 a niedrig
 alçak; düşük;
 
-der tiefste Preis
-en düşük fiyat;
-
-der niedrigste Preis
-en düşük fiyat;
-
 das Benzin (sg.)
 benzin;
 
