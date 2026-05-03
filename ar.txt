@@ -86,10 +86,6 @@ v wählen
 Viele Menschen wählen am Sonntag.
 كثير من الناس يصوّتون يوم الأحد.;
 
-v wählen
-يختار{prs=يختار, pst=اختار}; ينتخب;
-[j-n; etw.]
-
 die Wahl -en
 اختيار; انتخابات;
 
@@ -130,10 +126,6 @@ v raten-rät / riet / hat geraten
 
 Ich rate dir, früher zu schlafen.
 أنصحك بأن تنام أبكر.;
-
-v raten-rät / riet / hat geraten
-يخمن{prs=يخمن, pst=خمن}; يقدّر;
-[etw.]
 
 Rate mal!
 خمن!;
@@ -229,10 +221,6 @@ v anschauen-schaut an / schaute an / hat angeschaut
 v einladen-lädt ein / lud ein / hat eingeladen
 يدعو{prs=يدعو, pst=دعا};
 [j-n; zu+Dat]
-
-v einladen-lädt ein / lud ein / hat eingeladen
-يحمّل{prs=يحمّل, pst=حمّل}; يشحن;
-[etw.]
 
 a dann
 حينئذ; ثم; بعد ذلك;
@@ -508,9 +496,6 @@ die Zwiebel -n
 v finden-findet / fand / hat gefunden
 يجد{prs=يجد, pst=وجد};
 
-v finden-findet / fand / hat gefunden
-يعتبر; يرى;
-
 v geben-gibt / gab / hat gegeben
 يعطي{prs=يعطي, pst=أعطى};
 [j-m; etw.]
@@ -526,10 +511,6 @@ v nehmen-nimmt / nahm / hat genommen
 
 v schmecken
 طعمه جيد; يكون لذيذًا;
-
-v schmecken
-يتذوق;
-[etw.]
 
 a leer
 فارغ;
@@ -1321,12 +1302,6 @@ die Möbel (pl.)
 der Monat -e
 شهر;
 
-der Nachbar -n
-جار;
-
-die Nachbarin -nen
-جارة;
-
 die Nebenkosten (pl.)
 تكاليف إضافية; رسوم خدمات;
 
@@ -1437,9 +1412,6 @@ a modern
 
 a weit
 بعيد{cmp=أبعد, sup=الأبعد}; واسع{cmp=أوسع, sup=الأوسع}; فسيح{cmp=أفسح, sup=الأفسح};
-
-a wichtig
-مهم{cmp=أهمّ, sup=الأهمّ}; جوهري;
 
 ein bisschen
 قليلًا; بعض الشيء;
@@ -2117,6 +2089,1989 @@ Auf jeden Fall komme ich morgen.
 Ich mache Sandwiches.
 أنا أعدّ شطائر. ;
 
+m²
+متر مربع; أمتار مربعة;
+
+KM
+إيجار أساسي من دون مرافق; إيجار بارد;
+
+NK
+تكاليف إضافية; رسوم الخدمات; المرافق;
+
+die Wohnungsanzeige -n
+إعلان شقة; إعلان سكن;
+
+der Quadratmeter -
+متر مربع;
+
+die Kaltmiete -n
+إيجار أساسي من دون مرافق; إيجار بارد;
+
+der Nachmieter -
+مستأجر لاحق; مستأجر بديل;
+
+der Vormieter -
+المستأجر السابق;
+
+der Strom (sg.)
+كهرباء;
+
+der Parkplatz "-e
+مكان ركن; موقف سيارة;
+
+eine Wohnung mieten
+يستأجر شقة;
+
+einen Stellplatz mieten
+يستأجر موقفًا;
+
+die Rechnung -en
+فاتورة; حساب;
+
+die Rückzahlung -en
+استرداد; ردّ المبلغ;
+
+die Nachzahlung -en
+دفعة إضافية; مبلغ تكميلي;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+الشقة غالية جدًا، لكنني أستطيع أن أدفع ثمنها.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+الشقة غالية أكثر من اللازم، ولا أستطيع أن أدفع ثمنها.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+يمكن استعمال sehr و zu مع جميع الصفات. وغالبًا ما يكون لـ zu معنى سلبي.;
+
+Das Essen ist zu heiß.
+الطعام ساخن أكثر من اللازم.;
+
+Das Essen ist sehr heiß.
+الطعام ساخن جدًا.;
+
+a zu
+أكثر من اللازم; جدًا بشكل مزعج;
+
+sehr teuer
+غالي جدًا;
+
+zu teuer
+غالي أكثر من اللازم;
+
+sehr heiß
+ساخن جدًا;
+
+zu heiß
+ساخن أكثر من اللازم;
+
+die Bedeutung -en
+معنى;
+
+v kombinieren / kombinierte / hat kombiniert
+يجمع{prs=يجمع, pst=جمع}; يدمج{prs=يدمج, pst=دمج};
+
+ich darf
+مسموح لي; يجوز لي;
+
+du darfst
+مسموح لك; يجوز لك;
+
+er/sie/es darf
+مسموح له; مسموح لها; مسموح له بذلك; يجوز;
+
+wir dürfen
+مسموح لنا; يجوز لنا;
+
+ihr dürft
+مسموح لكم; يجوز لكم;
+
+sie/Sie dürfen
+مسموح لهم; مسموح لكم; يجوز لهم; يجوز لكم;
+
+Es ist erlaubt.
+هذا مسموح.;
+
+Wir dürfen auf dem Balkon grillen.
+مسموح لنا أن نشوي على الشرفة.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+لا يجوز للأطفال دون الثامنة عشرة شراء الكحول.;
+
+Ich darf in meiner Wohnung laut singen.
+مسموح لي أن أغني بصوت عالٍ في شقتي.;
+
+die Nachtruhe (sg.)
+ساعات الهدوء الليلية; راحة الليل;
+
+die Mittagsruhe (sg.)
+ساعات الهدوء وقت الظهيرة; راحة الظهر;
+
+die Hausordnung -en
+قوانين المنزل; قواعد المبنى;
+
+die Ruhe -n
+هدوء; راحة; سكينة;
+
+die Ordnung -en
+نظام; قواعد; ترتيب;
+
+der Kinderwagen -
+عربة طفل; عربة رضيع;
+
+der Hausflur -e
+ممر داخل المبنى; ممر مشترك;
+
+Kinderwagen im Hausflur
+عربة طفل في الممر المشترك;
+
+der Schuh -e
+حذاء;
+
+das Treppenhaus "-er
+بيت الدرج; منطقة السلم في المبنى;
+
+Schuhe im Treppenhaus
+أحذية في بيت الدرج;
+
+das Haustier -e
+حيوان أليف;
+
+kleine Tiere
+حيوانات صغيرة;
+
+Kleine Tiere sind erlaubt.
+الحيوانات الصغيرة مسموح بها.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+عند وجود قطط أو كلاب يجب سؤال المالك.;
+
+a hoch höher am höchsten
+عالٍ{cmp=أعلى, sup=الأعلى}; طويل{cmp=أطول, sup=الأطول};
+
+Das Haus ist hoch.
+البيت عالٍ.;
+
+Der Preis ist hoch.
+السعر مرتفع.;
+
+a tief tiefer am tiefsten
+عميق{cmp=أعمق, sup=الأعمق}; منخفض{cmp=أخفض, sup=الأخفض};
+
+a niedrig
+منخفض;
+
+der tiefste Preis
+أقل سعر;
+
+der niedrigste Preis
+أقل سعر;
+
+das Benzin (sg.)
+بنزين;
+
+die Preise für Diesel und Benzin (pl.)
+أسعار الديزل والبنزين;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+أسعار الديزل والبنزين مرتفعة جدًا الآن.;
+
+die Geschwindigkeitsbegrenzung -en
+حد السرعة; تحديد السرعة;
+
+die Geschwindigkeit -en
+سرعة;
+
+die Begrenzung -en
+حد; تقييد;
+
+v begrenzen / begrenzte / hat begrenzt
+يحد{prs=يحد, pst=حد}; يقيّد{prs=يقيّد, pst=قيّد};
+
+mal so, mal so
+مرة هكذا ومرة هكذا; يختلف;
+
+immer abends
+دائمًا في المساء;
+
+am Morgen außer dienstags und donnerstags
+في الصباح ما عدا الثلاثاء والخميس;
+
+außer + Dat.
+باستثناء; ما عدا;
+
+Es ist verboten.
+هذا ممنوع. ; هذا محظور.;
+
+v verbieten-verbietet / verbot / hat verboten
+يمنع{prs=يمنع, pst=منع}; يحظر{prs=يحظر, pst=حظر};
+
+der Aberglaube (sg.)
+خرافة; اعتقاد خرافي;
+
+Das ist nur Aberglaube.
+هذا مجرد خرافة.;
+
+der Glaube -n
+إيمان; اعتقاد;
+
+der Polterabend -e
+حفلة ما قبل الزفاف لكسر الصحون من أجل الحظ;
+
+die schwarze Katze -n
+قطة سوداء;
+
+Eine schwarze Katze bringt Unglück.
+القطة السوداء تجلب سوء الحظ.;
+
+v poltern / polterte / hat gepoltert
+يحدث ضجة{prs=يحدث ضجة, pst=أحدث ضجة}; يدوي{prs=يدوي, pst=دوى};
+
+das Unglück (sg.)
+سوء حظ; مصيبة;
+
+der Knoblauch (sg.)
+ثوم;
+
+Knoblauch schützt vor Vampiren.
+الثوم يحمي من مصاصي الدماء.;
+
+v schützen / schützte / hat geschützt
+يحمي{prs=يحمي, pst=حمى};
+
+der Vampir -e
+مصاص دماء;
+
+a bereit
+جاهز;
+
+Wir sind bereit.
+نحن جاهزون.;
+
+Bist du bereit?
+هل أنت جاهز؟;
+
+die Hälfte -n
+نصف; نصف واحد;
+
+die Traumwohnung -en
+شقة الأحلام; الشقة المثالية;
+
+der Traum "-e
+حلم; طموح;
+
+124,68
+مئة وأربعة وعشرون فاصلة ثمانية وستون;
+
+1.246,8
+ألف ومئتان وستة وأربعون فاصلة ثمانية;
+
+1246 (Jahr)
+اثنا عشر وستة وأربعون عند قراءة السنة;
+
+1.000.000
+مليون واحد;
+
+10.000.000
+عشرة ملايين;
+
+v machen / machte / hat gemacht
+يفعل{prs=يفعل, pst=فعل}; يصنع{prs=يصنع, pst=صنع};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+يغلق{prs=يغلق, pst=أغلق};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+يفتح{prs=يفتح, pst=فتح};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+يطفئ{prs=يطفئ, pst=أطفأ}; يرتب{prs=يرتب, pst=رتب}; يهم{prs=يهم, pst=هم};
+
+v anmachen-macht an / machte an / hat angemacht
+يشغل{prs=يشغل, pst=شغّل}; يغازل{prs=يغازل, pst=غازل};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+يتفق{prs=يتفق, pst=اتفق}; يزيل{prs=يزيل, pst=أزال};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+يحفظ{prs=يحفظ, pst=حفظ}; يعلّب{prs=يعلّب, pst=علّب};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+يواصل{prs=يواصل, pst=واصل}; يستمر{prs=يستمر, pst=استمر};
+
+die Vorsilbe -n
+بادئة;
+
+die Präposition -en
+حرف جر;
+
+a ähnlich
+مشابه; مماثل;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+يوقّع{prs=يوقّع, pst=وقّع};
+
+die Unterschrift -en
+توقيع;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+يضع خطًا تحت{prs=يضع خطًا تحت, pst=وضع خطًا تحت}; يؤكد بالتسطير{prs=يؤكد بالتسطير, pst=أكد بالتسطير};
+
+v reinigen / reinigte / hat gereinigt
+ينظف{prs=ينظف, pst=نظف}; يطهّر{prs=يطهّر, pst=طهّر};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+يرتب بعيدًا{prs=يرتب بعيدًا, pst=رتب بعيدًا}; يزيل{prs=يزيل, pst=أزال};
+
+Ich unterschreibe den Brief.
+أنا أوقّع الرسالة.;
+
+Ich unterstreiche ein Wort im Text.
+أنا أضع خطًا تحت كلمة في النص.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+أريد أن يرتب أطفالي أشياءهم.;
+
+Ich möchte meine Kinder wegräumen.
+أريد أن أتخلص من أطفالي.;
+
+Ich war schwimmen.
+ذهبت للسباحة.;
+
+Wir waren im Park.
+كنا في الحديقة.;
+
+in + Dat./Akk.
+في; إلى داخل;
+
+der Park -s
+حديقة;
+
+der Zustand "-e
+حالة; وضع;
+
+Ich war zu Hause.
+كنت في البيت.;
+
+Er war krank.
+كان مريضًا.;
+
+Wir waren im Kino.
+كنا في السينما.;
+
+Ich war einkaufen.
+ذهبت للتسوق.;
+
+Ich gebe mir die Schuld.
+أنا ألوم نفسي.;
+
+sich Vorwürfe machen
+يؤنب نفسه; يشعر بالذنب;
+
+der Schaufensterbummel -
+جولة لمشاهدة واجهات المحلات;
+
+einen Schaufensterbummel machen
+يقوم بجولة لمشاهدة واجهات المحلات;
+
+der Bummel -
+نزهة هادئة; تجول مريح في المتاجر;
+
+einen Bummel machen
+يقوم بنزهة هادئة;
+
+das Sprichwort "-er
+مثل; قول مأثور;
+
+das Motto -s
+شعار;
+
+das geflügelte Wort "-er
+عبارة مشهورة; قول متداول;
+
+v entspannen / entspannte / hat entspannt
+يريح{prs=يريح, pst=أراح}; يرخّي{prs=يرخّي, pst=رخّى};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+يسترخي{prs=يسترخي, pst=استرخى}; يرتاح{prs=يرتاح, pst=ارتاح};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+يستريح{prs=يستريح, pst=استراح};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+يستريح{prs=يستريح, pst=استراح}; يأخذ قسطًا من الراحة{prs=يأخذ قسطًا من الراحة, pst=أخذ قسطًا من الراحة};
+
+v chillen / chillte / hat gechillt
+يسترخي{prs=يسترخي, pst=استرخى}; يأخذ الأمور ببساطة{prs=يأخذ الأمور ببساطة, pst=أخذ الأمور ببساطة};
+
+v baden / badete / hat gebadet
+يستحم{prs=يستحم, pst=استحم}; يسبح{prs=يسبح, pst=سبح};
+
+im See baden
+يسبح في البحيرة;
+
+ein Kind baden
+يحمم طفلًا;
+
+a aufgeregt
+متحمس; منزعج; متوتر;
+
+Ich bin aufgeregt.
+أنا متحمس. ; أنا متوتر.;
+
+a gespannt
+متحمس; فضولي; مترقب;
+
+v sich freuen / freute sich / hat sich gefreut
+يفرح بـ{prs=يفرح بـ, pst=فرح بـ}; يتطلع إلى{prs=يتطلع إلى, pst=تطلع إلى};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+يشغل{prs=يشغل, pst=شغل}; يوظف{prs=يوظف, pst=وظّف};
+
+sich mit etw. beschäftigen
+ينشغل بشيء; يتعامل مع شيء;
+
+j-n beschäftigen
+يبقي شخصًا مشغولًا; يوظف شخصًا;
+
+die Beschäftigung -en
+نشاط; مهنة; عمل;
+
+nicht oft
+ليس كثيرًا;
+
+selten
+نادراً;
+
+sehr selten
+نادرًا جدًا;
+
+a regelmäßig
+بانتظام; منتظم;
+
+oft
+غالبًا; كثيرًا;
+
+a unregelmäßig
+بشكل غير منتظم; غير منتظم;
+
+die Ente -n
+بطة;
+
+Enten füttern
+يطعم البط;
+
+v füttern / fütterte / hat gefüttert
+يطعم الحيوانات{prs=يطعم الحيوانات, pst=أطعم الحيوانات};
+
+Das hängt ab.
+هذا يعتمد.;
+
+von etw. abhängen
+يعتمد على شيء;
+
+Das hängt von + Dat. ab.
+هذا يعتمد على ...;
+
+Das hängt vom Wetter ab.
+هذا يعتمد على الطقس.;
+
+Es hängt davon ab, ob ...
+يعتمد الأمر على ما إذا ...;
+
+Es kommt darauf an.
+الأمر يعتمد.;
+
+Das hängt davon ab.
+هذا يعتمد على ذلك. ; هذا يعتمد.;
+
+Nachrichten schauen
+يشاهد الأخبار;
+
+auf + Dat.
+على; على منصة أو موقع;
+
+bei + Dat.
+عند; لدى; من مصدر أو مزود;
+
+Am Freitag kommt meine Tochter.
+ابنتي قادمة يوم الجمعة.;
+
+Ich treffe sie am Bahnhof.
+سأقابلها في المحطة.;
+
+Er liebt italienische Pasta.
+هو يحب المعكرونة الإيطالية.;
+
+Er isst sie jeden Tag.
+هو يأكلها كل يوم.;
+
+Magst du den Mantel?
+هل يعجبك المعطف؟;
+
+Du kannst ihn kaufen.
+يمكنك أن تشتريه.;
+
+Wir treffen euch in der Schule.
+نحن نلتقي بكم في المدرسة.;
+
+Ich treffe dich in der Schule.
+أنا ألتقي بك في المدرسة.;
+
+Ich bin alleinerziehend.
+أنا والد منفرد; أربي طفلًا وحدي;
+
+Ich bin eine alleinerziehende Mutter.
+أنا أم تربي طفلًا وحدها.;
+
+Ich bin ein alleinerziehender Vater.
+أنا أب يربي طفلًا بمفرده.;
+
+Possessivartikel, Nominativ und Akkusativ
+أدوات الملكية، والرفع، والنصب;
+
+Ich sehe dich und deinen Hund.
+أراك وأرى كلبك.;
+
+Wir treffen ihn und seine Freunde.
+نحن نلتقي به وبأصدقائه.;
+
+Er trifft sie und ihre Freunde.
+هو يلتقي بها وبأصدقائها.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+يتعرف على{prs=يتعرف على, pst=تعرّف على}; يعرف عن قرب{prs=يعرف عن قرب, pst=عرف عن قرب};
+
+j-n kennenlernen
+يتعرف على شخص; يعرف شخصًا عن قرب;
+
+eine Stadt kennenlernen
+يتعرف على مدينة;
+
+Wir sehen uns morgen.
+أراك غدًا. ; سنرى بعضنا غدًا.;
+
+Dann sehe ich euch alle zusammen.
+ثم سأراكم جميعًا معًا.;
+
+zusammen
+معًا;
+
+Wir sehen uns.
+أراك لاحقًا. ; سنرى بعضنا.;
+
+Wo?
+أين؟;
+
+Wohin?
+إلى أين؟;
+
+Wohin gehst du am Abend?
+إلى أين تذهب في المساء؟;
+
+Ich gehe in den Park.
+أنا ذاهب إلى الحديقة.;
+
+Ich gehe in das Kino.
+أنا ذاهب إلى السينما.;
+
+Ich gehe ins Kino.
+أنا ذاهب إلى السينما.;
+
+Ich gehe in die Schule.
+أنا ذاهب إلى المدرسة.;
+
+v laufen-läuft / lief / ist gelaufen
+يركض{prs=يركض, pst=ركض}; يمشي{prs=يمشي, pst=مشى};
+
+v klettern / kletterte / hat geklettert
+يتسلق{prs=يتسلق, pst=تسلق};
+
+v rennen-rennt / rannte / ist gerannt
+يركض بسرعة{prs=يركض بسرعة, pst=ركض بسرعة};
+
+v wandern / wanderte / ist gewandert
+يتنزه سيرًا{prs=يتنزه سيرًا, pst=تنزه سيرًا}; يمشي في الطبيعة{prs=يمشي في الطبيعة, pst=مشى في الطبيعة};
+
+v fliegen-fliegt / flog / ist geflogen
+يطير{prs=يطير, pst=طار};
+
+nach
+إلى; نحو; بعد;
+
+Ich fahre nach Erfurt.
+أنا ذاهب إلى إرفورت.;
+
+Wir fliegen nach Palästina.
+نحن نطير إلى فلسطين.;
+
+v arbeiten / arbeitete / hat gearbeitet
+يعمل{prs=يعمل, pst=عمل};
+
+v lernen / lernte / hat gelernt
+يتعلم{prs=يتعلم, pst=تعلّم}; يدرس{prs=يدرس, pst=درس};
+
+v kaufen / kaufte / hat gekauft
+يشتري{prs=يشتري, pst=اشترى};
+
+v essen-isst / aß / hat gegessen
+يأكل{prs=يأكل, pst=أكل};
+
+v trinken / trank / hat getrunken
+يشرب{prs=يشرب, pst=شرب};
+
+Ich arbeite.
+أنا أعمل.;
+
+Ich lerne.
+أنا أتعلم. ; أنا أدرس.;
+
+Ich esse.
+أنا آكل.;
+
+Ich trinke.
+أنا أشرب.;
+
+das Perfekt (sg.)
+صيغة الماضي التام; بيرفيكت;
+
+das Hilfsverb -en
+فعل مساعد;
+
+das Partizip II (sg.)
+صيغة اسم المفعول; التصريف الثالث;
+
+Gestern habe ich lange gearbeitet.
+أمس عملت مدة طويلة.;
+
+Ich habe einen Kuchen genommen.
+أخذت كعكة.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+لم أعمل كثيرًا في عطلة نهاية الأسبوع.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+اشتريت هذا الكتاب قبل شهرين.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+أكلت أمس نودلز فيتنامية.;
+
+Ich habe gestern einen Spaziergang gemacht.
+قمت أمس بنزهة.;
+
+nicht
+ليس; لا;
+
+Ich arbeite nicht.
+أنا لا أعمل.;
+
+Ich habe nichts gekauft.
+لم أشتر شيئًا.;
+
+letzte
+الأخير; الماضي;
+
+zuerst
+أولًا; في البداية;
+
+alles
+كل شيء;
+
+Alle Schüler sind hier.
+كل الطلاب هنا.;
+
+Alles ist gut.
+كل شيء بخير.;
+
+gefüllte Paprika
+فلفل محشي;
+
+vorgestern
+أول أمس;
+
+viel
+كثير; الكثير;
+
+vor + Dat.
+قبل; منذ;
+
+der Spaziergang "-e
+نزهة; مشية;
+
+einen Spaziergang machen
+يقوم بنزهة;
+
+a gefüllt
+محشي; مملوء;
+
+Wann arbeiten Sie?
+متى تعمل؟; متى تعملون؟;
+
+Wann hast du Deutschkurs?
+متى لديك درس ألماني؟;
+
+von Montag bis Freitag
+من الاثنين إلى الجمعة;
+
+von 8:30 bis 11:45 Uhr
+من 8:30 إلى 11:45;
+
+jeden Tag
+كل يوم;
+
+jeden Tag in der Woche
+كل يوم في الأسبوع;
+
+jede Woche
+كل أسبوع;
+
+jeden Arbeitstag
+كل يوم عمل;
+
+Wann hast du eingekauft?
+متى ذهبت للتسوق؟;
+
+Ich habe vorgestern eingekauft.
+ذهبت للتسوق أول أمس.;
+
+Ich habe am Montag eingekauft.
+ذهبت للتسوق يوم الاثنين.;
+
+Ich habe keine Ahnung.
+ليس لدي أي فكرة.;
+
+v einchecken / checkte ein / hat eingecheckt
+يسجل الوصول{prs=يسجل الوصول, pst=سجل الوصول};
+
+v liefern / lieferte / hat geliefert
+يوصل{prs=يوصل, pst=أوصل}; يورّد{prs=يورّد, pst=ورّد};
+
+der Arbeitstag -e
+يوم عمل;
+
+die Ware -n
+بضاعة; سلع;
+
+der Flughafen -
+مطار;
+
+der Hafen "-
+ميناء; مرفأ;
+
+Ware liefern
+يوصل البضاعة; يورّد السلع;
+
+am Flughafen einchecken
+يسجل الوصول في المطار;
+
+im Hotel einchecken
+يسجل الوصول في الفندق;
+
+am Flughafen
+في المطار;
+
+zum Flughafen
+إلى المطار;
+
+vom Flughafen
+من المطار;
+
+im Hafen
+في الميناء;
+
+zum Hafen
+إلى الميناء;
+
+vom Hafen
+من الميناء;
+
+das Präteritum (sg.)
+الماضي البسيط;
+
+v gehen-geht / ging / ist gegangen
+يذهب{prs=يذهب, pst=ذهب};
+
+v helfen-hilft / half / hat geholfen
+يساعد{prs=يساعد, pst=ساعد};
+
+v bleiben-bleibt / blieb / ist geblieben
+يبقى{prs=يبقى, pst=بقي};
+
+v werden-wird / wurde / ist geworden
+يصبح{prs=يصبح, pst=أصبح};
+
+die Ermäßigung -en
+خصم; تخفيض; سعر مخفّض;
+
+mit Ermäßigung
+مع خصم;
+
+eine Ermäßigung bekommen
+يحصل على خصم;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+يتوقف{prs=يتوقف, pst=توقف}; يكف{prs=يكف, pst=كف};
+
+mit etw. aufhören
+يتوقف عن فعل شيء;
+
+Hör bitte auf!
+من فضلك توقف!;
+
+Er hört mit dem Rauchen auf.
+هو يقلع عن التدخين.;
+
+das Mitglied -er
+عضو;
+
+Mitglied sein
+يكون عضوًا;
+
+ein Mitglied der Familie
+فرد من العائلة;
+
+Mitglied in einem Verein
+عضو في نادٍ; عضو في جمعية;
+
+die Probestunde -n
+حصة تجريبية; درس تجريبي;
+
+die Schnupperstunde -n
+حصة تعريفية تجريبية; درس تمهيدي;
+
+noch einige Fragen
+بعض الأسئلة الأخرى; مزيد من الأسئلة;
+
+noch ein paar Fragen
+بضعة أسئلة أخرى;
+
+der Eintritt (sg.)
+الدخول; رسوم الدخول; القبول; المشاركة;
+
+die Seite -n
+جانب; جهة; صفحة;
+
+das Museum Museen
+متحف;
+
+der Schalter -
+مفتاح كهربائي; مفتاح تشغيل; شباك خدمة; كاونتر;
+
+der Kassenschalter -
+شباك الدفع; شباك التذاكر; صندوق الدفع;
+
+die Schulter -n
+كتف;
+
+a einverstanden
+موافق; متفق; حسناً;
+
+zwischen + Dat./Akk.
+بين; وسط; إلى ما بين;
+
+die Autobahn -en
+طريق سريع; أوتوبان;
+
+die Bäckerei -en
+مخبز;
+
+der Ball "-e
+كرة; حفلة راقصة;
+
+der Bleistift -e
+قلم رصاص;
+
+die Dame -n
+سيدة; امرأة; مدام;
+
+die Ecke -n
+زاوية; ركن;
+
+die Fabrik -en
+مصنع; معمل;
+
+die Fahrradtour -en
+جولة بالدراجة; رحلة بالدراجة;
+
+der Flughafen "-
+مطار;
+
+die Gebühr -en
+رسم; أجرة; رسوم; تكاليف إدارية;
+
+die Parkgebühr -en
+رسوم الوقوف; أجرة موقف السيارات;
+
+das Gepäck (sg.)
+أمتعة; حقائب;
+
+die Gitarre -n
+غيتار; جيتار;
+
+der Herr -en
+سيد; رجل; حضرة السيد;
+
+die Idee -n
+فكرة; خاطر;
+
+der Jugendliche -n
+مراهق; شاب; شخص يافع;
+
+die Jugendliche -n
+مراهقة; شابة; شخص يافع;
+
+die Karte -n
+بطاقة; خريطة; تذكرة; قائمة طعام; بطاقة بريدية;
+
+die Kasse -n
+صندوق الدفع; الخزنة; آلة تسجيل النقود; الكاشير;
+
+das Konzert -e
+حفلة موسيقية; كونسرت;
+
+die Kosten (pl.)
+تكاليف; مصاريف; تكلفة;
+
+die Kultur -en
+ثقافة;
+
+die Öffnungszeit -en
+وقت الفتح; ساعات العمل;
+
+die Pause -n
+استراحة; توقف; فترة راحة;
+
+der Rabatt -e
+خصم; تخفيض;
+
+das Restaurant -s
+مطعم;
+
+das Schwimmbad "-er
+مسبح; حمام سباحة;
+
+der Spaß (sg.)
+متعة; مرح; تسلية;
+
+der Teilnehmer -
+مشارك;
+
+die Teilnehmerin -nen
+مشاركة;
+
+der Treffpunkt -e
+نقطة اللقاء; مكان الاجتماع;
+
+das Wetter (sg.)
+الطقس; الجو;
+
+die Zeitung -en
+جريدة; صحيفة;
+
+der Januar (sg.)
+يناير; كانون الثاني;
+
+der Bus -se
+حافلة; باص;
+
+das Kind -er
+طفل; طفلة;
+
+der Kindergarten "-
+روضة أطفال; حضانة;
+
+das Spielzeug -e
+لعبة; ألعاب;
+
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
+يتعرف إلى; يتعرف على; يتعرف لأول مرة;
+
+v leihen / lieh / hat geliehen
+يعير; يقرض; يعطي على سبيل الإعارة;
+[j-m; etw.]
+
+v sich leihen / lieh sich / hat sich geliehen
+يستعير; يأخذ على سبيل الإعارة;
+[sich+Dat; etw.; von+Dat]
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+يستعير; يعير; يؤجر; يستأجر;
+[etw.]
+
+v liefern
+يسلّم; يوصل; يورد;
+[zu+Dat]
+
+v mitkommen-kommt mit / kam mit / ist mitgekommen
+يأتي مع; يذهب مع; يرافق;
+
+v schauen
+ينظر; يشاهد; يتفرج;
+
+v schwimmen / schwamm / ist geschwommen
+يسبح;
+
+v stattfinden-findet statt / fand statt / hat stattgefunden
+يقام; يحدث; يجري;
+
+v treffen-trifft / traf / hat getroffen
+يقابل; يلتقي; يصيب; يضرب;
+[j-n]
+
+a kostenlos
+مجاني; بلا مقابل;
+
+a täglich
+يومي; يومياً; كل يوم;
+
+a stündlich
+كل ساعة; بالساعة; كل ساعة مرة;
+
+a immer
+دائماً; على الدوام;
+
+im Supermarkt gibt es viele verschiedene Waren
+في السوبرماركت توجد بضائع مختلفة كثيرة;
+
+v bekommen-bekommt / bekam / hat bekommen
+يحصل على; يستلم; يتلقى; ينال;
+
+v stürzen / - / ist gestürzt
+يسقط; ينهار; يهوي;
+
+v stürzen / - / hat gestürzt
+يسقط; يطيح; يقلب;
+[j-n; etw.]
+
+v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+ينزل من وسيلة نقل; يخرج من وسيلة نقل;
+
+v einsteigen-steigt ein / stieg ein / ist eingestiegen
+يركب وسيلة نقل; يصعد إلى وسيلة نقل;
+
+v umsteigen-steigt um / stieg um / ist umgestiegen
+ينتقل إلى وسيلة نقل أخرى; يبدل المواصلات;
+
+v springen / sprang / ist gesprungen
+يقفز; يثب;
+
+v klettern / - / ist geklettert
+يتسلق; يصعد متسلقاً;
+
+v fallen-fällt / fiel / ist gefallen
+يسقط;
+
+v rennen / rannte / ist gerannt
+يركض; يجري بسرعة; يندفع;
+
+v joggen / - / ist gejoggt
+يركض ببطء; يمارس الجري الخفيف;
+
+v fliegen / flog / ist geflogen
+يطير; يسافر بالطائرة;
+
+v fliegen / flog / hat geflogen
+يقود طائرة; يطير بطائرة;
+[etw.]
+
+v reisen / - / ist gereist
+يسافر; يقوم برحلة;
+
+v wandern / - / ist gewandert
+يتنزه سيراً; يمشي في الطبيعة; يتجول;
+
+v steigen / stieg / ist gestiegen
+يصعد; يرتفع; يزداد; يتسلق;
+
+v schaukeln
+يتأرجح; يهتز; يركب الأرجوحة; يهز;
+
+v wiegen / wog / hat gewogen
+يزن; يزن شيئاً;
+
+v wiegen / wiegte / hat gewiegt
+يهز; يهدئ بالهز; يهدهد;
+
+v sich wiegen / wiegte sich / hat sich gewiegt
+يتمايل; يتأرجح بلطف;
+
+v schwingen / schwang / hat geschwungen
+يتأرجح; يتذبذب; يلوّح; يهز;
+
+v wackeln
+يهتز; يتمايل; يتخلخل;
+
+v schwanken
+يتمايل; يترنح; يتقلب; يتردد;
+
+v ankommen-kommt an / kam an / ist angekommen
+يصل; يأتي; يبلغ;
+
+v bleiben / blieb / ist geblieben
+يبقى; يظل;
+
+zu Hause
+في البيت; في المنزل;
+
+nach Hause
+إلى البيت; إلى المنزل;
+
+die Stelle -n
+مكان; موضع; وظيفة; منصب; شاغر وظيفي;
+
+a schläfrig
+نعسان; يغلبه النعاس;
+
+v besichtigen
+يزور للمشاهدة; يتفقد; يعاين;
+
+v mieten
+يستأجر; يؤجر;
+
+v kommen / kam / ist gekommen
+يأتي; يصل;
+
+v bezahlen / - / hat bezahlt
+يدفع; يسدد; يدفع ثمن;
+
+v übersetzen
+يترجم;
+
+v überweisen / überwies / hat überwiesen
+يحوّل المال; يحوّل مبلغاً;
+
+v suchen
+يبحث عن; يفتش عن;
+
+v machen
+يفعل; يعمل; يصنع; يحضّر;
+
+v brauchen
+يحتاج; يلزم; يتطلب;
+
+der Arbeitsplatz "-e
+مكان العمل; وظيفة;
+
+die Dokumente (pl.)
+وثائق; مستندات;
+
+die SIM-Karte -n
+بطاقة SIM; شريحة هاتف;
+
+v stehen / stand / hat gestanden
+يقف; يكون واقفاً;
+
+v aufwachen-wacht auf / wachte auf / ist aufgewacht
+يستيقظ;
+
+v gehen / ging / ist gegangen
+يذهب; يمشي;
+
+der Papayasalat -e
+سلطة بابايا;
+
+v bringen / brachte / hat gebracht
+يحضر; يجلب; يأخذ إلى; يوصل شخصاً;
+
+v abholen-holt ab / holte ab / hat abgeholt
+يأخذ من مكان; يستلم; يستقبل;
+
+die Erfahrung -en
+خبرة; تجربة;
+
+die Arbeitserfahrung -en
+خبرة عمل; تجربة عمل;
+
+die Berufserfahrung -en
+خبرة مهنية; خبرة عمل;
+
+v austragen-trägt aus / trug aus / hat ausgetragen
+يوزع; يوصل إلى العناوين; يحمل إلى الخارج;
+
+die Tochter "-
+ابنة; بنت;
+
+v einfügen-fügt ein / fügte ein / hat eingefügt
+يدرج; يضيف; يضع في الداخل;
+
+die Silbe -n
+مقطع صوتي;
+
+a silbenweise
+مقطعاً مقطعاً;
+
+die Silbentrennung -en
+تقسيم المقاطع; فصل الكلمات إلى مقاطع; تقسيم الكلمة عند السطر;
+
+v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+يدون; يكتب أثناء الاستماع; يأخذ ملاحظات;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+يعود; يرجع;
+
+die Bedingung -en
+شرط; قيد; متطلب;
+
+die Bedienung -en
+خدمة; نادل; نادلة; تشغيل; أدوات التحكم;
+
+das Zeugnis -se
+شهادة; كشف درجات; تقرير مدرسي; شهادة عمل; تزكية;
+
+die Kiste -n
+صندوق; قفص;
+
+der Briefkasten "-
+صندوق بريد; صندوق رسائل;
+
+der Brief -e
+رسالة; خطاب;
+
+das Personalbüro -s
+مكتب شؤون الموظفين; مكتب الموارد البشرية;
+
+v festlegen-legt fest / legte fest / hat festgelegt
+يحدد; يقرر; يثبت; يضع;
+
+v legen
+يضع; يمدد; يضع أفقياً;
+
+v organisieren / - / hat organisiert
+ينظم; يرتب;
+
+v bestimmen / - / hat bestimmt
+يحدد; يقرر; يعين;
+
+v notieren / - / hat notiert
+يدون; يسجل; يكتب ملاحظة;
+
+v telefonieren / - / hat telefoniert
+يتصل هاتفياً; يتحدث بالهاتف;
+
+v reservieren / - / hat reserviert
+يحجز; يحتفظ;
+
+v reparieren / - / hat repariert
+يصلح; يرمم;
+
+v kopieren / - / hat kopiert
+ينسخ; يصور;
+
+v studieren / - / hat studiert
+يدرس في الجامعة; يدرس; يبحث;
+
+v buchstabieren / - / hat buchstabiert
+يهجئ; يقول حرفاً حرفاً;
+
+v informieren / - / hat informiert
+يُعلم; يخبر; يزوّد بالمعلومات;
+
+v sich informieren / - / hat sich informiert
+يستعلم; يحصل على معلومات; يبحث عن معلومات;
+[sich+Akk; über+Akk]
+
+v markieren / - / hat markiert
+يعلّم; يحدد; يبرز; يضع علامة;
+
+v kontrollieren / - / hat kontrolliert
+يفحص; يراقب; يتحقق من;
+
+a normalerweise
+عادةً; في العادة; كقاعدة عامة;
+
+a teilweise
+جزئياً; بشكل جزئي;
+
+a beispielsweise
+مثلاً; على سبيل المثال;
+
+a ausnahmsweise
+استثناءً; على سبيل الاستثناء;
+
+a glücklicherweise
+لحسن الحظ; لحسن الصدفة;
+
+a dummerweise
+للأسف; بسذاجة; على نحو مزعج;
+
+a schrittweise
+خطوة بخطوة; تدريجياً;
+
+a höflicherweise
+بلطف; من باب الأدب;
+
+v zerstören / - / hat zerstört
+يدمر; يخرب; يهدم;
+
+v entlassen-entlässt / entließ / hat entlassen
+يفصل من العمل; يسرّح; يطلق سراح; يخرج من المستشفى;
+
+v erklären / - / hat erklärt
+يشرح; يفسر; يعلن; يصرح;
+
+v ergänzen / - / hat ergänzt
+يكمل; يضيف; يتمم;
+
+v missbrauchen / - / hat missbraucht
+يسيء استعمال; يستغل; يعتدي;
+
+v gefallen-gefällt / gefiel / hat gefallen
+يعجب; يروق;
+[j-m]
+
+v missverstehen-missversteht / missverstand / hat missverstanden
+يسيء الفهم; يفهم خطأ;
+
+v gelingen-gelingt / gelang / ist gelungen
+ينجح; يوفق; يخرج جيداً;
+[j-m]
+
+v misslingen-misslingt / misslang / ist misslungen
+يفشل; لا ينجح; يسوء;
+[j-m]
+
+v missfallen-missfällt / missfiel / hat missfallen
+لا يعجب; يثير الاستياء;
+[j-m]
+
+a tatsächlich
+فعلاً; في الواقع; حقيقةً;
+
+a wirklich
+حقاً; فعلاً; بالفعل;
+
+a eigentlich
+في الحقيقة; في الأصل; أصلاً; في الواقع;
+
+in Wirklichkeit
+في الحقيقة; في الواقع;
+
+v erzählen / - / hat erzählt
+يحكي; يروي; يخبر;
+[j-m; von+Dat]
+
+v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
+يوافق; يؤيد; يقر;
+[j-m]
+
+v vereinbaren / - / hat vereinbart
+يتفق على; يرتب; يحدد موعداً;
+
+v vergessen-vergisst / vergaß / hat vergessen
+ينسى;
+
+v verstehen / verstand / hat verstanden
+يفهم;
+
+v schreiben / schrieb / hat geschrieben
+يكتب;
+
+v verkaufen
+يبيع;
+
+v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
+يغتسل; يغسل نفسه;
+[sich+Akk]
+
+v finden / fand / hat gefunden
+يجد; يعثر على;
+
+v benutzen
+يستخدم; يستعمل;
+
+v besuchen / - / hat besucht
+يزور; يحضر; يرتاد;
+
+v begrüßen / - / hat begrüßt
+يحيي; يرحب;
+
+v bestellen
+يطلب; يحجز; يطلب شراء;
+
+v funktionieren / - / hat funktioniert
+يعمل; يشتغل; يؤدي وظيفته;
+
+das Gedicht -e
+قصيدة;
+
+das Lied -er
+أغنية; نشيد;
+
+gute Nachrichten
+أخبار جيدة; أخبار سارة;
+
+schlechte Nachrichten
+أخبار سيئة;
+
+die Nachricht -en
+رسالة; خبر;
+
+der Kopf "-e
+رأس;
+
+das Gehirn -e
+دماغ; مخ;
+
+der Sonnenaufgang "-e
+شروق الشمس;
+
+der Sonnenuntergang "-e
+غروب الشمس;
+
+das Alpenglühen (sg.)
+توهج جبال الألب; احمرار الجبال عند الشروق أو الغروب;
+
+a womit
+بماذا; بأي وسيلة;
+
+mit wem
+مع من;
+
+a wann
+متى;
+
+a woher
+من أين;
+
+Wann sind Sie geboren?
+متى وُلدت؟;
+
+Was ist Ihr Geburtsdatum?
+ما تاريخ ميلادك؟;
+
+Wann haben Sie Geburtstag?
+متى عيد ميلادك؟;
+
+das Geburtsdatum Geburtsdaten
+تاريخ الميلاد;
+
+der Geburtstag -e
+عيد ميلاد;
+
+Ebbe und Flut
+الجزر والمد; المد والجزر;
+
+die Ebbe -n
+الجزر; انخفاض المد;
+
+die Flut -en
+المد; فيضان; سيل;
+
+Sei leise!
+كن هادئاً!; اخفض صوتك!;
+
+Seid leise!
+كونوا هادئين!; اخفضوا أصواتكم!;
+
+Seien Sie leise!
+من فضلكم كونوا هادئين!; التزموا الهدوء!;
+
+a leise
+هادئ; بصوت منخفض; بهدوء;
+
+a still
+هادئ; صامت; ساكن;
+
+Lass das!
+اترك هذا!; توقف عن ذلك!; لا تفعل هذا!;
+
+v lassen-lässt / ließ / hat gelassen
+يترك; يسمح; يجعل شخصاً يفعل شيئاً;
+
+v anfassen-fasst an / fasste an / hat angefasst
+يلمس; يمسك;
+
+Fass mich nicht an!
+لا تلمسني!;
+
+Seien Sie bitte leise!
+من فضلكم التزموا الهدوء!; من فضلكم اخفضوا أصواتكم!;
+
+Halt die Klappe!
+اخرس!; اسكت!;
+
+Halt die Fresse!
+اخرس!; اسكت يا هذا!;
+
+Halt's Maul!
+اخرس!; أغلق فمك!;
+
+v halten-hält / hielt / hat gehalten
+يمسك; يوقف; يحتفظ; يحافظ;
+
+v einräumen-räumt ein / räumte ein / hat eingeräumt
+يرتب داخل; يضع في الداخل; يحمّل; يقر; يعترف;
+
+v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+يفرغ; يخرج المحتويات; يخلي;
+
+v abräumen-räumt ab / räumte ab / hat abgeräumt
+يرفع عن الطاولة; يزيل; ينظف الطاولة;
+
+v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+يرتب; ينظف; ينظم;
+
+Räum die Spülmaschine ein!
+حمّل غسالة الصحون!;
+
+Räum die Spülmaschine aus!
+فرّغ غسالة الصحون!;
+
+Räum den Tisch ab!
+نظف الطاولة!; ارفع ما على الطاولة!;
+
+Räum dein Spielzeug auf!
+رتب ألعابك!; اجمع ألعابك!;
+
+Verschwinde!
+اختفِ!; اغرب عن وجهي!; اذهب بعيداً!;
+
+Hau ab!
+انصرف!; اذهب بعيداً!; اغرب!;
+
+Red mit mir!
+تحدث معي!; كلمني!;
+
+v verschwinden / verschwand / ist verschwunden
+يختفي; يزول;
+
+v abhauen-haut ab / haute ab / ist abgehauen
+يهرب; ينصرف; يغادر بسرعة;
+
+v reden
+يتكلم; يتحدث;
+
+a gefährlich gefährlicher am gefährlichsten
+خطير; محفوف بالمخاطر;
+
+der Beruf -e
+مهنة; عمل; وظيفة;
+
+der Taxifahrer -
+سائق تاكسي; سائق أجرة;
+
+die Taxifahrerin -nen
+سائقة تاكسي; سائقة أجرة;
+
+(-) Köln (sg.)
+كولونيا;
+
+die Zulassungsstelle -n
+مكتب تسجيل المركبات; دائرة ترخيص السيارات;
+
+das Kfz -
+مركبة آلية; سيارة; وسيلة نقل بمحرك;
+
+das Kraftfahrzeug -e
+مركبة آلية; عربة بمحرك;
+
+das Nummernschild -er
+لوحة أرقام; لوحة ترخيص;
+
+v zulassen-lässt zu / ließ zu / hat zugelassen
+يسمح; يجيز; يقبل; يسجل مركبة;
+
+v anmelden-meldet an / meldete an / hat angemeldet
+يسجل; يقدم طلباً; يعلن; يبلغ;
+
+v einziehen-zieht ein / zog ein / ist eingezogen
+ينتقل إلى السكن; يسكن في; يدخل;
+
+v ausziehen-zieht aus / zog aus / ist ausgezogen
+يخرج من السكن; ينتقل من; يخلع الملابس;
+
+v umziehen-zieht um / zog um / ist umgezogen
+ينتقل إلى سكن آخر; يغير ملابسه;
+
+die Staatsangehörigkeit -en
+جنسية; مواطنة; تبعية;
+
+die Nationalität -en
+جنسية; قومية; انتماء وطني;
+
+der Staat -en
+دولة; بلد;
+
+a angehörig
+تابع; منتمٍ; متعلق;
+
+Herein, bitte!
+تفضل بالدخول!; ادخل من فضلك!;
+
+Herein!
+ادخل!; تفضل بالدخول!;
+
+Kommen Sie herein!
+ادخلوا من فضلكم!; تفضلوا بالدخول!;
+
+Komm herein!
+ادخل!; تفضل بالدخول!;
+
+v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+يملأ; يعبئ استمارة;
+
+der Antrag "-e
+طلب; استمارة طلب; التماس;
+
+v unterrichten
+يدرّس; يعلّم; يبلغ; يخبر;
+
+der Unterricht (sg.)
+درس; تعليم; تدريس; حصة;
+
+a bald
+قريباً; عما قريب;
+
+der Wettbewerb -e
+مسابقة; منافسة; تنافس;
+
+a lokal
+محلي; موضعي;
+
+das Lokal -e
+مطعم; حانة; مقهى; محل;
+
+der Beamte -n
+موظف حكومي; موظف رسمي;
+
+die Beamtin -nen
+موظفة حكومية; موظفة رسمية;
+
+der Staatsangestellte -n
+موظف دولة; موظف حكومي;
+
+die Staatsangestellte -n
+موظفة دولة; موظفة حكومية;
+
+der Polizist -en
+شرطي; رجل شرطة;
+
+die Polizistin -nen
+شرطية; امرأة شرطة;
+
+der Lehrer -
+معلم; مدرس;
+
+die Lehrerin -nen
+معلمة; مدرسة;
+
+der Staatsanwalt "-e
+مدع عام; وكيل نيابة; نائب عام;
+
+die Staatsanwältin -nen
+مدعية عامة; وكيلة نيابة;
+
+der Rechtsanwalt "-e
+محام;
+
+die Rechtsanwältin -nen
+محامية;
+
+der Richter -
+قاض;
+
+die Richterin -nen
+قاضية;
+
+das Gericht -e
+محكمة; طبق طعام;
+
+die Strafe -n
+عقوبة; غرامة; جزاء;
+
+das Gefängnis -se
+سجن;
+
+die Geldstrafe -n
+غرامة مالية;
+
+die Freiheitsstrafe -n
+عقوبة سالبة للحرية; عقوبة حبس;
+
+die Haft (sg.)
+احتجاز; حبس; اعتقال;
+
+v verhaften
+يعتقل; يلقي القبض على;
+
+der Zoll (sg.)
+الجمارك;
+
+der Zoll "-e
+رسوم جمركية; تعرفة جمركية;
+
+der Zoll -
+بوصة;
+
+v bestechen-besticht / bestach / hat bestochen
+يرشو; يدفع رشوة; يفسد بالرشوة;
+
+die Bestechung -en
+رشوة; ارتشاء; تقديم رشوة;
+
+das Bestechungsgeld -er
+مال رشوة; رشوة;
+
+die Korruption (sg.)
+فساد; رشوة;
+
+die Wirtschaft (sg.)
+اقتصاد; نظام اقتصادي; نشاط تجاري;
+
+die Wirtschaft -en
+حانة; مطعم شعبي; خان; محل ضيافة;
+
+a wirtschaftlich
+اقتصادي; مربح; موفر; متعلق بالاقتصاد;
+
+die Volkswirtschaft -en
+اقتصاد وطني; اقتصاد البلد;
+
+die Betriebswirtschaft -en
+إدارة الأعمال; اقتصاد المؤسسة;
+
+das Küken -
+كتكوت; فرخ; صغير الطائر;
+
+das Apartment -s
+شقة; شقة صغيرة;
+
+die Ausbildung -en
+تدريب مهني; تعليم مهني; تأهيل; تدريب;
+
+das Ausland (sg.)
+الخارج; البلدان الأجنبية;
+
+der Ausweis -e
+بطاقة هوية; وثيقة تعريف;
+
+die Bahn -en
+قطار; سكة حديد; خط;
+
+die Bewerbung -en
+طلب توظيف; ترشح; تقديم طلب;
+
+der Europäer -
+أوروبي; رجل أوروبي;
+
+die Europäerin -nen
+أوروبية; امرأة أوروبية;
+
+der Führerschein -e
+رخصة قيادة; إجازة سوق;
+
+das Geburtsjahr -e
+سنة الميلاد;
+
+der Geburtsort -e
+مكان الميلاد;
+
+die Kantine -n
+مقصف; كافيتريا; مطعم موظفين;
+
+das Konto Konten
+حساب; حساب بنكي;
+
+der Kunde -n
+زبون; عميل;
+
+die Kundin -nen
+زبونة; عميلة;
+
+die Monatskarte -n
+تذكرة شهرية; بطاقة شهرية;
+
+das Paket -e
+طرد; حزمة; رزمة;
+
+die Papiere (pl.)
+أوراق; وثائق; مستندات;
+
+der Pass "-e
+جواز سفر;
+
+die Post (sg.)
+البريد; مكتب البريد; رسالة بريدية;
+
+die Reise -n
+رحلة; سفر; سفرة;
+
+das Studium (sg.)
+دراسة جامعية; دراسة; تعليم جامعي; بحث;
+
+der Test -s
+اختبار; فحص;
+
+der Tourist -en
+سائح;
+
+die Touristin -nen
+سائحة;
+
+die Umwelt (sg.)
+البيئة; المحيط البيئي;
+
+der Vertrag "-e
+عقد; اتفاقية;
+
+der Verwandte -n
+قريب; رجل من الأقارب;
+
+die Verwandte -n
+قريبة; امرأة من الأقارب;
+
+v abschließen-schließt ab / schloss ab / hat abgeschlossen
+يقفل; ينهي; يكمل; يبرم عقداً;
+
+v abwaschen-wäscht ab / wusch ab / hat abgewaschen
+يغسل الصحون; يغسل ويزيل;
+
+v bedeuten / - / hat bedeutet
+يعني; يدل على;
+
+v schneiden / schnitt / hat geschnitten
+يقطع; يفرم; يقص الشعر;
+
+v tragen-trägt / trug / hat getragen
+يحمل; يرتدي;
+
+v unterschreiben / unterschrieb / hat unterschrieben
+يوقّع;
+
+a dünn
+رفيع; نحيف; خفيف; مائي;
+
+a fremd
+غريب; أجنبي; غير مألوف; تابع لشخص آخر;
+
+a gültig
+صالح; ساري المفعول;
+
+a traurig
+حزين; كئيب;
+
+a zufrieden
+راض; قانع;
+
+a hierher
+إلى هنا; هنا;
+
+a dorthin
+إلى هناك; هناك;
+
+v dekorieren / - / hat dekoriert
+يزين; يزخرف; يديكور;
+
+v demonstrieren / - / hat demonstriert
+يتظاهر; يعرض; يبرهن;
+
+v fotografieren / - / hat fotografiert
+يصور; يلتقط صوراً;
+
+v frisieren / - / hat frisiert
+يصفف الشعر; يرتب الشعر;
+
+v frustrieren / - / hat frustriert
+يحبط; يسبب الإحباط;
+
+v gratulieren / - / hat gratuliert
+يهنئ; يبارك;
+[j-m; zu+Dat]
+
+v korrigieren / - / hat korrigiert
+يصحح; يعدل;
+
+v lackieren / - / hat lackiert
+يطلي بالورنيش; يدهِن; يطلي;
+
+v montieren / - / hat montiert
+يركب; يثبت; يجمع;
+
+v motivieren / - / hat motiviert
+يحفز; يشجع;
+
+v nostrifizieren / - / hat nostrifiziert
+يعادل الشهادة; يعترف بالدبلوم;
+
+v operieren / - / hat operiert
+يجري عملية; يعمل جراحة;
+
+v präsentieren / - / hat präsentiert
+يقدم; يعرض;
+
+v probieren / - / hat probiert
+يجرب; يتذوق; يقيس الملابس;
+
+v protestieren / - / hat protestiert
+يحتج; يتظاهر احتجاجاً;
+[gegen+Akk]
+
+v rasieren / - / hat rasiert
+يحلق;
+
+v sich rasieren / - / hat sich rasiert
+يحلق ذقنه; يحلق لنفسه;
+[sich+Akk]
+
+v renovieren / - / hat renoviert
+يرمم; يجدد;
+
+v sanieren / - / hat saniert
+يرمم ترميماً شاملاً; يؤهل; يصلح;
+
+v sortieren / - / hat sortiert
+يفرز; يرتب; يصنف;
+
+v stornieren / - / hat storniert
+يلغي; يلغي الحجز;
+
+v trainieren / - / hat trainiert
+يتدرب; يدرّب; يمارس التدريب;
+
+die Tür abschließen
+يقفل الباب بالمفتاح;
+
+eine Ausbildung abschließen
+يكمل التدريب المهني; ينهي التعليم المهني;
+
+der Trinkspruch "-e
+نخب; عبارة نخب; تهنئة عند الشرب;
+
+v anstoßen-stößt an / stieß an / hat angestoßen
+يقرع الكؤوس; يشرب نخباً; يدفع بخفة; يبدأ مبادرة;
+[auf+Akk; mit+Dat]
+
+v aufstoßen-stößt auf / stieß auf / hat aufgestoßen
+يتجشأ;
+
+v aufstoßen-stößt auf / stieß auf / ist aufgestoßen
+ينفتح فجأة; ينفتح بعنف;
+
+v stoßen-stößt / stieß / hat gestoßen
+يدفع; يزق; يصدم;
+[j-n; etw.]
+
+v stoßen-stößt / stieß / ist gestoßen
+يصطدم; يعثر على; يصادف;
+[an+Akk; auf+Akk]
+
+Auf Ruslan!
+نخب رسلان!; لرسلان!;
+
+Zum Wohl!
+بصحتكم!; نخب صحتكم!;
+
+das Aufstoßen (sg.)
+تجشؤ; الجشاء;
+
+a danach
+بعد ذلك; ثم; بعدها; عن ذلك; لذلك;
+
+a nachher
+لاحقاً; فيما بعد; بعد ذلك;
+
+nach + Dat.
+بعد; وفقاً لـ; إلى; نحو; بحسب;
+
 das Wasser (sg.)
 ماء; مياه; مسطح مائي;
 
@@ -2138,12 +4093,6 @@ die Eltern (pl.)
 die Ferien (pl.)
 عطلة; إجازة; عطلة مدرسية; استراحة مدرسية;
 
-die Kosten (pl.)
-تكاليف; نفقات; رسوم;
-
-die Möbel (pl.)
-أثاث; مفروشات; قطع أثاث;
-
 die Lebensmittel (pl.)
 مواد غذائية; بقالة; مؤن;
 
@@ -2153,9 +4102,6 @@ die Geschwister (pl.)
 die Daten (pl.)
 بيانات; معلومات; بيانات حاسوبية;
 
-das Leben (sg.)
-حياة; وجود;
-
 der Weg -e
 طريق; مسار; سبيل;
 
@@ -2164,9 +4110,6 @@ der Teil -e
 
 die Gruppe -n
 مجموعة;
-
-die Seite -n
-صفحة; جانب;
 
 die Art -en
 نوع; نمط; طريقة;
@@ -2230,9 +4173,6 @@ die Prüfung -en
 
 das Beispiel -e
 مثال; نموذج;
-
-die Erfahrung -en
-خبرة; تجربة;
 
 das Studium -en
 دراسة جامعية; تعليم جامعي;
@@ -2303,9 +4243,6 @@ der Beitrag "-e
 der Inhalt -e
 محتوى;
 
-die Nachricht -en
-رسالة; خبر;
-
 die Mitteilung -en
 إشعار; رسالة;
 
@@ -2320,12 +4257,6 @@ die Nachfrage -n
 
 das Angebot -e
 عرض; عرض رسمي;
-
-der Vertrag "-e
-عقد; اتفاق;
-
-die Bedingung -en
-شرط;
 
 die Beratung -en
 استشارة; نصيحة;
@@ -2363,17 +4294,11 @@ die Versicherung -en
 die Steuer -n
 ضريبة;
 
-der Staat -en
-دولة;
-
 die Regierung -en
 حكومة;
 
 das Gesetz -e
 قانون;
-
-das Gericht -e
-محكمة; طبق;
 
 der Prozess -e
 عملية; محاكمة;
@@ -2381,14 +4306,8 @@ der Prozess -e
 die Industrie -n
 صناعة;
 
-die Rechnung -en
-فاتورة; حساب;
-
 die Quittung -en
 إيصال; وصل;
-
-die Karte -n
-خريطة; بطاقة;
 
 das Konto -en
 حساب;
@@ -2492,14 +4411,8 @@ das Urteil -e
 der Anspruch "-e
 مطالبة; حق;
 
-der Antrag "-e
-طلب; التماس;
-
 die Anlage -n
 مرفق; منشأة; تركيب; ملحق;
-
-die Ware -n
-بضاعة;
 
 die Zahlung -en
 دفعة; سداد;
@@ -2528,9 +4441,6 @@ der Vortrag "-e
 das Gespräch "-e
 محادثة; حديث;
 
-die Bedeutung -en
-معنى;
-
 die Erklärung -en
 شرح; تصريح;
 
@@ -2543,9 +4453,6 @@ der Text -e
 die Geschichte -n
 قصة; تاريخ;
 
-die Zeitung -en
-صحيفة;
-
 der Artikel -
 مقال; سلعة;
 
@@ -2557,9 +4464,6 @@ die Rolle -n
 
 die Figur -en
 شخصية; شكل;
-
-das Lied -er
-أغنية;
 
 die Sicherheit -en
 أمان; سلامة;
@@ -2608,9 +4512,6 @@ die Erhöhung -en
 
 die Senkung -en
 خفض;
-
-die Wahl -en
-اختيار; انتخابات;
 
 die Konsequenz -en
 نتيجة;
@@ -2666,9 +4567,6 @@ der Zeitpunkt -e
 die Anzahl -en
 عدد;
 
-die Gebühr -en
-رسوم;
-
 der Schaden "-en
 ضرر;
 
@@ -2699,17 +4597,8 @@ die Maschine -n
 die Webseite -n
 صفحة ويب; موقع;
 
-die Anzeige -n
-إعلان; مؤشر;
-
 die Meldung -en
 رسالة; إشعار;
-
-der Test -s
-اختبار;
-
-die Aufgabe -n
-مهمة; تمرين;
 
 die Übersicht -en
 نظرة عامة;
@@ -2719,9 +4608,6 @@ die Zusammenfassung -en
 
 der Job -s
 وظيفة;
-
-die Bewerbung -en
-طلب توظيف;
 
 der Lebenslauf "-e
 سيرة ذاتية;
@@ -2774,9 +4660,6 @@ die Größe -n
 der Körper -
 جسم;
 
-der Kopf "-e
-رأس;
-
 der Rücken -
 ظهر;
 
@@ -2792,28 +4675,13 @@ die Ressource -n
 der Zugriff -e
 وصول; نفاذ;
 
-die Heizung -en
-تدفئة;
-
-die Miete -n
-إيجار;
-
 der Haushalt -e
 أسرة; ميزانية منزلية;
 
 der Abfall "-e
 نفايات;
 
-die Umwelt (sg.)
-بيئة;
-
 die Teilnahme -n
-مشاركة;
-
-der Teilnehmer -
-مشارك;
-
-die Teilnehmerin -nen
 مشاركة;
 
 die Rückmeldung -en
@@ -2873,12 +4741,6 @@ die Trennung -en
 der Auftrag "-e
 طلب; تكليف;
 
-der Kunde -n
-عميل;
-
-die Kundin -nen
-عميلة;
-
 der Anbieter -
 مزود;
 
@@ -2917,9 +4779,6 @@ der Bestand "-e
 
 das Sortiment -e
 تشكيلة;
-
-der Rabatt -e
-خصم;
 
 die Aktion -en
 عرض ترويجي;
@@ -2962,12 +4821,6 @@ die Unterlage -n
 
 die Bescheinigung -en
 شهادة;
-
-der Ausweis -e
-بطاقة هوية;
-
-der Pass "-e
-جواز سفر;
 
 die Kontrolle -n
 رقابة; فحص;
@@ -3023,9 +4876,6 @@ der Austritt -e
 die Mitgliedschaft -en
 عضوية;
 
-das Mitglied -er
-عضو;
-
 der Verein -e
 ناد; جمعية;
 
@@ -3076,9 +4926,6 @@ die Klage -n
 
 die Berufung -en
 استئناف; دعوة;
-
-die Strafe -n
-عقوبة; غرامة;
 
 der Täter -
 جان;
@@ -3224,14 +5071,8 @@ der Wunsch "-e
 die Hoffnung -en
 أمل;
 
-der Traum "-e
-حلم;
-
 der Streit -e
 شجار; نزاع;
-
-der Beruf -e
-مهنة;
 
 der Arbeitnehmer -
 موظف; عامل;
@@ -3244,9 +5085,6 @@ der Arbeitgeber -
 
 die Arbeitgeberin -nen
 صاحبة عمل;
-
-die Stelle -n
-منصب; وظيفة;
 
 die Schicht -en
 وردية;
@@ -3359,9 +5197,6 @@ die Ampel -n
 die Brücke -n
 جسر;
 
-der Park -s
-حديقة;
-
 der Einkauf "-e
 تسوق; شراء;
 
@@ -3370,9 +5205,6 @@ der Laden "-
 
 das Geschäft -e
 متجر; عمل;
-
-das Zentrum -en
-مركز;
 
 der Bewohner -
 ساكن;
@@ -3497,12 +5329,6 @@ der Platz "-e
 der Sitz -e
 مقعد; مقر;
 
-der Hafen "-
-ميناء;
-
-der Flughafen "-
-مطار;
-
 der Bahnsteig -e
 رصيف;
 
@@ -3536,9 +5362,6 @@ die Richtung -en
 der Standort -e
 موقع;
 
-das Ausland (sg.)
-الخارج;
-
 die Heimat -en
 وطن;
 
@@ -3554,9 +5377,6 @@ der Bürger -
 die Bürgerin -nen
 مواطنة;
 
-die Staatsangehörigkeit -en
-جنسية;
-
 die Botschaft -en
 سفارة; رسالة;
 
@@ -3568,9 +5388,6 @@ die Mehrheit -en
 
 die Minderheit -en
 أقلية;
-
-die Abstimmung -en
-تصويت;
 
 der Kandidat -en
 مرشح;
@@ -3598,12 +5415,6 @@ die Reparatur -en
 
 die Polizei (sg.)
 شرطة;
-
-der Polizist -en
-شرطي;
-
-die Polizistin -nen
-شرطية;
 
 der Diebstahl "-e
 سرقة;
@@ -3688,9 +5499,6 @@ das Einkommen -
 
 die Ausgabe -n
 نفقة; مصروف;
-
-die Ausgabe -n
-إصدار; طبعة;
 
 die Abgabe -n
 رسم; اقتطاع;
@@ -3920,9 +5728,6 @@ das Mittel -
 der Ursprung "-e
 أصل; منشأ;
 
-die Küche -n
-مطبخ;
-
 der Ofen "-
 فرن;
 
@@ -4040,9 +5845,6 @@ die Nähe (sg.)
 die Kante -n
 حافة;
 
-die Ecke -n
-زاوية;
-
 die Mitte -n
 وسط; مركز;
 
@@ -4136,9 +5938,6 @@ die Übergabe -n
 die Übernahme -n
 استلام; تولي;
 
-der Wettbewerb -e
-منافسة;
-
 die Konkurrenz -en
 منافسة;
 
@@ -4156,9 +5955,6 @@ die Berechtigung -en
 
 die Sicherung -en
 حماية; نسخة احتياطية;
-
-das Zeichen -
-علامة; رمز;
 
 die Kennzeichnung -en
 وسم; تعيين;
@@ -4442,12 +6238,6 @@ der Raum "-e
 die Fläche -n
 مساحة; سطح;
 
-das Bett -en
-سرير;
-
-der Schrank "-e
-خزانة;
-
 das Regal -e
 رف;
 
@@ -4457,14 +6247,8 @@ der Teppich -e
 die Decke -n
 سقف; بطانية;
 
-das Bad "-er
-حمام;
-
 das Badezimmer -
 حمام;
-
-die Dusche -n
-دش; استحمام;
 
 die Badewanne -n
 حوض استحمام;
@@ -4556,9 +6340,6 @@ das Knie -
 die Brust "-e
 صدر;
 
-die Schulter -n
-كتف;
-
 der Hals "-e
 رقبة; حلق;
 
@@ -4591,9 +6372,6 @@ das Hemd -en
 
 die Hose -n
 سروال;
-
-der Schuh -e
-حذاء;
 
 der Gürtel -
 حزام;
@@ -4655,9 +6433,6 @@ das Ufer -
 die Wüste -n
 صحراء;
 
-der Regen (sg.)
-مطر;
-
 der Schnee (sg.)
 ثلج;
 
@@ -4681,9 +6456,6 @@ der Stern -e
 
 der Kugelschreiber -
 قلم حبر;
-
-der Bleistift -e
-قلم رصاص;
 
 die Mappe -n
 حافظة;
@@ -4751,9 +6523,6 @@ das Abendessen -
 die Mahlzeit -en
 وجبة;
 
-der Hunger (sg.)
-جوع;
-
 der Durst (sg.)
 عطش;
 
@@ -4763,9 +6532,6 @@ die Diät -en
 das Getränk -e
 مشروب;
 
-das Wasser (sg.)
-ماء;
-
 der Saft "-e
 عصير;
 
@@ -4774,9 +6540,6 @@ der Tee -s
 
 der Kaffee -s
 قهوة;
-
-die Milch (sg.)
-حليب;
 
 das Bier -e
 جعة;
@@ -4796,9 +6559,6 @@ die Nudel -n
 der Supermarkt "-e
 سوبرماركت;
 
-die Bäckerei -en
-مخبز;
-
 der Bäcker -
 خباز;
 
@@ -4808,14 +6568,8 @@ die Bäckerin -nen
 die Metzgerei -en
 ملحمة;
 
-das Restaurant -s
-مطعم;
-
 das Café -s
 مقهى;
-
-die Kantine -n
-كافتيريا;
 
 das Menü -s
 قائمة وجبة;
@@ -4825,9 +6579,6 @@ die Speise -n
 
 das Taxi -s
 سيارة أجرة;
-
-der Bus -se
-حافلة;
 
 der Passagier -e
 راكب;
@@ -4841,12 +6592,6 @@ der Fahrschein -e
 die Pünktlichkeit (sg.)
 دقة المواعيد;
 
-der Lehrer -
-معلم;
-
-die Lehrerin -nen
-معلمة;
-
 der Schüler -
 تلميذ;
 
@@ -4858,9 +6603,6 @@ die Klasse -n
 
 das Klassenzimmer -
 فصل دراسي;
-
-die Pause -n
-استراحة;
 
 die Mensa -en
 كافتيريا جامعية;
@@ -4931,15 +6673,6 @@ das Einkaufszentrum -en
 die Drogerie -n
 متجر مستلزمات منزلية;
 
-die Post (sg.)
-بريد; مكتب بريد;
-
-das Paket -e
-طرد;
-
-der Brief -e
-رسالة;
-
 die Briefmarke -n
 طابع بريدي;
 
@@ -4964,9 +6697,6 @@ die Treppe -n
 der Hof "-e
 فناء;
 
-der Garten "-
-حديقة;
-
 das Wohnzimmer -
 غرفة المعيشة;
 
@@ -4979,50 +6709,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 مكتب منزلي;
 
-die Toilette -n
-مرحاض;
-
-der Flur -e
-ممر;
-
-der Balkon -e
-شرفة;
-
 die Terrasse -n
 تراس;
 
 die Kaution -en
 تأمين;
 
-die Nebenkosten (pl.)
-تكاليف إضافية; رسوم خدمات;
-
-der Vermieter -
-مالك مؤجر;
-
-die Vermieterin -nen
-مالكة مؤجرة;
-
-der Mieter -
-مستأجر;
-
-die Mieterin -nen
-مستأجرة;
-
 die Besichtigung -en
 معاينة;
 
 die Renovierung -en
 تجديد;
-
-die Möbel (pl.)
-أثاث;
-
-das Sofa -s
-أريكة;
-
-der Sessel -
-كرسي بذراعين;
 
 der Vorhang "-e
 ستارة;
@@ -5042,14 +6739,8 @@ die Fernbedienung -en
 das Radio -s
 راديو;
 
-das Konzert -e
-حفل موسيقي;
-
 das Festival -s
 مهرجان;
-
-die Kultur -en
-ثقافة;
 
 das Hobby -s
 هواية;
@@ -5062,9 +6753,6 @@ der Fußball "-e
 
 das Tennis (sg.)
 تنس;
-
-das Schwimmbad "-er
-مسبح;
 
 das Fitnessstudio -s
 صالة رياضية;
@@ -5114,9 +6802,6 @@ die Schiedsrichterin -nen
 das Tor -e
 هدف;
 
-der Ball "-e
-كرة;
-
 die Halle -n
 صالة;
 
@@ -5146,12 +6831,6 @@ die Sicht -en
 
 die Einrichtung -en
 مؤسسة;
-
-die Einrichtung -en
-تجهيز; أثاث;
-
-die Einrichtung -en
-إعداد; تركيب;
 
 die Erinnerung -en
 ذكرى; تذكير;
@@ -5183,9 +6862,6 @@ die Rücksendung -en
 der Koffer -
 حقيبة سفر;
 
-das Gepäck (sg.)
-أمتعة;
-
 die Rezeption -en
 استقبال;
 
@@ -5197,9 +6873,6 @@ die Sicherheitskontrolle -n
 
 die Zollkontrolle -n
 تفتيش جمركي;
-
-der Zoll "-e
-جمارك; رسوم جمركية;
 
 der Flug "-e
 رحلة جوية;
@@ -5234,9 +6907,6 @@ die Lastschrift -en
 die Filiale -n
 فرع;
 
-die Bedienung -en
-خدمة; تشغيل;
-
 der Service -s
 خدمة;
 
@@ -5260,9 +6930,6 @@ die Sperrung -en
 
 die Entsperrung -en
 إلغاء الحظر;
-
-die Fabrik -en
-مصنع;
 
 die Produktion -en
 إنتاج;
@@ -5338,9 +7005,6 @@ das Vorstellungsgespräch -e
 
 der Gutschein -e
 قسيمة;
-
-die Ermäßigung -en
-تخفيض;
 
 die Warnung -en
 تحذير;
@@ -5594,23 +7258,14 @@ die Klausur -en
 das Examen -e
 امتحان;
 
-das Zeugnis -se
-شهادة;
-
 die Gutschrift -en
 إشعار دائن; إضافة رصيد;
-
-die Hausordnung -en
-قواعد المنزل;
 
 das Ereignis -se
 حدث;
 
 die Verzögerung -en
 تأخير;
-
-die Daten (pl.)
-بيانات;
 
 der Datenschutz (sg.)
 حماية البيانات;

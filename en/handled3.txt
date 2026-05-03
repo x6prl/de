@@ -49,12 +49,6 @@ furniture;
 der Monat -e
 month;
 
-der Nachbar -n
-neighbor;
-
-die Nachbarin -nen
-neighbor;
-
 die Nebenkosten (pl.)
 utilities; additional costs; service charges;
 
@@ -159,9 +153,6 @@ modern{cmp=more modern, sup=most modern};
 
 a weit
 far{cmp=farther, sup=farthest}; wide{cmp=wider, sup=widest}; spacious{cmp=more spacious, sup=most spacious};
-
-a wichtig
-important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
 
 ein bisschen
 a little; a bit;

@@ -86,10 +86,6 @@ vote{prs=votes, pst=voted};
 Viele Menschen wählen am Sonntag.
 Many people vote on Sunday.;
 
-v wählen
-choose{prs=chooses, pst=chose, par=chosen}; elect{prs=elects, pst=elected};
-[j-n; etw.]
-
 die Wahl -en
 choice; election;
 
@@ -130,10 +126,6 @@ advise{prs=advises, pst=advised}; recommend{prs=recommends, pst=recommended};
 
 Ich rate dir, früher zu schlafen.
 I advise you to go to sleep earlier.;
-
-v raten-rät / riet / hat geraten
-guess{prs=guesses, pst=guessed}; estimate{prs=estimates, pst=estimated};
-[etw.]
 
 Rate mal!
 Guess!;
@@ -229,10 +221,6 @@ look at{prs=looks at, pst=looked at}; watch{prs=watches, pst=watched};
 v einladen-lädt ein / lud ein / hat eingeladen
 invite{prs=invites, pst=invited};
 [j-n; zu+Dat]
-
-v einladen-lädt ein / lud ein / hat eingeladen
-load{prs=loads, pst=loaded};
-[etw.]
 
 a dann
 then; afterwards; in that case;
@@ -508,9 +496,6 @@ onion;
 v finden-findet / fand / hat gefunden
 find{prs=finds, pst=found};
 
-v finden-findet / fand / hat gefunden
-consider{prs=considers, pst=considered}; regard{prs=regards, pst=regarded};
-
 v geben-gibt / gab / hat gegeben
 give{prs=gives, pst=gave, par=given};
 [j-m; etw.]
@@ -526,10 +511,6 @@ take{prs=takes, pst=took, par=taken};
 
 v schmecken
 taste good{prs=tastes good, pst=tasted good};
-
-v schmecken
-taste{prs=tastes, pst=tasted};
-[etw.]
 
 a leer
 empty;
@@ -1321,12 +1302,6 @@ furniture;
 der Monat -e
 month;
 
-der Nachbar -n
-neighbor;
-
-die Nachbarin -nen
-neighbor;
-
 die Nebenkosten (pl.)
 utilities; additional costs; service charges;
 
@@ -1431,9 +1406,6 @@ modern{cmp=more modern, sup=most modern};
 
 a weit
 far{cmp=farther, sup=farthest}; wide{cmp=wider, sup=widest}; spacious{cmp=more spacious, sup=most spacious};
-
-a wichtig
-important{cmp=more important, sup=most important}; significant{cmp=more significant, sup=most significant};
 
 ein bisschen
 a little; a bit;
@@ -2111,6 +2083,1989 @@ I will definitely come tomorrow.;
 Ich mache Sandwiches.
 I make sandwiches.;
 
+m²
+square meter; square meters;
+
+KM
+base rent without utilities; cold rent;
+
+NK
+additional costs; service charges; utilities;
+
+die Wohnungsanzeige -n
+apartment listing; housing ad;
+
+der Quadratmeter -
+square meter;
+
+die Kaltmiete -n
+base rent without utilities; cold rent;
+
+der Nachmieter -
+next tenant; replacement tenant;
+
+der Vormieter -
+previous tenant;
+
+der Strom (sg.)
+electricity;
+
+der Parkplatz "-e
+parking space; parking spot;
+
+eine Wohnung mieten
+rent an apartment;
+
+einen Stellplatz mieten
+rent a parking space;
+
+die Rechnung -en
+bill; invoice;
+
+die Rückzahlung -en
+refund; repayment;
+
+die Nachzahlung -en
+additional payment; back payment;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+The apartment is very expensive, but I can pay for it.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+The apartment is too expensive, and I cannot pay for it.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr and zu can be combined with all adjectives. Zu usually has a negative meaning.;
+
+Das Essen ist zu heiß.
+The food is too hot.;
+
+Das Essen ist sehr heiß.
+The food is very hot.;
+
+a zu
+too;
+
+sehr teuer
+very expensive;
+
+zu teuer
+too expensive;
+
+sehr heiß
+very hot;
+
+zu heiß
+too hot;
+
+die Bedeutung -en
+meaning;
+
+v kombinieren / kombinierte / hat kombiniert
+combine{prs=combines, pst=combined};
+
+ich darf
+I am allowed to; I may;
+
+du darfst
+you are allowed to; you may;
+
+er/sie/es darf
+he is allowed to; she is allowed to; it is allowed to; may;
+
+wir dürfen
+we are allowed to; we may;
+
+ihr dürft
+you are allowed to; you may;
+
+sie/Sie dürfen
+they are allowed to; they may; you are allowed to; you may;
+
+Es ist erlaubt.
+It is allowed.;
+
+Wir dürfen auf dem Balkon grillen.
+We are allowed to grill on the balcony.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+Children under 18 are not allowed to buy alcohol.;
+
+Ich darf in meiner Wohnung laut singen.
+I am allowed to sing loudly in my apartment.;
+
+die Nachtruhe (sg.)
+nighttime quiet hours; night rest;
+
+die Mittagsruhe (sg.)
+midday quiet hours; midday rest;
+
+die Hausordnung -en
+house rules; building rules;
+
+die Ruhe -n
+quiet; rest; peace;
+
+die Ordnung -en
+order; rules; arrangement;
+
+der Kinderwagen -
+baby stroller; pram;
+
+der Hausflur -e
+hallway inside an apartment building; shared corridor;
+
+Kinderwagen im Hausflur
+baby stroller in the shared hallway;
+
+der Schuh -e
+shoe;
+
+das Treppenhaus "-er
+stairwell; staircase area in an apartment building;
+
+Schuhe im Treppenhaus
+shoes in the stairwell;
+
+das Haustier -e
+pet;
+
+kleine Tiere
+small animals;
+
+Kleine Tiere sind erlaubt.
+Small animals are allowed.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+For cats or dogs, you have to ask the landlord.;
+
+a hoch höher am höchsten
+high{cmp=higher, sup=highest}; tall{cmp=taller, sup=tallest};
+
+Das Haus ist hoch.
+The house is tall.;
+
+Der Preis ist hoch.
+The price is high.;
+
+a tief tiefer am tiefsten
+deep{cmp=deeper, sup=deepest}; low{cmp=lower, sup=lowest};
+
+a niedrig
+low;
+
+der tiefste Preis
+the lowest price;
+
+der niedrigste Preis
+the lowest price;
+
+das Benzin (sg.)
+gasoline; petrol;
+
+die Preise für Diesel und Benzin (pl.)
+the prices for diesel and gasoline;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Now the prices for diesel and gasoline are very high.;
+
+die Geschwindigkeitsbegrenzung -en
+speed limit;
+
+die Geschwindigkeit -en
+speed;
+
+die Begrenzung -en
+limit; restriction;
+
+v begrenzen / begrenzte / hat begrenzt
+limit{prs=limits, pst=limited};
+
+mal so, mal so
+it varies; sometimes this way, sometimes that way;
+
+immer abends
+always in the evenings;
+
+am Morgen außer dienstags und donnerstags
+in the morning except on Tuesdays and Thursdays;
+
+außer + Dat.
+except;
+
+Es ist verboten.
+It is forbidden.; It is prohibited.;
+
+v verbieten-verbietet / verbot / hat verboten
+forbid{prs=forbids, pst=forbade, par=forbidden}; prohibit{prs=prohibits, pst=prohibited, par=prohibited};
+
+der Aberglaube (sg.)
+superstition;
+
+Das ist nur Aberglaube.
+That is just superstition.;
+
+der Glaube -n
+belief; faith;
+
+der Polterabend -e
+pre-wedding party with broken dishes for good luck;
+
+die schwarze Katze -n
+black cat;
+
+Eine schwarze Katze bringt Unglück.
+A black cat brings bad luck.;
+
+v poltern / polterte / hat gepoltert
+make a loud noise{prs=makes a loud noise, pst=made a loud noise}; rumble{prs=rumbles, pst=rumbled};
+
+das Unglück (sg.)
+misfortune; bad luck;
+
+der Knoblauch (sg.)
+garlic;
+
+Knoblauch schützt vor Vampiren.
+Garlic protects against vampires.;
+
+v schützen / schützte / hat geschützt
+protect{prs=protects, pst=protected};
+
+der Vampir -e
+vampire;
+
+a bereit
+ready;
+
+Wir sind bereit.
+We are ready.;
+
+Bist du bereit?
+Are you ready?;
+
+die Hälfte -n
+half; one half;
+
+die Traumwohnung -en
+dream apartment; ideal apartment;
+
+der Traum "-e
+dream; aspiration;
+
+124,68
+one hundred twenty-four point sixty-eight;
+
+1.246,8
+one thousand two hundred forty-six point eight;
+
+1246 (Jahr)
+twelve forty-six, when reading a year;
+
+1.000.000
+one million;
+
+10.000.000
+ten million;
+
+v machen / machte / hat gemacht
+do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+close{prs=closes, pst=closed};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+open{prs=opens, pst=opened};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+switch off{prs=switches off, pst=switched off}; arrange{prs=arranges, pst=arranged}; matter{prs=matters, pst=mattered};
+
+v anmachen-macht an / machte an / hat angemacht
+switch on{prs=switches on, pst=switched on}; hit on someone{prs=hits on someone, pst=hit on someone};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+arrange{prs=arranges, pst=arranged}; remove{prs=removes, pst=removed};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+preserve{prs=preserves, pst=preserved}; can{prs=cans, pst=canned};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+continue{prs=continues, pst=continued};
+
+die Vorsilbe -n
+prefix;
+
+die Präposition -en
+preposition;
+
+a ähnlich
+similar; alike;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+sign{prs=signs, pst=signed};
+
+die Unterschrift -en
+signature;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+underline{prs=underlines, pst=underlined};
+
+v reinigen / reinigte / hat gereinigt
+clean{prs=cleans, pst=cleaned}; cleanse{prs=cleanses, pst=cleansed};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+put away{prs=puts away, pst=put away, par=put away}; clear away{prs=clears away, pst=cleared away}; remove{prs=removes, pst=removed};
+
+Ich unterschreibe den Brief.
+I am signing the letter.;
+
+Ich unterstreiche ein Wort im Text.
+I am underlining a word in the text.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+I want my children to put their things away.;
+
+Ich möchte meine Kinder wegräumen.
+I want to get rid of my children.;
+
+Ich war schwimmen.
+I went swimming.;
+
+Wir waren im Park.
+We were in the park.;
+
+in + Dat./Akk.
+in; into;
+
+der Park -s
+park;
+
+der Zustand "-e
+state; condition;
+
+Ich war zu Hause.
+I was at home.;
+
+Er war krank.
+He was sick.;
+
+Wir waren im Kino.
+We were at the cinema.;
+
+Ich war einkaufen.
+I went shopping.;
+
+Ich gebe mir die Schuld.
+I blame myself.;
+
+sich Vorwürfe machen
+reproach oneself; feel guilty;
+
+der Schaufensterbummel -
+window-shopping stroll;
+
+einen Schaufensterbummel machen
+go window shopping;
+
+der Bummel -
+leisurely stroll; casual walk through shops;
+
+einen Bummel machen
+go for a leisurely walk;
+
+das Sprichwort "-er
+proverb; saying;
+
+das Motto -s
+motto;
+
+das geflügelte Wort "-er
+well-known saying; catchphrase;
+
+v entspannen / entspannte / hat entspannt
+relax{prs=relaxes, pst=relaxed};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+relax{prs=relaxes, pst=relaxed}; unwind{prs=unwinds, pst=unwound, par=unwound};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+rest{prs=rests, pst=rested};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+have a rest{prs=has a rest, pst=had a rest}; rest{prs=rests, pst=rested};
+
+v chillen / chillte / hat gechillt
+chill{prs=chills, pst=chilled}; relax casually{prs=relaxes casually, pst=relaxed casually};
+
+v baden / badete / hat gebadet
+bathe{prs=bathes, pst=bathed}; swim{prs=swims, pst=swam, par=swum};
+
+im See baden
+swim in the lake;
+
+ein Kind baden
+bathe a child;
+
+a aufgeregt
+excited; agitated; nervous;
+
+Ich bin aufgeregt.
+I am excited.; I am nervous.;
+
+a gespannt
+excited; curious; looking forward to something;
+
+v sich freuen / freute sich / hat sich gefreut
+be happy about{prs=is happy about, pst=was happy about}; look forward to{prs=looks forward to, pst=looked forward to};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+occupy{prs=occupies, pst=occupied}; employ{prs=employs, pst=employed};
+
+sich mit etw. beschäftigen
+deal with something; occupy oneself with something;
+
+j-n beschäftigen
+keep someone busy; employ someone;
+
+die Beschäftigung -en
+activity; occupation; employment;
+
+nicht oft
+not often;
+
+selten
+rarely;
+
+sehr selten
+very rarely;
+
+a regelmäßig
+regularly; regular;
+
+oft
+often;
+
+a unregelmäßig
+irregularly; irregular;
+
+die Ente -n
+duck;
+
+Enten füttern
+feed ducks;
+
+v füttern / fütterte / hat gefüttert
+feed animals{prs=feeds animals, pst=fed animals};
+
+Das hängt ab.
+That depends.;
+
+von etw. abhängen
+depend on something;
+
+Das hängt von + Dat. ab.
+That depends on ...;
+
+Das hängt vom Wetter ab.
+That depends on the weather.;
+
+Es hängt davon ab, ob ...
+It depends on whether ...;
+
+Es kommt darauf an.
+It depends.;
+
+Das hängt davon ab.
+That depends on that.; That depends.;
+
+Nachrichten schauen
+watch the news;
+
+auf + Dat.
+on; on a platform or website;
+
+bei + Dat.
+with; at; from a source or provider;
+
+Am Freitag kommt meine Tochter.
+My daughter is coming on Friday.;
+
+Ich treffe sie am Bahnhof.
+I am meeting her at the station.;
+
+Er liebt italienische Pasta.
+He loves Italian pasta.;
+
+Er isst sie jeden Tag.
+He eats it every day.;
+
+Magst du den Mantel?
+Do you like the coat?;
+
+Du kannst ihn kaufen.
+You can buy it.;
+
+Wir treffen euch in der Schule.
+We meet you at school.;
+
+Ich treffe dich in der Schule.
+I meet you at school.;
+
+Ich bin alleinerziehend.
+I am a single parent.; I am raising a child on my own.;
+
+Ich bin eine alleinerziehende Mutter.
+I am a single mother.;
+
+Ich bin ein alleinerziehender Vater.
+I am a single father.;
+
+Possessivartikel, Nominativ und Akkusativ
+possessive determiners, nominative and accusative;
+
+Ich sehe dich und deinen Hund.
+I see you and your dog.;
+
+Wir treffen ihn und seine Freunde.
+We meet him and his friends.;
+
+Er trifft sie und ihre Freunde.
+He meets her and her friends.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+meet and get to know someone{prs=meets and gets to know someone, pst=met and got to know someone}; get to know{prs=gets to know, pst=got to know};
+
+j-n kennenlernen
+meet someone; get to know someone;
+
+eine Stadt kennenlernen
+get to know a city;
+
+Wir sehen uns morgen.
+We’ll see each other tomorrow.;
+
+Dann sehe ich euch alle zusammen.
+Then I’ll see all of you together.;
+
+zusammen
+together;
+
+Wir sehen uns.
+See you.; We’ll see each other.;
+
+Wo?
+where?;
+
+Wohin?
+where to?;
+
+Wohin gehst du am Abend?
+Where are you going in the evening?;
+
+Ich gehe in den Park.
+I am going to the park.;
+
+Ich gehe in das Kino.
+I am going to the cinema.;
+
+Ich gehe ins Kino.
+I am going to the cinema.;
+
+Ich gehe in die Schule.
+I am going to school.;
+
+v laufen-läuft / lief / ist gelaufen
+run{prs=runs, pst=ran, par=run}; walk{prs=walks, pst=walked, par=walked};
+
+v klettern / kletterte / hat geklettert
+climb{prs=climbs, pst=climbed};
+
+v rennen-rennt / rannte / ist gerannt
+run fast{prs=runs fast, pst=ran fast};
+
+v wandern / wanderte / ist gewandert
+hike{prs=hikes, pst=hiked};
+
+v fliegen-fliegt / flog / ist geflogen
+fly{prs=flies, pst=flew, par=flown};
+
+nach
+to; toward; after;
+
+Ich fahre nach Erfurt.
+I am going to Erfurt.;
+
+Wir fliegen nach Palästina.
+We are flying to Palestine.;
+
+v arbeiten / arbeitete / hat gearbeitet
+work{prs=works, pst=worked};
+
+v lernen / lernte / hat gelernt
+learn{prs=learns, pst=learned, par=learned}; study{prs=studies, pst=studied, par=studied};
+
+v kaufen / kaufte / hat gekauft
+buy{prs=buys, pst=bought, par=bought};
+
+v essen-isst / aß / hat gegessen
+eat{prs=eats, pst=ate, par=eaten};
+
+v trinken / trank / hat getrunken
+drink{prs=drinks, pst=drank, par=drunk};
+
+Ich arbeite.
+I work.;
+
+Ich lerne.
+I learn.; I study.;
+
+Ich esse.
+I eat.;
+
+Ich trinke.
+I drink.;
+
+das Perfekt (sg.)
+perfect tense;
+
+das Hilfsverb -en
+auxiliary verb;
+
+das Partizip II (sg.)
+past participle;
+
+Gestern habe ich lange gearbeitet.
+Yesterday I worked for a long time.;
+
+Ich habe einen Kuchen genommen.
+I took a cake.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+I didn’t work much over the weekend.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+I bought this book two months ago.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+I ate Vietnamese noodles yesterday.;
+
+Ich habe gestern einen Spaziergang gemacht.
+I went for a walk yesterday.;
+
+nicht
+not;
+
+Ich arbeite nicht.
+I am not working.;
+
+Ich habe nichts gekauft.
+I bought nothing.;
+
+letzte
+last; previous;
+
+zuerst
+first; at first;
+
+alles
+everything;
+
+Alle Schüler sind hier.
+All students are here.;
+
+Alles ist gut.
+Everything is fine.;
+
+gefüllte Paprika
+stuffed peppers;
+
+vorgestern
+the day before yesterday;
+
+viel
+much; a lot;
+
+vor + Dat.
+ago; before;
+
+der Spaziergang "-e
+walk; stroll;
+
+einen Spaziergang machen
+go for a walk;
+
+a gefüllt
+stuffed; filled;
+
+Wann arbeiten Sie?
+When do you work?;
+
+Wann hast du Deutschkurs?
+When do you have German class?;
+
+von Montag bis Freitag
+from Monday to Friday;
+
+von 8:30 bis 11:45 Uhr
+from 8:30 to 11:45;
+
+jeden Tag
+every day;
+
+jeden Tag in der Woche
+every day during the week;
+
+jede Woche
+every week;
+
+jeden Arbeitstag
+every working day;
+
+Wann hast du eingekauft?
+When did you go shopping?;
+
+Ich habe vorgestern eingekauft.
+I went shopping the day before yesterday.;
+
+Ich habe am Montag eingekauft.
+I went shopping on Monday.;
+
+Ich habe keine Ahnung.
+I have no idea.;
+
+v einchecken / checkte ein / hat eingecheckt
+check in{prs=checks in, pst=checked in};
+
+v liefern / lieferte / hat geliefert
+deliver{prs=delivers, pst=delivered}; supply{prs=supplies, pst=supplied};
+
+der Arbeitstag -e
+working day;
+
+die Ware -n
+goods; merchandise;
+
+der Flughafen -
+airport;
+
+der Hafen "-
+harbor; port;
+
+Ware liefern
+deliver goods; supply goods;
+
+am Flughafen einchecken
+check in at the airport;
+
+im Hotel einchecken
+check in at the hotel;
+
+am Flughafen
+at the airport;
+
+zum Flughafen
+to the airport;
+
+vom Flughafen
+from the airport;
+
+im Hafen
+in the harbor;
+
+zum Hafen
+to the harbor;
+
+vom Hafen
+from the harbor;
+
+das Präteritum (sg.)
+simple past;
+
+v gehen-geht / ging / ist gegangen
+go{prs=goes, pst=went, par=gone};
+
+v helfen-hilft / half / hat geholfen
+help{prs=helps, pst=helped, par=helped};
+
+v bleiben-bleibt / blieb / ist geblieben
+stay{prs=stays, pst=stayed, par=stayed};
+
+v werden-wird / wurde / ist geworden
+become{prs=becomes, pst=became, par=become};
+
+die Ermäßigung -en
+discount; reduced price; concession;
+
+mit Ermäßigung
+with a discount;
+
+eine Ermäßigung bekommen
+get a discount;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+stop{prs=stops, pst=stopped}; cease{prs=ceases, pst=ceased}; give up{prs=gives up, pst=gave up, par=given up};
+
+mit etw. aufhören
+stop doing something;
+
+Hör bitte auf!
+Please stop!;
+
+Er hört mit dem Rauchen auf.
+He is giving up smoking.;
+
+das Mitglied -er
+member;
+
+Mitglied sein
+be a member;
+
+ein Mitglied der Familie
+a member of the family;
+
+Mitglied in einem Verein
+member of a club; member of an association;
+
+die Probestunde -n
+trial lesson; trial class;
+
+die Schnupperstunde -n
+introductory trial lesson; taster class;
+
+noch einige Fragen
+a few more questions; some more questions;
+
+noch ein paar Fragen
+a few more questions;
+
+der Eintritt (sg.)
+entrance; admission; admission fee; entry;
+
+die Seite -n
+side; page;
+
+das Museum Museen
+museum;
+
+der Schalter -
+switch; counter; service desk; window;
+
+der Kassenschalter -
+cash desk; ticket counter; cashier's window;
+
+die Schulter -n
+shoulder;
+
+a einverstanden
+agreed; in agreement; okay;
+
+zwischen + Dat./Akk.
+between; among;
+
+die Autobahn -en
+motorway; highway; freeway;
+
+die Bäckerei -en
+bakery;
+
+der Ball "-e
+ball; dance; ball;
+
+der Bleistift -e
+pencil;
+
+die Dame -n
+lady; madam; woman;
+
+die Ecke -n
+corner; nook;
+
+die Fabrik -en
+factory; plant;
+
+die Fahrradtour -en
+bike tour; cycling trip;
+
+der Flughafen "-
+airport;
+
+die Gebühr -en
+fee; charge; duty;
+
+die Parkgebühr -en
+parking fee;
+
+das Gepäck (sg.)
+luggage; baggage;
+
+die Gitarre -n
+guitar;
+
+der Herr -en
+gentleman; Mr.; man;
+
+die Idee -n
+idea; thought;
+
+der Jugendliche -n
+teenager; young man; young person;
+
+die Jugendliche -n
+teenager; young woman; young person;
+
+die Karte -n
+card; map; ticket; menu; postcard;
+
+die Kasse -n
+cash desk; checkout; cash register;
+
+das Konzert -e
+concert;
+
+die Kosten (pl.)
+costs; expenses; cost;
+
+die Kultur -en
+culture;
+
+die Öffnungszeit -en
+opening time; opening hours;
+
+die Pause -n
+pause; break;
+
+der Rabatt -e
+discount;
+
+das Restaurant -s
+restaurant;
+
+das Schwimmbad "-er
+swimming pool;
+
+der Spaß (sg.)
+fun; pleasure; amusement;
+
+der Teilnehmer -
+participant;
+
+die Teilnehmerin -nen
+female participant;
+
+der Treffpunkt -e
+meeting point;
+
+das Wetter (sg.)
+weather;
+
+die Zeitung -en
+newspaper;
+
+der Januar (sg.)
+January;
+
+der Bus -se
+bus;
+
+das Kind -er
+child;
+
+der Kindergarten "-
+kindergarten; nursery school;
+
+das Spielzeug -e
+toy; toys;
+
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
+get to know; meet; become acquainted with;
+
+v leihen / lieh / hat geliehen
+lend; loan;
+[j-m; etw.]
+
+v sich leihen / lieh sich / hat sich geliehen
+borrow;
+[sich+Dat; etw.; von+Dat]
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+borrow; lend out; rent;
+[etw.]
+
+v liefern
+deliver; supply;
+[zu+Dat]
+
+v mitkommen-kommt mit / kam mit / ist mitgekommen
+come along; go along;
+
+v schauen
+look; watch;
+
+v schwimmen / schwamm / ist geschwommen
+swim;
+
+v stattfinden-findet statt / fand statt / hat stattgefunden
+take place; be held;
+
+v treffen-trifft / traf / hat getroffen
+meet; hit; strike;
+[j-n]
+
+a kostenlos
+free; free of charge;
+
+a täglich
+daily; every day;
+
+a stündlich
+hourly; every hour;
+
+a immer
+always;
+
+im Supermarkt gibt es viele verschiedene Waren
+there are many different goods in the supermarket;
+
+v bekommen-bekommt / bekam / hat bekommen
+get; receive; obtain;
+
+v stürzen / - / ist gestürzt
+fall; plunge; crash;
+
+v stürzen / - / hat gestürzt
+overthrow; topple; knock over;
+[j-n; etw.]
+
+v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+get out; get off;
+
+v einsteigen-steigt ein / stieg ein / ist eingestiegen
+get in; get on; board;
+
+v umsteigen-steigt um / stieg um / ist umgestiegen
+change; transfer;
+
+v springen / sprang / ist gesprungen
+jump; leap;
+
+v klettern / - / ist geklettert
+climb; scramble;
+
+v fallen-fällt / fiel / ist gefallen
+fall;
+
+v rennen / rannte / ist gerannt
+run; race; dash;
+
+v joggen / - / ist gejoggt
+jog;
+
+v fliegen / flog / ist geflogen
+fly; travel by plane;
+
+v fliegen / flog / hat geflogen
+fly; pilot;
+[etw.]
+
+v reisen / - / ist gereist
+travel;
+
+v wandern / - / ist gewandert
+hike; wander;
+
+v steigen / stieg / ist gestiegen
+rise; climb; increase; go up;
+
+v schaukeln
+swing; rock;
+
+v wiegen / wog / hat gewogen
+weigh;
+
+v wiegen / wiegte / hat gewiegt
+rock; cradle;
+
+v sich wiegen / wiegte sich / hat sich gewiegt
+sway; rock gently;
+
+v schwingen / schwang / hat geschwungen
+swing; oscillate; brandish;
+
+v wackeln
+wobble; shake; be loose;
+
+v schwanken
+sway; stagger; fluctuate; hesitate;
+
+v ankommen-kommt an / kam an / ist angekommen
+arrive; come; reach;
+
+v bleiben / blieb / ist geblieben
+stay; remain;
+
+zu Hause
+at home;
+
+nach Hause
+home; homeward;
+
+die Stelle -n
+place; position; job; vacancy;
+
+a schläfrig
+sleepy; drowsy;
+
+v besichtigen
+view; inspect; visit;
+
+v mieten
+rent; hire;
+
+v kommen / kam / ist gekommen
+come; arrive;
+
+v bezahlen / - / hat bezahlt
+pay; pay for;
+
+v übersetzen
+translate;
+
+v überweisen / überwies / hat überwiesen
+transfer money; remit;
+
+v suchen
+search; look for;
+
+v machen
+make; do; prepare;
+
+v brauchen
+need; require;
+
+der Arbeitsplatz "-e
+workplace; job;
+
+die Dokumente (pl.)
+documents;
+
+die SIM-Karte -n
+SIM card;
+
+v stehen / stand / hat gestanden
+stand;
+
+v aufwachen-wacht auf / wachte auf / ist aufgewacht
+wake up;
+
+v gehen / ging / ist gegangen
+go; walk;
+
+der Papayasalat -e
+papaya salad;
+
+v bringen / brachte / hat gebracht
+bring; take; lead; drive someone;
+
+v abholen-holt ab / holte ab / hat abgeholt
+pick up; collect; meet;
+
+die Erfahrung -en
+experience;
+
+die Arbeitserfahrung -en
+work experience;
+
+die Berufserfahrung -en
+professional experience; work experience;
+
+v austragen-trägt aus / trug aus / hat ausgetragen
+deliver; distribute; carry out;
+
+die Tochter "-
+daughter;
+
+v einfügen-fügt ein / fügte ein / hat eingefügt
+insert; add;
+
+die Silbe -n
+syllable;
+
+a silbenweise
+syllable by syllable;
+
+die Silbentrennung -en
+syllabification; word division;
+
+v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+take notes; write down; write along;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+come back; return;
+
+die Bedingung -en
+condition; requirement;
+
+die Bedienung -en
+service; waiter; waitress; operation; controls;
+
+das Zeugnis -se
+certificate; report card; reference; testimonial;
+
+die Kiste -n
+box; crate;
+
+der Briefkasten "-
+mailbox; letterbox;
+
+der Brief -e
+letter;
+
+das Personalbüro -s
+HR office; personnel office;
+
+v festlegen-legt fest / legte fest / hat festgelegt
+set; determine; fix; define;
+
+v legen
+lay; put;
+
+v organisieren / - / hat organisiert
+organize;
+
+v bestimmen / - / hat bestimmt
+determine; appoint; decide;
+
+v notieren / - / hat notiert
+write down; note;
+
+v telefonieren / - / hat telefoniert
+talk on the phone; phone;
+
+v reservieren / - / hat reserviert
+reserve; book;
+
+v reparieren / - / hat repariert
+repair; fix;
+
+v kopieren / - / hat kopiert
+copy;
+
+v studieren / - / hat studiert
+study at university; study;
+
+v buchstabieren / - / hat buchstabiert
+spell;
+
+v informieren / - / hat informiert
+inform;
+
+v sich informieren / - / hat sich informiert
+get information; find out;
+[sich+Akk; über+Akk]
+
+v markieren / - / hat markiert
+mark; highlight;
+
+v kontrollieren / - / hat kontrolliert
+check; control; inspect;
+
+a normalerweise
+normally; usually; as a rule;
+
+a teilweise
+partly; partially;
+
+a beispielsweise
+for example; for instance;
+
+a ausnahmsweise
+as an exception; exceptionally;
+
+a glücklicherweise
+fortunately; luckily;
+
+a dummerweise
+foolishly; unfortunately; annoyingly;
+
+a schrittweise
+step by step; gradually;
+
+a höflicherweise
+politely; out of politeness;
+
+v zerstören / - / hat zerstört
+destroy; ruin;
+
+v entlassen-entlässt / entließ / hat entlassen
+dismiss; fire; release; discharge;
+
+v erklären / - / hat erklärt
+explain; declare; state;
+
+v ergänzen / - / hat ergänzt
+add; complete; supplement;
+
+v missbrauchen / - / hat missbraucht
+abuse; misuse;
+
+v gefallen-gefällt / gefiel / hat gefallen
+please; be pleasing; like;
+[j-m]
+
+v missverstehen-missversteht / missverstand / hat missverstanden
+misunderstand;
+
+v gelingen-gelingt / gelang / ist gelungen
+succeed; turn out well;
+[j-m]
+
+v misslingen-misslingt / misslang / ist misslungen
+fail; go wrong;
+[j-m]
+
+v missfallen-missfällt / missfiel / hat missfallen
+displease; be displeasing;
+[j-m]
+
+a tatsächlich
+actually; really; in fact;
+
+a wirklich
+really; truly;
+
+a eigentlich
+actually; really; in fact;
+
+in Wirklichkeit
+in reality; actually;
+
+v erzählen / - / hat erzählt
+tell; narrate;
+[j-m; von+Dat]
+
+v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
+agree; consent; approve;
+[j-m]
+
+v vereinbaren / - / hat vereinbart
+agree; arrange; make an appointment;
+
+v vergessen-vergisst / vergaß / hat vergessen
+forget;
+
+v verstehen / verstand / hat verstanden
+understand;
+
+v schreiben / schrieb / hat geschrieben
+write;
+
+v verkaufen
+sell;
+
+v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
+wash oneself; wash up;
+[sich+Akk]
+
+v finden / fand / hat gefunden
+find;
+
+v benutzen
+use;
+
+v besuchen / - / hat besucht
+visit; attend;
+
+v begrüßen / - / hat begrüßt
+greet; welcome;
+
+v bestellen
+order;
+
+v funktionieren / - / hat funktioniert
+work; function;
+
+das Gedicht -e
+poem;
+
+das Lied -er
+song;
+
+gute Nachrichten
+good news;
+
+schlechte Nachrichten
+bad news;
+
+die Nachricht -en
+message; news item;
+
+der Kopf "-e
+head;
+
+das Gehirn -e
+brain;
+
+der Sonnenaufgang "-e
+sunrise;
+
+der Sonnenuntergang "-e
+sunset;
+
+das Alpenglühen (sg.)
+alpenglow; reddish glow on mountains;
+
+a womit
+with what; by what means;
+
+mit wem
+with whom; with who;
+
+a wann
+when;
+
+a woher
+from where; where from;
+
+Wann sind Sie geboren?
+When were you born?;
+
+Was ist Ihr Geburtsdatum?
+What is your date of birth?;
+
+Wann haben Sie Geburtstag?
+When is your birthday?;
+
+das Geburtsdatum Geburtsdaten
+date of birth;
+
+der Geburtstag -e
+birthday;
+
+Ebbe und Flut
+ebb and flow; low tide and high tide;
+
+die Ebbe -n
+low tide; ebb;
+
+die Flut -en
+high tide; flood;
+
+Sei leise!
+Be quiet!;
+
+Seid leise!
+Be quiet!;
+
+Seien Sie leise!
+Please be quiet!;
+
+a leise
+quiet; quietly; soft;
+
+a still
+quiet; silent; still;
+
+Lass das!
+Stop that!; Don't do that!; Leave it!;
+
+v lassen-lässt / ließ / hat gelassen
+leave; let; allow; have something done;
+
+v anfassen-fasst an / fasste an / hat angefasst
+touch;
+
+Fass mich nicht an!
+Don't touch me!;
+
+Seien Sie bitte leise!
+Please be quiet!;
+
+Halt die Klappe!
+Shut up!;
+
+Halt die Fresse!
+Shut your mouth!; Shut the hell up!;
+
+Halt's Maul!
+Shut up!; Shut your mouth!;
+
+v halten-hält / hielt / hat gehalten
+hold; stop; keep;
+
+v einräumen-räumt ein / räumte ein / hat eingeräumt
+put away; load; admit; concede;
+
+v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+empty; unload; clear out;
+
+v abräumen-räumt ab / räumte ab / hat abgeräumt
+clear away; clear the table;
+
+v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+tidy up; clean up;
+
+Räum die Spülmaschine ein!
+Load the dishwasher!;
+
+Räum die Spülmaschine aus!
+Unload the dishwasher!;
+
+Räum den Tisch ab!
+Clear the table!;
+
+Räum dein Spielzeug auf!
+Put away your toys!; Tidy up your toys!;
+
+Verschwinde!
+Go away!; Get lost!; Disappear!;
+
+Hau ab!
+Get lost!; Go away!; Beat it!;
+
+Red mit mir!
+Talk to me!;
+
+v verschwinden / verschwand / ist verschwunden
+disappear;
+
+v abhauen-haut ab / haute ab / ist abgehauen
+run away; clear off; take off;
+
+v reden
+speak; talk;
+
+a gefährlich gefährlicher am gefährlichsten
+dangerous; risky;
+
+der Beruf -e
+profession; occupation; job;
+
+der Taxifahrer -
+taxi driver;
+
+die Taxifahrerin -nen
+female taxi driver;
+
+(-) Köln (sg.)
+Cologne;
+
+die Zulassungsstelle -n
+vehicle registration office; registration authority;
+
+das Kfz -
+motor vehicle; vehicle;
+
+das Kraftfahrzeug -e
+motor vehicle;
+
+das Nummernschild -er
+license plate; number plate;
+
+v zulassen-lässt zu / ließ zu / hat zugelassen
+allow; permit; admit; register a vehicle;
+
+v anmelden-meldet an / meldete an / hat angemeldet
+register; sign up; announce;
+
+v einziehen-zieht ein / zog ein / ist eingezogen
+move in; move into;
+
+v ausziehen-zieht aus / zog aus / ist ausgezogen
+move out; undress; take off;
+
+v umziehen-zieht um / zog um / ist umgezogen
+move house; relocate; change clothes;
+
+die Staatsangehörigkeit -en
+citizenship; nationality;
+
+die Nationalität -en
+nationality; citizenship;
+
+der Staat -en
+state; country;
+
+a angehörig
+belonging; affiliated; related;
+
+Herein, bitte!
+Come in, please!;
+
+Herein!
+Come in!;
+
+Kommen Sie herein!
+Come in!;
+
+Komm herein!
+Come in!;
+
+v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+fill in; fill out;
+
+der Antrag "-e
+application; request;
+
+v unterrichten
+teach; instruct; inform;
+
+der Unterricht (sg.)
+lesson; class; instruction; teaching;
+
+a bald
+soon;
+
+der Wettbewerb -e
+competition; contest;
+
+a lokal
+local;
+
+das Lokal -e
+restaurant; bar; pub; establishment;
+
+der Beamte -n
+civil servant; public official;
+
+die Beamtin -nen
+female civil servant; female public official;
+
+der Staatsangestellte -n
+state employee; government employee;
+
+die Staatsangestellte -n
+female state employee; female government employee;
+
+der Polizist -en
+police officer; policeman;
+
+die Polizistin -nen
+female police officer; policewoman;
+
+der Lehrer -
+teacher;
+
+die Lehrerin -nen
+female teacher;
+
+der Staatsanwalt "-e
+public prosecutor; prosecutor;
+
+die Staatsanwältin -nen
+female public prosecutor; female prosecutor;
+
+der Rechtsanwalt "-e
+lawyer; attorney;
+
+die Rechtsanwältin -nen
+female lawyer; female attorney;
+
+der Richter -
+judge;
+
+die Richterin -nen
+female judge;
+
+das Gericht -e
+court; dish;
+
+die Strafe -n
+punishment; penalty; fine;
+
+das Gefängnis -se
+prison; jail;
+
+die Geldstrafe -n
+fine; monetary penalty;
+
+die Freiheitsstrafe -n
+prison sentence; custodial sentence;
+
+die Haft (sg.)
+detention; custody; imprisonment;
+
+v verhaften
+arrest;
+
+der Zoll (sg.)
+customs;
+
+der Zoll "-e
+customs duty; tariff;
+
+der Zoll -
+inch;
+
+v bestechen-besticht / bestach / hat bestochen
+bribe;
+
+die Bestechung -en
+bribery; bribing;
+
+das Bestechungsgeld -er
+bribe; bribe money;
+
+die Korruption (sg.)
+corruption;
+
+die Wirtschaft (sg.)
+economy; business; economic system;
+
+die Wirtschaft -en
+tavern; inn; restaurant;
+
+a wirtschaftlich
+economic; economical; profitable;
+
+die Volkswirtschaft -en
+national economy;
+
+die Betriebswirtschaft -en
+business administration; business economics;
+
+das Küken -
+chick; fledgling;
+
+das Apartment -s
+apartment; flat;
+
+die Ausbildung -en
+vocational training; training; education;
+
+das Ausland (sg.)
+foreign countries; abroad;
+
+der Ausweis -e
+ID card; identification document;
+
+die Bahn -en
+train; railway; railroad;
+
+die Bewerbung -en
+application; job application;
+
+der Europäer -
+European man; European;
+
+die Europäerin -nen
+European woman; European;
+
+der Führerschein -e
+driver's license; driving licence;
+
+das Geburtsjahr -e
+year of birth;
+
+der Geburtsort -e
+place of birth;
+
+die Kantine -n
+canteen; cafeteria;
+
+das Konto Konten
+account; bank account;
+
+der Kunde -n
+customer; client;
+
+die Kundin -nen
+female customer; female client;
+
+die Monatskarte -n
+monthly ticket; monthly pass;
+
+das Paket -e
+parcel; package;
+
+die Papiere (pl.)
+papers; documents;
+
+der Pass "-e
+passport;
+
+die Post (sg.)
+post; mail; post office;
+
+die Reise -n
+trip; journey; travel;
+
+das Studium (sg.)
+university studies; studies; study;
+
+der Test -s
+test;
+
+der Tourist -en
+tourist;
+
+die Touristin -nen
+female tourist;
+
+die Umwelt (sg.)
+environment;
+
+der Vertrag "-e
+contract; agreement;
+
+der Verwandte -n
+male relative; relative;
+
+die Verwandte -n
+female relative; relative;
+
+v abschließen-schließt ab / schloss ab / hat abgeschlossen
+lock; finish; complete; conclude a contract;
+
+v abwaschen-wäscht ab / wusch ab / hat abgewaschen
+wash dishes; wash off;
+
+v bedeuten / - / hat bedeutet
+mean; signify;
+
+v schneiden / schnitt / hat geschnitten
+cut; slice; cut hair;
+
+v tragen-trägt / trug / hat getragen
+carry; wear;
+
+v unterschreiben / unterschrieb / hat unterschrieben
+sign;
+
+a dünn
+thin; slim; watery;
+
+a fremd
+foreign; strange; unfamiliar; someone else's;
+
+a gültig
+valid;
+
+a traurig
+sad;
+
+a zufrieden
+satisfied; content;
+
+a hierher
+here; to here;
+
+a dorthin
+there; to there;
+
+v dekorieren / - / hat dekoriert
+decorate;
+
+v demonstrieren / - / hat demonstriert
+demonstrate; protest;
+
+v fotografieren / - / hat fotografiert
+photograph; take photos;
+
+v frisieren / - / hat frisiert
+style hair; do hair;
+
+v frustrieren / - / hat frustriert
+frustrate; discourage;
+
+v gratulieren / - / hat gratuliert
+congratulate;
+[j-m; zu+Dat]
+
+v korrigieren / - / hat korrigiert
+correct;
+
+v lackieren / - / hat lackiert
+varnish; lacquer; paint;
+
+v montieren / - / hat montiert
+assemble; install; mount;
+
+v motivieren / - / hat motiviert
+motivate;
+
+v nostrifizieren / - / hat nostrifiziert
+nostrify; recognize a diploma;
+
+v operieren / - / hat operiert
+operate; perform surgery;
+
+v präsentieren / - / hat präsentiert
+present;
+
+v probieren / - / hat probiert
+try; try on; taste;
+
+v protestieren / - / hat protestiert
+protest;
+[gegen+Akk]
+
+v rasieren / - / hat rasiert
+shave;
+
+v sich rasieren / - / hat sich rasiert
+shave oneself; shave;
+[sich+Akk]
+
+v renovieren / - / hat renoviert
+renovate; refurbish;
+
+v sanieren / - / hat saniert
+renovate thoroughly; rehabilitate; restore;
+
+v sortieren / - / hat sortiert
+sort;
+
+v stornieren / - / hat storniert
+cancel;
+
+v trainieren / - / hat trainiert
+train; exercise; coach;
+
+die Tür abschließen
+lock the door;
+
+eine Ausbildung abschließen
+complete vocational training; finish training;
+
+der Trinkspruch "-e
+toast; drinking toast;
+
+v anstoßen-stößt an / stieß an / hat angestoßen
+clink glasses; toast; nudge; initiate;
+[auf+Akk; mit+Dat]
+
+v aufstoßen-stößt auf / stieß auf / hat aufgestoßen
+burp; belch;
+
+v aufstoßen-stößt auf / stieß auf / ist aufgestoßen
+burst open; open suddenly;
+
+v stoßen-stößt / stieß / hat gestoßen
+push; shove; hit;
+[j-n; etw.]
+
+v stoßen-stößt / stieß / ist gestoßen
+bump; run into; come across;
+[an+Akk; auf+Akk]
+
+Auf Ruslan!
+To Ruslan!;
+
+Zum Wohl!
+Cheers!; To your health!;
+
+das Aufstoßen (sg.)
+burping; belching;
+
+a danach
+after that; afterwards; then; about it; for it;
+
+a nachher
+afterwards; later;
+
+nach + Dat.
+after; according to; to; toward;
+
 das Wasser (sg.)
 water; waters; body of water;
 
@@ -2132,12 +4087,6 @@ parents; mother and father;
 die Ferien (pl.)
 holidays; vacation; school holidays; school break;
 
-die Kosten (pl.)
-costs; expenses; charges;
-
-die Möbel (pl.)
-furniture; furnishings; pieces of furniture;
-
 die Lebensmittel (pl.)
 food products; groceries; provisions;
 
@@ -2147,9 +4096,6 @@ siblings; brothers and sisters;
 die Daten (pl.)
 data; details; computer data;
 
-das Leben (sg.)
-life; existence;
-
 der Weg -e
 path; road; way;
 
@@ -2158,9 +4104,6 @@ part; share;
 
 die Gruppe -n
 group;
-
-die Seite -n
-page; side;
 
 die Art -en
 view; type; way;
@@ -2224,9 +4167,6 @@ exam; examination; trial;
 
 das Beispiel -e
 example; sample;
-
-die Erfahrung -en
-experience;
 
 das Studium -en
 study (at university); education;
@@ -2297,9 +4237,6 @@ contribution; contribution; article (in the media);
 der Inhalt -e
 content;
 
-die Nachricht -en
-message; news;
-
 die Mitteilung -en
 notification; message;
 
@@ -2314,12 +4251,6 @@ demand; request;
 
 das Angebot -e
 offer; offer;
-
-der Vertrag "-e
-contract; contract;
-
-die Bedingung -en
-condition;
 
 die Beratung -en
 consultation; advice;
@@ -2357,17 +4288,11 @@ insurance; insurance;
 die Steuer -n
 tax;
 
-der Staat -en
-state;
-
 die Regierung -en
 government;
 
 das Gesetz -e
 law;
-
-das Gericht -e
-court; dish;
 
 der Prozess -e
 process; trial;
@@ -2375,14 +4300,8 @@ process; trial;
 die Industrie -n
 industry;
 
-die Rechnung -en
-check; invoice;
-
 die Quittung -en
 receipt; check;
-
-die Karte -n
-map; card;
 
 das Konto -en
 account (bank);
@@ -2486,14 +4405,8 @@ sentence; judgment;
 der Anspruch "-e
 requirement; right (to something);
 
-der Antrag "-e
-statement; bid; petition;
-
 die Anlage -n
 attachment (to letter); installation; construction; attachment;
-
-die Ware -n
-product;
 
 die Zahlung -en
 payment;
@@ -2522,9 +4435,6 @@ report; lecture;
 das Gespräch "-e
 conversation; talk;
 
-die Bedeutung -en
-meaning; meaning;
-
 die Erklärung -en
 explanation; declaration;
 
@@ -2537,9 +4447,6 @@ text;
 die Geschichte -n
 story; story;
 
-die Zeitung -en
-newspaper;
-
 der Artikel -
 article; product;
 
@@ -2551,9 +4458,6 @@ role;
 
 die Figur -en
 figure; character;
-
-das Lied -er
-song;
 
 die Sicherheit -en
 safety;
@@ -2602,9 +4506,6 @@ promotion; increase;
 
 die Senkung -en
 decline; demotion;
-
-die Wahl -en
-choice; elections;
 
 die Konsequenz -en
 consequence;
@@ -2660,9 +4561,6 @@ moment (of time);
 die Anzahl -en
 quantity; number;
 
-die Gebühr -en
-collection; duty; commission;
-
 der Schaden "-en
 damage; damage;
 
@@ -2693,17 +4591,8 @@ car; mechanism;
 die Webseite -n
 web page; website;
 
-die Anzeige -n
-announcement; indication;
-
 die Meldung -en
 message; notification;
-
-der Test -s
-test; examination;
-
-die Aufgabe -n
-exercise; task;
 
 die Übersicht -en
 review; summary;
@@ -2713,9 +4602,6 @@ summary;
 
 der Job -s
 job (position); part-time job;
-
-die Bewerbung -en
-statement; response; bid;
 
 der Lebenslauf "-e
 life path; resume; autobiography;
@@ -2768,9 +4654,6 @@ height; size;
 der Körper -
 body; organism;
 
-der Kopf "-e
-head;
-
 der Rücken -
 back;
 
@@ -2786,29 +4669,14 @@ resource;
 der Zugriff -e
 access; access (to data);
 
-die Heizung -en
-heating; heating system;
-
-die Miete -n
-rent; rent;
-
 der Haushalt -e
 household; budget;
 
 der Abfall "-e
 waste; garbage;
 
-die Umwelt (sg.)
-environment;
-
 die Teilnahme -n
 participation;
-
-der Teilnehmer -
-participant;
-
-die Teilnehmerin -nen
-participant;
 
 die Rückmeldung -en
 feedback; response;
@@ -2867,12 +4735,6 @@ parting; separation;
 der Auftrag "-e
 order; assignment;
 
-der Kunde -n
-client; buyer;
-
-die Kundin -nen
-client; customer;
-
 der Anbieter -
 service provider; provider;
 
@@ -2911,9 +4773,6 @@ stock; availability; compound;
 
 das Sortiment -e
 assortment;
-
-der Rabatt -e
-discount;
 
 die Aktion -en
 promotion; promo;
@@ -2956,12 +4815,6 @@ document; base (paper);
 
 die Bescheinigung -en
 reference; certificate;
-
-der Ausweis -e
-ID card; pass;
-
-der Pass "-e
-passport;
 
 die Kontrolle -n
 control; examination;
@@ -3017,9 +4870,6 @@ exit; disposal;
 die Mitgliedschaft -en
 membership;
 
-das Mitglied -er
-member (of organization);
-
 der Verein -e
 club; association;
 
@@ -3070,9 +4920,6 @@ lawsuit; complaint;
 
 die Berufung -en
 appeal; vocation;
-
-die Strafe -n
-fine; punishment;
 
 der Täter -
 criminal; guilty;
@@ -3218,14 +5065,8 @@ wish; wish;
 die Hoffnung -en
 hope;
 
-der Traum "-e
-dream (vision); dream;
-
 der Streit -e
 dispute; argument;
-
-der Beruf -e
-profession;
 
 der Arbeitnehmer -
 worker; employee;
@@ -3238,9 +5079,6 @@ employer;
 
 die Arbeitgeberin -nen
 employer;
-
-die Stelle -n
-job title; place (of work);
 
 die Schicht -en
 shift;
@@ -3353,9 +5191,6 @@ traffic light;
 die Brücke -n
 bridge;
 
-der Park -s
-park;
-
 der Einkauf "-e
 purchase; shopping;
 
@@ -3364,9 +5199,6 @@ shop; shop;
 
 das Geschäft -e
 shop; case;
-
-das Zentrum -en
-center;
 
 der Bewohner -
 inhabitant;
@@ -3491,12 +5323,6 @@ place; square;
 der Sitz -e
 seat; place;
 
-der Hafen "-
-port; harbor;
-
-der Flughafen "-
-airport;
-
 der Bahnsteig -e
 platform (at the station); platform;
 
@@ -3530,9 +5356,6 @@ direction;
 der Standort -e
 location; platform; base;
 
-das Ausland (sg.)
-abroad; abroad;
-
 die Heimat -en
 homeland; native land;
 
@@ -3548,9 +5371,6 @@ citizen; inhabitant;
 die Bürgerin -nen
 citizen;
 
-die Staatsangehörigkeit -en
-citizenship; nationality;
-
 die Botschaft -en
 embassy; news (message);
 
@@ -3562,9 +5382,6 @@ majority;
 
 die Minderheit -en
 minority;
-
-die Abstimmung -en
-vote; coordination;
 
 der Kandidat -en
 candidate;
@@ -3592,12 +5409,6 @@ repair;
 
 die Polizei (sg.)
 police;
-
-der Polizist -en
-police officer;
-
-die Polizistin -nen
-police officer;
 
 der Diebstahl "-e
 theft;
@@ -3682,9 +5493,6 @@ income;
 
 die Ausgabe -n
 consumption; spending;
-
-die Ausgabe -n
-release; edition;
 
 die Abgabe -n
 collection; deduction; change;
@@ -3914,9 +5722,6 @@ means; preparation;
 der Ursprung "-e
 source; origin;
 
-die Küche -n
-kitchen;
-
 der Ofen "-
 oven; bake;
 
@@ -4034,9 +5839,6 @@ intimacy;
 die Kante -n
 edge; edge;
 
-die Ecke -n
-corner;
-
 die Mitte -n
 middle; center;
 
@@ -4130,9 +5932,6 @@ broadcast;
 die Übernahme -n
 acceptance; absorption;
 
-der Wettbewerb -e
-contest; competition;
-
 die Konkurrenz -en
 competition; rivalry;
 
@@ -4150,9 +5949,6 @@ right of access; permission;
 
 die Sicherung -en
 reservation; protection; fuse;
-
-das Zeichen -
-sign; symbol;
 
 die Kennzeichnung -en
 marking; designation;
@@ -4436,12 +6232,6 @@ premises; space; room;
 die Fläche -n
 square; surface;
 
-das Bett -en
-bed;
-
-der Schrank "-e
-closet;
-
 das Regal -e
 shelf; rack;
 
@@ -4451,14 +6241,8 @@ carpet;
 die Decke -n
 ceiling; blanket;
 
-das Bad "-er
-bathroom; bath;
-
 das Badezimmer -
 bathroom;
-
-die Dusche -n
-shower;
 
 die Badewanne -n
 bath (bowl);
@@ -4550,9 +6334,6 @@ knee;
 die Brust "-e
 breast;
 
-die Schulter -n
-shoulder;
-
 der Hals "-e
 neck; throat;
 
@@ -4585,9 +6366,6 @@ shirt;
 
 die Hose -n
 trousers; trousers;
-
-der Schuh -e
-shoes; shoe;
 
 der Gürtel -
 belt;
@@ -4649,9 +6427,6 @@ shore (river/lake);
 die Wüste -n
 desert;
 
-der Regen (sg.)
-rain;
-
 der Schnee (sg.)
 snow;
 
@@ -4675,9 +6450,6 @@ star;
 
 der Kugelschreiber -
 ballpen;
-
-der Bleistift -e
-pencil;
 
 die Mappe -n
 folder; briefcase;
@@ -4745,9 +6517,6 @@ dinner;
 die Mahlzeit -en
 eating; meal;
 
-der Hunger (sg.)
-hunger;
-
 der Durst (sg.)
 thirst;
 
@@ -4757,9 +6526,6 @@ diet;
 das Getränk -e
 drink;
 
-das Wasser (sg.)
-water;
-
 der Saft "-e
 juice;
 
@@ -4768,9 +6534,6 @@ tea;
 
 der Kaffee -s
 coffee;
-
-die Milch (sg.)
-milk;
 
 das Bier -e
 beer;
@@ -4790,9 +6553,6 @@ noodles; pasta;
 der Supermarkt "-e
 supermarket;
 
-die Bäckerei -en
-bakery; bakery;
-
 der Bäcker -
 baker;
 
@@ -4802,14 +6562,8 @@ baker;
 die Metzgerei -en
 butcher shop; butcher shop;
 
-das Restaurant -s
-restaurant;
-
 das Café -s
 cafe;
-
-die Kantine -n
-dining room;
 
 das Menü -s
 menu (complex);
@@ -4819,9 +6573,6 @@ dish; food;
 
 das Taxi -s
 taxi;
-
-der Bus -se
-bus;
 
 der Passagier -e
 passenger;
@@ -4835,12 +6586,6 @@ ticket;
 die Pünktlichkeit (sg.)
 punctuality;
 
-der Lehrer -
-teacher;
-
-die Lehrerin -nen
-teacher;
-
 der Schüler -
 student; schoolboy;
 
@@ -4852,9 +6597,6 @@ class; category;
 
 das Klassenzimmer -
 classroom;
-
-die Pause -n
-break; pause;
 
 die Mensa -en
 student canteen;
@@ -4925,15 +6667,6 @@ shopping mall;
 die Drogerie -n
 household chemicals store; drogerie;
 
-die Post (sg.)
-mail; post office;
-
-das Paket -e
-package; plastic bag;
-
-der Brief -e
-letter;
-
 die Briefmarke -n
 postage stamp;
 
@@ -4958,9 +6691,6 @@ ladder;
 der Hof "-e
 yard; farming;
 
-der Garten "-
-garden;
-
 das Wohnzimmer -
 living room;
 
@@ -4973,50 +6703,17 @@ children's;
 das Arbeitszimmer -
 cabinet;
 
-die Toilette -n
-toilet;
-
-der Flur -e
-corridor;
-
-der Balkon -e
-balcony;
-
 die Terrasse -n
 terrace;
 
 die Kaution -en
 pledge;
 
-die Nebenkosten (pl.)
-utility bills; add. expenses;
-
-der Vermieter -
-landlord;
-
-die Vermieterin -nen
-landlady;
-
-der Mieter -
-tenant; lodger;
-
-die Mieterin -nen
-tenant;
-
 die Besichtigung -en
 inspection;
 
 die Renovierung -en
 repair (cosmetic); update;
-
-die Möbel (pl.)
-furniture;
-
-das Sofa -s
-sofa;
-
-der Sessel -
-armchair;
 
 der Vorhang "-e
 curtain;
@@ -5036,14 +6733,8 @@ remote control;
 das Radio -s
 radio; radio;
 
-das Konzert -e
-concert;
-
 das Festival -s
 festival;
-
-die Kultur -en
-culture;
 
 das Hobby -s
 hobby; enthusiasm;
@@ -5056,9 +6747,6 @@ football; soccer ball;
 
 das Tennis (sg.)
 tennis;
-
-das Schwimmbad "-er
-pool;
 
 das Fitnessstudio -s
 fitness club; gym;
@@ -5108,9 +6796,6 @@ referee (sports);
 das Tor -e
 gates; goal;
 
-der Ball "-e
-ball; ball;
-
 die Halle -n
 hall; arena;
 
@@ -5140,12 +6825,6 @@ sight; visibility; point of view;
 
 die Einrichtung -en
 institution;
-
-die Einrichtung -en
-situation; interior;
-
-die Einrichtung -en
-setting; installation;
 
 die Erinnerung -en
 memory; reminder;
@@ -5177,9 +6856,6 @@ return; return shipping;
 der Koffer -
 suitcase;
 
-das Gepäck (sg.)
-baggage;
-
 die Rezeption -en
 reception; reception;
 
@@ -5191,9 +6867,6 @@ inspection; security control;
 
 die Zollkontrolle -n
 customs control;
-
-der Zoll "-e
-customs; duty;
 
 der Flug "-e
 flight; flight;
@@ -5228,9 +6901,6 @@ direct debit; automatic bank withdrawal;
 die Filiale -n
 branch; department;
 
-die Bedienung -en
-service; control (device);
-
 der Service -s
 service; service;
 
@@ -5254,9 +6924,6 @@ blocking; overlap;
 
 die Entsperrung -en
 unlock;
-
-die Fabrik -en
-factory; factory;
 
 die Produktion -en
 production; release;
@@ -5332,9 +6999,6 @@ interview (for a job);
 
 der Gutschein -e
 coupon; gift certificate;
-
-die Ermäßigung -en
-discount; benefit;
 
 die Warnung -en
 warning; warning;
@@ -5588,23 +7252,14 @@ written exam (at university);
 das Examen -e
 exam;
 
-das Zeugnis -se
-certificate; certificate; characteristic;
-
 die Gutschrift -en
 credit note; offset of funds;
-
-die Hausordnung -en
-house rules (at home);
 
 das Ereignis -se
 event;
 
 die Verzögerung -en
 delay; slowdown;
-
-die Daten (pl.)
-data; intelligence;
 
 der Datenschutz (sg.)
 data protection;

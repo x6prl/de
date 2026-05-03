@@ -29,10 +29,6 @@ v einladen-lädt ein / lud ein / hat eingeladen
 приглашать{prs=приглашает, pst=приглашал};
 [j-n; zu+Dat]
 
-v einladen-lädt ein / lud ein / hat eingeladen
-загружать{prs=загружает, pst=загружал}; грузить;
-[etw.]
-
 a dann
 тогда; потом; затем;
 
@@ -307,9 +303,6 @@ die Zwiebel -n
 v finden-findet / fand / hat gefunden
 находить{prs=находит, pst=находил};
 
-v finden-findet / fand / hat gefunden
-считать{prs=считает, pst=считал}; находить каким-то;
-
 v geben-gibt / gab / hat gegeben
 давать{prs=дает, pst=давал};
 [j-m; etw.]
@@ -325,10 +318,6 @@ v nehmen-nimmt / nahm / hat genommen
 
 v schmecken
 быть вкусным{prs=будет вкусным, pst=было вкусным};
-
-v schmecken
-чувствовать вкус{prs=чувствует вкус, pst=чувствовал вкус};
-[etw.]
 
 a leer
 пустой;

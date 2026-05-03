@@ -49,12 +49,6 @@ die Möbel (pl.)
 der Monat -e
 شهر;
 
-der Nachbar -n
-جار;
-
-die Nachbarin -nen
-جارة;
-
 die Nebenkosten (pl.)
 تكاليف إضافية; رسوم خدمات;
 
@@ -165,9 +159,6 @@ a modern
 
 a weit
 بعيد{cmp=أبعد, sup=الأبعد}; واسع{cmp=أوسع, sup=الأوسع}; فسيح{cmp=أفسح, sup=الأفسح};
-
-a wichtig
-مهم{cmp=أهمّ, sup=الأهمّ}; جوهري;
 
 ein bisschen
 قليلًا; بعض الشيء;

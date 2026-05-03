@@ -86,10 +86,6 @@ oy vermek{prs=oy verir, pst=oy verdi};
 Viele Menschen wählen am Sonntag.
 Birçok insan pazar günü oy kullanıyor.;
 
-v wählen
-seçmek{prs=seçer, pst=seçti}; göreve getirmek{prs=göreve getirir, pst=göreve getirdi};
-[j-n; etw.]
-
 die Wahl -en
 tercih; seçim;
 
@@ -130,10 +126,6 @@ tavsiye etmek{prs=tavsiye eder, pst=tavsiye etti}; önermek{prs=önerir, pst=ön
 
 Ich rate dir, früher zu schlafen.
 Sana daha erken uyumanı tavsiye ediyorum.;
-
-v raten-rät / riet / hat geraten
-tahmin etmek{prs=tahmin eder, pst=tahmin etti}; kestirmek{prs=kestirir, pst=kestirdi};
-[etw.]
 
 Rate mal!
 Tahmin et bakalım!;

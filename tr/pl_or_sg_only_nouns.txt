@@ -19,12 +19,6 @@ ebeveynler; anne baba;
 die Ferien (pl.)
 tatil; tatil dönemi; okul tatili; okul arası;
 
-die Kosten (pl.)
-maliyetler; giderler; ücretler;
-
-die Möbel (pl.)
-mobilya; döşeme eşyaları; ev eşyaları;
-
 die Lebensmittel (pl.)
 gıda ürünleri; erzak; yiyecek maddeleri;
 

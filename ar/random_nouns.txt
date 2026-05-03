@@ -1,6 +1,3 @@
-das Leben (sg.)
-حياة; وجود;
-
 der Weg -e
 طريق; مسار; سبيل;
 
@@ -9,9 +6,6 @@ der Teil -e
 
 die Gruppe -n
 مجموعة;
-
-die Seite -n
-صفحة; جانب;
 
 die Art -en
 نوع; نمط; طريقة;
@@ -75,9 +69,6 @@ die Prüfung -en
 
 das Beispiel -e
 مثال; نموذج;
-
-die Erfahrung -en
-خبرة; تجربة;
 
 das Studium -en
 دراسة جامعية; تعليم جامعي;
@@ -148,9 +139,6 @@ der Beitrag "-e
 der Inhalt -e
 محتوى;
 
-die Nachricht -en
-رسالة; خبر;
-
 die Mitteilung -en
 إشعار; رسالة;
 
@@ -165,12 +153,6 @@ die Nachfrage -n
 
 das Angebot -e
 عرض; عرض رسمي;
-
-der Vertrag "-e
-عقد; اتفاق;
-
-die Bedingung -en
-شرط;
 
 die Beratung -en
 استشارة; نصيحة;
@@ -208,17 +190,11 @@ die Versicherung -en
 die Steuer -n
 ضريبة;
 
-der Staat -en
-دولة;
-
 die Regierung -en
 حكومة;
 
 das Gesetz -e
 قانون;
-
-das Gericht -e
-محكمة; طبق;
 
 der Prozess -e
 عملية; محاكمة;
@@ -226,14 +202,8 @@ der Prozess -e
 die Industrie -n
 صناعة;
 
-die Rechnung -en
-فاتورة; حساب;
-
 die Quittung -en
 إيصال; وصل;
-
-die Karte -n
-خريطة; بطاقة;
 
 das Konto -en
 حساب;
@@ -337,14 +307,8 @@ das Urteil -e
 der Anspruch "-e
 مطالبة; حق;
 
-der Antrag "-e
-طلب; التماس;
-
 die Anlage -n
 مرفق; منشأة; تركيب; ملحق;
-
-die Ware -n
-بضاعة;
 
 die Zahlung -en
 دفعة; سداد;
@@ -373,9 +337,6 @@ der Vortrag "-e
 das Gespräch "-e
 محادثة; حديث;
 
-die Bedeutung -en
-معنى;
-
 die Erklärung -en
 شرح; تصريح;
 
@@ -388,9 +349,6 @@ der Text -e
 die Geschichte -n
 قصة; تاريخ;
 
-die Zeitung -en
-صحيفة;
-
 der Artikel -
 مقال; سلعة;
 
@@ -402,9 +360,6 @@ die Rolle -n
 
 die Figur -en
 شخصية; شكل;
-
-das Lied -er
-أغنية;
 
 die Sicherheit -en
 أمان; سلامة;
@@ -453,9 +408,6 @@ die Erhöhung -en
 
 die Senkung -en
 خفض;
-
-die Wahl -en
-اختيار; انتخابات;
 
 die Konsequenz -en
 نتيجة;
@@ -511,9 +463,6 @@ der Zeitpunkt -e
 die Anzahl -en
 عدد;
 
-die Gebühr -en
-رسوم;
-
 der Schaden "-en
 ضرر;
 
@@ -544,17 +493,8 @@ die Maschine -n
 die Webseite -n
 صفحة ويب; موقع;
 
-die Anzeige -n
-إعلان; مؤشر;
-
 die Meldung -en
 رسالة; إشعار;
-
-der Test -s
-اختبار;
-
-die Aufgabe -n
-مهمة; تمرين;
 
 die Übersicht -en
 نظرة عامة;
@@ -564,9 +504,6 @@ die Zusammenfassung -en
 
 der Job -s
 وظيفة;
-
-die Bewerbung -en
-طلب توظيف;
 
 der Lebenslauf "-e
 سيرة ذاتية;
@@ -619,9 +556,6 @@ die Größe -n
 der Körper -
 جسم;
 
-der Kopf "-e
-رأس;
-
 der Rücken -
 ظهر;
 
@@ -637,28 +571,13 @@ die Ressource -n
 der Zugriff -e
 وصول; نفاذ;
 
-die Heizung -en
-تدفئة;
-
-die Miete -n
-إيجار;
-
 der Haushalt -e
 أسرة; ميزانية منزلية;
 
 der Abfall "-e
 نفايات;
 
-die Umwelt (sg.)
-بيئة;
-
 die Teilnahme -n
-مشاركة;
-
-der Teilnehmer -
-مشارك;
-
-die Teilnehmerin -nen
 مشاركة;
 
 die Rückmeldung -en
@@ -718,12 +637,6 @@ die Trennung -en
 der Auftrag "-e
 طلب; تكليف;
 
-der Kunde -n
-عميل;
-
-die Kundin -nen
-عميلة;
-
 der Anbieter -
 مزود;
 
@@ -762,9 +675,6 @@ der Bestand "-e
 
 das Sortiment -e
 تشكيلة;
-
-der Rabatt -e
-خصم;
 
 die Aktion -en
 عرض ترويجي;
@@ -807,12 +717,6 @@ die Unterlage -n
 
 die Bescheinigung -en
 شهادة;
-
-der Ausweis -e
-بطاقة هوية;
-
-der Pass "-e
-جواز سفر;
 
 die Kontrolle -n
 رقابة; فحص;
@@ -868,9 +772,6 @@ der Austritt -e
 die Mitgliedschaft -en
 عضوية;
 
-das Mitglied -er
-عضو;
-
 der Verein -e
 ناد; جمعية;
 
@@ -921,9 +822,6 @@ die Klage -n
 
 die Berufung -en
 استئناف; دعوة;
-
-die Strafe -n
-عقوبة; غرامة;
 
 der Täter -
 جان;
@@ -1069,14 +967,8 @@ der Wunsch "-e
 die Hoffnung -en
 أمل;
 
-der Traum "-e
-حلم;
-
 der Streit -e
 شجار; نزاع;
-
-der Beruf -e
-مهنة;
 
 der Arbeitnehmer -
 موظف; عامل;
@@ -1089,9 +981,6 @@ der Arbeitgeber -
 
 die Arbeitgeberin -nen
 صاحبة عمل;
-
-die Stelle -n
-منصب; وظيفة;
 
 die Schicht -en
 وردية;
@@ -1204,9 +1093,6 @@ die Ampel -n
 die Brücke -n
 جسر;
 
-der Park -s
-حديقة;
-
 der Einkauf "-e
 تسوق; شراء;
 
@@ -1215,9 +1101,6 @@ der Laden "-
 
 das Geschäft -e
 متجر; عمل;
-
-das Zentrum -en
-مركز;
 
 der Bewohner -
 ساكن;
@@ -1342,12 +1225,6 @@ der Platz "-e
 der Sitz -e
 مقعد; مقر;
 
-der Hafen "-
-ميناء;
-
-der Flughafen "-
-مطار;
-
 der Bahnsteig -e
 رصيف;
 
@@ -1381,9 +1258,6 @@ die Richtung -en
 der Standort -e
 موقع;
 
-das Ausland (sg.)
-الخارج;
-
 die Heimat -en
 وطن;
 
@@ -1399,9 +1273,6 @@ der Bürger -
 die Bürgerin -nen
 مواطنة;
 
-die Staatsangehörigkeit -en
-جنسية;
-
 die Botschaft -en
 سفارة; رسالة;
 
@@ -1413,9 +1284,6 @@ die Mehrheit -en
 
 die Minderheit -en
 أقلية;
-
-die Abstimmung -en
-تصويت;
 
 der Kandidat -en
 مرشح;
@@ -1443,12 +1311,6 @@ die Reparatur -en
 
 die Polizei (sg.)
 شرطة;
-
-der Polizist -en
-شرطي;
-
-die Polizistin -nen
-شرطية;
 
 der Diebstahl "-e
 سرقة;
@@ -1533,9 +1395,6 @@ das Einkommen -
 
 die Ausgabe -n
 نفقة; مصروف;
-
-die Ausgabe -n
-إصدار; طبعة;
 
 die Abgabe -n
 رسم; اقتطاع;
@@ -1765,9 +1624,6 @@ das Mittel -
 der Ursprung "-e
 أصل; منشأ;
 
-die Küche -n
-مطبخ;
-
 der Ofen "-
 فرن;
 
@@ -1885,9 +1741,6 @@ die Nähe (sg.)
 die Kante -n
 حافة;
 
-die Ecke -n
-زاوية;
-
 die Mitte -n
 وسط; مركز;
 
@@ -1981,9 +1834,6 @@ die Übergabe -n
 die Übernahme -n
 استلام; تولي;
 
-der Wettbewerb -e
-منافسة;
-
 die Konkurrenz -en
 منافسة;
 
@@ -2001,9 +1851,6 @@ die Berechtigung -en
 
 die Sicherung -en
 حماية; نسخة احتياطية;
-
-das Zeichen -
-علامة; رمز;
 
 die Kennzeichnung -en
 وسم; تعيين;
@@ -2287,12 +2134,6 @@ der Raum "-e
 die Fläche -n
 مساحة; سطح;
 
-das Bett -en
-سرير;
-
-der Schrank "-e
-خزانة;
-
 das Regal -e
 رف;
 
@@ -2302,14 +2143,8 @@ der Teppich -e
 die Decke -n
 سقف; بطانية;
 
-das Bad "-er
-حمام;
-
 das Badezimmer -
 حمام;
-
-die Dusche -n
-دش; استحمام;
 
 die Badewanne -n
 حوض استحمام;
@@ -2401,9 +2236,6 @@ das Knie -
 die Brust "-e
 صدر;
 
-die Schulter -n
-كتف;
-
 der Hals "-e
 رقبة; حلق;
 
@@ -2436,9 +2268,6 @@ das Hemd -en
 
 die Hose -n
 سروال;
-
-der Schuh -e
-حذاء;
 
 der Gürtel -
 حزام;
@@ -2500,9 +2329,6 @@ das Ufer -
 die Wüste -n
 صحراء;
 
-der Regen (sg.)
-مطر;
-
 der Schnee (sg.)
 ثلج;
 
@@ -2526,9 +2352,6 @@ der Stern -e
 
 der Kugelschreiber -
 قلم حبر;
-
-der Bleistift -e
-قلم رصاص;
 
 die Mappe -n
 حافظة;
@@ -2596,9 +2419,6 @@ das Abendessen -
 die Mahlzeit -en
 وجبة;
 
-der Hunger (sg.)
-جوع;
-
 der Durst (sg.)
 عطش;
 
@@ -2608,9 +2428,6 @@ die Diät -en
 das Getränk -e
 مشروب;
 
-das Wasser (sg.)
-ماء;
-
 der Saft "-e
 عصير;
 
@@ -2619,9 +2436,6 @@ der Tee -s
 
 der Kaffee -s
 قهوة;
-
-die Milch (sg.)
-حليب;
 
 das Bier -e
 جعة;
@@ -2641,9 +2455,6 @@ die Nudel -n
 der Supermarkt "-e
 سوبرماركت;
 
-die Bäckerei -en
-مخبز;
-
 der Bäcker -
 خباز;
 
@@ -2653,14 +2464,8 @@ die Bäckerin -nen
 die Metzgerei -en
 ملحمة;
 
-das Restaurant -s
-مطعم;
-
 das Café -s
 مقهى;
-
-die Kantine -n
-كافتيريا;
 
 das Menü -s
 قائمة وجبة;
@@ -2670,9 +2475,6 @@ die Speise -n
 
 das Taxi -s
 سيارة أجرة;
-
-der Bus -se
-حافلة;
 
 der Passagier -e
 راكب;
@@ -2686,12 +2488,6 @@ der Fahrschein -e
 die Pünktlichkeit (sg.)
 دقة المواعيد;
 
-der Lehrer -
-معلم;
-
-die Lehrerin -nen
-معلمة;
-
 der Schüler -
 تلميذ;
 
@@ -2703,9 +2499,6 @@ die Klasse -n
 
 das Klassenzimmer -
 فصل دراسي;
-
-die Pause -n
-استراحة;
 
 die Mensa -en
 كافتيريا جامعية;
@@ -2776,15 +2569,6 @@ das Einkaufszentrum -en
 die Drogerie -n
 متجر مستلزمات منزلية;
 
-die Post (sg.)
-بريد; مكتب بريد;
-
-das Paket -e
-طرد;
-
-der Brief -e
-رسالة;
-
 die Briefmarke -n
 طابع بريدي;
 
@@ -2809,9 +2593,6 @@ die Treppe -n
 der Hof "-e
 فناء;
 
-der Garten "-
-حديقة;
-
 das Wohnzimmer -
 غرفة المعيشة;
 
@@ -2824,50 +2605,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 مكتب منزلي;
 
-die Toilette -n
-مرحاض;
-
-der Flur -e
-ممر;
-
-der Balkon -e
-شرفة;
-
 die Terrasse -n
 تراس;
 
 die Kaution -en
 تأمين;
 
-die Nebenkosten (pl.)
-تكاليف إضافية; رسوم خدمات;
-
-der Vermieter -
-مالك مؤجر;
-
-die Vermieterin -nen
-مالكة مؤجرة;
-
-der Mieter -
-مستأجر;
-
-die Mieterin -nen
-مستأجرة;
-
 die Besichtigung -en
 معاينة;
 
 die Renovierung -en
 تجديد;
-
-die Möbel (pl.)
-أثاث;
-
-das Sofa -s
-أريكة;
-
-der Sessel -
-كرسي بذراعين;
 
 der Vorhang "-e
 ستارة;
@@ -2887,14 +2635,8 @@ die Fernbedienung -en
 das Radio -s
 راديو;
 
-das Konzert -e
-حفل موسيقي;
-
 das Festival -s
 مهرجان;
-
-die Kultur -en
-ثقافة;
 
 das Hobby -s
 هواية;
@@ -2907,9 +2649,6 @@ der Fußball "-e
 
 das Tennis (sg.)
 تنس;
-
-das Schwimmbad "-er
-مسبح;
 
 das Fitnessstudio -s
 صالة رياضية;
@@ -2959,9 +2698,6 @@ die Schiedsrichterin -nen
 das Tor -e
 هدف;
 
-der Ball "-e
-كرة;
-
 die Halle -n
 صالة;
 
@@ -2991,12 +2727,6 @@ die Sicht -en
 
 die Einrichtung -en
 مؤسسة;
-
-die Einrichtung -en
-تجهيز; أثاث;
-
-die Einrichtung -en
-إعداد; تركيب;
 
 die Erinnerung -en
 ذكرى; تذكير;
@@ -3028,9 +2758,6 @@ die Rücksendung -en
 der Koffer -
 حقيبة سفر;
 
-das Gepäck (sg.)
-أمتعة;
-
 die Rezeption -en
 استقبال;
 
@@ -3042,9 +2769,6 @@ die Sicherheitskontrolle -n
 
 die Zollkontrolle -n
 تفتيش جمركي;
-
-der Zoll "-e
-جمارك; رسوم جمركية;
 
 der Flug "-e
 رحلة جوية;
@@ -3079,9 +2803,6 @@ die Lastschrift -en
 die Filiale -n
 فرع;
 
-die Bedienung -en
-خدمة; تشغيل;
-
 der Service -s
 خدمة;
 
@@ -3105,9 +2826,6 @@ die Sperrung -en
 
 die Entsperrung -en
 إلغاء الحظر;
-
-die Fabrik -en
-مصنع;
 
 die Produktion -en
 إنتاج;
@@ -3183,9 +2901,6 @@ das Vorstellungsgespräch -e
 
 der Gutschein -e
 قسيمة;
-
-die Ermäßigung -en
-تخفيض;
 
 die Warnung -en
 تحذير;
@@ -3439,23 +3154,14 @@ die Klausur -en
 das Examen -e
 امتحان;
 
-das Zeugnis -se
-شهادة;
-
 die Gutschrift -en
 إشعار دائن; إضافة رصيد;
-
-die Hausordnung -en
-قواعد المنزل;
 
 das Ereignis -se
 حدث;
 
 die Verzögerung -en
 تأخير;
-
-die Daten (pl.)
-بيانات;
 
 der Datenschutz (sg.)
 حماية البيانات;

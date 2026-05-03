@@ -86,10 +86,6 @@ vote{prs=votes, pst=voted};
 Viele Menschen wählen am Sonntag.
 Many people vote on Sunday.;
 
-v wählen
-choose{prs=chooses, pst=chose, par=chosen}; elect{prs=elects, pst=elected};
-[j-n; etw.]
-
 die Wahl -en
 choice; election;
 
@@ -130,10 +126,6 @@ advise{prs=advises, pst=advised}; recommend{prs=recommends, pst=recommended};
 
 Ich rate dir, früher zu schlafen.
 I advise you to go to sleep earlier.;
-
-v raten-rät / riet / hat geraten
-guess{prs=guesses, pst=guessed}; estimate{prs=estimates, pst=estimated};
-[etw.]
 
 Rate mal!
 Guess!;

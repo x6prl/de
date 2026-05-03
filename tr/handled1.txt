@@ -29,10 +29,6 @@ v einladen-lädt ein / lud ein / hat eingeladen
 davet etmek{prs=davet eder, pst=davet etti};
 [j-n; zu+Dat]
 
-v einladen-lädt ein / lud ein / hat eingeladen
-yüklemek{prs=yükler, pst=yükledi}; doldurmak;
-[etw.]
-
 a dann
 sonra; o zaman; ardından;
 
@@ -307,9 +303,6 @@ soğan;
 v finden-findet / fand / hat gefunden
 bulmak{prs=bulur, pst=buldu};
 
-v finden-findet / fand / hat gefunden
-bulmak{prs=bulur, pst=buldu}; düşünmek;
-
 v geben-gibt / gab / hat gegeben
 vermek{prs=verir, pst=verdi};
 [j-m; etw.]
@@ -325,10 +318,6 @@ almak{prs=alır, pst=aldı};
 
 v schmecken
 güzel gelmek{prs=güzel gelir, pst=güzel geldi}; lezzetli olmak;
-
-v schmecken
-tadını almak{prs=tadını alır, pst=tadını aldı};
-[etw.]
 
 a leer
 boş;

@@ -1,6 +1,3 @@
-das Leben (sg.)
-hayat; varoluş;
-
 der Weg -e
 yol; rota; yöntem;
 
@@ -9,9 +6,6 @@ parça; pay;
 
 die Gruppe -n
 grup;
-
-die Seite -n
-sayfa; taraf;
 
 die Art -en
 tür; çeşit; biçim;
@@ -75,9 +69,6 @@ sınav; inceleme; deneme;
 
 das Beispiel -e
 örnek; numune;
-
-die Erfahrung -en
-deneyim; tecrübe;
 
 das Studium -en
 üniversite eğitimi; öğrenim;
@@ -148,9 +139,6 @@ katkı; pay; yazı;
 der Inhalt -e
 içerik;
 
-die Nachricht -en
-mesaj; haber;
-
 die Mitteilung -en
 bildirim; mesaj;
 
@@ -165,12 +153,6 @@ talep; istek;
 
 das Angebot -e
 teklif; sunulan şey;
-
-der Vertrag "-e
-sözleşme; kontrat;
-
-die Bedingung -en
-koşul; şart;
 
 die Beratung -en
 danışmanlık; tavsiye;
@@ -208,17 +190,11 @@ sigorta; güvence;
 die Steuer -n
 vergi;
 
-der Staat -en
-devlet;
-
 die Regierung -en
 hükûmet;
 
 das Gesetz -e
 yasa; kanun;
-
-das Gericht -e
-mahkeme; yemek;
 
 der Prozess -e
 süreç; dava;
@@ -226,14 +202,8 @@ süreç; dava;
 die Industrie -n
 sanayi; endüstri;
 
-die Rechnung -en
-fatura; hesap;
-
 die Quittung -en
 makbuz; fiş;
-
-die Karte -n
-harita; kart;
 
 das Konto -en
 hesap; banka hesabı;
@@ -337,14 +307,8 @@ cümle; karar;
 der Anspruch "-e
 gereksinim; hak;
 
-der Antrag "-e
-beyan; teklif; Dilekçe;
-
 die Anlage -n
 ek; kurulum; inşaat; eklenti;
-
-die Ware -n
-ürün;
 
 die Zahlung -en
 ödeme;
@@ -373,9 +337,6 @@ rapor; ders;
 das Gespräch "-e
 konuşma; sohbet;
 
-die Bedeutung -en
-anlam;
-
 die Erklärung -en
 açıklama; beyan;
 
@@ -388,9 +349,6 @@ metin;
 die Geschichte -n
 hikaye;
 
-die Zeitung -en
-gazete;
-
 der Artikel -
 makale; ürün;
 
@@ -402,9 +360,6 @@ rol;
 
 die Figur -en
 şekil; karakter;
-
-das Lied -er
-şarkı;
 
 die Sicherheit -en
 güvenlik;
@@ -453,9 +408,6 @@ promosyon; artış;
 
 die Senkung -en
 düşüş; rütbe indirgemesi;
-
-die Wahl -en
-seçim; seçimler;
 
 die Konsequenz -en
 sonuç;
@@ -511,9 +463,6 @@ belirli an;
 die Anzahl -en
 miktar; sayı;
 
-die Gebühr -en
-koleksiyon; görev; komisyon;
-
 der Schaden "-en
 hasar;
 
@@ -544,17 +493,8 @@ araba; mekanizma;
 die Webseite -n
 web sayfası; web sitesi;
 
-die Anzeige -n
-duyuru; gösterge;
-
 die Meldung -en
 mesaj; bildirim;
-
-der Test -s
-test; inceleme;
-
-die Aufgabe -n
-egzersiz; görev;
 
 die Übersicht -en
 inceleme; özet;
@@ -564,9 +504,6 @@ die Zusammenfassung -en
 
 der Job -s
 pozisyon; yarı zamanlı iş;
-
-die Bewerbung -en
-beyan; yanıt; teklif;
 
 der Lebenslauf "-e
 hayat yolu; özgeçmiş; otobiyografi;
@@ -619,9 +556,6 @@ boyut; büyüklük;
 der Körper -
 vücut; organizma;
 
-der Kopf "-e
-kafa;
-
 der Rücken -
 sırt;
 
@@ -637,29 +571,14 @@ kaynak;
 der Zugriff -e
 erişim; veriye erişim;
 
-die Heizung -en
-ısıtma; ısıtma sistemi;
-
-die Miete -n
-kira;
-
 der Haushalt -e
 ev; bütçe;
 
 der Abfall "-e
 atık; çöp;
 
-die Umwelt (sg.)
-çevre;
-
 die Teilnahme -n
 katılım;
-
-der Teilnehmer -
-katılımcı;
-
-die Teilnehmerin -nen
-katılımcı;
 
 die Rückmeldung -en
 geri bildirim; yanıt;
@@ -718,12 +637,6 @@ ayrılık;
 der Auftrag "-e
 sipariş; ödev;
 
-der Kunde -n
-müşteri; alıcı;
-
-die Kundin -nen
-müşteri;
-
 der Anbieter -
 servis sağlayıcı; sağlayıcı;
 
@@ -762,9 +675,6 @@ stok; mevcudiyet; bileşim;
 
 das Sortiment -e
 çeşitler;
-
-der Rabatt -e
-indirim;
 
 die Aktion -en
 promosyon;
@@ -807,12 +717,6 @@ belge; taban;
 
 die Bescheinigung -en
 referans; sertifika;
-
-der Ausweis -e
-kimlik kartı; geçiş;
-
-der Pass "-e
-pasaport;
 
 die Kontrolle -n
 kontrol; inceleme;
@@ -868,9 +772,6 @@ der Austritt -e
 die Mitgliedschaft -en
 üyelik;
 
-das Mitglied -er
-üye;
-
 der Verein -e
 kulüp; dernek;
 
@@ -921,9 +822,6 @@ dava; şikayet;
 
 die Berufung -en
 temyiz; meslek;
-
-die Strafe -n
-para cezası; ceza;
 
 der Täter -
 suçlu;
@@ -1069,14 +967,8 @@ dilek;
 die Hoffnung -en
 umut;
 
-der Traum "-e
-rüya;
-
 der Streit -e
 anlaşmazlık; argüman;
-
-der Beruf -e
-meslek;
 
 der Arbeitnehmer -
 işçi; çalışan;
@@ -1089,9 +981,6 @@ işveren;
 
 die Arbeitgeberin -nen
 işveren;
-
-die Stelle -n
-iş unvanı; iş yeri;
 
 die Schicht -en
 vardiya;
@@ -1204,9 +1093,6 @@ trafik ışığı;
 die Brücke -n
 köprü;
 
-der Park -s
-park;
-
 der Einkauf "-e
 satın alma; alışveriş;
 
@@ -1215,9 +1101,6 @@ dükkan;
 
 das Geschäft -e
 dükkan; dava;
-
-das Zentrum -en
-merkez;
 
 der Bewohner -
 sakin;
@@ -1342,12 +1225,6 @@ yer; kare;
 der Sitz -e
 koltuk; yer;
 
-der Hafen "-
-liman;
-
-der Flughafen "-
-havaalanı;
-
 der Bahnsteig -e
 peron; platform;
 
@@ -1381,9 +1258,6 @@ yön;
 der Standort -e
 konum; platform; taban;
 
-das Ausland (sg.)
-yurtdışında;
-
 die Heimat -en
 vatan; yerli toprak;
 
@@ -1399,9 +1273,6 @@ vatandaş; sakin;
 die Bürgerin -nen
 vatandaş;
 
-die Staatsangehörigkeit -en
-vatandaşlık; milliyet;
-
 die Botschaft -en
 elçilik; haber;
 
@@ -1413,9 +1284,6 @@ die Mehrheit -en
 
 die Minderheit -en
 azınlık;
-
-die Abstimmung -en
-oy; koordinasyon;
 
 der Kandidat -en
 aday;
@@ -1442,12 +1310,6 @@ die Reparatur -en
 onarım;
 
 die Polizei (sg.)
-polis;
-
-der Polizist -en
-polis memuru;
-
-die Polizistin -nen
 polis;
 
 der Diebstahl "-e
@@ -1533,9 +1395,6 @@ gelir;
 
 die Ausgabe -n
 tüketim; harcama;
-
-die Ausgabe -n
-yayın; baskı;
 
 die Abgabe -n
 koleksiyon; kesinti; değişiklik;
@@ -1765,9 +1624,6 @@ araçlar; hazırlık;
 der Ursprung "-e
 kaynak; köken;
 
-die Küche -n
-mutfak;
-
 der Ofen "-
 fırın;
 
@@ -1885,9 +1741,6 @@ samimiyet;
 die Kante -n
 kenar;
 
-die Ecke -n
-köşe;
-
 die Mitte -n
 orta; merkez;
 
@@ -1981,9 +1834,6 @@ yayın;
 die Übernahme -n
 kabul; emilim;
 
-der Wettbewerb -e
-yarışma; rekabet;
-
 die Konkurrenz -en
 rekabet;
 
@@ -2001,9 +1851,6 @@ erişim hakkı; izin;
 
 die Sicherung -en
 rezervasyon; koruma; sigorta;
-
-das Zeichen -
-işaret; sembol;
 
 die Kennzeichnung -en
 işaretleme; atama;
@@ -2287,12 +2134,6 @@ bina; uzay; oda;
 die Fläche -n
 kare; yüzey;
 
-das Bett -en
-yatak;
-
-der Schrank "-e
-dolap;
-
 das Regal -e
 raf;
 
@@ -2302,14 +2143,8 @@ halı;
 die Decke -n
 tavan; battaniye;
 
-das Bad "-er
-banyo;
-
 das Badezimmer -
 banyo;
-
-die Dusche -n
-duş;
 
 die Badewanne -n
 kase;
@@ -2401,9 +2236,6 @@ diz;
 die Brust "-e
 göğüs;
 
-die Schulter -n
-omuz;
-
 der Hals "-e
 boyun; boğaz;
 
@@ -2436,9 +2268,6 @@ gömlek;
 
 die Hose -n
 pantolon;
-
-der Schuh -e
-ayakkabılar; ayakkabı;
 
 der Gürtel -
 kemer;
@@ -2500,9 +2329,6 @@ kıyı (nehir/göl);
 die Wüste -n
 çöl;
 
-der Regen (sg.)
-yağmur;
-
 der Schnee (sg.)
 kar;
 
@@ -2526,9 +2352,6 @@ yıldız;
 
 der Kugelschreiber -
 tükenmez kalem;
-
-der Bleistift -e
-kalem;
 
 die Mappe -n
 klasör; evrak çantası;
@@ -2596,9 +2419,6 @@ akşam yemeği;
 die Mahlzeit -en
 yemek;
 
-der Hunger (sg.)
-açlık;
-
 der Durst (sg.)
 susuzluk;
 
@@ -2608,9 +2428,6 @@ diyet;
 das Getränk -e
 içki;
 
-das Wasser (sg.)
-su;
-
 der Saft "-e
 meyve suyu;
 
@@ -2619,9 +2436,6 @@ der Tee -s
 
 der Kaffee -s
 kahve;
-
-die Milch (sg.)
-süt;
 
 das Bier -e
 bira;
@@ -2641,9 +2455,6 @@ erişte; makarna;
 der Supermarkt "-e
 süpermarket;
 
-die Bäckerei -en
-fırın;
-
 der Bäcker -
 fırıncı;
 
@@ -2653,14 +2464,8 @@ fırıncı;
 die Metzgerei -en
 kasap dükkanı;
 
-das Restaurant -s
-restoran;
-
 das Café -s
 kafe;
-
-die Kantine -n
-yemekhane;
 
 das Menü -s
 menü;
@@ -2670,9 +2475,6 @@ yemek;
 
 das Taxi -s
 taksi;
-
-der Bus -se
-otobüs;
 
 der Passagier -e
 yolcu;
@@ -2686,12 +2488,6 @@ bilet;
 die Pünktlichkeit (sg.)
 dakiklik;
 
-der Lehrer -
-öğretmen;
-
-die Lehrerin -nen
-öğretmen;
-
 der Schüler -
 öğrenci; okul çocuğu;
 
@@ -2703,9 +2499,6 @@ sınıf; kategori;
 
 das Klassenzimmer -
 sınıf;
-
-die Pause -n
-mola; duraklama;
 
 die Mensa -en
 öğrenci kantini;
@@ -2776,15 +2569,6 @@ alışveriş merkezi;
 die Drogerie -n
 ev kimyasalları mağazası; Drogerie;
 
-die Post (sg.)
-posta; postane;
-
-das Paket -e
-paket; plastik torba;
-
-der Brief -e
-mektup;
-
 die Briefmarke -n
 posta pulu;
 
@@ -2809,9 +2593,6 @@ merdiven;
 der Hof "-e
 avlu; çiftçilik;
 
-der Garten "-
-bahçe;
-
 das Wohnzimmer -
 oturma odası;
 
@@ -2824,50 +2605,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 kabine;
 
-die Toilette -n
-tuvalet;
-
-der Flur -e
-koridor;
-
-der Balkon -e
-balkon;
-
 die Terrasse -n
 teras;
 
 die Kaution -en
 rehin;
 
-die Nebenkosten (pl.)
-faturalar; Ekle. giderler;
-
-der Vermieter -
-ev sahibi;
-
-die Vermieterin -nen
-ev sahibesi;
-
-der Mieter -
-kiracı;
-
-die Mieterin -nen
-kiracı;
-
 die Besichtigung -en
 muayene;
 
 die Renovierung -en
 onarım (kozmetik); güncelleme;
-
-die Möbel (pl.)
-mobilyalar;
-
-das Sofa -s
-kanepe;
-
-der Sessel -
-koltuk;
 
 der Vorhang "-e
 perde;
@@ -2887,14 +2635,8 @@ uzaktan kumanda;
 das Radio -s
 radyo;
 
-das Konzert -e
-konser;
-
 das Festival -s
 festival;
-
-die Kultur -en
-kültür;
 
 das Hobby -s
 hobi; coşku;
@@ -2907,9 +2649,6 @@ futbol; futbol topu;
 
 das Tennis (sg.)
 tenis;
-
-das Schwimmbad "-er
-havuz;
 
 das Fitnessstudio -s
 spor kulübü; spor salonu;
@@ -2959,9 +2698,6 @@ hakem;
 das Tor -e
 kapılar; amaç;
 
-der Ball "-e
-top;
-
 die Halle -n
 salon; arena;
 
@@ -2991,12 +2727,6 @@ görüş; görünürlük; bakış açısı;
 
 die Einrichtung -en
 kurum;
-
-die Einrichtung -en
-durum; iç mekan;
-
-die Einrichtung -en
-ayar; kurulum;
 
 die Erinnerung -en
 hafıza; hatırlatma;
@@ -3028,9 +2758,6 @@ dönüş; iade nakliye;
 der Koffer -
 bavul;
 
-das Gepäck (sg.)
-bagaj;
-
 die Rezeption -en
 resepsiyon;
 
@@ -3042,9 +2769,6 @@ muayene; güvenlik kontrolü;
 
 die Zollkontrolle -n
 gümrük kontrolü;
-
-der Zoll "-e
-gümrükler; görev;
 
 der Flug "-e
 uçuş;
@@ -3079,9 +2803,6 @@ otomatik ödeme; otomatik banka para çekme;
 die Filiale -n
 şube; departman;
 
-die Bedienung -en
-hizmet; kumanda;
-
 der Service -s
 hizmet;
 
@@ -3105,9 +2826,6 @@ engelleme; kapatma;
 
 die Entsperrung -en
 kilit açma; engeli kaldırma;
-
-die Fabrik -en
-fabrika;
 
 die Produktion -en
 üretim; yayın;
@@ -3183,9 +2901,6 @@ iş görüşmesi;
 
 der Gutschein -e
 kupon; hediye sertifikası;
-
-die Ermäßigung -en
-indirim; avantaj;
 
 die Warnung -en
 uyarı;
@@ -3439,23 +3154,14 @@ yazılı sınav;
 das Examen -e
 sınav;
 
-das Zeugnis -se
-sertifika; karne;
-
 die Gutschrift -en
 alacak kaydı; alacak dekontu;
-
-die Hausordnung -en
-ev kuralları;
 
 das Ereignis -se
 olay;
 
 die Verzögerung -en
 gecikme; yavaşlama;
-
-die Daten (pl.)
-veriler; bilgiler;
 
 der Datenschutz (sg.)
 veri koruması;

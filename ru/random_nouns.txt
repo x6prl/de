@@ -1,6 +1,3 @@
-das Leben (sg.)
-жизнь; существование;
-
 der Weg -e
 путь; дорога; способ;
 
@@ -9,9 +6,6 @@ der Teil -e
 
 die Gruppe -n
 группа;
-
-die Seite -n
-страница; сторона;
 
 die Art -en
 вид; тип; способ;
@@ -75,9 +69,6 @@ die Prüfung -en
 
 das Beispiel -e
 пример; образец;
-
-die Erfahrung -en
-опыт;
 
 das Studium -en
 учеба (в вузе); обучение;
@@ -148,9 +139,6 @@ der Beitrag "-e
 der Inhalt -e
 содержание;
 
-die Nachricht -en
-сообщение; новость;
-
 die Mitteilung -en
 уведомление; сообщение;
 
@@ -165,12 +153,6 @@ die Nachfrage -n
 
 das Angebot -e
 предложение; оферта;
-
-der Vertrag "-e
-договор; контракт;
-
-die Bedingung -en
-условие;
 
 die Beratung -en
 консультация; совет;
@@ -208,17 +190,11 @@ die Versicherung -en
 die Steuer -n
 налог;
 
-der Staat -en
-государство;
-
 die Regierung -en
 правительство;
 
 das Gesetz -e
 закон;
-
-das Gericht -e
-суд; блюдо;
 
 der Prozess -e
 процесс; судебный процесс;
@@ -226,14 +202,8 @@ der Prozess -e
 die Industrie -n
 промышленность;
 
-die Rechnung -en
-счет; счет-фактура;
-
 die Quittung -en
 квитанция; чек;
-
-die Karte -n
-карта; карточка;
 
 das Konto -en
 счет (банковский);
@@ -337,14 +307,8 @@ das Urteil -e
 der Anspruch "-e
 требование; право (на что-то);
 
-der Antrag "-e
-заявление; заявка; ходатайство;
-
 die Anlage -n
 приложение (к письму); установка; сооружение; вложение;
-
-die Ware -n
-товар;
 
 die Zahlung -en
 платеж;
@@ -373,9 +337,6 @@ der Vortrag "-e
 das Gespräch "-e
 беседа; разговор;
 
-die Bedeutung -en
-значение; смысл;
-
 die Erklärung -en
 объяснение; декларация;
 
@@ -388,9 +349,6 @@ der Text -e
 die Geschichte -n
 история; рассказ;
 
-die Zeitung -en
-газета;
-
 der Artikel -
 статья; товар;
 
@@ -402,9 +360,6 @@ die Rolle -n
 
 die Figur -en
 фигура; персонаж;
-
-das Lied -er
-песня;
 
 die Sicherheit -en
 безопасность;
@@ -453,9 +408,6 @@ die Erhöhung -en
 
 die Senkung -en
 снижение; понижение;
-
-die Wahl -en
-выбор; выборы;
 
 die Konsequenz -en
 последствие;
@@ -511,9 +463,6 @@ der Zeitpunkt -e
 die Anzahl -en
 количество; численность;
 
-die Gebühr -en
-сбор; пошлина; комиссия;
-
 der Schaden "-en
 ущерб; повреждение;
 
@@ -544,17 +493,8 @@ die Maschine -n
 die Webseite -n
 веб-страница; сайт;
 
-die Anzeige -n
-объявление; индикация;
-
 die Meldung -en
 сообщение; уведомление;
-
-der Test -s
-тест; проверка;
-
-die Aufgabe -n
-задание; задача;
 
 die Übersicht -en
 обзор; сводка;
@@ -564,9 +504,6 @@ die Zusammenfassung -en
 
 der Job -s
 работа (должность); подработка;
-
-die Bewerbung -en
-заявление; отклик; заявка;
 
 der Lebenslauf "-e
 жизненный путь; резюме; автобиография;
@@ -619,9 +556,6 @@ die Größe -n
 der Körper -
 тело; организм;
 
-der Kopf "-e
-голова;
-
 der Rücken -
 спина;
 
@@ -637,29 +571,14 @@ die Ressource -n
 der Zugriff -e
 доступ; обращение (к данным);
 
-die Heizung -en
-отопление; система отопления;
-
-die Miete -n
-аренда; квартплата;
-
 der Haushalt -e
 домохозяйство; бюджет;
 
 der Abfall "-e
 отходы; мусор;
 
-die Umwelt (sg.)
-окружающая среда;
-
 die Teilnahme -n
 участие;
-
-der Teilnehmer -
-участник;
-
-die Teilnehmerin -nen
-участница;
 
 die Rückmeldung -en
 обратная связь; отклик;
@@ -718,12 +637,6 @@ die Trennung -en
 der Auftrag "-e
 заказ; поручение;
 
-der Kunde -n
-клиент; покупатель;
-
-die Kundin -nen
-клиентка; покупательница;
-
 der Anbieter -
 поставщик услуг; провайдер;
 
@@ -762,9 +675,6 @@ der Bestand "-e
 
 das Sortiment -e
 ассортимент;
-
-der Rabatt -e
-скидка;
 
 die Aktion -en
 акция; промо;
@@ -807,12 +717,6 @@ die Unterlage -n
 
 die Bescheinigung -en
 справка; удостоверение;
-
-der Ausweis -e
-удостоверение личности; пропуск;
-
-der Pass "-e
-паспорт;
 
 die Kontrolle -n
 контроль; проверка;
@@ -868,9 +772,6 @@ der Austritt -e
 die Mitgliedschaft -en
 членство;
 
-das Mitglied -er
-член (организации);
-
 der Verein -e
 клуб; объединение;
 
@@ -921,9 +822,6 @@ die Klage -n
 
 die Berufung -en
 апелляция; призвание;
-
-die Strafe -n
-штраф; наказание;
 
 der Täter -
 преступник; виновный;
@@ -1069,14 +967,8 @@ der Wunsch "-e
 die Hoffnung -en
 надежда;
 
-der Traum "-e
-сон (видение); мечта;
-
 der Streit -e
 спор; ссора;
-
-der Beruf -e
-профессия;
 
 der Arbeitnehmer -
 работник; сотрудник;
@@ -1089,9 +981,6 @@ der Arbeitgeber -
 
 die Arbeitgeberin -nen
 работодательница;
-
-die Stelle -n
-должность; место (работы);
 
 die Schicht -en
 смена;
@@ -1204,9 +1093,6 @@ die Ampel -n
 die Brücke -n
 мост;
 
-der Park -s
-парк;
-
 der Einkauf "-e
 покупка; шопинг;
 
@@ -1215,9 +1101,6 @@ der Laden "-
 
 das Geschäft -e
 магазин; дело;
-
-das Zentrum -en
-центр;
 
 der Bewohner -
 житель;
@@ -1342,12 +1225,6 @@ der Platz "-e
 der Sitz -e
 сиденье; место;
 
-der Hafen "-
-порт; гавань;
-
-der Flughafen "-
-аэропорт;
-
 der Bahnsteig -e
 платформа (на вокзале); перрон;
 
@@ -1381,9 +1258,6 @@ die Richtung -en
 der Standort -e
 местоположение; площадка; база;
 
-das Ausland (sg.)
-заграница; зарубежье;
-
 die Heimat -en
 родина; родной край;
 
@@ -1399,9 +1273,6 @@ der Bürger -
 die Bürgerin -nen
 гражданка;
 
-die Staatsangehörigkeit -en
-гражданство; национальная принадлежность;
-
 die Botschaft -en
 посольство; весть (сообщение);
 
@@ -1413,9 +1284,6 @@ die Mehrheit -en
 
 die Minderheit -en
 меньшинство;
-
-die Abstimmung -en
-голосование; согласование;
 
 der Kandidat -en
 кандидат;
@@ -1443,12 +1311,6 @@ die Reparatur -en
 
 die Polizei (sg.)
 полиция;
-
-der Polizist -en
-полицейский;
-
-die Polizistin -nen
-полицейская;
 
 der Diebstahl "-e
 кража;
@@ -1533,9 +1395,6 @@ das Einkommen -
 
 die Ausgabe -n
 расход; трата;
-
-die Ausgabe -n
-выпуск; издание;
 
 die Abgabe -n
 сбор; отчисление; сдача;
@@ -1765,9 +1624,6 @@ das Mittel -
 der Ursprung "-e
 исток; происхождение;
 
-die Küche -n
-кухня;
-
 der Ofen "-
 духовка; печь;
 
@@ -1885,9 +1741,6 @@ die Nähe (sg.)
 die Kante -n
 край; кромка;
 
-die Ecke -n
-угол;
-
 die Mitte -n
 середина; центр;
 
@@ -1981,9 +1834,6 @@ die Übergabe -n
 die Übernahme -n
 принятие; поглощение;
 
-der Wettbewerb -e
-конкурс; конкуренция;
-
 die Konkurrenz -en
 конкуренция; соперничество;
 
@@ -2001,9 +1851,6 @@ die Berechtigung -en
 
 die Sicherung -en
 резервирование; защита; предохранитель;
-
-das Zeichen -
-знак; символ;
 
 die Kennzeichnung -en
 маркировка; обозначение;
@@ -2287,12 +2134,6 @@ der Raum "-e
 die Fläche -n
 площадь; поверхность;
 
-das Bett -en
-кровать;
-
-der Schrank "-e
-шкаф;
-
 das Regal -e
 полка; стеллаж;
 
@@ -2302,14 +2143,8 @@ der Teppich -e
 die Decke -n
 потолок; одеяло;
 
-das Bad "-er
-ванная; ванна;
-
 das Badezimmer -
 ванная комната;
-
-die Dusche -n
-душ;
 
 die Badewanne -n
 ванна (чаша);
@@ -2401,9 +2236,6 @@ das Knie -
 die Brust "-e
 грудь;
 
-die Schulter -n
-плечо;
-
 der Hals "-e
 шея; горло;
 
@@ -2436,9 +2268,6 @@ das Hemd -en
 
 die Hose -n
 брюки; штаны;
-
-der Schuh -e
-обувь; ботинок;
 
 der Gürtel -
 ремень;
@@ -2500,9 +2329,6 @@ das Ufer -
 die Wüste -n
 пустыня;
 
-der Regen (sg.)
-дождь;
-
 der Schnee (sg.)
 снег;
 
@@ -2526,9 +2352,6 @@ der Stern -e
 
 der Kugelschreiber -
 шариковая ручка;
-
-der Bleistift -e
-карандаш;
 
 die Mappe -n
 папка; портфель;
@@ -2596,9 +2419,6 @@ das Abendessen -
 die Mahlzeit -en
 прием пищи; трапеза;
 
-der Hunger (sg.)
-голод;
-
 der Durst (sg.)
 жажда;
 
@@ -2608,9 +2428,6 @@ die Diät -en
 das Getränk -e
 напиток;
 
-das Wasser (sg.)
-вода;
-
 der Saft "-e
 сок;
 
@@ -2619,9 +2436,6 @@ der Tee -s
 
 der Kaffee -s
 кофе;
-
-die Milch (sg.)
-молоко;
 
 das Bier -e
 пиво;
@@ -2641,9 +2455,6 @@ die Nudel -n
 der Supermarkt "-e
 супермаркет;
 
-die Bäckerei -en
-пекарня; булочная;
-
 der Bäcker -
 пекарь;
 
@@ -2653,14 +2464,8 @@ die Bäckerin -nen
 die Metzgerei -en
 мясная лавка; мясной магазин;
 
-das Restaurant -s
-ресторан;
-
 das Café -s
 кафе;
-
-die Kantine -n
-столовая;
 
 das Menü -s
 меню (комплекс);
@@ -2670,9 +2475,6 @@ die Speise -n
 
 das Taxi -s
 такси;
-
-der Bus -se
-автобус;
 
 der Passagier -e
 пассажир;
@@ -2686,12 +2488,6 @@ der Fahrschein -e
 die Pünktlichkeit (sg.)
 пунктуальность;
 
-der Lehrer -
-учитель;
-
-die Lehrerin -nen
-учительница;
-
 der Schüler -
 ученик; школьник;
 
@@ -2703,9 +2499,6 @@ die Klasse -n
 
 das Klassenzimmer -
 классная комната;
-
-die Pause -n
-перемена; пауза;
 
 die Mensa -en
 студенческая столовая;
@@ -2776,15 +2569,6 @@ das Einkaufszentrum -en
 die Drogerie -n
 магазин бытовой химии; дрогери;
 
-die Post (sg.)
-почта; почтовое отделение;
-
-das Paket -e
-посылка; пакет;
-
-der Brief -e
-письмо;
-
 die Briefmarke -n
 почтовая марка;
 
@@ -2809,9 +2593,6 @@ die Treppe -n
 der Hof "-e
 двор; хозяйство;
 
-der Garten "-
-сад;
-
 das Wohnzimmer -
 гостиная;
 
@@ -2824,50 +2605,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 кабинет;
 
-die Toilette -n
-туалет;
-
-der Flur -e
-коридор;
-
-der Balkon -e
-балкон;
-
 die Terrasse -n
 терраса;
 
 die Kaution -en
 залог;
 
-die Nebenkosten (pl.)
-коммунальные платежи; доп. расходы;
-
-der Vermieter -
-арендодатель;
-
-die Vermieterin -nen
-арендодателька;
-
-der Mieter -
-арендатор; жилец;
-
-die Mieterin -nen
-арендаторка;
-
 die Besichtigung -en
 осмотр;
 
 die Renovierung -en
 ремонт (косметический); обновление;
-
-die Möbel (pl.)
-мебель;
-
-das Sofa -s
-диван;
-
-der Sessel -
-кресло;
 
 der Vorhang "-e
 штора;
@@ -2887,14 +2635,8 @@ die Fernbedienung -en
 das Radio -s
 радио; радиоприемник;
 
-das Konzert -e
-концерт;
-
 das Festival -s
 фестиваль;
-
-die Kultur -en
-культура;
 
 das Hobby -s
 хобби; увлечение;
@@ -2907,9 +2649,6 @@ der Fußball "-e
 
 das Tennis (sg.)
 теннис;
-
-das Schwimmbad "-er
-бассейн;
 
 das Fitnessstudio -s
 фитнес-клуб; спортзал;
@@ -2959,9 +2698,6 @@ die Schiedsrichterin -nen
 das Tor -e
 ворота; гол;
 
-der Ball "-e
-мяч; шар;
-
 die Halle -n
 зал; арена;
 
@@ -2991,12 +2727,6 @@ die Sicht -en
 
 die Einrichtung -en
 учреждение;
-
-die Einrichtung -en
-обстановка; интерьер;
-
-die Einrichtung -en
-настройка; установка;
 
 die Erinnerung -en
 воспоминание; напоминание;
@@ -3028,9 +2758,6 @@ die Rücksendung -en
 der Koffer -
 чемодан;
 
-das Gepäck (sg.)
-багаж;
-
 die Rezeption -en
 стойка регистрации; рецепция;
 
@@ -3042,9 +2769,6 @@ die Sicherheitskontrolle -n
 
 die Zollkontrolle -n
 таможенный контроль;
-
-der Zoll "-e
-таможня; пошлина;
 
 der Flug "-e
 перелет; рейс;
@@ -3079,9 +2803,6 @@ die Lastschrift -en
 die Filiale -n
 филиал; отделение;
 
-die Bedienung -en
-обслуживание; управление (прибором);
-
 der Service -s
 сервис; обслуживание;
 
@@ -3105,9 +2826,6 @@ die Sperrung -en
 
 die Entsperrung -en
 разблокировка;
-
-die Fabrik -en
-фабрика; завод;
 
 die Produktion -en
 производство; выпуск;
@@ -3183,9 +2901,6 @@ das Vorstellungsgespräch -e
 
 der Gutschein -e
 купон; подарочный сертификат;
-
-die Ermäßigung -en
-скидка; льгота;
 
 die Warnung -en
 предупреждение; предостережение;
@@ -3439,23 +3154,14 @@ die Klausur -en
 das Examen -e
 экзамен;
 
-das Zeugnis -se
-свидетельство; аттестат; характеристика;
-
 die Gutschrift -en
 кредит-нота; зачет средств;
-
-die Hausordnung -en
-правила внутреннего распорядка (дома);
 
 das Ereignis -se
 событие;
 
 die Verzögerung -en
 задержка; замедление;
-
-die Daten (pl.)
-данные; сведения;
 
 der Datenschutz (sg.)
 защита данных;

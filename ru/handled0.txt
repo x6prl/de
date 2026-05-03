@@ -86,10 +86,6 @@ v wählen
 Viele Menschen wählen am Sonntag.
 Многие люди голосуют в воскресенье.;
 
-v wählen
-выбирать{prs=выбирает, pst=выбирал}; избирать{prs=избирает, pst=выбирал};
-[j-n; etw.]
-
 die Wahl -en
 выбор; выборы;
 
@@ -130,10 +126,6 @@ v raten-rät / riet / hat geraten
 
 Ich rate dir, früher zu schlafen.
 Я советую тебе ложиться спать раньше.;
-
-v raten-rät / riet / hat geraten
-угадывать{prs=угадывает, pst=угадывал}; отгадывать{prs=отгадывает, pst=отгадывал};
-[etw.]
 
 Rate mal!
 Угадай!;

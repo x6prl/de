@@ -1,0 +1,854 @@
+m²
+متر مربع; أمتار مربعة;
+
+KM
+إيجار أساسي من دون مرافق; إيجار بارد;
+
+NK
+تكاليف إضافية; رسوم الخدمات; المرافق;
+
+die Wohnungsanzeige -n
+إعلان شقة; إعلان سكن;
+
+der Quadratmeter -
+متر مربع;
+
+die Kaltmiete -n
+إيجار أساسي من دون مرافق; إيجار بارد;
+
+der Nachmieter -
+مستأجر لاحق; مستأجر بديل;
+
+der Vormieter -
+المستأجر السابق;
+
+der Strom (sg.)
+كهرباء;
+
+der Parkplatz "-e
+مكان ركن; موقف سيارة;
+
+eine Wohnung mieten
+يستأجر شقة;
+
+einen Stellplatz mieten
+يستأجر موقفًا;
+
+die Rechnung -en
+فاتورة; حساب;
+
+die Rückzahlung -en
+استرداد; ردّ المبلغ;
+
+die Nachzahlung -en
+دفعة إضافية; مبلغ تكميلي;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+الشقة غالية جدًا، لكنني أستطيع أن أدفع ثمنها.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+الشقة غالية أكثر من اللازم، ولا أستطيع أن أدفع ثمنها.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+يمكن استعمال sehr و zu مع جميع الصفات. وغالبًا ما يكون لـ zu معنى سلبي.;
+
+Das Essen ist zu heiß.
+الطعام ساخن أكثر من اللازم.;
+
+Das Essen ist sehr heiß.
+الطعام ساخن جدًا.;
+
+a zu
+أكثر من اللازم; جدًا بشكل مزعج;
+
+sehr teuer
+غالي جدًا;
+
+zu teuer
+غالي أكثر من اللازم;
+
+sehr heiß
+ساخن جدًا;
+
+zu heiß
+ساخن أكثر من اللازم;
+
+die Bedeutung -en
+معنى;
+
+v kombinieren / kombinierte / hat kombiniert
+يجمع{prs=يجمع, pst=جمع}; يدمج{prs=يدمج, pst=دمج};
+
+ich darf
+مسموح لي; يجوز لي;
+
+du darfst
+مسموح لك; يجوز لك;
+
+er/sie/es darf
+مسموح له; مسموح لها; مسموح له بذلك; يجوز;
+
+wir dürfen
+مسموح لنا; يجوز لنا;
+
+ihr dürft
+مسموح لكم; يجوز لكم;
+
+sie/Sie dürfen
+مسموح لهم; مسموح لكم; يجوز لهم; يجوز لكم;
+
+Es ist erlaubt.
+هذا مسموح.;
+
+Wir dürfen auf dem Balkon grillen.
+مسموح لنا أن نشوي على الشرفة.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+لا يجوز للأطفال دون الثامنة عشرة شراء الكحول.;
+
+Ich darf in meiner Wohnung laut singen.
+مسموح لي أن أغني بصوت عالٍ في شقتي.;
+
+die Nachtruhe (sg.)
+ساعات الهدوء الليلية; راحة الليل;
+
+die Mittagsruhe (sg.)
+ساعات الهدوء وقت الظهيرة; راحة الظهر;
+
+die Hausordnung -en
+قوانين المنزل; قواعد المبنى;
+
+die Ruhe -n
+هدوء; راحة; سكينة;
+
+die Ordnung -en
+نظام; قواعد; ترتيب;
+
+der Kinderwagen -
+عربة طفل; عربة رضيع;
+
+der Hausflur -e
+ممر داخل المبنى; ممر مشترك;
+
+Kinderwagen im Hausflur
+عربة طفل في الممر المشترك;
+
+der Schuh -e
+حذاء;
+
+das Treppenhaus "-er
+بيت الدرج; منطقة السلم في المبنى;
+
+Schuhe im Treppenhaus
+أحذية في بيت الدرج;
+
+das Haustier -e
+حيوان أليف;
+
+kleine Tiere
+حيوانات صغيرة;
+
+Kleine Tiere sind erlaubt.
+الحيوانات الصغيرة مسموح بها.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+عند وجود قطط أو كلاب يجب سؤال المالك.;
+
+a hoch höher am höchsten
+عالٍ{cmp=أعلى, sup=الأعلى}; طويل{cmp=أطول, sup=الأطول};
+
+Das Haus ist hoch.
+البيت عالٍ.;
+
+Der Preis ist hoch.
+السعر مرتفع.;
+
+a tief tiefer am tiefsten
+عميق{cmp=أعمق, sup=الأعمق}; منخفض{cmp=أخفض, sup=الأخفض};
+
+a niedrig
+منخفض;
+
+der tiefste Preis
+أقل سعر;
+
+der niedrigste Preis
+أقل سعر;
+
+das Benzin (sg.)
+بنزين;
+
+die Preise für Diesel und Benzin (pl.)
+أسعار الديزل والبنزين;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+أسعار الديزل والبنزين مرتفعة جدًا الآن.;
+
+die Geschwindigkeitsbegrenzung -en
+حد السرعة; تحديد السرعة;
+
+die Geschwindigkeit -en
+سرعة;
+
+die Begrenzung -en
+حد; تقييد;
+
+v begrenzen / begrenzte / hat begrenzt
+يحد{prs=يحد, pst=حد}; يقيّد{prs=يقيّد, pst=قيّد};
+
+mal so, mal so
+مرة هكذا ومرة هكذا; يختلف;
+
+immer abends
+دائمًا في المساء;
+
+am Morgen außer dienstags und donnerstags
+في الصباح ما عدا الثلاثاء والخميس;
+
+außer + Dat.
+باستثناء; ما عدا;
+
+Es ist verboten.
+هذا ممنوع. ; هذا محظور.;
+
+v verbieten-verbietet / verbot / hat verboten
+يمنع{prs=يمنع, pst=منع}; يحظر{prs=يحظر, pst=حظر};
+
+der Aberglaube (sg.)
+خرافة; اعتقاد خرافي;
+
+Das ist nur Aberglaube.
+هذا مجرد خرافة.;
+
+der Glaube -n
+إيمان; اعتقاد;
+
+der Polterabend -e
+حفلة ما قبل الزفاف لكسر الصحون من أجل الحظ;
+
+die schwarze Katze -n
+قطة سوداء;
+
+Eine schwarze Katze bringt Unglück.
+القطة السوداء تجلب سوء الحظ.;
+
+v poltern / polterte / hat gepoltert
+يحدث ضجة{prs=يحدث ضجة, pst=أحدث ضجة}; يدوي{prs=يدوي, pst=دوى};
+
+das Unglück (sg.)
+سوء حظ; مصيبة;
+
+der Knoblauch (sg.)
+ثوم;
+
+Knoblauch schützt vor Vampiren.
+الثوم يحمي من مصاصي الدماء.;
+
+v schützen / schützte / hat geschützt
+يحمي{prs=يحمي, pst=حمى};
+
+der Vampir -e
+مصاص دماء;
+
+a bereit
+جاهز;
+
+Wir sind bereit.
+نحن جاهزون.;
+
+Bist du bereit?
+هل أنت جاهز؟;
+
+die Hälfte -n
+نصف; نصف واحد;
+
+die Traumwohnung -en
+شقة الأحلام; الشقة المثالية;
+
+der Traum "-e
+حلم; طموح;
+
+124,68
+مئة وأربعة وعشرون فاصلة ثمانية وستون;
+
+1.246,8
+ألف ومئتان وستة وأربعون فاصلة ثمانية;
+
+1246 (Jahr)
+اثنا عشر وستة وأربعون عند قراءة السنة;
+
+1.000.000
+مليون واحد;
+
+10.000.000
+عشرة ملايين;
+
+v machen / machte / hat gemacht
+يفعل{prs=يفعل, pst=فعل}; يصنع{prs=يصنع, pst=صنع};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+يغلق{prs=يغلق, pst=أغلق};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+يفتح{prs=يفتح, pst=فتح};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+يطفئ{prs=يطفئ, pst=أطفأ}; يرتب{prs=يرتب, pst=رتب}; يهم{prs=يهم, pst=هم};
+
+v anmachen-macht an / machte an / hat angemacht
+يشغل{prs=يشغل, pst=شغّل}; يغازل{prs=يغازل, pst=غازل};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+يتفق{prs=يتفق, pst=اتفق}; يزيل{prs=يزيل, pst=أزال};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+يحفظ{prs=يحفظ, pst=حفظ}; يعلّب{prs=يعلّب, pst=علّب};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+يواصل{prs=يواصل, pst=واصل}; يستمر{prs=يستمر, pst=استمر};
+
+die Vorsilbe -n
+بادئة;
+
+die Präposition -en
+حرف جر;
+
+a ähnlich
+مشابه; مماثل;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+يوقّع{prs=يوقّع, pst=وقّع};
+
+die Unterschrift -en
+توقيع;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+يضع خطًا تحت{prs=يضع خطًا تحت, pst=وضع خطًا تحت}; يؤكد بالتسطير{prs=يؤكد بالتسطير, pst=أكد بالتسطير};
+
+v reinigen / reinigte / hat gereinigt
+ينظف{prs=ينظف, pst=نظف}; يطهّر{prs=يطهّر, pst=طهّر};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+يرتب بعيدًا{prs=يرتب بعيدًا, pst=رتب بعيدًا}; يزيل{prs=يزيل, pst=أزال};
+
+Ich unterschreibe den Brief.
+أنا أوقّع الرسالة.;
+
+Ich unterstreiche ein Wort im Text.
+أنا أضع خطًا تحت كلمة في النص.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+أريد أن يرتب أطفالي أشياءهم.;
+
+Ich möchte meine Kinder wegräumen.
+أريد أن أتخلص من أطفالي.;
+
+Ich war schwimmen.
+ذهبت للسباحة.;
+
+Wir waren im Park.
+كنا في الحديقة.;
+
+in + Dat./Akk.
+في; إلى داخل;
+
+der Park -s
+حديقة;
+
+der Zustand "-e
+حالة; وضع;
+
+Ich war zu Hause.
+كنت في البيت.;
+
+Er war krank.
+كان مريضًا.;
+
+Wir waren im Kino.
+كنا في السينما.;
+
+Ich war einkaufen.
+ذهبت للتسوق.;
+
+Ich gebe mir die Schuld.
+أنا ألوم نفسي.;
+
+sich Vorwürfe machen
+يؤنب نفسه; يشعر بالذنب;
+
+der Schaufensterbummel -
+جولة لمشاهدة واجهات المحلات;
+
+einen Schaufensterbummel machen
+يقوم بجولة لمشاهدة واجهات المحلات;
+
+der Bummel -
+نزهة هادئة; تجول مريح في المتاجر;
+
+einen Bummel machen
+يقوم بنزهة هادئة;
+
+das Sprichwort "-er
+مثل; قول مأثور;
+
+das Motto -s
+شعار;
+
+das geflügelte Wort "-er
+عبارة مشهورة; قول متداول;
+
+v entspannen / entspannte / hat entspannt
+يريح{prs=يريح, pst=أراح}; يرخّي{prs=يرخّي, pst=رخّى};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+يسترخي{prs=يسترخي, pst=استرخى}; يرتاح{prs=يرتاح, pst=ارتاح};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+يستريح{prs=يستريح, pst=استراح};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+يستريح{prs=يستريح, pst=استراح}; يأخذ قسطًا من الراحة{prs=يأخذ قسطًا من الراحة, pst=أخذ قسطًا من الراحة};
+
+v chillen / chillte / hat gechillt
+يسترخي{prs=يسترخي, pst=استرخى}; يأخذ الأمور ببساطة{prs=يأخذ الأمور ببساطة, pst=أخذ الأمور ببساطة};
+
+v baden / badete / hat gebadet
+يستحم{prs=يستحم, pst=استحم}; يسبح{prs=يسبح, pst=سبح};
+
+im See baden
+يسبح في البحيرة;
+
+ein Kind baden
+يحمم طفلًا;
+
+a aufgeregt
+متحمس; منزعج; متوتر;
+
+Ich bin aufgeregt.
+أنا متحمس. ; أنا متوتر.;
+
+a gespannt
+متحمس; فضولي; مترقب;
+
+v sich freuen / freute sich / hat sich gefreut
+يفرح بـ{prs=يفرح بـ, pst=فرح بـ}; يتطلع إلى{prs=يتطلع إلى, pst=تطلع إلى};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+يشغل{prs=يشغل, pst=شغل}; يوظف{prs=يوظف, pst=وظّف};
+
+sich mit etw. beschäftigen
+ينشغل بشيء; يتعامل مع شيء;
+
+j-n beschäftigen
+يبقي شخصًا مشغولًا; يوظف شخصًا;
+
+die Beschäftigung -en
+نشاط; مهنة; عمل;
+
+nicht oft
+ليس كثيرًا;
+
+selten
+نادراً;
+
+sehr selten
+نادرًا جدًا;
+
+a regelmäßig
+بانتظام; منتظم;
+
+oft
+غالبًا; كثيرًا;
+
+a unregelmäßig
+بشكل غير منتظم; غير منتظم;
+
+die Ente -n
+بطة;
+
+Enten füttern
+يطعم البط;
+
+v füttern / fütterte / hat gefüttert
+يطعم الحيوانات{prs=يطعم الحيوانات, pst=أطعم الحيوانات};
+
+Das hängt ab.
+هذا يعتمد.;
+
+von etw. abhängen
+يعتمد على شيء;
+
+Das hängt von + Dat. ab.
+هذا يعتمد على ...;
+
+Das hängt vom Wetter ab.
+هذا يعتمد على الطقس.;
+
+Es hängt davon ab, ob ...
+يعتمد الأمر على ما إذا ...;
+
+Es kommt darauf an.
+الأمر يعتمد.;
+
+Das hängt davon ab.
+هذا يعتمد على ذلك. ; هذا يعتمد.;
+
+Nachrichten schauen
+يشاهد الأخبار;
+
+auf + Dat.
+على; على منصة أو موقع;
+
+bei + Dat.
+عند; لدى; من مصدر أو مزود;
+
+Am Freitag kommt meine Tochter.
+ابنتي قادمة يوم الجمعة.;
+
+Ich treffe sie am Bahnhof.
+سأقابلها في المحطة.;
+
+Er liebt italienische Pasta.
+هو يحب المعكرونة الإيطالية.;
+
+Er isst sie jeden Tag.
+هو يأكلها كل يوم.;
+
+Magst du den Mantel?
+هل يعجبك المعطف؟;
+
+Du kannst ihn kaufen.
+يمكنك أن تشتريه.;
+
+Wir treffen euch in der Schule.
+نحن نلتقي بكم في المدرسة.;
+
+Ich treffe dich in der Schule.
+أنا ألتقي بك في المدرسة.;
+
+Ich bin alleinerziehend.
+أنا والد منفرد; أربي طفلًا وحدي;
+
+Ich bin eine alleinerziehende Mutter.
+أنا أم تربي طفلًا وحدها.;
+
+Ich bin ein alleinerziehender Vater.
+أنا أب يربي طفلًا بمفرده.;
+
+Possessivartikel, Nominativ und Akkusativ
+أدوات الملكية، والرفع، والنصب;
+
+Ich sehe dich und deinen Hund.
+أراك وأرى كلبك.;
+
+Wir treffen ihn und seine Freunde.
+نحن نلتقي به وبأصدقائه.;
+
+Er trifft sie und ihre Freunde.
+هو يلتقي بها وبأصدقائها.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+يتعرف على{prs=يتعرف على, pst=تعرّف على}; يعرف عن قرب{prs=يعرف عن قرب, pst=عرف عن قرب};
+
+j-n kennenlernen
+يتعرف على شخص; يعرف شخصًا عن قرب;
+
+eine Stadt kennenlernen
+يتعرف على مدينة;
+
+Wir sehen uns morgen.
+أراك غدًا. ; سنرى بعضنا غدًا.;
+
+Dann sehe ich euch alle zusammen.
+ثم سأراكم جميعًا معًا.;
+
+zusammen
+معًا;
+
+Wir sehen uns.
+أراك لاحقًا. ; سنرى بعضنا.;
+
+Wo?
+أين؟;
+
+Wohin?
+إلى أين؟;
+
+Wohin gehst du am Abend?
+إلى أين تذهب في المساء؟;
+
+Ich gehe in den Park.
+أنا ذاهب إلى الحديقة.;
+
+Ich gehe in das Kino.
+أنا ذاهب إلى السينما.;
+
+Ich gehe ins Kino.
+أنا ذاهب إلى السينما.;
+
+Ich gehe in die Schule.
+أنا ذاهب إلى المدرسة.;
+
+v laufen-läuft / lief / ist gelaufen
+يركض{prs=يركض, pst=ركض}; يمشي{prs=يمشي, pst=مشى};
+
+v klettern / kletterte / hat geklettert
+يتسلق{prs=يتسلق, pst=تسلق};
+
+v rennen-rennt / rannte / ist gerannt
+يركض بسرعة{prs=يركض بسرعة, pst=ركض بسرعة};
+
+v wandern / wanderte / ist gewandert
+يتنزه سيرًا{prs=يتنزه سيرًا, pst=تنزه سيرًا}; يمشي في الطبيعة{prs=يمشي في الطبيعة, pst=مشى في الطبيعة};
+
+v fliegen-fliegt / flog / ist geflogen
+يطير{prs=يطير, pst=طار};
+
+nach
+إلى; نحو; بعد;
+
+Ich fahre nach Erfurt.
+أنا ذاهب إلى إرفورت.;
+
+Wir fliegen nach Palästina.
+نحن نطير إلى فلسطين.;
+
+v arbeiten / arbeitete / hat gearbeitet
+يعمل{prs=يعمل, pst=عمل};
+
+v lernen / lernte / hat gelernt
+يتعلم{prs=يتعلم, pst=تعلّم}; يدرس{prs=يدرس, pst=درس};
+
+v kaufen / kaufte / hat gekauft
+يشتري{prs=يشتري, pst=اشترى};
+
+v essen-isst / aß / hat gegessen
+يأكل{prs=يأكل, pst=أكل};
+
+v trinken / trank / hat getrunken
+يشرب{prs=يشرب, pst=شرب};
+
+Ich arbeite.
+أنا أعمل.;
+
+Ich lerne.
+أنا أتعلم. ; أنا أدرس.;
+
+Ich esse.
+أنا آكل.;
+
+Ich trinke.
+أنا أشرب.;
+
+das Perfekt (sg.)
+صيغة الماضي التام; بيرفيكت;
+
+das Hilfsverb -en
+فعل مساعد;
+
+das Partizip II (sg.)
+صيغة اسم المفعول; التصريف الثالث;
+
+Gestern habe ich lange gearbeitet.
+أمس عملت مدة طويلة.;
+
+Ich habe einen Kuchen genommen.
+أخذت كعكة.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+لم أعمل كثيرًا في عطلة نهاية الأسبوع.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+اشتريت هذا الكتاب قبل شهرين.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+أكلت أمس نودلز فيتنامية.;
+
+Ich habe gestern einen Spaziergang gemacht.
+قمت أمس بنزهة.;
+
+nicht
+ليس; لا;
+
+Ich arbeite nicht.
+أنا لا أعمل.;
+
+Ich habe nichts gekauft.
+لم أشتر شيئًا.;
+
+letzte
+الأخير; الماضي;
+
+zuerst
+أولًا; في البداية;
+
+alles
+كل شيء;
+
+Alle Schüler sind hier.
+كل الطلاب هنا.;
+
+Alles ist gut.
+كل شيء بخير.;
+
+gefüllte Paprika
+فلفل محشي;
+
+vorgestern
+أول أمس;
+
+viel
+كثير; الكثير;
+
+vor + Dat.
+قبل; منذ;
+
+der Spaziergang "-e
+نزهة; مشية;
+
+einen Spaziergang machen
+يقوم بنزهة;
+
+a gefüllt
+محشي; مملوء;
+
+Wann arbeiten Sie?
+متى تعمل؟; متى تعملون؟;
+
+Wann hast du Deutschkurs?
+متى لديك درس ألماني؟;
+
+von Montag bis Freitag
+من الاثنين إلى الجمعة;
+
+von 8:30 bis 11:45 Uhr
+من 8:30 إلى 11:45;
+
+jeden Tag
+كل يوم;
+
+jeden Tag in der Woche
+كل يوم في الأسبوع;
+
+jede Woche
+كل أسبوع;
+
+jeden Arbeitstag
+كل يوم عمل;
+
+Wann hast du eingekauft?
+متى ذهبت للتسوق؟;
+
+Ich habe vorgestern eingekauft.
+ذهبت للتسوق أول أمس.;
+
+Ich habe am Montag eingekauft.
+ذهبت للتسوق يوم الاثنين.;
+
+Ich habe keine Ahnung.
+ليس لدي أي فكرة.;
+
+v einchecken / checkte ein / hat eingecheckt
+يسجل الوصول{prs=يسجل الوصول, pst=سجل الوصول};
+
+v liefern / lieferte / hat geliefert
+يوصل{prs=يوصل, pst=أوصل}; يورّد{prs=يورّد, pst=ورّد};
+
+der Arbeitstag -e
+يوم عمل;
+
+die Ware -n
+بضاعة; سلع;
+
+der Flughafen -
+مطار;
+
+der Hafen "-
+ميناء; مرفأ;
+
+Ware liefern
+يوصل البضاعة; يورّد السلع;
+
+am Flughafen einchecken
+يسجل الوصول في المطار;
+
+im Hotel einchecken
+يسجل الوصول في الفندق;
+
+am Flughafen
+في المطار;
+
+zum Flughafen
+إلى المطار;
+
+vom Flughafen
+من المطار;
+
+im Hafen
+في الميناء;
+
+zum Hafen
+إلى الميناء;
+
+vom Hafen
+من الميناء;
+
+das Präteritum (sg.)
+الماضي البسيط;
+
+v gehen-geht / ging / ist gegangen
+يذهب{prs=يذهب, pst=ذهب};
+
+v helfen-hilft / half / hat geholfen
+يساعد{prs=يساعد, pst=ساعد};
+
+v bleiben-bleibt / blieb / ist geblieben
+يبقى{prs=يبقى, pst=بقي};
+
+v werden-wird / wurde / ist geworden
+يصبح{prs=يصبح, pst=أصبح};
+
+die Ermäßigung -en
+خصم; تخفيض; سعر مخفّض;
+
+mit Ermäßigung
+مع خصم;
+
+eine Ermäßigung bekommen
+يحصل على خصم;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+يتوقف{prs=يتوقف, pst=توقف}; يكف{prs=يكف, pst=كف};
+
+mit etw. aufhören
+يتوقف عن فعل شيء;
+
+Hör bitte auf!
+من فضلك توقف!;
+
+Er hört mit dem Rauchen auf.
+هو يقلع عن التدخين.;
+
+das Mitglied -er
+عضو;
+
+Mitglied sein
+يكون عضوًا;
+
+ein Mitglied der Familie
+فرد من العائلة;
+
+Mitglied in einem Verein
+عضو في نادٍ; عضو في جمعية;
+
+die Probestunde -n
+حصة تجريبية; درس تجريبي;
+
+die Schnupperstunde -n
+حصة تعريفية تجريبية; درس تمهيدي;
+
+noch einige Fragen
+بعض الأسئلة الأخرى; مزيد من الأسئلة;
+
+noch ein paar Fragen
+بضعة أسئلة أخرى;

@@ -49,12 +49,6 @@ mobilyalar;
 der Monat -e
 ay;
 
-der Nachbar -n
-komşu;
-
-die Nachbarin -nen
-komşu;
-
 die Nebenkosten (pl.)
 ek giderler; yan giderler;
 
@@ -162,9 +156,6 @@ modern; çağdaş;
 
 a weit
 uzak{cmp=daha uzak, sup=en uzak}; geniş{cmp=daha geniş, sup=en geniş}; ferah{cmp=daha ferah, sup=en ferah};
-
-a wichtig
-önemli{cmp=daha önemli, sup=en önemli}; kayda değer{cmp=daha kayda değer, sup=en kayda değer};
 
 ein bisschen
 biraz; azıcık;

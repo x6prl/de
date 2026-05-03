@@ -86,10 +86,6 @@ oy vermek{prs=oy verir, pst=oy verdi};
 Viele Menschen wählen am Sonntag.
 Birçok insan pazar günü oy kullanıyor.;
 
-v wählen
-seçmek{prs=seçer, pst=seçti}; göreve getirmek{prs=göreve getirir, pst=göreve getirdi};
-[j-n; etw.]
-
 die Wahl -en
 tercih; seçim;
 
@@ -130,10 +126,6 @@ tavsiye etmek{prs=tavsiye eder, pst=tavsiye etti}; önermek{prs=önerir, pst=ön
 
 Ich rate dir, früher zu schlafen.
 Sana daha erken uyumanı tavsiye ediyorum.;
-
-v raten-rät / riet / hat geraten
-tahmin etmek{prs=tahmin eder, pst=tahmin etti}; kestirmek{prs=kestirir, pst=kestirdi};
-[etw.]
 
 Rate mal!
 Tahmin et bakalım!;
@@ -229,10 +221,6 @@ bakmak{prs=bakar, pst=baktı}; seyretmek; incelemek;
 v einladen-lädt ein / lud ein / hat eingeladen
 davet etmek{prs=davet eder, pst=davet etti};
 [j-n; zu+Dat]
-
-v einladen-lädt ein / lud ein / hat eingeladen
-yüklemek{prs=yükler, pst=yükledi}; doldurmak;
-[etw.]
 
 a dann
 sonra; o zaman; ardından;
@@ -508,9 +496,6 @@ soğan;
 v finden-findet / fand / hat gefunden
 bulmak{prs=bulur, pst=buldu};
 
-v finden-findet / fand / hat gefunden
-bulmak{prs=bulur, pst=buldu}; düşünmek;
-
 v geben-gibt / gab / hat gegeben
 vermek{prs=verir, pst=verdi};
 [j-m; etw.]
@@ -526,10 +511,6 @@ almak{prs=alır, pst=aldı};
 
 v schmecken
 güzel gelmek{prs=güzel gelir, pst=güzel geldi}; lezzetli olmak;
-
-v schmecken
-tadını almak{prs=tadını alır, pst=tadını aldı};
-[etw.]
 
 a leer
 boş;
@@ -1321,12 +1302,6 @@ mobilyalar;
 der Monat -e
 ay;
 
-der Nachbar -n
-komşu;
-
-die Nachbarin -nen
-komşu;
-
 die Nebenkosten (pl.)
 ek giderler; yan giderler;
 
@@ -1434,9 +1409,6 @@ modern; çağdaş;
 
 a weit
 uzak{cmp=daha uzak, sup=en uzak}; geniş{cmp=daha geniş, sup=en geniş}; ferah{cmp=daha ferah, sup=en ferah};
-
-a wichtig
-önemli{cmp=daha önemli, sup=en önemli}; kayda değer{cmp=daha kayda değer, sup=en kayda değer};
 
 ein bisschen
 biraz; azıcık;
@@ -2114,6 +2086,1989 @@ Yarın kesinlikle geleceğim. ;
 Ich mache Sandwiches.
 Sandviç yapıyorum. ;
 
+m²
+metrekare; kare metre;
+
+KM
+yan giderler hariç temel kira; soğuk kira;
+
+NK
+ek giderler; hizmet bedelleri; yan giderler;
+
+die Wohnungsanzeige -n
+ev ilanı; daire ilanı;
+
+der Quadratmeter -
+metrekare;
+
+die Kaltmiete -n
+yan giderler hariç temel kira; soğuk kira;
+
+der Nachmieter -
+sonraki kiracı; yerine geçecek kiracı;
+
+der Vormieter -
+önceki kiracı;
+
+der Strom (sg.)
+elektrik;
+
+der Parkplatz "-e
+park yeri; otopark yeri;
+
+eine Wohnung mieten
+bir daire kiralamak;
+
+einen Stellplatz mieten
+bir park yeri kiralamak;
+
+die Rechnung -en
+fatura; hesap;
+
+die Rückzahlung -en
+geri ödeme; iade;
+
+die Nachzahlung -en
+ek ödeme; sonradan ödeme;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+Daire çok pahalı, ama parasını ödeyebilirim. ;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+Daire fazla pahalı, parasını ödeyemem. ;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr ve zu bütün sıfatlarla kullanılabilir. Zu çoğunlukla olumsuz bir anlam taşır. ;
+
+Das Essen ist zu heiß.
+Yemek fazla sıcak. ;
+
+Das Essen ist sehr heiß.
+Yemek çok sıcak. ;
+
+a zu
+fazla; gereğinden çok;
+
+sehr teuer
+çok pahalı;
+
+zu teuer
+fazla pahalı;
+
+sehr heiß
+çok sıcak;
+
+zu heiß
+fazla sıcak;
+
+die Bedeutung -en
+anlam;
+
+v kombinieren / kombinierte / hat kombiniert
+birleştirmek{prs=birleştirir, pst=birleştirdi}; kombinlemek{prs=kombinler, pst=kombinledi};
+
+ich darf
+yapmama izin var; yapabilirim;
+
+du darfst
+yapmana izin var; yapabilirsin;
+
+er/sie/es darf
+yapmasına izin var; yapmasına izin var; buna izin var; yapabilir;
+
+wir dürfen
+yapmamıza izin var; yapabiliriz;
+
+ihr dürft
+yapmanıza izin var; yapabilirsiniz;
+
+sie/Sie dürfen
+yapmalarına izin var; yapmanıza izin var; yapabilirler; yapabilirsiniz;
+
+Es ist erlaubt.
+Buna izin var. ;
+
+Wir dürfen auf dem Balkon grillen.
+Balkonda mangal yapmamıza izin var. ;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+18 yaşın altındaki çocuklar alkol satın alamaz. ;
+
+Ich darf in meiner Wohnung laut singen.
+Dairemde yüksek sesle şarkı söylememe izin var. ;
+
+die Nachtruhe (sg.)
+gece sessizlik saatleri; gece huzuru;
+
+die Mittagsruhe (sg.)
+öğle sessizlik saati; öğle dinlenme zamanı;
+
+die Hausordnung -en
+ev kuralları; bina kuralları;
+
+die Ruhe -n
+sakinlik; dinlenme; huzur;
+
+die Ordnung -en
+düzen; kurallar; tertip;
+
+der Kinderwagen -
+bebek arabası;
+
+der Hausflur -e
+apartman koridoru; ortak koridor;
+
+Kinderwagen im Hausflur
+ortak koridorda bebek arabası;
+
+der Schuh -e
+ayakkabı;
+
+das Treppenhaus "-er
+merdiven boşluğu; apartman merdiven alanı;
+
+Schuhe im Treppenhaus
+merdiven boşluğunda ayakkabılar;
+
+das Haustier -e
+evcil hayvan;
+
+kleine Tiere
+küçük hayvanlar;
+
+Kleine Tiere sind erlaubt.
+Küçük hayvanlara izin var. ;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+Kedi ya da köpek için ev sahibine sormak gerekir. ;
+
+a hoch höher am höchsten
+yüksek{cmp=daha yüksek, sup=en yüksek}; uzun{cmp=daha uzun, sup=en uzun};
+
+Das Haus ist hoch.
+Ev yüksek. ;
+
+Der Preis ist hoch.
+Fiyat yüksek. ;
+
+a tief tiefer am tiefsten
+derin{cmp=daha derin, sup=en derin}; alçak{cmp=daha alçak, sup=en alçak};
+
+a niedrig
+alçak; düşük;
+
+der tiefste Preis
+en düşük fiyat;
+
+der niedrigste Preis
+en düşük fiyat;
+
+das Benzin (sg.)
+benzin;
+
+die Preise für Diesel und Benzin (pl.)
+dizel ve benzin fiyatları;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Şu anda dizel ve benzin fiyatları çok yüksek. ;
+
+die Geschwindigkeitsbegrenzung -en
+hız sınırı;
+
+die Geschwindigkeit -en
+hız;
+
+die Begrenzung -en
+sınır; kısıtlama;
+
+v begrenzen / begrenzte / hat begrenzt
+sınırlamak{prs=sınırlar, pst=sınırladı}; kısıtlamak{prs=kısıtlar, pst=kısıtladı};
+
+mal so, mal so
+bazen şöyle bazen böyle; değişiyor;
+
+immer abends
+her zaman akşamları;
+
+am Morgen außer dienstags und donnerstags
+sabahları, salı ve perşembe hariç;
+
+außer + Dat.
+hariç; dışında;
+
+Es ist verboten.
+Yasaktır. ; Buna izin yok. ;
+
+v verbieten-verbietet / verbot / hat verboten
+yasaklamak{prs=yasaklar, pst=yasakladı}; men etmek{prs=men eder, pst=men etti};
+
+der Aberglaube (sg.)
+batıl inanç;
+
+Das ist nur Aberglaube.
+Bu sadece batıl inanç. ;
+
+der Glaube -n
+inanç; iman;
+
+der Polterabend -e
+iyi şans için tabak çanak kırılan düğün öncesi eğlence;
+
+die schwarze Katze -n
+siyah kedi;
+
+Eine schwarze Katze bringt Unglück.
+Siyah kedi uğursuzluk getirir. ;
+
+v poltern / polterte / hat gepoltert
+gürültü yapmak{prs=gürültü yapar, pst=gürültü yaptı}; gürlemek{prs=gürler, pst=gürledi};
+
+das Unglück (sg.)
+uğursuzluk; talihsizlik;
+
+der Knoblauch (sg.)
+sarımsak;
+
+Knoblauch schützt vor Vampiren.
+Sarımsak vampirlere karşı korur. ;
+
+v schützen / schützte / hat geschützt
+korumak{prs=korur, pst=korudu};
+
+der Vampir -e
+vampir;
+
+a bereit
+hazır;
+
+Wir sind bereit.
+Hazırız. ;
+
+Bist du bereit?
+Hazır mısın?;
+
+die Hälfte -n
+yarı; bir yarım;
+
+die Traumwohnung -en
+hayalindeki daire; ideal daire;
+
+der Traum "-e
+rüya; hayal;
+
+124,68
+yüz yirmi dört virgül altmış sekiz;
+
+1.246,8
+bin iki yüz kırk altı virgül sekiz;
+
+1246 (Jahr)
+yıl okunurken on iki kırk altı;
+
+1.000.000
+bir milyon;
+
+10.000.000
+on milyon;
+
+v machen / machte / hat gemacht
+yapmak{prs=yapar, pst=yaptı}; etmek{prs=eder, pst=etti};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+kapatmak{prs=kapatır, pst=kapattı};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+açmak{prs=açar, pst=açtı};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+kapatmak{prs=kapatır, pst=kapattı}; ayarlamak{prs=ayarlar, pst=ayarladı}; önemli olmak{prs=önemli olur, pst=önemli oldu};
+
+v anmachen-macht an / machte an / hat angemacht
+açmak{prs=açar, pst=açtı}; asılmak{prs=asılır, pst=asıldı};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+anlaşmak{prs=anlaşır, pst=anlaştı}; çıkarmak{prs=çıkarır, pst=çıkardı};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+konserve yapmak{prs=konserve yapar, pst=konserve yaptı}; saklamak{prs=saklar, pst=sakladı};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+devam etmek{prs=devam eder, pst=devam etti};
+
+die Vorsilbe -n
+önek;
+
+die Präposition -en
+edat;
+
+a ähnlich
+benzer; benzeri;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+imzalamak{prs=imzalar, pst=imzaladı};
+
+die Unterschrift -en
+imza;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+altını çizmek{prs=altını çizer, pst=altını çizdi};
+
+v reinigen / reinigte / hat gereinigt
+temizlemek{prs=temizler, pst=temizledi}; arındırmak{prs=arındırır, pst=arındırdı};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+ortadan kaldırmak{prs=ortadan kaldırır, pst=ortadan kaldırdı}; yerine kaldırmak{prs=yerine kaldırır, pst=yerine kaldırdı};
+
+Ich unterschreibe den Brief.
+Mektubu imzalıyorum. ;
+
+Ich unterstreiche ein Wort im Text.
+Metinde bir kelimenin altını çiziyorum. ;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+Çocuklarımın eşyalarını kaldırmasını istiyorum. ;
+
+Ich möchte meine Kinder wegräumen.
+Çocuklarımdan kurtulmak istiyorum. ;
+
+Ich war schwimmen.
+Yüzmeye gittim. ;
+
+Wir waren im Park.
+Parktaydık. ;
+
+in + Dat./Akk.
+içinde; içine;
+
+der Park -s
+park;
+
+der Zustand "-e
+durum; hal;
+
+Ich war zu Hause.
+Evdeydim. ;
+
+Er war krank.
+Hastaydı. ;
+
+Wir waren im Kino.
+Sinemadaydık. ;
+
+Ich war einkaufen.
+Alışverişe gittim. ;
+
+Ich gebe mir die Schuld.
+Kendimi suçluyorum. ;
+
+sich Vorwürfe machen
+kendini suçlamak; suçluluk duymak;
+
+der Schaufensterbummel -
+vitrin gezisi;
+
+einen Schaufensterbummel machen
+vitrin gezmek;
+
+der Bummel -
+keyifli gezinti; ağır ağır dolaşma;
+
+einen Bummel machen
+keyifli bir gezintiye çıkmak;
+
+das Sprichwort "-er
+atasözü; deyiş;
+
+das Motto -s
+slogan; motto;
+
+das geflügelte Wort "-er
+meşhur söz; kalıplaşmış ifade;
+
+v entspannen / entspannte / hat entspannt
+rahatlatmak{prs=rahatlatır, pst=rahatlattı};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+rahatlamak{prs=rahatlar, pst=rahatladı}; gevşemek{prs=gevşer, pst=gevşedi};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+dinlenmek{prs=dinlenir, pst=dinlendi};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+dinlenmek{prs=dinlenir, pst=dinlendi}; biraz soluklanmak{prs=biraz soluklanır, pst=biraz soluklandı};
+
+v chillen / chillte / hat gechillt
+takılmak{prs=takılır, pst=takıldı}; rahatlamak{prs=rahatlar, pst=rahatladı};
+
+v baden / badete / hat gebadet
+yıkanmak{prs=yıkanır, pst=yıkandı}; yüzmek{prs=yüzer, pst=yüzdü};
+
+im See baden
+gölde yüzmek;
+
+ein Kind baden
+bir çocuğu yıkamak;
+
+a aufgeregt
+heyecanlı; gergin; sinirli;
+
+Ich bin aufgeregt.
+Heyecanlıyım. ; Gerginim. ;
+
+a gespannt
+meraklı; heyecanla bekleyen; ilgili;
+
+v sich freuen / freute sich / hat sich gefreut
+sevinmek{prs=sevinir, pst=sevindi}; dört gözle beklemek{prs=dört gözle bekler, pst=dört gözle bekledi};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+meşgul etmek{prs=meşgul eder, pst=meşgul etti}; çalıştırmak{prs=çalıştırır, pst=çalıştırdı};
+
+sich mit etw. beschäftigen
+bir şeyle uğraşmak; bir şeyle meşgul olmak;
+
+j-n beschäftigen
+birini meşgul etmek; birini çalıştırmak;
+
+die Beschäftigung -en
+uğraş; meslek; iş;
+
+nicht oft
+sık değil; pek sık değil;
+
+selten
+nadiren;
+
+sehr selten
+çok nadiren;
+
+a regelmäßig
+düzenli olarak; düzenli;
+
+oft
+sık sık; sıkça;
+
+a unregelmäßig
+düzensiz olarak; düzensiz;
+
+die Ente -n
+ördek;
+
+Enten füttern
+ördekleri beslemek;
+
+v füttern / fütterte / hat gefüttert
+hayvanları beslemek{prs=hayvanları besler, pst=hayvanları besledi};
+
+Das hängt ab.
+Bu duruma bağlı. ; Bu duruma göre değişir. ;
+
+von etw. abhängen
+bir şeye bağlı olmak;
+
+Das hängt von + Dat. ab.
+Bu ... bağlıdır.;
+
+Das hängt vom Wetter ab.
+Bu havaya bağlı. ;
+
+Es hängt davon ab, ob ...
+Bu, ... olup olmamasına bağlı. ;
+
+Es kommt darauf an.
+Duruma bağlı. ;
+
+Das hängt davon ab.
+Buna bağlı. ; Duruma göre değişir. ;
+
+Nachrichten schauen
+haberleri izlemek;
+
+auf + Dat.
+üzerinde; bir platformda veya sitede;
+
+bei + Dat.
+bir yerde; bir sağlayıcıda; bir kaynaktan;
+
+Am Freitag kommt meine Tochter.
+Kızım cuma günü geliyor. ;
+
+Ich treffe sie am Bahnhof.
+Onu istasyonda karşılıyorum. ;
+
+Er liebt italienische Pasta.
+İtalyan makarnasını seviyor. ;
+
+Er isst sie jeden Tag.
+Onu her gün yiyor. ;
+
+Magst du den Mantel?
+Paltoyu beğeniyor musun?;
+
+Du kannst ihn kaufen.
+Onu satın alabilirsin. ;
+
+Wir treffen euch in der Schule.
+Sizi okulda görüyoruz. ;
+
+Ich treffe dich in der Schule.
+Seni okulda görüyorum. ;
+
+Ich bin alleinerziehend.
+Bekar ebeveynim.; Çocuğumu tek başıma büyütüyorum.;
+
+Ich bin eine alleinerziehende Mutter.
+Çocuğunu tek başına büyüten bir anneyim. ;
+
+Ich bin ein alleinerziehender Vater.
+Çocuğunu tek başına büyüten bir babayım. ;
+
+Possessivartikel, Nominativ und Akkusativ
+iyelik artikelleri, nominatif ve akkusatif;
+
+Ich sehe dich und deinen Hund.
+Seni ve köpeğini görüyorum. ;
+
+Wir treffen ihn und seine Freunde.
+Onunla ve arkadaşlarıyla buluşuyoruz. ;
+
+Er trifft sie und ihre Freunde.
+O, onunla ve arkadaşlarıyla buluşuyor. ;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+tanışmak{prs=tanışır, pst=tanıştı}; yakından tanımak{prs=yakından tanır, pst=yakından tanıdı};
+
+j-n kennenlernen
+biriyle tanışmak; birini tanımak;
+
+eine Stadt kennenlernen
+bir şehri tanımak;
+
+Wir sehen uns morgen.
+Yarın görüşürüz. ; Yarın birbirimizi görürüz. ;
+
+Dann sehe ich euch alle zusammen.
+Sonra hepinizi birlikte göreceğim. ;
+
+zusammen
+birlikte;
+
+Wir sehen uns.
+Görüşürüz. ; Birbirimizi görürüz. ;
+
+Wo?
+nerede?;
+
+Wohin?
+nereye?;
+
+Wohin gehst du am Abend?
+Akşam nereye gidiyorsun?;
+
+Ich gehe in den Park.
+Parka gidiyorum. ;
+
+Ich gehe in das Kino.
+Sinemaya gidiyorum. ;
+
+Ich gehe ins Kino.
+Sinemaya gidiyorum. ;
+
+Ich gehe in die Schule.
+Okula gidiyorum. ;
+
+v laufen-läuft / lief / ist gelaufen
+koşmak{prs=koşar, pst=koştu}; yürümek{prs=yürür, pst=yürüdü};
+
+v klettern / kletterte / hat geklettert
+tırmanmak{prs=tırmanır, pst=tırmandı};
+
+v rennen-rennt / rannte / ist gerannt
+hızlı koşmak{prs=hızlı koşar, pst=hızlı koştu};
+
+v wandern / wanderte / ist gewandert
+yürüyüş yapmak{prs=yürüyüş yapar, pst=yürüyüş yaptı}; doğa yürüyüşüne çıkmak{prs=doğa yürüyüşüne çıkar, pst=doğa yürüyüşüne çıktı};
+
+v fliegen-fliegt / flog / ist geflogen
+uçmak{prs=uçar, pst=uçtu};
+
+nach
+-e; -e doğru; sonra;
+
+Ich fahre nach Erfurt.
+Erfurt'a gidiyorum. ;
+
+Wir fliegen nach Palästina.
+Filistin'e uçuyoruz. ;
+
+v arbeiten / arbeitete / hat gearbeitet
+çalışmak{prs=çalışır, pst=çalıştı};
+
+v lernen / lernte / hat gelernt
+öğrenmek{prs=öğrenir, pst=öğrendi}; ders çalışmak{prs=ders çalışır, pst=ders çalıştı};
+
+v kaufen / kaufte / hat gekauft
+satın almak{prs=satın alır, pst=satın aldı};
+
+v essen-isst / aß / hat gegessen
+yemek yemek{prs=yemek yer, pst=yemek yedi};
+
+v trinken / trank / hat getrunken
+içmek{prs=içer, pst=içti};
+
+Ich arbeite.
+Çalışıyorum. ;
+
+Ich lerne.
+Öğreniyorum. ; Ders çalışıyorum. ;
+
+Ich esse.
+Yemek yiyorum. ;
+
+Ich trinke.
+İçiyorum. ;
+
+das Perfekt (sg.)
+Perfekt zaman; görülen geçmiş zaman yapısı;
+
+das Hilfsverb -en
+yardımcı fiil;
+
+das Partizip II (sg.)
+ortaç II; geçmiş ortaç;
+
+Gestern habe ich lange gearbeitet.
+Dün uzun süre çalıştım. ;
+
+Ich habe einen Kuchen genommen.
+Bir kek aldım. ;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+Hafta sonunda çok çalışmadım. ;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+Bu kitabı iki ay önce satın aldım. ;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+Dün Vietnam eriştesi yedim. ;
+
+Ich habe gestern einen Spaziergang gemacht.
+Dün yürüyüşe çıktım. ;
+
+nicht
+değil; ...me ...ma;
+
+Ich arbeite nicht.
+Çalışmıyorum. ;
+
+Ich habe nichts gekauft.
+Hiçbir şey satın almadım. ;
+
+letzte
+son; önceki;
+
+zuerst
+önce; ilk olarak;
+
+alles
+her şey;
+
+Alle Schüler sind hier.
+Bütün öğrenciler burada. ;
+
+Alles ist gut.
+Her şey iyi. ;
+
+gefüllte Paprika
+doldurulmuş biber; dolma biber;
+
+vorgestern
+evvelsi gün;
+
+viel
+çok; çok miktarda;
+
+vor + Dat.
+önce; ... önce;
+
+der Spaziergang "-e
+yürüyüş; gezinti;
+
+einen Spaziergang machen
+yürüyüş yapmak;
+
+a gefüllt
+doldurulmuş; içi doldurulmuş;
+
+Wann arbeiten Sie?
+Ne zaman çalışıyorsunuz?;
+
+Wann hast du Deutschkurs?
+Ne zaman Almanca dersin var?;
+
+von Montag bis Freitag
+pazartesiden cumaya;
+
+von 8:30 bis 11:45 Uhr
+8:30'dan 11:45'e kadar;
+
+jeden Tag
+her gün;
+
+jeden Tag in der Woche
+hafta boyunca her gün;
+
+jede Woche
+her hafta;
+
+jeden Arbeitstag
+her iş günü;
+
+Wann hast du eingekauft?
+Ne zaman alışveriş yaptın?;
+
+Ich habe vorgestern eingekauft.
+Evvelsi gün alışveriş yaptım. ;
+
+Ich habe am Montag eingekauft.
+Pazartesi alışveriş yaptım. ;
+
+Ich habe keine Ahnung.
+Hiçbir fikrim yok. ;
+
+v einchecken / checkte ein / hat eingecheckt
+check-in yapmak{prs=check-in yapar, pst=check-in yaptı}; giriş kaydı yaptırmak{prs=giriş kaydı yaptırır, pst=giriş kaydı yaptırdı};
+
+v liefern / lieferte / hat geliefert
+teslim etmek{prs=teslim eder, pst=teslim etti}; tedarik etmek{prs=tedarik eder, pst=tedarik etti};
+
+der Arbeitstag -e
+iş günü;
+
+die Ware -n
+ürün; mal; ticari mal;
+
+der Flughafen -
+havalimanı; havaalanı;
+
+der Hafen "-
+liman;
+
+Ware liefern
+ürün teslim etmek; mal teslim etmek; ürün tedarik etmek;
+
+am Flughafen einchecken
+havalimanında check-in yapmak;
+
+im Hotel einchecken
+otelde check-in yapmak;
+
+am Flughafen
+havalimanında;
+
+zum Flughafen
+havalimanına;
+
+vom Flughafen
+havalimanından;
+
+im Hafen
+limanda;
+
+zum Hafen
+limana;
+
+vom Hafen
+limandan;
+
+das Präteritum (sg.)
+Präteritum; hikâye geçmiş zamanı;
+
+v gehen-geht / ging / ist gegangen
+gitmek{prs=gider, pst=gitti};
+
+v helfen-hilft / half / hat geholfen
+yardım etmek{prs=yardım eder, pst=yardım etti};
+
+v bleiben-bleibt / blieb / ist geblieben
+kalmak{prs=kalır, pst=kaldı};
+
+v werden-wird / wurde / ist geworden
+olmak{prs=olur, pst=oldu}; haline gelmek{prs=haline gelir, pst=haline geldi};
+
+die Ermäßigung -en
+indirim; öğrenci indirimi; düşük fiyat;
+
+mit Ermäßigung
+indirimli;
+
+eine Ermäßigung bekommen
+indirim almak;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+durmak{prs=durur, pst=durdu}; bırakmak{prs=bırakır, pst=bıraktı};
+
+mit etw. aufhören
+bir şeyi yapmayı bırakmak;
+
+Hör bitte auf!
+Lütfen bırak!;
+
+Er hört mit dem Rauchen auf.
+Sigarayı bırakıyor. ;
+
+das Mitglied -er
+üye;
+
+Mitglied sein
+üye olmak;
+
+ein Mitglied der Familie
+ailenin bir üyesi;
+
+Mitglied in einem Verein
+bir kulübün üyesi; bir derneğin üyesi;
+
+die Probestunde -n
+deneme dersi; deneme saati;
+
+die Schnupperstunde -n
+tanıtım amaçlı deneme dersi; başlangıç deneme dersi;
+
+noch einige Fragen
+birkaç soru daha;
+
+noch ein paar Fragen
+birkaç soru daha;
+
+der Eintritt (sg.)
+giriş; giriş ücreti; katılım;
+
+die Seite -n
+taraf; yan; sayfa;
+
+das Museum Museen
+müze;
+
+der Schalter -
+anahtar; şalter; gişe; hizmet noktası;
+
+der Kassenschalter -
+kasa gişesi; bilet gişesi; ödeme gişesi;
+
+die Schulter -n
+omuz;
+
+a einverstanden
+hemfikir; kabul; tamam; razı;
+
+zwischen + Dat./Akk.
+arasında; arasına;
+
+die Autobahn -en
+otoban; otoyol;
+
+die Bäckerei -en
+fırın; pastane;
+
+der Ball "-e
+top; balo;
+
+der Bleistift -e
+kurşun kalem;
+
+die Dame -n
+hanımefendi; bayan; kadın;
+
+die Ecke -n
+köşe; köşecik;
+
+die Fabrik -en
+fabrika;
+
+die Fahrradtour -en
+bisiklet turu; bisiklet gezisi;
+
+der Flughafen "-
+havaalanı; havalimanı;
+
+die Gebühr -en
+ücret; harç; masraf;
+
+die Parkgebühr -en
+park ücreti;
+
+das Gepäck (sg.)
+bagaj; valizler;
+
+die Gitarre -n
+gitar;
+
+der Herr -en
+beyefendi; bay; erkek;
+
+die Idee -n
+fikir; düşünce;
+
+der Jugendliche -n
+ergen; genç erkek; genç kişi;
+
+die Jugendliche -n
+ergen; genç kız; genç kişi;
+
+die Karte -n
+kart; harita; bilet; menü; kartpostal;
+
+die Kasse -n
+kasa; ödeme noktası; yazarkasa;
+
+das Konzert -e
+konser;
+
+die Kosten (pl.)
+masraflar; giderler; maliyet;
+
+die Kultur -en
+kültür;
+
+die Öffnungszeit -en
+açılış saati; çalışma saatleri;
+
+die Pause -n
+mola; ara; duraklama;
+
+der Rabatt -e
+indirim;
+
+das Restaurant -s
+restoran; lokanta;
+
+das Schwimmbad "-er
+yüzme havuzu; yüzme tesisi;
+
+der Spaß (sg.)
+eğlence; keyif; zevk;
+
+der Teilnehmer -
+katılımcı; erkek katılımcı;
+
+die Teilnehmerin -nen
+kadın katılımcı;
+
+der Treffpunkt -e
+buluşma noktası;
+
+das Wetter (sg.)
+hava durumu; hava;
+
+die Zeitung -en
+gazete;
+
+der Januar (sg.)
+ocak;
+
+der Bus -se
+otobüs;
+
+das Kind -er
+çocuk;
+
+der Kindergarten "-
+anaokulu; kreş;
+
+das Spielzeug -e
+oyuncak; oyuncaklar;
+
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
+tanışmak; tanımak; öğrenip tanımak;
+
+v leihen / lieh / hat geliehen
+ödünç vermek;
+[j-m; etw.]
+
+v sich leihen / lieh sich / hat sich geliehen
+ödünç almak;
+[sich+Dat; etw.; von+Dat]
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+ödünç almak; ödünç vermek; kiralamak;
+[etw.]
+
+v liefern
+teslim etmek; tedarik etmek; götürmek;
+[zu+Dat]
+
+v mitkommen-kommt mit / kam mit / ist mitgekommen
+birlikte gelmek; birlikte gitmek;
+
+v schauen
+bakmak; seyretmek; izlemek;
+
+v schwimmen / schwamm / ist geschwommen
+yüzmek;
+
+v stattfinden-findet statt / fand statt / hat stattgefunden
+gerçekleşmek; yapılmak;
+
+v treffen-trifft / traf / hat getroffen
+karşılaşmak; buluşmak; isabet etmek; vurmak;
+[j-n]
+
+a kostenlos
+ücretsiz; bedava;
+
+a täglich
+günlük; her gün;
+
+a stündlich
+saatlik; her saat;
+
+a immer
+her zaman; daima;
+
+im Supermarkt gibt es viele verschiedene Waren
+süpermarkette birçok farklı ürün var;
+
+v bekommen-bekommt / bekam / hat bekommen
+almak; elde etmek; ulaşmak;
+
+v stürzen / - / ist gestürzt
+düşmek; devrilmek; yere çakılmak;
+
+v stürzen / - / hat gestürzt
+devirmek; düşürmek; yıkmak;
+[j-n; etw.]
+
+v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+inmek; araçtan çıkmak;
+
+v einsteigen-steigt ein / stieg ein / ist eingestiegen
+binmek; araca binmek;
+
+v umsteigen-steigt um / stieg um / ist umgestiegen
+aktarma yapmak; başka araca geçmek;
+
+v springen / sprang / ist gesprungen
+zıplamak; atlamak;
+
+v klettern / - / ist geklettert
+tırmanmak; yukarı çıkmak;
+
+v fallen-fällt / fiel / ist gefallen
+düşmek;
+
+v rennen / rannte / ist gerannt
+koşmak; hızla koşmak;
+
+v joggen / - / ist gejoggt
+jogging yapmak; hafif koşmak;
+
+v fliegen / flog / ist geflogen
+uçmak; uçakla gitmek;
+
+v fliegen / flog / hat geflogen
+uçurmak; pilotluk yapmak; uçak kullanmak;
+[etw.]
+
+v reisen / - / ist gereist
+seyahat etmek; yolculuk yapmak;
+
+v wandern / - / ist gewandert
+doğa yürüyüşü yapmak; yürüyerek gezmek; dolaşmak;
+
+v steigen / stieg / ist gestiegen
+yükselmek; tırmanmak; artmak; çıkmak;
+
+v schaukeln
+sallanmak; salıncakta sallanmak; sallamak;
+
+v wiegen / wog / hat gewogen
+tartmak; ağırlığında olmak;
+
+v wiegen / wiegte / hat gewiegt
+sallamak; beşik gibi sallamak;
+
+v sich wiegen / wiegte sich / hat sich gewiegt
+hafifçe sallanmak; salınmak;
+
+v schwingen / schwang / hat geschwungen
+sallanmak; salınmak; savurmak;
+
+v wackeln
+sallanmak; oynamak; gevşek olmak;
+
+v schwanken
+sallanmak; sendelemek; dalgalanmak; tereddüt etmek;
+
+v ankommen-kommt an / kam an / ist angekommen
+varmak; gelmek; ulaşmak;
+
+v bleiben / blieb / ist geblieben
+kalmak; devam etmek;
+
+zu Hause
+evde;
+
+nach Hause
+eve; eve doğru;
+
+die Stelle -n
+yer; mevki; pozisyon; iş yeri; açık iş;
+
+a schläfrig
+uykulu; uykulu halde;
+
+v besichtigen
+gezmek; görmek; incelemek;
+
+v mieten
+kiralamak;
+
+v kommen / kam / ist gekommen
+gelmek; varmak;
+
+v bezahlen / - / hat bezahlt
+ödemek; parasını ödemek;
+
+v übersetzen
+tercüme etmek; çevirmek;
+
+v überweisen / überwies / hat überwiesen
+para havale etmek; para transfer etmek;
+
+v suchen
+aramak;
+
+v machen
+yapmak; hazırlamak;
+
+v brauchen
+ihtiyaç duymak; gerekmek; lazım olmak;
+
+der Arbeitsplatz "-e
+iş yeri; çalışma yeri;
+
+die Dokumente (pl.)
+belgeler; dokümanlar;
+
+die SIM-Karte -n
+SIM kart;
+
+v stehen / stand / hat gestanden
+ayakta durmak; durmak;
+
+v aufwachen-wacht auf / wachte auf / ist aufgewacht
+uyanmak;
+
+v gehen / ging / ist gegangen
+gitmek; yürümek;
+
+der Papayasalat -e
+papaya salatası;
+
+v bringen / brachte / hat gebracht
+getirmek; götürmek; birini götürmek;
+
+v abholen-holt ab / holte ab / hat abgeholt
+almaya gitmek; teslim almak; karşılamak;
+
+die Erfahrung -en
+deneyim; tecrübe; yaşanmışlık;
+
+die Arbeitserfahrung -en
+iş deneyimi; çalışma tecrübesi;
+
+die Berufserfahrung -en
+mesleki deneyim; iş tecrübesi;
+
+v austragen-trägt aus / trug aus / hat ausgetragen
+dağıtmak; adrese teslim etmek; dışarı taşımak;
+
+die Tochter "-
+kız evlat; kız;
+
+v einfügen-fügt ein / fügte ein / hat eingefügt
+eklemek; yerleştirmek; araya koymak;
+
+die Silbe -n
+hece;
+
+a silbenweise
+hece hece;
+
+die Silbentrennung -en
+heceleme; hece bölme; sözcük bölme;
+
+v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+not almak; yazmak; söyleneni yazmak;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+geri gelmek; dönmek;
+
+die Bedingung -en
+şart; koşul; gereklilik;
+
+die Bedienung -en
+servis; garson; garson kadın; kullanım; kumanda;
+
+das Zeugnis -se
+belge; karne; sertifika; referans yazısı; çalışma belgesi;
+
+die Kiste -n
+kutu; sandık; kasa;
+
+der Briefkasten "-
+posta kutusu; mektup kutusu;
+
+der Brief -e
+mektup;
+
+das Personalbüro -s
+personel bürosu; insan kaynakları ofisi;
+
+v festlegen-legt fest / legte fest / hat festgelegt
+belirlemek; saptamak; sabitlemek; kararlaştırmak;
+
+v legen
+koymak; yatırmak;
+
+v organisieren / - / hat organisiert
+organize etmek; düzenlemek;
+
+v bestimmen / - / hat bestimmt
+belirlemek; tayin etmek; karar vermek;
+
+v notieren / - / hat notiert
+not etmek; yazmak;
+
+v telefonieren / - / hat telefoniert
+telefon etmek; telefonda konuşmak;
+
+v reservieren / - / hat reserviert
+rezerve etmek; ayırtmak;
+
+v reparieren / - / hat repariert
+tamir etmek; onarmak;
+
+v kopieren / - / hat kopiert
+kopyalamak; fotokopi çekmek;
+
+v studieren / - / hat studiert
+üniversitede okumak; öğrenim görmek; incelemek;
+
+v buchstabieren / - / hat buchstabiert
+harf harf söylemek; hecelemek;
+
+v informieren / - / hat informiert
+bilgilendirmek; haber vermek;
+
+v sich informieren / - / hat sich informiert
+bilgi almak; bilgi edinmek; araştırmak;
+[sich+Akk; über+Akk]
+
+v markieren / - / hat markiert
+işaretlemek; vurgulamak; markalamak;
+
+v kontrollieren / - / hat kontrolliert
+kontrol etmek; denetlemek; yoklamak;
+
+a normalerweise
+normalde; genellikle; kural olarak;
+
+a teilweise
+kısmen; parçalı olarak;
+
+a beispielsweise
+örneğin; mesela;
+
+a ausnahmsweise
+istisna olarak; bu seferlik;
+
+a glücklicherweise
+neyse ki; şans eseri;
+
+a dummerweise
+aptalca; ne yazık ki; kötü tesadüfle;
+
+a schrittweise
+adım adım; kademeli olarak;
+
+a höflicherweise
+nazikçe; nezaketen;
+
+v zerstören / - / hat zerstört
+yıkmak; tahrip etmek; yok etmek;
+
+v entlassen-entlässt / entließ / hat entlassen
+işten çıkarmak; serbest bırakmak; taburcu etmek;
+
+v erklären / - / hat erklärt
+açıklamak; ilan etmek; beyan etmek;
+
+v ergänzen / - / hat ergänzt
+tamamlamak; eklemek;
+
+v missbrauchen / - / hat missbraucht
+kötüye kullanmak; istismar etmek;
+
+v gefallen-gefällt / gefiel / hat gefallen
+hoşuna gitmek; beğenilmek;
+[j-m]
+
+v missverstehen-missversteht / missverstand / hat missverstanden
+yanlış anlamak;
+
+v gelingen-gelingt / gelang / ist gelungen
+başarılı olmak; iyi sonuçlanmak; becerilmek;
+[j-m]
+
+v misslingen-misslingt / misslang / ist misslungen
+başarısız olmak; ters gitmek;
+[j-m]
+
+v missfallen-missfällt / missfiel / hat missfallen
+hoşuna gitmemek; rahatsız etmek;
+[j-m]
+
+a tatsächlich
+gerçekten; fiilen; aslında;
+
+a wirklich
+gerçekten; sahiden;
+
+a eigentlich
+aslında; gerçekte; esasen;
+
+in Wirklichkeit
+gerçekte; aslında;
+
+v erzählen / - / hat erzählt
+anlatmak; hikâye etmek;
+[j-m; von+Dat]
+
+v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
+katılmak; onaylamak; razı olmak;
+[j-m]
+
+v vereinbaren / - / hat vereinbart
+anlaşmak; kararlaştırmak; randevu ayarlamak;
+
+v vergessen-vergisst / vergaß / hat vergessen
+unutmak;
+
+v verstehen / verstand / hat verstanden
+anlamak;
+
+v schreiben / schrieb / hat geschrieben
+yazmak;
+
+v verkaufen
+satmak;
+
+v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
+yıkanmak; elini yüzünü yıkamak;
+[sich+Akk]
+
+v finden / fand / hat gefunden
+bulmak;
+
+v benutzen
+kullanmak;
+
+v besuchen / - / hat besucht
+ziyaret etmek; gitmek; katılmak;
+
+v begrüßen / - / hat begrüßt
+selamlamak; karşılamak;
+
+v bestellen
+sipariş etmek; ısmarlamak;
+
+v funktionieren / - / hat funktioniert
+çalışmak; işlemek;
+
+das Gedicht -e
+şiir;
+
+das Lied -er
+şarkı;
+
+gute Nachrichten
+iyi haberler;
+
+schlechte Nachrichten
+kötü haberler;
+
+die Nachricht -en
+mesaj; haber;
+
+der Kopf "-e
+baş; kafa;
+
+das Gehirn -e
+beyin;
+
+der Sonnenaufgang "-e
+gün doğumu;
+
+der Sonnenuntergang "-e
+gün batımı;
+
+das Alpenglühen (sg.)
+dağlarda kızıl ışık; alpenglow;
+
+a womit
+neyle; hangi araçla;
+
+mit wem
+kiminle;
+
+a wann
+ne zaman;
+
+a woher
+nereden;
+
+Wann sind Sie geboren?
+Ne zaman doğdunuz?;
+
+Was ist Ihr Geburtsdatum?
+Doğum tarihiniz nedir?;
+
+Wann haben Sie Geburtstag?
+Doğum gününüz ne zaman?;
+
+das Geburtsdatum Geburtsdaten
+doğum tarihi;
+
+der Geburtstag -e
+doğum günü;
+
+Ebbe und Flut
+gelgit; alçalma ve yükselme;
+
+die Ebbe -n
+cezir; denizin çekilmesi; alçak gelgit;
+
+die Flut -en
+med; yüksek gelgit; sel; taşkın;
+
+Sei leise!
+Sessiz ol!;
+
+Seid leise!
+Sessiz olun!;
+
+Seien Sie leise!
+Lütfen sessiz olun!;
+
+a leise
+sessiz; sessizce; hafif sesli;
+
+a still
+sessiz; suskun; hareketsiz;
+
+Lass das!
+Bunu bırak!; Yapma!; Kes şunu!;
+
+v lassen-lässt / ließ / hat gelassen
+bırakmak; izin vermek; yaptırmak;
+
+v anfassen-fasst an / fasste an / hat angefasst
+dokunmak; ellemek;
+
+Fass mich nicht an!
+Bana dokunma!;
+
+Seien Sie bitte leise!
+Lütfen sessiz olun!;
+
+Halt die Klappe!
+Çeneni kapat!; Sus!;
+
+Halt die Fresse!
+Kapa çeneni!; Kes sesini!;
+
+Halt's Maul!
+Kapa çeneni!; Sus!;
+
+v halten-hält / hielt / hat gehalten
+tutmak; durdurmak; korumak;
+
+v einräumen-räumt ein / räumte ein / hat eingeräumt
+yerleştirmek; içine koymak; yüklemek; kabul etmek;
+
+v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+boşaltmak; dışarı çıkarmak; temizlemek;
+
+v abräumen-räumt ab / räumte ab / hat abgeräumt
+masayı toplamak; kaldırmak;
+
+v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+toplamak; düzenlemek; ortalığı toplamak;
+
+Räum die Spülmaschine ein!
+Bulaşık makinesini doldur!;
+
+Räum die Spülmaschine aus!
+Bulaşık makinesini boşalt!;
+
+Räum den Tisch ab!
+Masayı topla!;
+
+Räum dein Spielzeug auf!
+Oyuncaklarını topla!;
+
+Verschwinde!
+Kaybol!; Defol!;
+
+Hau ab!
+Defol!; Çek git!; Kaybol!;
+
+Red mit mir!
+Benimle konuş!;
+
+v verschwinden / verschwand / ist verschwunden
+kaybolmak; ortadan yok olmak;
+
+v abhauen-haut ab / haute ab / ist abgehauen
+kaçmak; sıvışmak; çekip gitmek;
+
+v reden
+konuşmak;
+
+a gefährlich gefährlicher am gefährlichsten
+tehlikeli; riskli;
+
+der Beruf -e
+meslek; iş;
+
+der Taxifahrer -
+taksi şoförü; erkek taksici;
+
+die Taxifahrerin -nen
+kadın taksi şoförü; kadın taksici;
+
+(-) Köln (sg.)
+Köln;
+
+die Zulassungsstelle -n
+araç tescil dairesi; kayıt kurumu;
+
+das Kfz -
+motorlu araç; araç;
+
+das Kraftfahrzeug -e
+motorlu taşıt; motorlu araç;
+
+das Nummernschild -er
+plaka; araç plakası;
+
+v zulassen-lässt zu / ließ zu / hat zugelassen
+izin vermek; kabul etmek; aracı tescil etmek;
+
+v anmelden-meldet an / meldete an / hat angemeldet
+kaydettirmek; kayıt yapmak; bildirmek; başvurmak;
+
+v einziehen-zieht ein / zog ein / ist eingezogen
+taşınmak; eve yerleşmek;
+
+v ausziehen-zieht aus / zog aus / ist ausgezogen
+taşınmak; evden çıkmak; soyunmak; çıkarmak;
+
+v umziehen-zieht um / zog um / ist umgezogen
+taşınmak; kıyafet değiştirmek;
+
+die Staatsangehörigkeit -en
+vatandaşlık; uyruk;
+
+die Nationalität -en
+milliyet; uyruk; vatandaşlık;
+
+der Staat -en
+devlet; ülke;
+
+a angehörig
+ait; bağlı; mensup;
+
+Herein, bitte!
+Buyurun, içeri girin!;
+
+Herein!
+İçeri girin!; Gir!;
+
+Kommen Sie herein!
+İçeri girin!;
+
+Komm herein!
+İçeri gir!;
+
+v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+doldurmak; form doldurmak;
+
+der Antrag "-e
+başvuru; dilekçe; talep;
+
+v unterrichten
+ders vermek; öğretmek; bilgilendirmek;
+
+der Unterricht (sg.)
+ders; öğretim; eğitim;
+
+a bald
+yakında; kısa süre sonra;
+
+der Wettbewerb -e
+yarışma; müsabaka; rekabet;
+
+a lokal
+yerel; lokal;
+
+das Lokal -e
+lokanta; bar; pub; işletme; mekân;
+
+der Beamte -n
+memur; kamu görevlisi;
+
+die Beamtin -nen
+kadın memur; kadın kamu görevlisi;
+
+der Staatsangestellte -n
+devlet çalışanı; kamu çalışanı;
+
+die Staatsangestellte -n
+kadın devlet çalışanı; kadın kamu çalışanı;
+
+der Polizist -en
+polis; erkek polis memuru;
+
+die Polizistin -nen
+kadın polis; kadın polis memuru;
+
+der Lehrer -
+öğretmen; erkek öğretmen;
+
+die Lehrerin -nen
+kadın öğretmen;
+
+der Staatsanwalt "-e
+savcı; erkek savcı;
+
+die Staatsanwältin -nen
+kadın savcı;
+
+der Rechtsanwalt "-e
+avukat; erkek avukat;
+
+die Rechtsanwältin -nen
+kadın avukat;
+
+der Richter -
+hâkim; erkek hâkim;
+
+die Richterin -nen
+kadın hâkim;
+
+das Gericht -e
+mahkeme; yemek;
+
+die Strafe -n
+ceza; para cezası;
+
+das Gefängnis -se
+hapishane; cezaevi;
+
+die Geldstrafe -n
+para cezası;
+
+die Freiheitsstrafe -n
+hapis cezası; özgürlüğü bağlayıcı ceza;
+
+die Haft (sg.)
+tutukluluk; gözaltı; hapis;
+
+v verhaften
+tutuklamak; gözaltına almak;
+
+der Zoll (sg.)
+gümrük;
+
+der Zoll "-e
+gümrük vergisi; gümrük harcı;
+
+der Zoll -
+inç;
+
+v bestechen-besticht / bestach / hat bestochen
+rüşvet vermek; rüşvetle satın almak;
+
+die Bestechung -en
+rüşvet; rüşvet verme; rüşvetçilik;
+
+das Bestechungsgeld -er
+rüşvet parası; rüşvet;
+
+die Korruption (sg.)
+yolsuzluk; rüşvetçilik;
+
+die Wirtschaft (sg.)
+ekonomi; iktisat; işletme sistemi;
+
+die Wirtschaft -en
+meyhane; han; lokanta; işletme;
+
+a wirtschaftlich
+ekonomik; iktisadi; kârlı; tasarruflu;
+
+die Volkswirtschaft -en
+ulusal ekonomi; ülke ekonomisi;
+
+die Betriebswirtschaft -en
+işletme ekonomisi; işletme yönetimi;
+
+das Küken -
+civciv; kuş yavrusu;
+
+das Apartment -s
+apartman dairesi; daire;
+
+die Ausbildung -en
+mesleki eğitim; eğitim; yetiştirme;
+
+das Ausland (sg.)
+yurt dışı; yabancı ülkeler;
+
+der Ausweis -e
+kimlik; kimlik belgesi;
+
+die Bahn -en
+tren; demiryolu;
+
+die Bewerbung -en
+başvuru; iş başvurusu;
+
+der Europäer -
+Avrupalı; Avrupalı erkek;
+
+die Europäerin -nen
+Avrupalı kadın;
+
+der Führerschein -e
+ehliyet; sürücü belgesi;
+
+das Geburtsjahr -e
+doğum yılı;
+
+der Geburtsort -e
+doğum yeri;
+
+die Kantine -n
+kantin; yemekhane;
+
+das Konto Konten
+hesap; banka hesabı;
+
+der Kunde -n
+müşteri; erkek müşteri;
+
+die Kundin -nen
+kadın müşteri;
+
+die Monatskarte -n
+aylık bilet; aylık abonman;
+
+das Paket -e
+paket; koli;
+
+die Papiere (pl.)
+kâğıtlar; evraklar; belgeler;
+
+der Pass "-e
+pasaport;
+
+die Post (sg.)
+posta; postane;
+
+die Reise -n
+seyahat; gezi; yolculuk;
+
+das Studium (sg.)
+üniversite eğitimi; yükseköğrenim; öğrenim; inceleme;
+
+der Test -s
+test; sınav;
+
+der Tourist -en
+turist; erkek turist;
+
+die Touristin -nen
+kadın turist;
+
+die Umwelt (sg.)
+çevre; doğal çevre;
+
+der Vertrag "-e
+sözleşme; anlaşma; kontrat;
+
+der Verwandte -n
+erkek akraba; akraba;
+
+die Verwandte -n
+kadın akraba; akraba;
+
+v abschließen-schließt ab / schloss ab / hat abgeschlossen
+kilitlemek; bitirmek; tamamlamak; sözleşme yapmak;
+
+v abwaschen-wäscht ab / wusch ab / hat abgewaschen
+bulaşık yıkamak; yıkayıp çıkarmak;
+
+v bedeuten / - / hat bedeutet
+anlamına gelmek; demek olmak;
+
+v schneiden / schnitt / hat geschnitten
+kesmek; doğramak; saç kesmek;
+
+v tragen-trägt / trug / hat getragen
+taşımak; giymek;
+
+v unterschreiben / unterschrieb / hat unterschrieben
+imzalamak;
+
+a dünn
+ince; zayıf; sulu;
+
+a fremd
+yabancı; tanıdık olmayan; başkasına ait;
+
+a gültig
+geçerli;
+
+a traurig
+üzgün; hüzünlü;
+
+a zufrieden
+memnun; tatmin olmuş;
+
+a hierher
+buraya; buraya doğru;
+
+a dorthin
+oraya; oraya doğru;
+
+v dekorieren / - / hat dekoriert
+süslemek; dekore etmek;
+
+v demonstrieren / - / hat demonstriert
+göstermek; gösteri yapmak; protesto etmek;
+
+v fotografieren / - / hat fotografiert
+fotoğraf çekmek;
+
+v frisieren / - / hat frisiert
+saç yapmak; saçı şekillendirmek;
+
+v frustrieren / - / hat frustriert
+hayal kırıklığına uğratmak; moral bozmak;
+
+v gratulieren / - / hat gratuliert
+tebrik etmek; kutlamak;
+[j-m; zu+Dat]
+
+v korrigieren / - / hat korrigiert
+düzeltmek; tashih etmek;
+
+v lackieren / - / hat lackiert
+verniklemek; cilalamak; boyamak;
+
+v montieren / - / hat montiert
+monte etmek; kurmak; takmak;
+
+v motivieren / - / hat motiviert
+motive etmek; teşvik etmek;
+
+v nostrifizieren / - / hat nostrifiziert
+diploma denkliği yaptırmak; diplomayı tanıtmak;
+
+v operieren / - / hat operiert
+ameliyat etmek; operasyon yapmak;
+
+v präsentieren / - / hat präsentiert
+sunmak; takdim etmek;
+
+v probieren / - / hat probiert
+denemek; tatmak; prova etmek;
+
+v protestieren / - / hat protestiert
+protesto etmek;
+[gegen+Akk]
+
+v rasieren / - / hat rasiert
+tıraş etmek;
+
+v sich rasieren / - / hat sich rasiert
+tıraş olmak;
+[sich+Akk]
+
+v renovieren / - / hat renoviert
+yenilemek; tadilat yapmak;
+
+v sanieren / - / hat saniert
+kapsamlı şekilde yenilemek; ıslah etmek; restore etmek;
+
+v sortieren / - / hat sortiert
+sıralamak; ayırmak; tasnif etmek;
+
+v stornieren / - / hat storniert
+iptal etmek; rezervasyonu iptal etmek;
+
+v trainieren / - / hat trainiert
+antrenman yapmak; çalıştırmak; eğitmek;
+
+die Tür abschließen
+kapıyı kilitlemek;
+
+eine Ausbildung abschließen
+mesleki eğitimi tamamlamak; eğitimi bitirmek;
+
+der Trinkspruch "-e
+kadeh kaldırma sözü; içki tostu;
+
+v anstoßen-stößt an / stieß an / hat angestoßen
+kadeh tokuşturmak; şerefe demek; hafifçe itmek; başlatmak;
+[auf+Akk; mit+Dat]
+
+v aufstoßen-stößt auf / stieß auf / hat aufgestoßen
+geğirmek;
+
+v aufstoßen-stößt auf / stieß auf / ist aufgestoßen
+birden açılmak; hızla açılmak;
+
+v stoßen-stößt / stieß / hat gestoßen
+itmek; dürtmek; çarpmak;
+[j-n; etw.]
+
+v stoßen-stößt / stieß / ist gestoßen
+çarpmak; rastlamak; karşılaşmak;
+[an+Akk; auf+Akk]
+
+Auf Ruslan!
+Ruslan'a!; Ruslan için!;
+
+Zum Wohl!
+Şerefe!; Sağlığınıza!;
+
+das Aufstoßen (sg.)
+geğirme; geğirti;
+
+a danach
+ondan sonra; sonra; ardından; onun hakkında; ona yönelik;
+
+a nachher
+sonra; daha sonra;
+
+nach + Dat.
+sonra; -e göre; -e doğru; -e;
+
 das Wasser (sg.)
 su; sular; su kütlesi;
 
@@ -2135,12 +4090,6 @@ ebeveynler; anne baba;
 die Ferien (pl.)
 tatil; tatil dönemi; okul tatili; okul arası;
 
-die Kosten (pl.)
-maliyetler; giderler; ücretler;
-
-die Möbel (pl.)
-mobilya; döşeme eşyaları; ev eşyaları;
-
 die Lebensmittel (pl.)
 gıda ürünleri; erzak; yiyecek maddeleri;
 
@@ -2150,9 +4099,6 @@ kardeşler; erkek ve kız kardeşler;
 die Daten (pl.)
 veriler; bilgiler; bilgisayar verileri;
 
-das Leben (sg.)
-hayat; varoluş;
-
 der Weg -e
 yol; rota; yöntem;
 
@@ -2161,9 +4107,6 @@ parça; pay;
 
 die Gruppe -n
 grup;
-
-die Seite -n
-sayfa; taraf;
 
 die Art -en
 tür; çeşit; biçim;
@@ -2227,9 +4170,6 @@ sınav; inceleme; deneme;
 
 das Beispiel -e
 örnek; numune;
-
-die Erfahrung -en
-deneyim; tecrübe;
 
 das Studium -en
 üniversite eğitimi; öğrenim;
@@ -2300,9 +4240,6 @@ katkı; pay; yazı;
 der Inhalt -e
 içerik;
 
-die Nachricht -en
-mesaj; haber;
-
 die Mitteilung -en
 bildirim; mesaj;
 
@@ -2317,12 +4254,6 @@ talep; istek;
 
 das Angebot -e
 teklif; sunulan şey;
-
-der Vertrag "-e
-sözleşme; kontrat;
-
-die Bedingung -en
-koşul; şart;
 
 die Beratung -en
 danışmanlık; tavsiye;
@@ -2360,17 +4291,11 @@ sigorta; güvence;
 die Steuer -n
 vergi;
 
-der Staat -en
-devlet;
-
 die Regierung -en
 hükûmet;
 
 das Gesetz -e
 yasa; kanun;
-
-das Gericht -e
-mahkeme; yemek;
 
 der Prozess -e
 süreç; dava;
@@ -2378,14 +4303,8 @@ süreç; dava;
 die Industrie -n
 sanayi; endüstri;
 
-die Rechnung -en
-fatura; hesap;
-
 die Quittung -en
 makbuz; fiş;
-
-die Karte -n
-harita; kart;
 
 das Konto -en
 hesap; banka hesabı;
@@ -2489,14 +4408,8 @@ cümle; karar;
 der Anspruch "-e
 gereksinim; hak;
 
-der Antrag "-e
-beyan; teklif; Dilekçe;
-
 die Anlage -n
 ek; kurulum; inşaat; eklenti;
-
-die Ware -n
-ürün;
 
 die Zahlung -en
 ödeme;
@@ -2525,9 +4438,6 @@ rapor; ders;
 das Gespräch "-e
 konuşma; sohbet;
 
-die Bedeutung -en
-anlam;
-
 die Erklärung -en
 açıklama; beyan;
 
@@ -2540,9 +4450,6 @@ metin;
 die Geschichte -n
 hikaye;
 
-die Zeitung -en
-gazete;
-
 der Artikel -
 makale; ürün;
 
@@ -2554,9 +4461,6 @@ rol;
 
 die Figur -en
 şekil; karakter;
-
-das Lied -er
-şarkı;
 
 die Sicherheit -en
 güvenlik;
@@ -2605,9 +4509,6 @@ promosyon; artış;
 
 die Senkung -en
 düşüş; rütbe indirgemesi;
-
-die Wahl -en
-seçim; seçimler;
 
 die Konsequenz -en
 sonuç;
@@ -2663,9 +4564,6 @@ belirli an;
 die Anzahl -en
 miktar; sayı;
 
-die Gebühr -en
-koleksiyon; görev; komisyon;
-
 der Schaden "-en
 hasar;
 
@@ -2696,17 +4594,8 @@ araba; mekanizma;
 die Webseite -n
 web sayfası; web sitesi;
 
-die Anzeige -n
-duyuru; gösterge;
-
 die Meldung -en
 mesaj; bildirim;
-
-der Test -s
-test; inceleme;
-
-die Aufgabe -n
-egzersiz; görev;
 
 die Übersicht -en
 inceleme; özet;
@@ -2716,9 +4605,6 @@ die Zusammenfassung -en
 
 der Job -s
 pozisyon; yarı zamanlı iş;
-
-die Bewerbung -en
-beyan; yanıt; teklif;
 
 der Lebenslauf "-e
 hayat yolu; özgeçmiş; otobiyografi;
@@ -2771,9 +4657,6 @@ boyut; büyüklük;
 der Körper -
 vücut; organizma;
 
-der Kopf "-e
-kafa;
-
 der Rücken -
 sırt;
 
@@ -2789,29 +4672,14 @@ kaynak;
 der Zugriff -e
 erişim; veriye erişim;
 
-die Heizung -en
-ısıtma; ısıtma sistemi;
-
-die Miete -n
-kira;
-
 der Haushalt -e
 ev; bütçe;
 
 der Abfall "-e
 atık; çöp;
 
-die Umwelt (sg.)
-çevre;
-
 die Teilnahme -n
 katılım;
-
-der Teilnehmer -
-katılımcı;
-
-die Teilnehmerin -nen
-katılımcı;
 
 die Rückmeldung -en
 geri bildirim; yanıt;
@@ -2870,12 +4738,6 @@ ayrılık;
 der Auftrag "-e
 sipariş; ödev;
 
-der Kunde -n
-müşteri; alıcı;
-
-die Kundin -nen
-müşteri;
-
 der Anbieter -
 servis sağlayıcı; sağlayıcı;
 
@@ -2914,9 +4776,6 @@ stok; mevcudiyet; bileşim;
 
 das Sortiment -e
 çeşitler;
-
-der Rabatt -e
-indirim;
 
 die Aktion -en
 promosyon;
@@ -2959,12 +4818,6 @@ belge; taban;
 
 die Bescheinigung -en
 referans; sertifika;
-
-der Ausweis -e
-kimlik kartı; geçiş;
-
-der Pass "-e
-pasaport;
 
 die Kontrolle -n
 kontrol; inceleme;
@@ -3020,9 +4873,6 @@ der Austritt -e
 die Mitgliedschaft -en
 üyelik;
 
-das Mitglied -er
-üye;
-
 der Verein -e
 kulüp; dernek;
 
@@ -3073,9 +4923,6 @@ dava; şikayet;
 
 die Berufung -en
 temyiz; meslek;
-
-die Strafe -n
-para cezası; ceza;
 
 der Täter -
 suçlu;
@@ -3221,14 +5068,8 @@ dilek;
 die Hoffnung -en
 umut;
 
-der Traum "-e
-rüya;
-
 der Streit -e
 anlaşmazlık; argüman;
-
-der Beruf -e
-meslek;
 
 der Arbeitnehmer -
 işçi; çalışan;
@@ -3241,9 +5082,6 @@ işveren;
 
 die Arbeitgeberin -nen
 işveren;
-
-die Stelle -n
-iş unvanı; iş yeri;
 
 die Schicht -en
 vardiya;
@@ -3356,9 +5194,6 @@ trafik ışığı;
 die Brücke -n
 köprü;
 
-der Park -s
-park;
-
 der Einkauf "-e
 satın alma; alışveriş;
 
@@ -3367,9 +5202,6 @@ dükkan;
 
 das Geschäft -e
 dükkan; dava;
-
-das Zentrum -en
-merkez;
 
 der Bewohner -
 sakin;
@@ -3494,12 +5326,6 @@ yer; kare;
 der Sitz -e
 koltuk; yer;
 
-der Hafen "-
-liman;
-
-der Flughafen "-
-havaalanı;
-
 der Bahnsteig -e
 peron; platform;
 
@@ -3533,9 +5359,6 @@ yön;
 der Standort -e
 konum; platform; taban;
 
-das Ausland (sg.)
-yurtdışında;
-
 die Heimat -en
 vatan; yerli toprak;
 
@@ -3551,9 +5374,6 @@ vatandaş; sakin;
 die Bürgerin -nen
 vatandaş;
 
-die Staatsangehörigkeit -en
-vatandaşlık; milliyet;
-
 die Botschaft -en
 elçilik; haber;
 
@@ -3565,9 +5385,6 @@ die Mehrheit -en
 
 die Minderheit -en
 azınlık;
-
-die Abstimmung -en
-oy; koordinasyon;
 
 der Kandidat -en
 aday;
@@ -3594,12 +5411,6 @@ die Reparatur -en
 onarım;
 
 die Polizei (sg.)
-polis;
-
-der Polizist -en
-polis memuru;
-
-die Polizistin -nen
 polis;
 
 der Diebstahl "-e
@@ -3685,9 +5496,6 @@ gelir;
 
 die Ausgabe -n
 tüketim; harcama;
-
-die Ausgabe -n
-yayın; baskı;
 
 die Abgabe -n
 koleksiyon; kesinti; değişiklik;
@@ -3917,9 +5725,6 @@ araçlar; hazırlık;
 der Ursprung "-e
 kaynak; köken;
 
-die Küche -n
-mutfak;
-
 der Ofen "-
 fırın;
 
@@ -4037,9 +5842,6 @@ samimiyet;
 die Kante -n
 kenar;
 
-die Ecke -n
-köşe;
-
 die Mitte -n
 orta; merkez;
 
@@ -4133,9 +5935,6 @@ yayın;
 die Übernahme -n
 kabul; emilim;
 
-der Wettbewerb -e
-yarışma; rekabet;
-
 die Konkurrenz -en
 rekabet;
 
@@ -4153,9 +5952,6 @@ erişim hakkı; izin;
 
 die Sicherung -en
 rezervasyon; koruma; sigorta;
-
-das Zeichen -
-işaret; sembol;
 
 die Kennzeichnung -en
 işaretleme; atama;
@@ -4439,12 +6235,6 @@ bina; uzay; oda;
 die Fläche -n
 kare; yüzey;
 
-das Bett -en
-yatak;
-
-der Schrank "-e
-dolap;
-
 das Regal -e
 raf;
 
@@ -4454,14 +6244,8 @@ halı;
 die Decke -n
 tavan; battaniye;
 
-das Bad "-er
-banyo;
-
 das Badezimmer -
 banyo;
-
-die Dusche -n
-duş;
 
 die Badewanne -n
 kase;
@@ -4553,9 +6337,6 @@ diz;
 die Brust "-e
 göğüs;
 
-die Schulter -n
-omuz;
-
 der Hals "-e
 boyun; boğaz;
 
@@ -4588,9 +6369,6 @@ gömlek;
 
 die Hose -n
 pantolon;
-
-der Schuh -e
-ayakkabılar; ayakkabı;
 
 der Gürtel -
 kemer;
@@ -4652,9 +6430,6 @@ kıyı (nehir/göl);
 die Wüste -n
 çöl;
 
-der Regen (sg.)
-yağmur;
-
 der Schnee (sg.)
 kar;
 
@@ -4678,9 +6453,6 @@ yıldız;
 
 der Kugelschreiber -
 tükenmez kalem;
-
-der Bleistift -e
-kalem;
 
 die Mappe -n
 klasör; evrak çantası;
@@ -4748,9 +6520,6 @@ akşam yemeği;
 die Mahlzeit -en
 yemek;
 
-der Hunger (sg.)
-açlık;
-
 der Durst (sg.)
 susuzluk;
 
@@ -4760,9 +6529,6 @@ diyet;
 das Getränk -e
 içki;
 
-das Wasser (sg.)
-su;
-
 der Saft "-e
 meyve suyu;
 
@@ -4771,9 +6537,6 @@ der Tee -s
 
 der Kaffee -s
 kahve;
-
-die Milch (sg.)
-süt;
 
 das Bier -e
 bira;
@@ -4793,9 +6556,6 @@ erişte; makarna;
 der Supermarkt "-e
 süpermarket;
 
-die Bäckerei -en
-fırın;
-
 der Bäcker -
 fırıncı;
 
@@ -4805,14 +6565,8 @@ fırıncı;
 die Metzgerei -en
 kasap dükkanı;
 
-das Restaurant -s
-restoran;
-
 das Café -s
 kafe;
-
-die Kantine -n
-yemekhane;
 
 das Menü -s
 menü;
@@ -4822,9 +6576,6 @@ yemek;
 
 das Taxi -s
 taksi;
-
-der Bus -se
-otobüs;
 
 der Passagier -e
 yolcu;
@@ -4838,12 +6589,6 @@ bilet;
 die Pünktlichkeit (sg.)
 dakiklik;
 
-der Lehrer -
-öğretmen;
-
-die Lehrerin -nen
-öğretmen;
-
 der Schüler -
 öğrenci; okul çocuğu;
 
@@ -4855,9 +6600,6 @@ sınıf; kategori;
 
 das Klassenzimmer -
 sınıf;
-
-die Pause -n
-mola; duraklama;
 
 die Mensa -en
 öğrenci kantini;
@@ -4928,15 +6670,6 @@ alışveriş merkezi;
 die Drogerie -n
 ev kimyasalları mağazası; Drogerie;
 
-die Post (sg.)
-posta; postane;
-
-das Paket -e
-paket; plastik torba;
-
-der Brief -e
-mektup;
-
 die Briefmarke -n
 posta pulu;
 
@@ -4961,9 +6694,6 @@ merdiven;
 der Hof "-e
 avlu; çiftçilik;
 
-der Garten "-
-bahçe;
-
 das Wohnzimmer -
 oturma odası;
 
@@ -4976,50 +6706,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 kabine;
 
-die Toilette -n
-tuvalet;
-
-der Flur -e
-koridor;
-
-der Balkon -e
-balkon;
-
 die Terrasse -n
 teras;
 
 die Kaution -en
 rehin;
 
-die Nebenkosten (pl.)
-faturalar; Ekle. giderler;
-
-der Vermieter -
-ev sahibi;
-
-die Vermieterin -nen
-ev sahibesi;
-
-der Mieter -
-kiracı;
-
-die Mieterin -nen
-kiracı;
-
 die Besichtigung -en
 muayene;
 
 die Renovierung -en
 onarım (kozmetik); güncelleme;
-
-die Möbel (pl.)
-mobilyalar;
-
-das Sofa -s
-kanepe;
-
-der Sessel -
-koltuk;
 
 der Vorhang "-e
 perde;
@@ -5039,14 +6736,8 @@ uzaktan kumanda;
 das Radio -s
 radyo;
 
-das Konzert -e
-konser;
-
 das Festival -s
 festival;
-
-die Kultur -en
-kültür;
 
 das Hobby -s
 hobi; coşku;
@@ -5059,9 +6750,6 @@ futbol; futbol topu;
 
 das Tennis (sg.)
 tenis;
-
-das Schwimmbad "-er
-havuz;
 
 das Fitnessstudio -s
 spor kulübü; spor salonu;
@@ -5111,9 +6799,6 @@ hakem;
 das Tor -e
 kapılar; amaç;
 
-der Ball "-e
-top;
-
 die Halle -n
 salon; arena;
 
@@ -5143,12 +6828,6 @@ görüş; görünürlük; bakış açısı;
 
 die Einrichtung -en
 kurum;
-
-die Einrichtung -en
-durum; iç mekan;
-
-die Einrichtung -en
-ayar; kurulum;
 
 die Erinnerung -en
 hafıza; hatırlatma;
@@ -5180,9 +6859,6 @@ dönüş; iade nakliye;
 der Koffer -
 bavul;
 
-das Gepäck (sg.)
-bagaj;
-
 die Rezeption -en
 resepsiyon;
 
@@ -5194,9 +6870,6 @@ muayene; güvenlik kontrolü;
 
 die Zollkontrolle -n
 gümrük kontrolü;
-
-der Zoll "-e
-gümrükler; görev;
 
 der Flug "-e
 uçuş;
@@ -5231,9 +6904,6 @@ otomatik ödeme; otomatik banka para çekme;
 die Filiale -n
 şube; departman;
 
-die Bedienung -en
-hizmet; kumanda;
-
 der Service -s
 hizmet;
 
@@ -5257,9 +6927,6 @@ engelleme; kapatma;
 
 die Entsperrung -en
 kilit açma; engeli kaldırma;
-
-die Fabrik -en
-fabrika;
 
 die Produktion -en
 üretim; yayın;
@@ -5335,9 +7002,6 @@ iş görüşmesi;
 
 der Gutschein -e
 kupon; hediye sertifikası;
-
-die Ermäßigung -en
-indirim; avantaj;
 
 die Warnung -en
 uyarı;
@@ -5591,23 +7255,14 @@ yazılı sınav;
 das Examen -e
 sınav;
 
-das Zeugnis -se
-sertifika; karne;
-
 die Gutschrift -en
 alacak kaydı; alacak dekontu;
-
-die Hausordnung -en
-ev kuralları;
 
 das Ereignis -se
 olay;
 
 die Verzögerung -en
 gecikme; yavaşlama;
-
-die Daten (pl.)
-veriler; bilgiler;
 
 der Datenschutz (sg.)
 veri koruması;

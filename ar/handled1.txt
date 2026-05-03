@@ -29,10 +29,6 @@ v einladen-lädt ein / lud ein / hat eingeladen
 يدعو{prs=يدعو, pst=دعا};
 [j-n; zu+Dat]
 
-v einladen-lädt ein / lud ein / hat eingeladen
-يحمّل{prs=يحمّل, pst=حمّل}; يشحن;
-[etw.]
-
 a dann
 حينئذ; ثم; بعد ذلك;
 
@@ -307,9 +303,6 @@ die Zwiebel -n
 v finden-findet / fand / hat gefunden
 يجد{prs=يجد, pst=وجد};
 
-v finden-findet / fand / hat gefunden
-يعتبر; يرى;
-
 v geben-gibt / gab / hat gegeben
 يعطي{prs=يعطي, pst=أعطى};
 [j-m; etw.]
@@ -325,10 +318,6 @@ v nehmen-nimmt / nahm / hat genommen
 
 v schmecken
 طعمه جيد; يكون لذيذًا;
-
-v schmecken
-يتذوق;
-[etw.]
 
 a leer
 فارغ;

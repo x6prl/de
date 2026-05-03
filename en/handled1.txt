@@ -29,10 +29,6 @@ v einladen-lädt ein / lud ein / hat eingeladen
 invite{prs=invites, pst=invited};
 [j-n; zu+Dat]
 
-v einladen-lädt ein / lud ein / hat eingeladen
-load{prs=loads, pst=loaded};
-[etw.]
-
 a dann
 then; afterwards; in that case;
 
@@ -307,9 +303,6 @@ onion;
 v finden-findet / fand / hat gefunden
 find{prs=finds, pst=found};
 
-v finden-findet / fand / hat gefunden
-consider{prs=considers, pst=considered}; regard{prs=regards, pst=regarded};
-
 v geben-gibt / gab / hat gegeben
 give{prs=gives, pst=gave, par=given};
 [j-m; etw.]
@@ -325,10 +318,6 @@ take{prs=takes, pst=took, par=taken};
 
 v schmecken
 taste good{prs=tastes good, pst=tasted good};
-
-v schmecken
-taste{prs=tastes, pst=tasted};
-[etw.]
 
 a leer
 empty;

@@ -1,0 +1,854 @@
+m²
+квадратный метр; квадратные метры;
+
+KM
+базовая аренда без коммунальных платежей; холодная аренда;
+
+NK
+дополнительные расходы; коммунальные платежи; сервисные сборы;
+
+die Wohnungsanzeige -n
+объявление о квартире; объявление об аренде жилья;
+
+der Quadratmeter -
+квадратный метр;
+
+die Kaltmiete -n
+базовая аренда без коммунальных платежей; холодная аренда;
+
+der Nachmieter -
+следующий арендатор; арендатор на замену;
+
+der Vormieter -
+предыдущий арендатор;
+
+der Strom (sg.)
+электричество;
+
+der Parkplatz "-e
+парковочное место; место для парковки;
+
+eine Wohnung mieten
+снимать квартиру;
+
+einen Stellplatz mieten
+арендовать парковочное место;
+
+die Rechnung -en
+счет; квитанция;
+
+die Rückzahlung -en
+возврат денег; возврат;
+
+die Nachzahlung -en
+доплата; дополнительный платеж;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+Квартира очень дорогая, но я могу за нее заплатить.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+Квартира слишком дорогая, я не могу за нее заплатить.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr и zu можно сочетать со всеми прилагательными. Zu обычно имеет отрицательный оттенок.;
+
+Das Essen ist zu heiß.
+Еда слишком горячая.;
+
+Das Essen ist sehr heiß.
+Еда очень горячая.;
+
+a zu
+слишком;
+
+sehr teuer
+очень дорогой;
+
+zu teuer
+слишком дорогой;
+
+sehr heiß
+очень горячий;
+
+zu heiß
+слишком горячий;
+
+die Bedeutung -en
+значение;
+
+v kombinieren / kombinierte / hat kombiniert
+сочетать{prs=сочетает, pst=сочетал}; комбинировать{prs=комбинирует, pst=комбинировал};
+
+ich darf
+мне можно; я имею право;
+
+du darfst
+тебе можно; ты имеешь право;
+
+er/sie/es darf
+ему можно; ей можно; это разрешено;
+
+wir dürfen
+нам можно; мы имеем право;
+
+ihr dürft
+вам можно; вы имеете право;
+
+sie/Sie dürfen
+им можно; Вам можно; они имеют право; Вы имеете право;
+
+Es ist erlaubt.
+Это разрешено.;
+
+Wir dürfen auf dem Balkon grillen.
+Нам можно жарить на гриле на балконе.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+Детям младше 18 лет нельзя покупать алкоголь.;
+
+Ich darf in meiner Wohnung laut singen.
+Мне можно громко петь в своей квартире.;
+
+die Nachtruhe (sg.)
+ночные часы тишины; ночной покой;
+
+die Mittagsruhe (sg.)
+дневные часы тишины; дневной покой;
+
+die Hausordnung -en
+правила дома; правила проживания;
+
+die Ruhe -n
+тишина; покой; отдых;
+
+die Ordnung -en
+порядок; правила; устройство;
+
+der Kinderwagen -
+детская коляска;
+
+der Hausflur -e
+подъездный коридор; общий коридор в доме;
+
+Kinderwagen im Hausflur
+детская коляска в общем коридоре;
+
+der Schuh -e
+ботинок; туфля; обувь;
+
+das Treppenhaus "-er
+лестничная клетка; пространство лестницы в доме;
+
+Schuhe im Treppenhaus
+обувь на лестничной клетке;
+
+das Haustier -e
+домашнее животное; питомец;
+
+kleine Tiere
+маленькие животные;
+
+Kleine Tiere sind erlaubt.
+Маленькие животные разрешены.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+Если речь о кошках или собаках, нужно спросить арендодателя.;
+
+a hoch höher am höchsten
+высокий{cmp=выше, sup=самый высокий};
+
+Das Haus ist hoch.
+Дом высокий.;
+
+Der Preis ist hoch.
+Цена высокая.;
+
+a tief tiefer am tiefsten
+глубокий{cmp=глубже, sup=самый глубокий}; низкий{cmp=ниже, sup=самый низкий};
+
+a niedrig
+низкий;
+
+der tiefste Preis
+самая низкая цена;
+
+der niedrigste Preis
+самая низкая цена;
+
+das Benzin (sg.)
+бензин;
+
+die Preise für Diesel und Benzin (pl.)
+цены на дизель и бензин;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Сейчас цены на дизель и бензин очень высокие.;
+
+die Geschwindigkeitsbegrenzung -en
+ограничение скорости;
+
+die Geschwindigkeit -en
+скорость;
+
+die Begrenzung -en
+ограничение;
+
+v begrenzen / begrenzte / hat begrenzt
+ограничивать{prs=ограничивает, pst=ограничивал};
+
+mal so, mal so
+по-разному; то так, то эдак;
+
+immer abends
+всегда по вечерам;
+
+am Morgen außer dienstags und donnerstags
+по утрам, кроме вторников и четвергов;
+
+außer + Dat.
+кроме; за исключением;
+
+Es ist verboten.
+Это запрещено.;
+
+v verbieten-verbietet / verbot / hat verboten
+запрещать{prs=запрещает, pst=запрещал};
+
+der Aberglaube (sg.)
+суеверие;
+
+Das ist nur Aberglaube.
+Это просто суеверие.;
+
+der Glaube -n
+вера; убеждение;
+
+der Polterabend -e
+полтерабенд; предсвадебная вечеринка с битьем посуды на счастье;
+
+die schwarze Katze -n
+черная кошка;
+
+Eine schwarze Katze bringt Unglück.
+Черная кошка приносит несчастье.;
+
+v poltern / polterte / hat gepoltert
+греметь{prs=гремит, pst=гремел}; шуметь{prs=шумит, pst=шумел};
+
+das Unglück (sg.)
+несчастье; невезение;
+
+der Knoblauch (sg.)
+чеснок;
+
+Knoblauch schützt vor Vampiren.
+Чеснок защищает от вампиров.;
+
+v schützen / schützte / hat geschützt
+защищать{prs=защищает, pst=защищал};
+
+der Vampir -e
+вампир;
+
+a bereit
+готовый;
+
+Wir sind bereit.
+Мы готовы.;
+
+Bist du bereit?
+Ты готов?; Вы готовы?;
+
+die Hälfte -n
+половина; одна вторая;
+
+die Traumwohnung -en
+квартира мечты; идеальная квартира;
+
+der Traum "-e
+мечта; сон;
+
+124,68
+сто двадцать четыре запятая шестьдесят восемь;
+
+1.246,8
+одна тысяча двести сорок шесть запятая восемь;
+
+1246 (Jahr)
+двенадцать сорок шесть, при чтении года;
+
+1.000.000
+один миллион;
+
+10.000.000
+десять миллионов;
+
+v machen / machte / hat gemacht
+делать{prs=делает, pst=делал}; изготавливать{prs=изготавливает, pst=изготавливал};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+закрывать{prs=закрывает, pst=закрывал};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+открывать{prs=открывает, pst=открывал};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+выключать{prs=выключает, pst=выключал}; договариваться{prs=договаривается, pst=договаривался}; иметь значение{prs=имеет значение, pst=имел значение};
+
+v anmachen-macht an / machte an / hat angemacht
+включать{prs=включает, pst=включал}; клеиться к кому-то{prs=клеится к кому-то, pst=клеился к кому-то};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+договариваться{prs=договаривается, pst=договаривался}; снимать{prs=снимает, pst=снимал};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+консервировать{prs=консервирует, pst=консервировал};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+продолжать{prs=продолжает, pst=продолжал};
+
+die Vorsilbe -n
+приставка;
+
+die Präposition -en
+предлог;
+
+a ähnlich
+похожий; сходный;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+подписывать{prs=подписывает, pst=подписывал};
+
+die Unterschrift -en
+подпись;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+подчеркивать{prs=подчеркивает, pst=подчеркивал};
+
+v reinigen / reinigte / hat gereinigt
+чистить{prs=чистит, pst=чистил}; очищать{prs=очищает, pst=очищал};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+убирать{prs=убирает, pst=убирал}; убирать прочь{prs=убирает прочь, pst=убирал прочь}; относить в сторону{prs=относит в сторону, pst=относил в сторону};
+
+Ich unterschreibe den Brief.
+Я подписываю письмо.;
+
+Ich unterstreiche ein Wort im Text.
+Я подчеркиваю одно слово в тексте.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+Я хочу, чтобы мои дети убрали свои вещи.;
+
+Ich möchte meine Kinder wegräumen.
+Я хочу избавиться от своих детей.;
+
+Ich war schwimmen.
+Я ходил плавать.;
+
+Wir waren im Park.
+Мы были в парке.;
+
+in + Dat./Akk.
+в; внутрь;
+
+der Park -s
+парк;
+
+der Zustand "-e
+состояние;
+
+Ich war zu Hause.
+Я был дома.;
+
+Er war krank.
+Он был болен.;
+
+Wir waren im Kino.
+Мы были в кино.;
+
+Ich war einkaufen.
+Я ходил за покупками.;
+
+Ich gebe mir die Schuld.
+Я виню себя.;
+
+sich Vorwürfe machen
+упрекать себя; чувствовать вину;
+
+der Schaufensterbummel -
+прогулка по магазинам и витринам;
+
+einen Schaufensterbummel machen
+ходить смотреть витрины; гулять по магазинам;
+
+der Bummel -
+неторопливая прогулка; неспешный поход по магазинам;
+
+einen Bummel machen
+пойти на неторопливую прогулку;
+
+das Sprichwort "-er
+пословица; поговорка;
+
+das Motto -s
+девиз;
+
+das geflügelte Wort "-er
+крылатое выражение; известная фраза;
+
+v entspannen / entspannte / hat entspannt
+расслаблять{prs=расслабляет, pst=расслаблял}; расслабляться{prs=расслабляется, pst=расслаблялся};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+расслабляться{prs=расслабляется, pst=расслаблялся}; отдыхать{prs=отдыхает, pst=отдыхал};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+отдыхать{prs=отдыхает, pst=отдыхал};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+отдыхать{prs=отдыхает, pst=отдыхал}; передохнуть{prs=передохнет, pst=передохнул};
+
+v chillen / chillte / hat gechillt
+чиллить{prs=чиллит, pst=чиллил}; расслабляться{prs=расслабляется, pst=расслаблялся};
+
+v baden / badete / hat gebadet
+купаться{prs=купается, pst=купался}; мыть{prs=моет, pst=мыл};
+
+im See baden
+купаться в озере;
+
+ein Kind baden
+купать ребенка;
+
+a aufgeregt
+взволнованный; возбужденный; нервный;
+
+Ich bin aufgeregt.
+Я взволнован.; Я нервничаю.;
+
+a gespannt
+заинтересованный; в предвкушении; любопытный;
+
+v sich freuen / freute sich / hat sich gefreut
+радоваться{prs=радуется, pst=радовался}; ждать с радостью{prs=ждет с радостью, pst=ждал с радостью};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+занимать{prs=занимает, pst=занимал}; нанимать{prs=нанимает, pst=нанимал};
+
+sich mit etw. beschäftigen
+заниматься чем-то; иметь дело с чем-то;
+
+j-n beschäftigen
+занимать кого-то; держать кого-то занятым; нанимать кого-то;
+
+die Beschäftigung -en
+занятие; деятельность; работа;
+
+nicht oft
+нечасто;
+
+selten
+редко;
+
+sehr selten
+очень редко;
+
+a regelmäßig
+регулярно; регулярный;
+
+oft
+часто;
+
+a unregelmäßig
+нерегулярно; нерегулярный;
+
+die Ente -n
+утка;
+
+Enten füttern
+кормить уток;
+
+v füttern / fütterte / hat gefüttert
+кормить животных{prs=кормит животных, pst=кормил животных};
+
+Das hängt ab.
+Это зависит.;
+
+von etw. abhängen
+зависеть от чего-то;
+
+Das hängt von + Dat. ab.
+Это зависит от ...;
+
+Das hängt vom Wetter ab.
+Это зависит от погоды.;
+
+Es hängt davon ab, ob ...
+Это зависит от того, ...;
+
+Es kommt darauf an.
+Это зависит.;
+
+Das hängt davon ab.
+Это зависит от этого.; Это зависит.;
+
+Nachrichten schauen
+смотреть новости;
+
+auf + Dat.
+на; на платформе или сайте;
+
+bei + Dat.
+у; у источника или провайдера;
+
+Am Freitag kommt meine Tochter.
+Моя дочь приедет в пятницу.;
+
+Ich treffe sie am Bahnhof.
+Я встречу ее на вокзале.;
+
+Er liebt italienische Pasta.
+Он любит итальянскую пасту.;
+
+Er isst sie jeden Tag.
+Он ест ее каждый день.;
+
+Magst du den Mantel?
+Тебе нравится это пальто?;
+
+Du kannst ihn kaufen.
+Ты можешь его купить.;
+
+Wir treffen euch in der Schule.
+Мы встречаем вас в школе.;
+
+Ich treffe dich in der Schule.
+Я встречаю тебя в школе.;
+
+Ich bin alleinerziehend.
+Я родитель-одиночка.; Я один воспитываю ребенка.;
+
+Ich bin eine alleinerziehende Mutter.
+Я мать-одиночка.;
+
+Ich bin ein alleinerziehender Vater.
+Я отец-одиночка.;
+
+Possessivartikel, Nominativ und Akkusativ
+притяжательные артикли, именительный и винительный падеж;
+
+Ich sehe dich und deinen Hund.
+Я вижу тебя и твою собаку.;
+
+Wir treffen ihn und seine Freunde.
+Мы встречаем его и его друзей.;
+
+Er trifft sie und ihre Freunde.
+Он встречает ее и ее друзей.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+знакомиться{prs=знакомится, pst=знакомился}; узнавать ближе{prs=узнает ближе, pst=узнавал ближе};
+
+j-n kennenlernen
+познакомиться с кем-то; узнать кого-то поближе;
+
+eine Stadt kennenlernen
+узнать город поближе;
+
+Wir sehen uns morgen.
+Увидимся завтра.;
+
+Dann sehe ich euch alle zusammen.
+Потом я увижу вас всех вместе.;
+
+zusammen
+вместе;
+
+Wir sehen uns.
+Увидимся.; Мы увидимся.;
+
+Wo?
+где?;
+
+Wohin?
+куда?;
+
+Wohin gehst du am Abend?
+Куда ты идешь вечером?;
+
+Ich gehe in den Park.
+Я иду в парк.;
+
+Ich gehe in das Kino.
+Я иду в кино.;
+
+Ich gehe ins Kino.
+Я иду в кино.;
+
+Ich gehe in die Schule.
+Я иду в школу.;
+
+v laufen-läuft / lief / ist gelaufen
+бежать{prs=бежит, pst=бежал}; ходить пешком{prs=ходит пешком, pst=ходил пешком};
+
+v klettern / kletterte / hat geklettert
+лезть{prs=лезет, pst=лез}; карабкаться{prs=карабкается, pst=карабкался};
+
+v rennen-rennt / rannte / ist gerannt
+бежать быстро{prs=бежит быстро, pst=бежал быстро};
+
+v wandern / wanderte / ist gewandert
+ходить в поход{prs=ходит в поход, pst=ходил в поход}; путешествовать пешком{prs=путешествует пешком, pst=путешествовал пешком};
+
+v fliegen-fliegt / flog / ist geflogen
+лететь{prs=летит, pst=летел};
+
+nach
+в; к; после;
+
+Ich fahre nach Erfurt.
+Я еду в Эрфурт.;
+
+Wir fliegen nach Palästina.
+Мы летим в Палестину.;
+
+v arbeiten / arbeitete / hat gearbeitet
+работать{prs=работает, pst=работал};
+
+v lernen / lernte / hat gelernt
+учить{prs=учит, pst=учил}; учиться{prs=учится, pst=учился};
+
+v kaufen / kaufte / hat gekauft
+покупать{prs=покупает, pst=покупал};
+
+v essen-isst / aß / hat gegessen
+есть{prs=ест, pst=ел};
+
+v trinken / trank / hat getrunken
+пить{prs=пьет, pst=пил};
+
+Ich arbeite.
+Я работаю.;
+
+Ich lerne.
+Я учусь.; Я учу.;
+
+Ich esse.
+Я ем.;
+
+Ich trinke.
+Я пью.;
+
+das Perfekt (sg.)
+перфект; разговорное прошедшее время;
+
+das Hilfsverb -en
+вспомогательный глагол;
+
+das Partizip II (sg.)
+причастие II; причастие прошедшего времени;
+
+Gestern habe ich lange gearbeitet.
+Вчера я долго работал.;
+
+Ich habe einen Kuchen genommen.
+Я взял пирог.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+На выходных я работал не очень много.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+Я купил эту книгу два месяца назад.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+Вчера я ел вьетнамскую лапшу.;
+
+Ich habe gestern einen Spaziergang gemacht.
+Вчера я ходил на прогулку.;
+
+nicht
+не;
+
+Ich arbeite nicht.
+Я не работаю.;
+
+Ich habe nichts gekauft.
+Я ничего не купил.;
+
+letzte
+последний; прошлый;
+
+zuerst
+сначала; сперва;
+
+alles
+всё;
+
+Alle Schüler sind hier.
+Все ученики здесь.;
+
+Alles ist gut.
+Всё хорошо.;
+
+gefüllte Paprika
+фаршированный перец;
+
+vorgestern
+позавчера;
+
+viel
+много;
+
+vor + Dat.
+назад; перед;
+
+der Spaziergang "-e
+прогулка;
+
+einen Spaziergang machen
+идти на прогулку; гулять;
+
+a gefüllt
+фаршированный; наполненный;
+
+Wann arbeiten Sie?
+Когда Вы работаете?;
+
+Wann hast du Deutschkurs?
+Когда у тебя урок немецкого?;
+
+von Montag bis Freitag
+с понедельника по пятницу;
+
+von 8:30 bis 11:45 Uhr
+с 8:30 до 11:45;
+
+jeden Tag
+каждый день;
+
+jeden Tag in der Woche
+каждый день в течение недели;
+
+jede Woche
+каждую неделю;
+
+jeden Arbeitstag
+каждый рабочий день;
+
+Wann hast du eingekauft?
+Когда ты ходил за покупками?;
+
+Ich habe vorgestern eingekauft.
+Я ходил за покупками позавчера.;
+
+Ich habe am Montag eingekauft.
+Я ходил за покупками в понедельник.;
+
+Ich habe keine Ahnung.
+Я не имею ни малейшего представления.; Я не знаю.;
+
+v einchecken / checkte ein / hat eingecheckt
+регистрироваться{prs=регистрируется, pst=регистрировался}; проходить регистрацию{prs=проходит регистрацию, pst=проходил регистрацию};
+
+v liefern / lieferte / hat geliefert
+доставлять{prs=доставляет, pst=доставлял}; поставлять{prs=поставляет, pst=поставлял};
+
+der Arbeitstag -e
+рабочий день;
+
+die Ware -n
+товар; товары;
+
+der Flughafen -
+аэропорт;
+
+der Hafen "-
+гавань; порт;
+
+Ware liefern
+доставлять товары; поставлять товары;
+
+am Flughafen einchecken
+зарегистрироваться в аэропорту;
+
+im Hotel einchecken
+зарегистрироваться в отеле;
+
+am Flughafen
+в аэропорту;
+
+zum Flughafen
+в аэропорт;
+
+vom Flughafen
+из аэропорта;
+
+im Hafen
+в гавани; в порту;
+
+zum Hafen
+в гавань; в порт;
+
+vom Hafen
+из гавани; из порта;
+
+das Präteritum (sg.)
+претерит; простое прошедшее время;
+
+v gehen-geht / ging / ist gegangen
+идти{prs=идет, pst=шел};
+
+v helfen-hilft / half / hat geholfen
+помогать{prs=помогает, pst=помогал};
+
+v bleiben-bleibt / blieb / ist geblieben
+оставаться{prs=остается, pst=оставался};
+
+v werden-wird / wurde / ist geworden
+становиться{prs=становится, pst=становился};
+
+die Ermäßigung -en
+скидка; льгота; сниженная цена;
+
+mit Ermäßigung
+со скидкой;
+
+eine Ermäßigung bekommen
+получить скидку;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+переставать{prs=перестает, pst=переставал}; прекращать{prs=прекращает, pst=прекращал};
+
+mit etw. aufhören
+перестать делать что-то;
+
+Hör bitte auf!
+Перестань, пожалуйста!;
+
+Er hört mit dem Rauchen auf.
+Он бросает курить.;
+
+das Mitglied -er
+член;
+
+Mitglied sein
+быть членом;
+
+ein Mitglied der Familie
+член семьи;
+
+Mitglied in einem Verein
+член клуба; член объединения;
+
+die Probestunde -n
+пробное занятие; пробный урок;
+
+die Schnupperstunde -n
+ознакомительное пробное занятие; пробный вводный урок;
+
+noch einige Fragen
+еще несколько вопросов; еще пара вопросов;
+
+noch ein paar Fragen
+еще несколько вопросов;

@@ -1,0 +1,854 @@
+m²
+metrekare; kare metre;
+
+KM
+yan giderler hariç temel kira; soğuk kira;
+
+NK
+ek giderler; hizmet bedelleri; yan giderler;
+
+die Wohnungsanzeige -n
+ev ilanı; daire ilanı;
+
+der Quadratmeter -
+metrekare;
+
+die Kaltmiete -n
+yan giderler hariç temel kira; soğuk kira;
+
+der Nachmieter -
+sonraki kiracı; yerine geçecek kiracı;
+
+der Vormieter -
+önceki kiracı;
+
+der Strom (sg.)
+elektrik;
+
+der Parkplatz "-e
+park yeri; otopark yeri;
+
+eine Wohnung mieten
+bir daire kiralamak;
+
+einen Stellplatz mieten
+bir park yeri kiralamak;
+
+die Rechnung -en
+fatura; hesap;
+
+die Rückzahlung -en
+geri ödeme; iade;
+
+die Nachzahlung -en
+ek ödeme; sonradan ödeme;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+Daire çok pahalı, ama parasını ödeyebilirim. ;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+Daire fazla pahalı, parasını ödeyemem. ;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr ve zu bütün sıfatlarla kullanılabilir. Zu çoğunlukla olumsuz bir anlam taşır. ;
+
+Das Essen ist zu heiß.
+Yemek fazla sıcak. ;
+
+Das Essen ist sehr heiß.
+Yemek çok sıcak. ;
+
+a zu
+fazla; gereğinden çok;
+
+sehr teuer
+çok pahalı;
+
+zu teuer
+fazla pahalı;
+
+sehr heiß
+çok sıcak;
+
+zu heiß
+fazla sıcak;
+
+die Bedeutung -en
+anlam;
+
+v kombinieren / kombinierte / hat kombiniert
+birleştirmek{prs=birleştirir, pst=birleştirdi}; kombinlemek{prs=kombinler, pst=kombinledi};
+
+ich darf
+yapmama izin var; yapabilirim;
+
+du darfst
+yapmana izin var; yapabilirsin;
+
+er/sie/es darf
+yapmasına izin var; yapmasına izin var; buna izin var; yapabilir;
+
+wir dürfen
+yapmamıza izin var; yapabiliriz;
+
+ihr dürft
+yapmanıza izin var; yapabilirsiniz;
+
+sie/Sie dürfen
+yapmalarına izin var; yapmanıza izin var; yapabilirler; yapabilirsiniz;
+
+Es ist erlaubt.
+Buna izin var. ;
+
+Wir dürfen auf dem Balkon grillen.
+Balkonda mangal yapmamıza izin var. ;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+18 yaşın altındaki çocuklar alkol satın alamaz. ;
+
+Ich darf in meiner Wohnung laut singen.
+Dairemde yüksek sesle şarkı söylememe izin var. ;
+
+die Nachtruhe (sg.)
+gece sessizlik saatleri; gece huzuru;
+
+die Mittagsruhe (sg.)
+öğle sessizlik saati; öğle dinlenme zamanı;
+
+die Hausordnung -en
+ev kuralları; bina kuralları;
+
+die Ruhe -n
+sakinlik; dinlenme; huzur;
+
+die Ordnung -en
+düzen; kurallar; tertip;
+
+der Kinderwagen -
+bebek arabası;
+
+der Hausflur -e
+apartman koridoru; ortak koridor;
+
+Kinderwagen im Hausflur
+ortak koridorda bebek arabası;
+
+der Schuh -e
+ayakkabı;
+
+das Treppenhaus "-er
+merdiven boşluğu; apartman merdiven alanı;
+
+Schuhe im Treppenhaus
+merdiven boşluğunda ayakkabılar;
+
+das Haustier -e
+evcil hayvan;
+
+kleine Tiere
+küçük hayvanlar;
+
+Kleine Tiere sind erlaubt.
+Küçük hayvanlara izin var. ;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+Kedi ya da köpek için ev sahibine sormak gerekir. ;
+
+a hoch höher am höchsten
+yüksek{cmp=daha yüksek, sup=en yüksek}; uzun{cmp=daha uzun, sup=en uzun};
+
+Das Haus ist hoch.
+Ev yüksek. ;
+
+Der Preis ist hoch.
+Fiyat yüksek. ;
+
+a tief tiefer am tiefsten
+derin{cmp=daha derin, sup=en derin}; alçak{cmp=daha alçak, sup=en alçak};
+
+a niedrig
+alçak; düşük;
+
+der tiefste Preis
+en düşük fiyat;
+
+der niedrigste Preis
+en düşük fiyat;
+
+das Benzin (sg.)
+benzin;
+
+die Preise für Diesel und Benzin (pl.)
+dizel ve benzin fiyatları;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Şu anda dizel ve benzin fiyatları çok yüksek. ;
+
+die Geschwindigkeitsbegrenzung -en
+hız sınırı;
+
+die Geschwindigkeit -en
+hız;
+
+die Begrenzung -en
+sınır; kısıtlama;
+
+v begrenzen / begrenzte / hat begrenzt
+sınırlamak{prs=sınırlar, pst=sınırladı}; kısıtlamak{prs=kısıtlar, pst=kısıtladı};
+
+mal so, mal so
+bazen şöyle bazen böyle; değişiyor;
+
+immer abends
+her zaman akşamları;
+
+am Morgen außer dienstags und donnerstags
+sabahları, salı ve perşembe hariç;
+
+außer + Dat.
+hariç; dışında;
+
+Es ist verboten.
+Yasaktır. ; Buna izin yok. ;
+
+v verbieten-verbietet / verbot / hat verboten
+yasaklamak{prs=yasaklar, pst=yasakladı}; men etmek{prs=men eder, pst=men etti};
+
+der Aberglaube (sg.)
+batıl inanç;
+
+Das ist nur Aberglaube.
+Bu sadece batıl inanç. ;
+
+der Glaube -n
+inanç; iman;
+
+der Polterabend -e
+iyi şans için tabak çanak kırılan düğün öncesi eğlence;
+
+die schwarze Katze -n
+siyah kedi;
+
+Eine schwarze Katze bringt Unglück.
+Siyah kedi uğursuzluk getirir. ;
+
+v poltern / polterte / hat gepoltert
+gürültü yapmak{prs=gürültü yapar, pst=gürültü yaptı}; gürlemek{prs=gürler, pst=gürledi};
+
+das Unglück (sg.)
+uğursuzluk; talihsizlik;
+
+der Knoblauch (sg.)
+sarımsak;
+
+Knoblauch schützt vor Vampiren.
+Sarımsak vampirlere karşı korur. ;
+
+v schützen / schützte / hat geschützt
+korumak{prs=korur, pst=korudu};
+
+der Vampir -e
+vampir;
+
+a bereit
+hazır;
+
+Wir sind bereit.
+Hazırız. ;
+
+Bist du bereit?
+Hazır mısın?;
+
+die Hälfte -n
+yarı; bir yarım;
+
+die Traumwohnung -en
+hayalindeki daire; ideal daire;
+
+der Traum "-e
+rüya; hayal;
+
+124,68
+yüz yirmi dört virgül altmış sekiz;
+
+1.246,8
+bin iki yüz kırk altı virgül sekiz;
+
+1246 (Jahr)
+yıl okunurken on iki kırk altı;
+
+1.000.000
+bir milyon;
+
+10.000.000
+on milyon;
+
+v machen / machte / hat gemacht
+yapmak{prs=yapar, pst=yaptı}; etmek{prs=eder, pst=etti};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+kapatmak{prs=kapatır, pst=kapattı};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+açmak{prs=açar, pst=açtı};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+kapatmak{prs=kapatır, pst=kapattı}; ayarlamak{prs=ayarlar, pst=ayarladı}; önemli olmak{prs=önemli olur, pst=önemli oldu};
+
+v anmachen-macht an / machte an / hat angemacht
+açmak{prs=açar, pst=açtı}; asılmak{prs=asılır, pst=asıldı};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+anlaşmak{prs=anlaşır, pst=anlaştı}; çıkarmak{prs=çıkarır, pst=çıkardı};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+konserve yapmak{prs=konserve yapar, pst=konserve yaptı}; saklamak{prs=saklar, pst=sakladı};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+devam etmek{prs=devam eder, pst=devam etti};
+
+die Vorsilbe -n
+önek;
+
+die Präposition -en
+edat;
+
+a ähnlich
+benzer; benzeri;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+imzalamak{prs=imzalar, pst=imzaladı};
+
+die Unterschrift -en
+imza;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+altını çizmek{prs=altını çizer, pst=altını çizdi};
+
+v reinigen / reinigte / hat gereinigt
+temizlemek{prs=temizler, pst=temizledi}; arındırmak{prs=arındırır, pst=arındırdı};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+ortadan kaldırmak{prs=ortadan kaldırır, pst=ortadan kaldırdı}; yerine kaldırmak{prs=yerine kaldırır, pst=yerine kaldırdı};
+
+Ich unterschreibe den Brief.
+Mektubu imzalıyorum. ;
+
+Ich unterstreiche ein Wort im Text.
+Metinde bir kelimenin altını çiziyorum. ;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+Çocuklarımın eşyalarını kaldırmasını istiyorum. ;
+
+Ich möchte meine Kinder wegräumen.
+Çocuklarımdan kurtulmak istiyorum. ;
+
+Ich war schwimmen.
+Yüzmeye gittim. ;
+
+Wir waren im Park.
+Parktaydık. ;
+
+in + Dat./Akk.
+içinde; içine;
+
+der Park -s
+park;
+
+der Zustand "-e
+durum; hal;
+
+Ich war zu Hause.
+Evdeydim. ;
+
+Er war krank.
+Hastaydı. ;
+
+Wir waren im Kino.
+Sinemadaydık. ;
+
+Ich war einkaufen.
+Alışverişe gittim. ;
+
+Ich gebe mir die Schuld.
+Kendimi suçluyorum. ;
+
+sich Vorwürfe machen
+kendini suçlamak; suçluluk duymak;
+
+der Schaufensterbummel -
+vitrin gezisi;
+
+einen Schaufensterbummel machen
+vitrin gezmek;
+
+der Bummel -
+keyifli gezinti; ağır ağır dolaşma;
+
+einen Bummel machen
+keyifli bir gezintiye çıkmak;
+
+das Sprichwort "-er
+atasözü; deyiş;
+
+das Motto -s
+slogan; motto;
+
+das geflügelte Wort "-er
+meşhur söz; kalıplaşmış ifade;
+
+v entspannen / entspannte / hat entspannt
+rahatlatmak{prs=rahatlatır, pst=rahatlattı};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+rahatlamak{prs=rahatlar, pst=rahatladı}; gevşemek{prs=gevşer, pst=gevşedi};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+dinlenmek{prs=dinlenir, pst=dinlendi};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+dinlenmek{prs=dinlenir, pst=dinlendi}; biraz soluklanmak{prs=biraz soluklanır, pst=biraz soluklandı};
+
+v chillen / chillte / hat gechillt
+takılmak{prs=takılır, pst=takıldı}; rahatlamak{prs=rahatlar, pst=rahatladı};
+
+v baden / badete / hat gebadet
+yıkanmak{prs=yıkanır, pst=yıkandı}; yüzmek{prs=yüzer, pst=yüzdü};
+
+im See baden
+gölde yüzmek;
+
+ein Kind baden
+bir çocuğu yıkamak;
+
+a aufgeregt
+heyecanlı; gergin; sinirli;
+
+Ich bin aufgeregt.
+Heyecanlıyım. ; Gerginim. ;
+
+a gespannt
+meraklı; heyecanla bekleyen; ilgili;
+
+v sich freuen / freute sich / hat sich gefreut
+sevinmek{prs=sevinir, pst=sevindi}; dört gözle beklemek{prs=dört gözle bekler, pst=dört gözle bekledi};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+meşgul etmek{prs=meşgul eder, pst=meşgul etti}; çalıştırmak{prs=çalıştırır, pst=çalıştırdı};
+
+sich mit etw. beschäftigen
+bir şeyle uğraşmak; bir şeyle meşgul olmak;
+
+j-n beschäftigen
+birini meşgul etmek; birini çalıştırmak;
+
+die Beschäftigung -en
+uğraş; meslek; iş;
+
+nicht oft
+sık değil; pek sık değil;
+
+selten
+nadiren;
+
+sehr selten
+çok nadiren;
+
+a regelmäßig
+düzenli olarak; düzenli;
+
+oft
+sık sık; sıkça;
+
+a unregelmäßig
+düzensiz olarak; düzensiz;
+
+die Ente -n
+ördek;
+
+Enten füttern
+ördekleri beslemek;
+
+v füttern / fütterte / hat gefüttert
+hayvanları beslemek{prs=hayvanları besler, pst=hayvanları besledi};
+
+Das hängt ab.
+Bu duruma bağlı. ; Bu duruma göre değişir. ;
+
+von etw. abhängen
+bir şeye bağlı olmak;
+
+Das hängt von + Dat. ab.
+Bu ... bağlıdır.;
+
+Das hängt vom Wetter ab.
+Bu havaya bağlı. ;
+
+Es hängt davon ab, ob ...
+Bu, ... olup olmamasına bağlı. ;
+
+Es kommt darauf an.
+Duruma bağlı. ;
+
+Das hängt davon ab.
+Buna bağlı. ; Duruma göre değişir. ;
+
+Nachrichten schauen
+haberleri izlemek;
+
+auf + Dat.
+üzerinde; bir platformda veya sitede;
+
+bei + Dat.
+bir yerde; bir sağlayıcıda; bir kaynaktan;
+
+Am Freitag kommt meine Tochter.
+Kızım cuma günü geliyor. ;
+
+Ich treffe sie am Bahnhof.
+Onu istasyonda karşılıyorum. ;
+
+Er liebt italienische Pasta.
+İtalyan makarnasını seviyor. ;
+
+Er isst sie jeden Tag.
+Onu her gün yiyor. ;
+
+Magst du den Mantel?
+Paltoyu beğeniyor musun?;
+
+Du kannst ihn kaufen.
+Onu satın alabilirsin. ;
+
+Wir treffen euch in der Schule.
+Sizi okulda görüyoruz. ;
+
+Ich treffe dich in der Schule.
+Seni okulda görüyorum. ;
+
+Ich bin alleinerziehend.
+Bekar ebeveynim.; Çocuğumu tek başıma büyütüyorum.;
+
+Ich bin eine alleinerziehende Mutter.
+Çocuğunu tek başına büyüten bir anneyim. ;
+
+Ich bin ein alleinerziehender Vater.
+Çocuğunu tek başına büyüten bir babayım. ;
+
+Possessivartikel, Nominativ und Akkusativ
+iyelik artikelleri, nominatif ve akkusatif;
+
+Ich sehe dich und deinen Hund.
+Seni ve köpeğini görüyorum. ;
+
+Wir treffen ihn und seine Freunde.
+Onunla ve arkadaşlarıyla buluşuyoruz. ;
+
+Er trifft sie und ihre Freunde.
+O, onunla ve arkadaşlarıyla buluşuyor. ;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+tanışmak{prs=tanışır, pst=tanıştı}; yakından tanımak{prs=yakından tanır, pst=yakından tanıdı};
+
+j-n kennenlernen
+biriyle tanışmak; birini tanımak;
+
+eine Stadt kennenlernen
+bir şehri tanımak;
+
+Wir sehen uns morgen.
+Yarın görüşürüz. ; Yarın birbirimizi görürüz. ;
+
+Dann sehe ich euch alle zusammen.
+Sonra hepinizi birlikte göreceğim. ;
+
+zusammen
+birlikte;
+
+Wir sehen uns.
+Görüşürüz. ; Birbirimizi görürüz. ;
+
+Wo?
+nerede?;
+
+Wohin?
+nereye?;
+
+Wohin gehst du am Abend?
+Akşam nereye gidiyorsun?;
+
+Ich gehe in den Park.
+Parka gidiyorum. ;
+
+Ich gehe in das Kino.
+Sinemaya gidiyorum. ;
+
+Ich gehe ins Kino.
+Sinemaya gidiyorum. ;
+
+Ich gehe in die Schule.
+Okula gidiyorum. ;
+
+v laufen-läuft / lief / ist gelaufen
+koşmak{prs=koşar, pst=koştu}; yürümek{prs=yürür, pst=yürüdü};
+
+v klettern / kletterte / hat geklettert
+tırmanmak{prs=tırmanır, pst=tırmandı};
+
+v rennen-rennt / rannte / ist gerannt
+hızlı koşmak{prs=hızlı koşar, pst=hızlı koştu};
+
+v wandern / wanderte / ist gewandert
+yürüyüş yapmak{prs=yürüyüş yapar, pst=yürüyüş yaptı}; doğa yürüyüşüne çıkmak{prs=doğa yürüyüşüne çıkar, pst=doğa yürüyüşüne çıktı};
+
+v fliegen-fliegt / flog / ist geflogen
+uçmak{prs=uçar, pst=uçtu};
+
+nach
+-e; -e doğru; sonra;
+
+Ich fahre nach Erfurt.
+Erfurt'a gidiyorum. ;
+
+Wir fliegen nach Palästina.
+Filistin'e uçuyoruz. ;
+
+v arbeiten / arbeitete / hat gearbeitet
+çalışmak{prs=çalışır, pst=çalıştı};
+
+v lernen / lernte / hat gelernt
+öğrenmek{prs=öğrenir, pst=öğrendi}; ders çalışmak{prs=ders çalışır, pst=ders çalıştı};
+
+v kaufen / kaufte / hat gekauft
+satın almak{prs=satın alır, pst=satın aldı};
+
+v essen-isst / aß / hat gegessen
+yemek yemek{prs=yemek yer, pst=yemek yedi};
+
+v trinken / trank / hat getrunken
+içmek{prs=içer, pst=içti};
+
+Ich arbeite.
+Çalışıyorum. ;
+
+Ich lerne.
+Öğreniyorum. ; Ders çalışıyorum. ;
+
+Ich esse.
+Yemek yiyorum. ;
+
+Ich trinke.
+İçiyorum. ;
+
+das Perfekt (sg.)
+Perfekt zaman; görülen geçmiş zaman yapısı;
+
+das Hilfsverb -en
+yardımcı fiil;
+
+das Partizip II (sg.)
+ortaç II; geçmiş ortaç;
+
+Gestern habe ich lange gearbeitet.
+Dün uzun süre çalıştım. ;
+
+Ich habe einen Kuchen genommen.
+Bir kek aldım. ;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+Hafta sonunda çok çalışmadım. ;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+Bu kitabı iki ay önce satın aldım. ;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+Dün Vietnam eriştesi yedim. ;
+
+Ich habe gestern einen Spaziergang gemacht.
+Dün yürüyüşe çıktım. ;
+
+nicht
+değil; ...me ...ma;
+
+Ich arbeite nicht.
+Çalışmıyorum. ;
+
+Ich habe nichts gekauft.
+Hiçbir şey satın almadım. ;
+
+letzte
+son; önceki;
+
+zuerst
+önce; ilk olarak;
+
+alles
+her şey;
+
+Alle Schüler sind hier.
+Bütün öğrenciler burada. ;
+
+Alles ist gut.
+Her şey iyi. ;
+
+gefüllte Paprika
+doldurulmuş biber; dolma biber;
+
+vorgestern
+evvelsi gün;
+
+viel
+çok; çok miktarda;
+
+vor + Dat.
+önce; ... önce;
+
+der Spaziergang "-e
+yürüyüş; gezinti;
+
+einen Spaziergang machen
+yürüyüş yapmak;
+
+a gefüllt
+doldurulmuş; içi doldurulmuş;
+
+Wann arbeiten Sie?
+Ne zaman çalışıyorsunuz?;
+
+Wann hast du Deutschkurs?
+Ne zaman Almanca dersin var?;
+
+von Montag bis Freitag
+pazartesiden cumaya;
+
+von 8:30 bis 11:45 Uhr
+8:30'dan 11:45'e kadar;
+
+jeden Tag
+her gün;
+
+jeden Tag in der Woche
+hafta boyunca her gün;
+
+jede Woche
+her hafta;
+
+jeden Arbeitstag
+her iş günü;
+
+Wann hast du eingekauft?
+Ne zaman alışveriş yaptın?;
+
+Ich habe vorgestern eingekauft.
+Evvelsi gün alışveriş yaptım. ;
+
+Ich habe am Montag eingekauft.
+Pazartesi alışveriş yaptım. ;
+
+Ich habe keine Ahnung.
+Hiçbir fikrim yok. ;
+
+v einchecken / checkte ein / hat eingecheckt
+check-in yapmak{prs=check-in yapar, pst=check-in yaptı}; giriş kaydı yaptırmak{prs=giriş kaydı yaptırır, pst=giriş kaydı yaptırdı};
+
+v liefern / lieferte / hat geliefert
+teslim etmek{prs=teslim eder, pst=teslim etti}; tedarik etmek{prs=tedarik eder, pst=tedarik etti};
+
+der Arbeitstag -e
+iş günü;
+
+die Ware -n
+ürün; mal; ticari mal;
+
+der Flughafen -
+havalimanı; havaalanı;
+
+der Hafen "-
+liman;
+
+Ware liefern
+ürün teslim etmek; mal teslim etmek; ürün tedarik etmek;
+
+am Flughafen einchecken
+havalimanında check-in yapmak;
+
+im Hotel einchecken
+otelde check-in yapmak;
+
+am Flughafen
+havalimanında;
+
+zum Flughafen
+havalimanına;
+
+vom Flughafen
+havalimanından;
+
+im Hafen
+limanda;
+
+zum Hafen
+limana;
+
+vom Hafen
+limandan;
+
+das Präteritum (sg.)
+Präteritum; hikâye geçmiş zamanı;
+
+v gehen-geht / ging / ist gegangen
+gitmek{prs=gider, pst=gitti};
+
+v helfen-hilft / half / hat geholfen
+yardım etmek{prs=yardım eder, pst=yardım etti};
+
+v bleiben-bleibt / blieb / ist geblieben
+kalmak{prs=kalır, pst=kaldı};
+
+v werden-wird / wurde / ist geworden
+olmak{prs=olur, pst=oldu}; haline gelmek{prs=haline gelir, pst=haline geldi};
+
+die Ermäßigung -en
+indirim; öğrenci indirimi; düşük fiyat;
+
+mit Ermäßigung
+indirimli;
+
+eine Ermäßigung bekommen
+indirim almak;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+durmak{prs=durur, pst=durdu}; bırakmak{prs=bırakır, pst=bıraktı};
+
+mit etw. aufhören
+bir şeyi yapmayı bırakmak;
+
+Hör bitte auf!
+Lütfen bırak!;
+
+Er hört mit dem Rauchen auf.
+Sigarayı bırakıyor. ;
+
+das Mitglied -er
+üye;
+
+Mitglied sein
+üye olmak;
+
+ein Mitglied der Familie
+ailenin bir üyesi;
+
+Mitglied in einem Verein
+bir kulübün üyesi; bir derneğin üyesi;
+
+die Probestunde -n
+deneme dersi; deneme saati;
+
+die Schnupperstunde -n
+tanıtım amaçlı deneme dersi; başlangıç deneme dersi;
+
+noch einige Fragen
+birkaç soru daha;
+
+noch ein paar Fragen
+birkaç soru daha;

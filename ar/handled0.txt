@@ -86,10 +86,6 @@ v wählen
 Viele Menschen wählen am Sonntag.
 كثير من الناس يصوّتون يوم الأحد.;
 
-v wählen
-يختار{prs=يختار, pst=اختار}; ينتخب;
-[j-n; etw.]
-
 die Wahl -en
 اختيار; انتخابات;
 
@@ -130,10 +126,6 @@ v raten-rät / riet / hat geraten
 
 Ich rate dir, früher zu schlafen.
 أنصحك بأن تنام أبكر.;
-
-v raten-rät / riet / hat geraten
-يخمن{prs=يخمن, pst=خمن}; يقدّر;
-[etw.]
 
 Rate mal!
 خمن!;

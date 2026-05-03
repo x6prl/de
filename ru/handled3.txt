@@ -49,12 +49,6 @@ die Möbel (pl.)
 der Monat -e
 месяц;
 
-der Nachbar -n
-сосед;
-
-die Nachbarin -nen
-соседка;
-
 die Nebenkosten (pl.)
 коммунальные расходы; дополнительные расходы;
 
@@ -162,9 +156,6 @@ a modern
 
 a weit
 далекий; широкий{cmp=шире, sup=самый широкий}; просторный{cmp=просторнее, sup=самый просторный};
-
-a wichtig
-важный{cmp=важнее, sup=самый важный};
 
 ein bisschen
 немного;

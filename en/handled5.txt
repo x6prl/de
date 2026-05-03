@@ -1,0 +1,854 @@
+m²
+square meter; square meters;
+
+KM
+base rent without utilities; cold rent;
+
+NK
+additional costs; service charges; utilities;
+
+die Wohnungsanzeige -n
+apartment listing; housing ad;
+
+der Quadratmeter -
+square meter;
+
+die Kaltmiete -n
+base rent without utilities; cold rent;
+
+der Nachmieter -
+next tenant; replacement tenant;
+
+der Vormieter -
+previous tenant;
+
+der Strom (sg.)
+electricity;
+
+der Parkplatz "-e
+parking space; parking spot;
+
+eine Wohnung mieten
+rent an apartment;
+
+einen Stellplatz mieten
+rent a parking space;
+
+die Rechnung -en
+bill; invoice;
+
+die Rückzahlung -en
+refund; repayment;
+
+die Nachzahlung -en
+additional payment; back payment;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+The apartment is very expensive, but I can pay for it.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+The apartment is too expensive, and I cannot pay for it.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr and zu can be combined with all adjectives. Zu usually has a negative meaning.;
+
+Das Essen ist zu heiß.
+The food is too hot.;
+
+Das Essen ist sehr heiß.
+The food is very hot.;
+
+a zu
+too;
+
+sehr teuer
+very expensive;
+
+zu teuer
+too expensive;
+
+sehr heiß
+very hot;
+
+zu heiß
+too hot;
+
+die Bedeutung -en
+meaning;
+
+v kombinieren / kombinierte / hat kombiniert
+combine{prs=combines, pst=combined};
+
+ich darf
+I am allowed to; I may;
+
+du darfst
+you are allowed to; you may;
+
+er/sie/es darf
+he is allowed to; she is allowed to; it is allowed to; may;
+
+wir dürfen
+we are allowed to; we may;
+
+ihr dürft
+you are allowed to; you may;
+
+sie/Sie dürfen
+they are allowed to; they may; you are allowed to; you may;
+
+Es ist erlaubt.
+It is allowed.;
+
+Wir dürfen auf dem Balkon grillen.
+We are allowed to grill on the balcony.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+Children under 18 are not allowed to buy alcohol.;
+
+Ich darf in meiner Wohnung laut singen.
+I am allowed to sing loudly in my apartment.;
+
+die Nachtruhe (sg.)
+nighttime quiet hours; night rest;
+
+die Mittagsruhe (sg.)
+midday quiet hours; midday rest;
+
+die Hausordnung -en
+house rules; building rules;
+
+die Ruhe -n
+quiet; rest; peace;
+
+die Ordnung -en
+order; rules; arrangement;
+
+der Kinderwagen -
+baby stroller; pram;
+
+der Hausflur -e
+hallway inside an apartment building; shared corridor;
+
+Kinderwagen im Hausflur
+baby stroller in the shared hallway;
+
+der Schuh -e
+shoe;
+
+das Treppenhaus "-er
+stairwell; staircase area in an apartment building;
+
+Schuhe im Treppenhaus
+shoes in the stairwell;
+
+das Haustier -e
+pet;
+
+kleine Tiere
+small animals;
+
+Kleine Tiere sind erlaubt.
+Small animals are allowed.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+For cats or dogs, you have to ask the landlord.;
+
+a hoch höher am höchsten
+high{cmp=higher, sup=highest}; tall{cmp=taller, sup=tallest};
+
+Das Haus ist hoch.
+The house is tall.;
+
+Der Preis ist hoch.
+The price is high.;
+
+a tief tiefer am tiefsten
+deep{cmp=deeper, sup=deepest}; low{cmp=lower, sup=lowest};
+
+a niedrig
+low;
+
+der tiefste Preis
+the lowest price;
+
+der niedrigste Preis
+the lowest price;
+
+das Benzin (sg.)
+gasoline; petrol;
+
+die Preise für Diesel und Benzin (pl.)
+the prices for diesel and gasoline;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Now the prices for diesel and gasoline are very high.;
+
+die Geschwindigkeitsbegrenzung -en
+speed limit;
+
+die Geschwindigkeit -en
+speed;
+
+die Begrenzung -en
+limit; restriction;
+
+v begrenzen / begrenzte / hat begrenzt
+limit{prs=limits, pst=limited};
+
+mal so, mal so
+it varies; sometimes this way, sometimes that way;
+
+immer abends
+always in the evenings;
+
+am Morgen außer dienstags und donnerstags
+in the morning except on Tuesdays and Thursdays;
+
+außer + Dat.
+except;
+
+Es ist verboten.
+It is forbidden.; It is prohibited.;
+
+v verbieten-verbietet / verbot / hat verboten
+forbid{prs=forbids, pst=forbade, par=forbidden}; prohibit{prs=prohibits, pst=prohibited, par=prohibited};
+
+der Aberglaube (sg.)
+superstition;
+
+Das ist nur Aberglaube.
+That is just superstition.;
+
+der Glaube -n
+belief; faith;
+
+der Polterabend -e
+pre-wedding party with broken dishes for good luck;
+
+die schwarze Katze -n
+black cat;
+
+Eine schwarze Katze bringt Unglück.
+A black cat brings bad luck.;
+
+v poltern / polterte / hat gepoltert
+make a loud noise{prs=makes a loud noise, pst=made a loud noise}; rumble{prs=rumbles, pst=rumbled};
+
+das Unglück (sg.)
+misfortune; bad luck;
+
+der Knoblauch (sg.)
+garlic;
+
+Knoblauch schützt vor Vampiren.
+Garlic protects against vampires.;
+
+v schützen / schützte / hat geschützt
+protect{prs=protects, pst=protected};
+
+der Vampir -e
+vampire;
+
+a bereit
+ready;
+
+Wir sind bereit.
+We are ready.;
+
+Bist du bereit?
+Are you ready?;
+
+die Hälfte -n
+half; one half;
+
+die Traumwohnung -en
+dream apartment; ideal apartment;
+
+der Traum "-e
+dream; aspiration;
+
+124,68
+one hundred twenty-four point sixty-eight;
+
+1.246,8
+one thousand two hundred forty-six point eight;
+
+1246 (Jahr)
+twelve forty-six, when reading a year;
+
+1.000.000
+one million;
+
+10.000.000
+ten million;
+
+v machen / machte / hat gemacht
+do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+close{prs=closes, pst=closed};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+open{prs=opens, pst=opened};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+switch off{prs=switches off, pst=switched off}; arrange{prs=arranges, pst=arranged}; matter{prs=matters, pst=mattered};
+
+v anmachen-macht an / machte an / hat angemacht
+switch on{prs=switches on, pst=switched on}; hit on someone{prs=hits on someone, pst=hit on someone};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+arrange{prs=arranges, pst=arranged}; remove{prs=removes, pst=removed};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+preserve{prs=preserves, pst=preserved}; can{prs=cans, pst=canned};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+continue{prs=continues, pst=continued};
+
+die Vorsilbe -n
+prefix;
+
+die Präposition -en
+preposition;
+
+a ähnlich
+similar; alike;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+sign{prs=signs, pst=signed};
+
+die Unterschrift -en
+signature;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+underline{prs=underlines, pst=underlined};
+
+v reinigen / reinigte / hat gereinigt
+clean{prs=cleans, pst=cleaned}; cleanse{prs=cleanses, pst=cleansed};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+put away{prs=puts away, pst=put away, par=put away}; clear away{prs=clears away, pst=cleared away}; remove{prs=removes, pst=removed};
+
+Ich unterschreibe den Brief.
+I am signing the letter.;
+
+Ich unterstreiche ein Wort im Text.
+I am underlining a word in the text.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+I want my children to put their things away.;
+
+Ich möchte meine Kinder wegräumen.
+I want to get rid of my children.;
+
+Ich war schwimmen.
+I went swimming.;
+
+Wir waren im Park.
+We were in the park.;
+
+in + Dat./Akk.
+in; into;
+
+der Park -s
+park;
+
+der Zustand "-e
+state; condition;
+
+Ich war zu Hause.
+I was at home.;
+
+Er war krank.
+He was sick.;
+
+Wir waren im Kino.
+We were at the cinema.;
+
+Ich war einkaufen.
+I went shopping.;
+
+Ich gebe mir die Schuld.
+I blame myself.;
+
+sich Vorwürfe machen
+reproach oneself; feel guilty;
+
+der Schaufensterbummel -
+window-shopping stroll;
+
+einen Schaufensterbummel machen
+go window shopping;
+
+der Bummel -
+leisurely stroll; casual walk through shops;
+
+einen Bummel machen
+go for a leisurely walk;
+
+das Sprichwort "-er
+proverb; saying;
+
+das Motto -s
+motto;
+
+das geflügelte Wort "-er
+well-known saying; catchphrase;
+
+v entspannen / entspannte / hat entspannt
+relax{prs=relaxes, pst=relaxed};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+relax{prs=relaxes, pst=relaxed}; unwind{prs=unwinds, pst=unwound, par=unwound};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+rest{prs=rests, pst=rested};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+have a rest{prs=has a rest, pst=had a rest}; rest{prs=rests, pst=rested};
+
+v chillen / chillte / hat gechillt
+chill{prs=chills, pst=chilled}; relax casually{prs=relaxes casually, pst=relaxed casually};
+
+v baden / badete / hat gebadet
+bathe{prs=bathes, pst=bathed}; swim{prs=swims, pst=swam, par=swum};
+
+im See baden
+swim in the lake;
+
+ein Kind baden
+bathe a child;
+
+a aufgeregt
+excited; agitated; nervous;
+
+Ich bin aufgeregt.
+I am excited.; I am nervous.;
+
+a gespannt
+excited; curious; looking forward to something;
+
+v sich freuen / freute sich / hat sich gefreut
+be happy about{prs=is happy about, pst=was happy about}; look forward to{prs=looks forward to, pst=looked forward to};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+occupy{prs=occupies, pst=occupied}; employ{prs=employs, pst=employed};
+
+sich mit etw. beschäftigen
+deal with something; occupy oneself with something;
+
+j-n beschäftigen
+keep someone busy; employ someone;
+
+die Beschäftigung -en
+activity; occupation; employment;
+
+nicht oft
+not often;
+
+selten
+rarely;
+
+sehr selten
+very rarely;
+
+a regelmäßig
+regularly; regular;
+
+oft
+often;
+
+a unregelmäßig
+irregularly; irregular;
+
+die Ente -n
+duck;
+
+Enten füttern
+feed ducks;
+
+v füttern / fütterte / hat gefüttert
+feed animals{prs=feeds animals, pst=fed animals};
+
+Das hängt ab.
+That depends.;
+
+von etw. abhängen
+depend on something;
+
+Das hängt von + Dat. ab.
+That depends on ...;
+
+Das hängt vom Wetter ab.
+That depends on the weather.;
+
+Es hängt davon ab, ob ...
+It depends on whether ...;
+
+Es kommt darauf an.
+It depends.;
+
+Das hängt davon ab.
+That depends on that.; That depends.;
+
+Nachrichten schauen
+watch the news;
+
+auf + Dat.
+on; on a platform or website;
+
+bei + Dat.
+with; at; from a source or provider;
+
+Am Freitag kommt meine Tochter.
+My daughter is coming on Friday.;
+
+Ich treffe sie am Bahnhof.
+I am meeting her at the station.;
+
+Er liebt italienische Pasta.
+He loves Italian pasta.;
+
+Er isst sie jeden Tag.
+He eats it every day.;
+
+Magst du den Mantel?
+Do you like the coat?;
+
+Du kannst ihn kaufen.
+You can buy it.;
+
+Wir treffen euch in der Schule.
+We meet you at school.;
+
+Ich treffe dich in der Schule.
+I meet you at school.;
+
+Ich bin alleinerziehend.
+I am a single parent.; I am raising a child on my own.;
+
+Ich bin eine alleinerziehende Mutter.
+I am a single mother.;
+
+Ich bin ein alleinerziehender Vater.
+I am a single father.;
+
+Possessivartikel, Nominativ und Akkusativ
+possessive determiners, nominative and accusative;
+
+Ich sehe dich und deinen Hund.
+I see you and your dog.;
+
+Wir treffen ihn und seine Freunde.
+We meet him and his friends.;
+
+Er trifft sie und ihre Freunde.
+He meets her and her friends.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+meet and get to know someone{prs=meets and gets to know someone, pst=met and got to know someone}; get to know{prs=gets to know, pst=got to know};
+
+j-n kennenlernen
+meet someone; get to know someone;
+
+eine Stadt kennenlernen
+get to know a city;
+
+Wir sehen uns morgen.
+We’ll see each other tomorrow.;
+
+Dann sehe ich euch alle zusammen.
+Then I’ll see all of you together.;
+
+zusammen
+together;
+
+Wir sehen uns.
+See you.; We’ll see each other.;
+
+Wo?
+where?;
+
+Wohin?
+where to?;
+
+Wohin gehst du am Abend?
+Where are you going in the evening?;
+
+Ich gehe in den Park.
+I am going to the park.;
+
+Ich gehe in das Kino.
+I am going to the cinema.;
+
+Ich gehe ins Kino.
+I am going to the cinema.;
+
+Ich gehe in die Schule.
+I am going to school.;
+
+v laufen-läuft / lief / ist gelaufen
+run{prs=runs, pst=ran, par=run}; walk{prs=walks, pst=walked, par=walked};
+
+v klettern / kletterte / hat geklettert
+climb{prs=climbs, pst=climbed};
+
+v rennen-rennt / rannte / ist gerannt
+run fast{prs=runs fast, pst=ran fast};
+
+v wandern / wanderte / ist gewandert
+hike{prs=hikes, pst=hiked};
+
+v fliegen-fliegt / flog / ist geflogen
+fly{prs=flies, pst=flew, par=flown};
+
+nach
+to; toward; after;
+
+Ich fahre nach Erfurt.
+I am going to Erfurt.;
+
+Wir fliegen nach Palästina.
+We are flying to Palestine.;
+
+v arbeiten / arbeitete / hat gearbeitet
+work{prs=works, pst=worked};
+
+v lernen / lernte / hat gelernt
+learn{prs=learns, pst=learned, par=learned}; study{prs=studies, pst=studied, par=studied};
+
+v kaufen / kaufte / hat gekauft
+buy{prs=buys, pst=bought, par=bought};
+
+v essen-isst / aß / hat gegessen
+eat{prs=eats, pst=ate, par=eaten};
+
+v trinken / trank / hat getrunken
+drink{prs=drinks, pst=drank, par=drunk};
+
+Ich arbeite.
+I work.;
+
+Ich lerne.
+I learn.; I study.;
+
+Ich esse.
+I eat.;
+
+Ich trinke.
+I drink.;
+
+das Perfekt (sg.)
+perfect tense;
+
+das Hilfsverb -en
+auxiliary verb;
+
+das Partizip II (sg.)
+past participle;
+
+Gestern habe ich lange gearbeitet.
+Yesterday I worked for a long time.;
+
+Ich habe einen Kuchen genommen.
+I took a cake.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+I didn’t work much over the weekend.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+I bought this book two months ago.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+I ate Vietnamese noodles yesterday.;
+
+Ich habe gestern einen Spaziergang gemacht.
+I went for a walk yesterday.;
+
+nicht
+not;
+
+Ich arbeite nicht.
+I am not working.;
+
+Ich habe nichts gekauft.
+I bought nothing.;
+
+letzte
+last; previous;
+
+zuerst
+first; at first;
+
+alles
+everything;
+
+Alle Schüler sind hier.
+All students are here.;
+
+Alles ist gut.
+Everything is fine.;
+
+gefüllte Paprika
+stuffed peppers;
+
+vorgestern
+the day before yesterday;
+
+viel
+much; a lot;
+
+vor + Dat.
+ago; before;
+
+der Spaziergang "-e
+walk; stroll;
+
+einen Spaziergang machen
+go for a walk;
+
+a gefüllt
+stuffed; filled;
+
+Wann arbeiten Sie?
+When do you work?;
+
+Wann hast du Deutschkurs?
+When do you have German class?;
+
+von Montag bis Freitag
+from Monday to Friday;
+
+von 8:30 bis 11:45 Uhr
+from 8:30 to 11:45;
+
+jeden Tag
+every day;
+
+jeden Tag in der Woche
+every day during the week;
+
+jede Woche
+every week;
+
+jeden Arbeitstag
+every working day;
+
+Wann hast du eingekauft?
+When did you go shopping?;
+
+Ich habe vorgestern eingekauft.
+I went shopping the day before yesterday.;
+
+Ich habe am Montag eingekauft.
+I went shopping on Monday.;
+
+Ich habe keine Ahnung.
+I have no idea.;
+
+v einchecken / checkte ein / hat eingecheckt
+check in{prs=checks in, pst=checked in};
+
+v liefern / lieferte / hat geliefert
+deliver{prs=delivers, pst=delivered}; supply{prs=supplies, pst=supplied};
+
+der Arbeitstag -e
+working day;
+
+die Ware -n
+goods; merchandise;
+
+der Flughafen -
+airport;
+
+der Hafen "-
+harbor; port;
+
+Ware liefern
+deliver goods; supply goods;
+
+am Flughafen einchecken
+check in at the airport;
+
+im Hotel einchecken
+check in at the hotel;
+
+am Flughafen
+at the airport;
+
+zum Flughafen
+to the airport;
+
+vom Flughafen
+from the airport;
+
+im Hafen
+in the harbor;
+
+zum Hafen
+to the harbor;
+
+vom Hafen
+from the harbor;
+
+das Präteritum (sg.)
+simple past;
+
+v gehen-geht / ging / ist gegangen
+go{prs=goes, pst=went, par=gone};
+
+v helfen-hilft / half / hat geholfen
+help{prs=helps, pst=helped, par=helped};
+
+v bleiben-bleibt / blieb / ist geblieben
+stay{prs=stays, pst=stayed, par=stayed};
+
+v werden-wird / wurde / ist geworden
+become{prs=becomes, pst=became, par=become};
+
+die Ermäßigung -en
+discount; reduced price; concession;
+
+mit Ermäßigung
+with a discount;
+
+eine Ermäßigung bekommen
+get a discount;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+stop{prs=stops, pst=stopped}; cease{prs=ceases, pst=ceased}; give up{prs=gives up, pst=gave up, par=given up};
+
+mit etw. aufhören
+stop doing something;
+
+Hör bitte auf!
+Please stop!;
+
+Er hört mit dem Rauchen auf.
+He is giving up smoking.;
+
+das Mitglied -er
+member;
+
+Mitglied sein
+be a member;
+
+ein Mitglied der Familie
+a member of the family;
+
+Mitglied in einem Verein
+member of a club; member of an association;
+
+die Probestunde -n
+trial lesson; trial class;
+
+die Schnupperstunde -n
+introductory trial lesson; taster class;
+
+noch einige Fragen
+a few more questions; some more questions;
+
+noch ein paar Fragen
+a few more questions;

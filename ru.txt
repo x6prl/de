@@ -86,10 +86,6 @@ v wählen
 Viele Menschen wählen am Sonntag.
 Многие люди голосуют в воскресенье.;
 
-v wählen
-выбирать{prs=выбирает, pst=выбирал}; избирать{prs=избирает, pst=выбирал};
-[j-n; etw.]
-
 die Wahl -en
 выбор; выборы;
 
@@ -130,10 +126,6 @@ v raten-rät / riet / hat geraten
 
 Ich rate dir, früher zu schlafen.
 Я советую тебе ложиться спать раньше.;
-
-v raten-rät / riet / hat geraten
-угадывать{prs=угадывает, pst=угадывал}; отгадывать{prs=отгадывает, pst=отгадывал};
-[etw.]
 
 Rate mal!
 Угадай!;
@@ -229,10 +221,6 @@ v anschauen-schaut an / schaute an / hat angeschaut
 v einladen-lädt ein / lud ein / hat eingeladen
 приглашать{prs=приглашает, pst=приглашал};
 [j-n; zu+Dat]
-
-v einladen-lädt ein / lud ein / hat eingeladen
-загружать{prs=загружает, pst=загружал}; грузить;
-[etw.]
 
 a dann
 тогда; потом; затем;
@@ -508,9 +496,6 @@ die Zwiebel -n
 v finden-findet / fand / hat gefunden
 находить{prs=находит, pst=находил};
 
-v finden-findet / fand / hat gefunden
-считать{prs=считает, pst=считал}; находить каким-то;
-
 v geben-gibt / gab / hat gegeben
 давать{prs=дает, pst=давал};
 [j-m; etw.]
@@ -526,10 +511,6 @@ v nehmen-nimmt / nahm / hat genommen
 
 v schmecken
 быть вкусным{prs=будет вкусным, pst=было вкусным};
-
-v schmecken
-чувствовать вкус{prs=чувствует вкус, pst=чувствовал вкус};
-[etw.]
 
 a leer
 пустой;
@@ -1321,12 +1302,6 @@ die Möbel (pl.)
 der Monat -e
 месяц;
 
-der Nachbar -n
-сосед;
-
-die Nachbarin -nen
-соседка;
-
 die Nebenkosten (pl.)
 коммунальные расходы; дополнительные расходы;
 
@@ -1434,9 +1409,6 @@ a modern
 
 a weit
 далекий; широкий{cmp=шире, sup=самый широкий}; просторный{cmp=просторнее, sup=самый просторный};
-
-a wichtig
-важный{cmp=важнее, sup=самый важный};
 
 ein bisschen
 немного;
@@ -2114,6 +2086,1989 @@ Auf jeden Fall komme ich morgen.
 Ich mache Sandwiches.
 Я делаю бутерброды.;
 
+m²
+квадратный метр; квадратные метры;
+
+KM
+базовая аренда без коммунальных платежей; холодная аренда;
+
+NK
+дополнительные расходы; коммунальные платежи; сервисные сборы;
+
+die Wohnungsanzeige -n
+объявление о квартире; объявление об аренде жилья;
+
+der Quadratmeter -
+квадратный метр;
+
+die Kaltmiete -n
+базовая аренда без коммунальных платежей; холодная аренда;
+
+der Nachmieter -
+следующий арендатор; арендатор на замену;
+
+der Vormieter -
+предыдущий арендатор;
+
+der Strom (sg.)
+электричество;
+
+der Parkplatz "-e
+парковочное место; место для парковки;
+
+eine Wohnung mieten
+снимать квартиру;
+
+einen Stellplatz mieten
+арендовать парковочное место;
+
+die Rechnung -en
+счет; квитанция;
+
+die Rückzahlung -en
+возврат денег; возврат;
+
+die Nachzahlung -en
+доплата; дополнительный платеж;
+
+Die Wohnung ist sehr teuer, aber ich kann sie bezahlen.
+Квартира очень дорогая, но я могу за нее заплатить.;
+
+Die Wohnung ist zu teuer, ich kann sie nicht bezahlen.
+Квартира слишком дорогая, я не могу за нее заплатить.;
+
+Sehr und zu können mit allen Adjektiven kombiniert werden. Zu hat meistens eine negative Bedeutung.
+Sehr и zu можно сочетать со всеми прилагательными. Zu обычно имеет отрицательный оттенок.;
+
+Das Essen ist zu heiß.
+Еда слишком горячая.;
+
+Das Essen ist sehr heiß.
+Еда очень горячая.;
+
+a zu
+слишком;
+
+sehr teuer
+очень дорогой;
+
+zu teuer
+слишком дорогой;
+
+sehr heiß
+очень горячий;
+
+zu heiß
+слишком горячий;
+
+die Bedeutung -en
+значение;
+
+v kombinieren / kombinierte / hat kombiniert
+сочетать{prs=сочетает, pst=сочетал}; комбинировать{prs=комбинирует, pst=комбинировал};
+
+ich darf
+мне можно; я имею право;
+
+du darfst
+тебе можно; ты имеешь право;
+
+er/sie/es darf
+ему можно; ей можно; это разрешено;
+
+wir dürfen
+нам можно; мы имеем право;
+
+ihr dürft
+вам можно; вы имеете право;
+
+sie/Sie dürfen
+им можно; Вам можно; они имеют право; Вы имеете право;
+
+Es ist erlaubt.
+Это разрешено.;
+
+Wir dürfen auf dem Balkon grillen.
+Нам можно жарить на гриле на балконе.;
+
+Kinder unter 18 Jahren dürfen keinen Alkohol kaufen.
+Детям младше 18 лет нельзя покупать алкоголь.;
+
+Ich darf in meiner Wohnung laut singen.
+Мне можно громко петь в своей квартире.;
+
+die Nachtruhe (sg.)
+ночные часы тишины; ночной покой;
+
+die Mittagsruhe (sg.)
+дневные часы тишины; дневной покой;
+
+die Hausordnung -en
+правила дома; правила проживания;
+
+die Ruhe -n
+тишина; покой; отдых;
+
+die Ordnung -en
+порядок; правила; устройство;
+
+der Kinderwagen -
+детская коляска;
+
+der Hausflur -e
+подъездный коридор; общий коридор в доме;
+
+Kinderwagen im Hausflur
+детская коляска в общем коридоре;
+
+der Schuh -e
+ботинок; туфля; обувь;
+
+das Treppenhaus "-er
+лестничная клетка; пространство лестницы в доме;
+
+Schuhe im Treppenhaus
+обувь на лестничной клетке;
+
+das Haustier -e
+домашнее животное; питомец;
+
+kleine Tiere
+маленькие животные;
+
+Kleine Tiere sind erlaubt.
+Маленькие животные разрешены.;
+
+Bei Katzen oder Hunden muss man den Vermieter fragen.
+Если речь о кошках или собаках, нужно спросить арендодателя.;
+
+a hoch höher am höchsten
+высокий{cmp=выше, sup=самый высокий};
+
+Das Haus ist hoch.
+Дом высокий.;
+
+Der Preis ist hoch.
+Цена высокая.;
+
+a tief tiefer am tiefsten
+глубокий{cmp=глубже, sup=самый глубокий}; низкий{cmp=ниже, sup=самый низкий};
+
+a niedrig
+низкий;
+
+der tiefste Preis
+самая низкая цена;
+
+der niedrigste Preis
+самая низкая цена;
+
+das Benzin (sg.)
+бензин;
+
+die Preise für Diesel und Benzin (pl.)
+цены на дизель и бензин;
+
+Jetzt sind die Preise für Diesel und Benzin sehr hoch.
+Сейчас цены на дизель и бензин очень высокие.;
+
+die Geschwindigkeitsbegrenzung -en
+ограничение скорости;
+
+die Geschwindigkeit -en
+скорость;
+
+die Begrenzung -en
+ограничение;
+
+v begrenzen / begrenzte / hat begrenzt
+ограничивать{prs=ограничивает, pst=ограничивал};
+
+mal so, mal so
+по-разному; то так, то эдак;
+
+immer abends
+всегда по вечерам;
+
+am Morgen außer dienstags und donnerstags
+по утрам, кроме вторников и четвергов;
+
+außer + Dat.
+кроме; за исключением;
+
+Es ist verboten.
+Это запрещено.;
+
+v verbieten-verbietet / verbot / hat verboten
+запрещать{prs=запрещает, pst=запрещал};
+
+der Aberglaube (sg.)
+суеверие;
+
+Das ist nur Aberglaube.
+Это просто суеверие.;
+
+der Glaube -n
+вера; убеждение;
+
+der Polterabend -e
+полтерабенд; предсвадебная вечеринка с битьем посуды на счастье;
+
+die schwarze Katze -n
+черная кошка;
+
+Eine schwarze Katze bringt Unglück.
+Черная кошка приносит несчастье.;
+
+v poltern / polterte / hat gepoltert
+греметь{prs=гремит, pst=гремел}; шуметь{prs=шумит, pst=шумел};
+
+das Unglück (sg.)
+несчастье; невезение;
+
+der Knoblauch (sg.)
+чеснок;
+
+Knoblauch schützt vor Vampiren.
+Чеснок защищает от вампиров.;
+
+v schützen / schützte / hat geschützt
+защищать{prs=защищает, pst=защищал};
+
+der Vampir -e
+вампир;
+
+a bereit
+готовый;
+
+Wir sind bereit.
+Мы готовы.;
+
+Bist du bereit?
+Ты готов?; Вы готовы?;
+
+die Hälfte -n
+половина; одна вторая;
+
+die Traumwohnung -en
+квартира мечты; идеальная квартира;
+
+der Traum "-e
+мечта; сон;
+
+124,68
+сто двадцать четыре запятая шестьдесят восемь;
+
+1.246,8
+одна тысяча двести сорок шесть запятая восемь;
+
+1246 (Jahr)
+двенадцать сорок шесть, при чтении года;
+
+1.000.000
+один миллион;
+
+10.000.000
+десять миллионов;
+
+v machen / machte / hat gemacht
+делать{prs=делает, pst=делал}; изготавливать{prs=изготавливает, pst=изготавливал};
+
+v zumachen-macht zu / machte zu / hat zugemacht
+закрывать{prs=закрывает, pst=закрывал};
+
+v aufmachen-macht auf / machte auf / hat aufgemacht
+открывать{prs=открывает, pst=открывал};
+
+v ausmachen-macht aus / machte aus / hat ausgemacht
+выключать{prs=выключает, pst=выключал}; договариваться{prs=договаривается, pst=договаривался}; иметь значение{prs=имеет значение, pst=имел значение};
+
+v anmachen-macht an / machte an / hat angemacht
+включать{prs=включает, pst=включал}; клеиться к кому-то{prs=клеится к кому-то, pst=клеился к кому-то};
+
+v abmachen-macht ab / machte ab / hat abgemacht
+договариваться{prs=договаривается, pst=договаривался}; снимать{prs=снимает, pst=снимал};
+
+v einmachen-macht ein / machte ein / hat eingemacht
+консервировать{prs=консервирует, pst=консервировал};
+
+v weitermachen-macht weiter / machte weiter / hat weitergemacht
+продолжать{prs=продолжает, pst=продолжал};
+
+die Vorsilbe -n
+приставка;
+
+die Präposition -en
+предлог;
+
+a ähnlich
+похожий; сходный;
+
+v unterschreiben-unterschreibt / unterschrieb / hat unterschrieben
+подписывать{prs=подписывает, pst=подписывал};
+
+die Unterschrift -en
+подпись;
+
+v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
+подчеркивать{prs=подчеркивает, pst=подчеркивал};
+
+v reinigen / reinigte / hat gereinigt
+чистить{prs=чистит, pst=чистил}; очищать{prs=очищает, pst=очищал};
+
+v wegräumen-räumt weg / räumte weg / hat weggeräumt
+убирать{prs=убирает, pst=убирал}; убирать прочь{prs=убирает прочь, pst=убирал прочь}; относить в сторону{prs=относит в сторону, pst=относил в сторону};
+
+Ich unterschreibe den Brief.
+Я подписываю письмо.;
+
+Ich unterstreiche ein Wort im Text.
+Я подчеркиваю одно слово в тексте.;
+
+Ich möchte, dass meine Kinder ihre Sachen wegräumen.
+Я хочу, чтобы мои дети убрали свои вещи.;
+
+Ich möchte meine Kinder wegräumen.
+Я хочу избавиться от своих детей.;
+
+Ich war schwimmen.
+Я ходил плавать.;
+
+Wir waren im Park.
+Мы были в парке.;
+
+in + Dat./Akk.
+в; внутрь;
+
+der Park -s
+парк;
+
+der Zustand "-e
+состояние;
+
+Ich war zu Hause.
+Я был дома.;
+
+Er war krank.
+Он был болен.;
+
+Wir waren im Kino.
+Мы были в кино.;
+
+Ich war einkaufen.
+Я ходил за покупками.;
+
+Ich gebe mir die Schuld.
+Я виню себя.;
+
+sich Vorwürfe machen
+упрекать себя; чувствовать вину;
+
+der Schaufensterbummel -
+прогулка по магазинам и витринам;
+
+einen Schaufensterbummel machen
+ходить смотреть витрины; гулять по магазинам;
+
+der Bummel -
+неторопливая прогулка; неспешный поход по магазинам;
+
+einen Bummel machen
+пойти на неторопливую прогулку;
+
+das Sprichwort "-er
+пословица; поговорка;
+
+das Motto -s
+девиз;
+
+das geflügelte Wort "-er
+крылатое выражение; известная фраза;
+
+v entspannen / entspannte / hat entspannt
+расслаблять{prs=расслабляет, pst=расслаблял}; расслабляться{prs=расслабляется, pst=расслаблялся};
+
+v sich entspannen / entspannte sich / hat sich entspannt
+расслабляться{prs=расслабляется, pst=расслаблялся}; отдыхать{prs=отдыхает, pst=отдыхал};
+
+v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+отдыхать{prs=отдыхает, pst=отдыхал};
+
+v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+отдыхать{prs=отдыхает, pst=отдыхал}; передохнуть{prs=передохнет, pst=передохнул};
+
+v chillen / chillte / hat gechillt
+чиллить{prs=чиллит, pst=чиллил}; расслабляться{prs=расслабляется, pst=расслаблялся};
+
+v baden / badete / hat gebadet
+купаться{prs=купается, pst=купался}; мыть{prs=моет, pst=мыл};
+
+im See baden
+купаться в озере;
+
+ein Kind baden
+купать ребенка;
+
+a aufgeregt
+взволнованный; возбужденный; нервный;
+
+Ich bin aufgeregt.
+Я взволнован.; Я нервничаю.;
+
+a gespannt
+заинтересованный; в предвкушении; любопытный;
+
+v sich freuen / freute sich / hat sich gefreut
+радоваться{prs=радуется, pst=радовался}; ждать с радостью{prs=ждет с радостью, pst=ждал с радостью};
+
+v beschäftigen / beschäftigte / hat beschäftigt
+занимать{prs=занимает, pst=занимал}; нанимать{prs=нанимает, pst=нанимал};
+
+sich mit etw. beschäftigen
+заниматься чем-то; иметь дело с чем-то;
+
+j-n beschäftigen
+занимать кого-то; держать кого-то занятым; нанимать кого-то;
+
+die Beschäftigung -en
+занятие; деятельность; работа;
+
+nicht oft
+нечасто;
+
+selten
+редко;
+
+sehr selten
+очень редко;
+
+a regelmäßig
+регулярно; регулярный;
+
+oft
+часто;
+
+a unregelmäßig
+нерегулярно; нерегулярный;
+
+die Ente -n
+утка;
+
+Enten füttern
+кормить уток;
+
+v füttern / fütterte / hat gefüttert
+кормить животных{prs=кормит животных, pst=кормил животных};
+
+Das hängt ab.
+Это зависит.;
+
+von etw. abhängen
+зависеть от чего-то;
+
+Das hängt von + Dat. ab.
+Это зависит от ...;
+
+Das hängt vom Wetter ab.
+Это зависит от погоды.;
+
+Es hängt davon ab, ob ...
+Это зависит от того, ...;
+
+Es kommt darauf an.
+Это зависит.;
+
+Das hängt davon ab.
+Это зависит от этого.; Это зависит.;
+
+Nachrichten schauen
+смотреть новости;
+
+auf + Dat.
+на; на платформе или сайте;
+
+bei + Dat.
+у; у источника или провайдера;
+
+Am Freitag kommt meine Tochter.
+Моя дочь приедет в пятницу.;
+
+Ich treffe sie am Bahnhof.
+Я встречу ее на вокзале.;
+
+Er liebt italienische Pasta.
+Он любит итальянскую пасту.;
+
+Er isst sie jeden Tag.
+Он ест ее каждый день.;
+
+Magst du den Mantel?
+Тебе нравится это пальто?;
+
+Du kannst ihn kaufen.
+Ты можешь его купить.;
+
+Wir treffen euch in der Schule.
+Мы встречаем вас в школе.;
+
+Ich treffe dich in der Schule.
+Я встречаю тебя в школе.;
+
+Ich bin alleinerziehend.
+Я родитель-одиночка.; Я один воспитываю ребенка.;
+
+Ich bin eine alleinerziehende Mutter.
+Я мать-одиночка.;
+
+Ich bin ein alleinerziehender Vater.
+Я отец-одиночка.;
+
+Possessivartikel, Nominativ und Akkusativ
+притяжательные артикли, именительный и винительный падеж;
+
+Ich sehe dich und deinen Hund.
+Я вижу тебя и твою собаку.;
+
+Wir treffen ihn und seine Freunde.
+Мы встречаем его и его друзей.;
+
+Er trifft sie und ihre Freunde.
+Он встречает ее и ее друзей.;
+
+v kennenlernen / lernte kennen / hat kennengelernt
+знакомиться{prs=знакомится, pst=знакомился}; узнавать ближе{prs=узнает ближе, pst=узнавал ближе};
+
+j-n kennenlernen
+познакомиться с кем-то; узнать кого-то поближе;
+
+eine Stadt kennenlernen
+узнать город поближе;
+
+Wir sehen uns morgen.
+Увидимся завтра.;
+
+Dann sehe ich euch alle zusammen.
+Потом я увижу вас всех вместе.;
+
+zusammen
+вместе;
+
+Wir sehen uns.
+Увидимся.; Мы увидимся.;
+
+Wo?
+где?;
+
+Wohin?
+куда?;
+
+Wohin gehst du am Abend?
+Куда ты идешь вечером?;
+
+Ich gehe in den Park.
+Я иду в парк.;
+
+Ich gehe in das Kino.
+Я иду в кино.;
+
+Ich gehe ins Kino.
+Я иду в кино.;
+
+Ich gehe in die Schule.
+Я иду в школу.;
+
+v laufen-läuft / lief / ist gelaufen
+бежать{prs=бежит, pst=бежал}; ходить пешком{prs=ходит пешком, pst=ходил пешком};
+
+v klettern / kletterte / hat geklettert
+лезть{prs=лезет, pst=лез}; карабкаться{prs=карабкается, pst=карабкался};
+
+v rennen-rennt / rannte / ist gerannt
+бежать быстро{prs=бежит быстро, pst=бежал быстро};
+
+v wandern / wanderte / ist gewandert
+ходить в поход{prs=ходит в поход, pst=ходил в поход}; путешествовать пешком{prs=путешествует пешком, pst=путешествовал пешком};
+
+v fliegen-fliegt / flog / ist geflogen
+лететь{prs=летит, pst=летел};
+
+nach
+в; к; после;
+
+Ich fahre nach Erfurt.
+Я еду в Эрфурт.;
+
+Wir fliegen nach Palästina.
+Мы летим в Палестину.;
+
+v arbeiten / arbeitete / hat gearbeitet
+работать{prs=работает, pst=работал};
+
+v lernen / lernte / hat gelernt
+учить{prs=учит, pst=учил}; учиться{prs=учится, pst=учился};
+
+v kaufen / kaufte / hat gekauft
+покупать{prs=покупает, pst=покупал};
+
+v essen-isst / aß / hat gegessen
+есть{prs=ест, pst=ел};
+
+v trinken / trank / hat getrunken
+пить{prs=пьет, pst=пил};
+
+Ich arbeite.
+Я работаю.;
+
+Ich lerne.
+Я учусь.; Я учу.;
+
+Ich esse.
+Я ем.;
+
+Ich trinke.
+Я пью.;
+
+das Perfekt (sg.)
+перфект; разговорное прошедшее время;
+
+das Hilfsverb -en
+вспомогательный глагол;
+
+das Partizip II (sg.)
+причастие II; причастие прошедшего времени;
+
+Gestern habe ich lange gearbeitet.
+Вчера я долго работал.;
+
+Ich habe einen Kuchen genommen.
+Я взял пирог.;
+
+Ich habe am Wochenende nicht viel gearbeitet.
+На выходных я работал не очень много.;
+
+Ich habe vor zwei Monaten dieses Buch gekauft.
+Я купил эту книгу два месяца назад.;
+
+Ich habe gestern vietnamesische Nudeln gegessen.
+Вчера я ел вьетнамскую лапшу.;
+
+Ich habe gestern einen Spaziergang gemacht.
+Вчера я ходил на прогулку.;
+
+nicht
+не;
+
+Ich arbeite nicht.
+Я не работаю.;
+
+Ich habe nichts gekauft.
+Я ничего не купил.;
+
+letzte
+последний; прошлый;
+
+zuerst
+сначала; сперва;
+
+alles
+всё;
+
+Alle Schüler sind hier.
+Все ученики здесь.;
+
+Alles ist gut.
+Всё хорошо.;
+
+gefüllte Paprika
+фаршированный перец;
+
+vorgestern
+позавчера;
+
+viel
+много;
+
+vor + Dat.
+назад; перед;
+
+der Spaziergang "-e
+прогулка;
+
+einen Spaziergang machen
+идти на прогулку; гулять;
+
+a gefüllt
+фаршированный; наполненный;
+
+Wann arbeiten Sie?
+Когда Вы работаете?;
+
+Wann hast du Deutschkurs?
+Когда у тебя урок немецкого?;
+
+von Montag bis Freitag
+с понедельника по пятницу;
+
+von 8:30 bis 11:45 Uhr
+с 8:30 до 11:45;
+
+jeden Tag
+каждый день;
+
+jeden Tag in der Woche
+каждый день в течение недели;
+
+jede Woche
+каждую неделю;
+
+jeden Arbeitstag
+каждый рабочий день;
+
+Wann hast du eingekauft?
+Когда ты ходил за покупками?;
+
+Ich habe vorgestern eingekauft.
+Я ходил за покупками позавчера.;
+
+Ich habe am Montag eingekauft.
+Я ходил за покупками в понедельник.;
+
+Ich habe keine Ahnung.
+Я не имею ни малейшего представления.; Я не знаю.;
+
+v einchecken / checkte ein / hat eingecheckt
+регистрироваться{prs=регистрируется, pst=регистрировался}; проходить регистрацию{prs=проходит регистрацию, pst=проходил регистрацию};
+
+v liefern / lieferte / hat geliefert
+доставлять{prs=доставляет, pst=доставлял}; поставлять{prs=поставляет, pst=поставлял};
+
+der Arbeitstag -e
+рабочий день;
+
+die Ware -n
+товар; товары;
+
+der Flughafen -
+аэропорт;
+
+der Hafen "-
+гавань; порт;
+
+Ware liefern
+доставлять товары; поставлять товары;
+
+am Flughafen einchecken
+зарегистрироваться в аэропорту;
+
+im Hotel einchecken
+зарегистрироваться в отеле;
+
+am Flughafen
+в аэропорту;
+
+zum Flughafen
+в аэропорт;
+
+vom Flughafen
+из аэропорта;
+
+im Hafen
+в гавани; в порту;
+
+zum Hafen
+в гавань; в порт;
+
+vom Hafen
+из гавани; из порта;
+
+das Präteritum (sg.)
+претерит; простое прошедшее время;
+
+v gehen-geht / ging / ist gegangen
+идти{prs=идет, pst=шел};
+
+v helfen-hilft / half / hat geholfen
+помогать{prs=помогает, pst=помогал};
+
+v bleiben-bleibt / blieb / ist geblieben
+оставаться{prs=остается, pst=оставался};
+
+v werden-wird / wurde / ist geworden
+становиться{prs=становится, pst=становился};
+
+die Ermäßigung -en
+скидка; льгота; сниженная цена;
+
+mit Ermäßigung
+со скидкой;
+
+eine Ermäßigung bekommen
+получить скидку;
+
+v aufhören-hört auf / hörte auf / hat aufgehört
+переставать{prs=перестает, pst=переставал}; прекращать{prs=прекращает, pst=прекращал};
+
+mit etw. aufhören
+перестать делать что-то;
+
+Hör bitte auf!
+Перестань, пожалуйста!;
+
+Er hört mit dem Rauchen auf.
+Он бросает курить.;
+
+das Mitglied -er
+член;
+
+Mitglied sein
+быть членом;
+
+ein Mitglied der Familie
+член семьи;
+
+Mitglied in einem Verein
+член клуба; член объединения;
+
+die Probestunde -n
+пробное занятие; пробный урок;
+
+die Schnupperstunde -n
+ознакомительное пробное занятие; пробный вводный урок;
+
+noch einige Fragen
+еще несколько вопросов; еще пара вопросов;
+
+noch ein paar Fragen
+еще несколько вопросов;
+
+der Eintritt (sg.)
+вход; входная плата;
+
+die Seite -n
+сторона; страница;
+
+das Museum Museen
+музей;
+
+der Schalter -
+выключатель; окошко; стойка обслуживания; переключатель;
+
+der Kassenschalter -
+кассовое окошко; касса;
+
+die Schulter -n
+плечо;
+
+a einverstanden
+согласен; согласна; договорились;
+
+zwischen + Dat./Akk.
+между; среди;
+
+die Autobahn -en
+автострада;
+
+die Bäckerei -en
+пекарня;
+
+der Ball "-e
+мяч; бал;
+
+der Bleistift -e
+карандаш;
+
+die Dame -n
+дама; госпожа;
+
+die Ecke -n
+угол;
+
+die Fabrik -en
+фабрика; завод;
+
+die Fahrradtour -en
+велопрогулка; велосипедная экскурсия;
+
+der Flughafen "-
+аэропорт;
+
+die Gebühr -en
+сбор; плата;
+
+die Parkgebühr -en
+плата за парковку; парковочный сбор;
+
+das Gepäck (sg.)
+багаж;
+
+die Gitarre -n
+гитара;
+
+der Herr -en
+господин;
+
+die Idee -n
+идея;
+
+der Jugendliche -n
+подросток; молодой человек;
+
+die Jugendliche -n
+подросток; девушка;
+
+die Karte -n
+карта; билет; меню;
+
+die Kasse -n
+касса;
+
+das Konzert -e
+концерт;
+
+die Kosten (pl.)
+расходы; затраты; стоимость;
+
+die Kultur -en
+культура;
+
+die Öffnungszeit -en
+время работы; часы работы;
+
+die Pause -n
+пауза; перерыв;
+
+der Rabatt -e
+скидка;
+
+das Restaurant -s
+ресторан;
+
+das Schwimmbad "-er
+бассейн;
+
+der Spaß (sg.)
+удовольствие; веселье;
+
+der Teilnehmer -
+участник;
+
+die Teilnehmerin -nen
+участница;
+
+der Treffpunkt -e
+место встречи;
+
+das Wetter (sg.)
+погода;
+
+die Zeitung -en
+газета;
+
+der Januar (sg.)
+TODO;
+
+der Bus -se
+автобус;
+
+das Kind -er
+TODO;
+
+der Kindergarten "-
+TODO;
+
+das Spielzeug -e
+TODO;
+
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
+знакомиться; узнавать;
+
+v leihen / lieh / hat geliehen
+одалживать; брать на время; давать на время;
+[j-m; etw.]
+
+v sich leihen / lieh sich / hat sich geliehen
+TODO;
+[sich+Dat; etw.; von+Dat]
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+брать на время; выдавать на время;
+[etw.]
+
+v liefern
+доставлять; поставлять;
+[zu+Dat]
+
+v mitkommen-kommt mit / kam mit / ist mitgekommen
+идти с кем-либо; ехать с кем-либо;
+
+v schauen
+смотреть;
+
+v schwimmen / schwamm / ist geschwommen
+плавать;
+
+v stattfinden-findet statt / fand statt / hat stattgefunden
+состояться; проходить;
+
+v treffen-trifft / traf / hat getroffen
+встречать; встречаться;
+[j-n]
+
+a kostenlos
+бесплатный; бесплатно;
+
+a täglich
+ежедневный; ежедневно;
+
+a stündlich
+ежечасный; каждый час;
+
+a immer
+всегда;
+
+im Supermarkt gibt es viele verschiedene Waren
+в супермаркете есть много разных товаров;
+
+v bekommen-bekommt / bekam / hat bekommen
+получать;
+
+v stürzen / - / ist gestürzt
+падать; рухнуть; бросаться;
+
+v stürzen / - / hat gestürzt
+TODO;
+[j-n; etw.]
+
+v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+выходить из транспорта;
+
+v einsteigen-steigt ein / stieg ein / ist eingestiegen
+садиться в транспорт;
+
+v umsteigen-steigt um / stieg um / ist umgestiegen
+пересаживаться;
+
+v springen / sprang / ist gesprungen
+прыгать; скакать;
+
+v klettern / - / ist geklettert
+лазить; карабкаться;
+
+v fallen-fällt / fiel / ist gefallen
+падать;
+
+v rennen / rannte / ist gerannt
+бежать; мчаться;
+
+v joggen / - / ist gejoggt
+бегать трусцой;
+
+v fliegen / flog / ist geflogen
+лететь; летать;
+
+v fliegen / flog / hat geflogen
+TODO;
+[etw.]
+
+v reisen / - / ist gereist
+путешествовать;
+
+v wandern / - / ist gewandert
+ходить в походы; странствовать;
+
+v steigen / stieg / ist gestiegen
+подниматься; расти; повышаться;
+
+v schaukeln
+качаться; раскачиваться; качаться на качелях;
+
+v wiegen / wog / hat gewogen
+TODO;
+
+v wiegen / wiegte / hat gewiegt
+TODO;
+
+v sich wiegen / wiegte sich / hat sich gewiegt
+покачиваться; колыхаться;
+
+v schwingen / schwang / hat geschwungen
+качаться; колебаться; размахивать;
+
+v wackeln
+шататься; качаться;
+
+v schwanken
+шататься; колебаться; сомневаться;
+
+v ankommen-kommt an / kam an / ist angekommen
+прибывать; приезжать; доходить;
+
+v bleiben / blieb / ist geblieben
+оставаться;
+
+zu Hause
+TODO;
+
+nach Hause
+TODO;
+
+die Stelle -n
+место; должность; вакансия;
+
+a schläfrig
+сонный; сонливый;
+
+v besichtigen
+осматривать;
+
+v mieten
+арендовать; снимать;
+
+v kommen / kam / ist gekommen
+приходить; приезжать;
+
+v bezahlen / - / hat bezahlt
+оплачивать; платить;
+
+v übersetzen
+переводить;
+
+v überweisen / überwies / hat überwiesen
+переводить деньги;
+
+v suchen
+искать;
+
+v machen
+делать; готовить;
+
+v brauchen
+нуждаться; быть нужным;
+
+der Arbeitsplatz "-e
+рабочее место;
+
+die Dokumente (pl.)
+документы;
+
+die SIM-Karte -n
+SIM-карта;
+
+v stehen / stand / hat gestanden
+стоять;
+
+v aufwachen-wacht auf / wachte auf / ist aufgewacht
+просыпаться;
+
+v gehen / ging / ist gegangen
+идти;
+
+der Papayasalat -e
+салат из папайи;
+
+v bringen / brachte / hat gebracht
+приносить; приводить; отвозить;
+
+v abholen-holt ab / holte ab / hat abgeholt
+забирать; встречать;
+
+die Erfahrung -en
+опыт; пережитое;
+
+die Arbeitserfahrung -en
+опыт работы;
+
+die Berufserfahrung -en
+профессиональный опыт; опыт работы по специальности;
+
+v austragen-trägt aus / trug aus / hat ausgetragen
+разносить; доставлять по адресам; выносить;
+
+die Tochter "-
+дочь;
+
+v einfügen-fügt ein / fügte ein / hat eingefügt
+вставлять; добавлять;
+
+die Silbe -n
+слог;
+
+a silbenweise
+по слогам;
+
+die Silbentrennung -en
+деление на слоги; перенос слов по слогам;
+
+v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+записывать; конспектировать;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+возвращаться;
+
+die Bedingung -en
+условие;
+
+die Bedienung -en
+обслуживание; официант; официантка; управление устройством;
+
+das Zeugnis -se
+свидетельство; аттестат; справка; характеристика;
+
+die Kiste -n
+ящик;
+
+der Briefkasten "-
+почтовый ящик;
+
+der Brief -e
+письмо;
+
+das Personalbüro -s
+отдел кадров; кадровый отдел;
+
+v festlegen-legt fest / legte fest / hat festgelegt
+устанавливать; определять; фиксировать;
+
+v legen
+класть; положить;
+
+v organisieren / - / hat organisiert
+организовывать;
+
+v bestimmen / - / hat bestimmt
+определять; назначать; решать;
+
+v notieren / - / hat notiert
+записывать; отмечать;
+
+v telefonieren / - / hat telefoniert
+звонить по телефону;
+
+v reservieren / - / hat reserviert
+бронировать;
+
+v reparieren / - / hat repariert
+ремонтировать;
+
+v kopieren / - / hat kopiert
+копировать;
+
+v studieren / - / hat studiert
+учиться в вузе; изучать;
+
+v buchstabieren / - / hat buchstabiert
+произносить по буквам;
+
+v informieren / - / hat informiert
+информировать; узнавать информацию;
+
+v sich informieren / - / hat sich informiert
+TODO;
+[sich+Akk; über+Akk]
+
+v markieren / - / hat markiert
+отмечать; выделять;
+
+v kontrollieren / - / hat kontrolliert
+проверять; контролировать;
+
+a normalerweise
+обычно; как правило;
+
+a teilweise
+частично;
+
+a beispielsweise
+например;
+
+a ausnahmsweise
+в виде исключения;
+
+a glücklicherweise
+к счастью;
+
+a dummerweise
+по глупости; как назло;
+
+a schrittweise
+постепенно; шаг за шагом;
+
+a höflicherweise
+из вежливости;
+
+v zerstören / - / hat zerstört
+разрушать; уничтожать;
+
+v entlassen-entlässt / entließ / hat entlassen
+увольнять; отпускать; выписывать;
+
+v erklären / - / hat erklärt
+объяснять;
+
+v ergänzen / - / hat ergänzt
+дополнять;
+
+v missbrauchen / - / hat missbraucht
+злоупотреблять; использовать во вред;
+
+v gefallen-gefällt / gefiel / hat gefallen
+нравиться;
+[j-m]
+
+v missverstehen-missversteht / missverstand / hat missverstanden
+неправильно понимать;
+
+v gelingen-gelingt / gelang / ist gelungen
+удаваться; получаться;
+[j-m]
+
+v misslingen-misslingt / misslang / ist misslungen
+не удаваться; не получаться;
+[j-m]
+
+v missfallen-missfällt / missfiel / hat missfallen
+не нравиться; вызывать неодобрение;
+[j-m]
+
+a tatsächlich
+действительно; фактически; на самом деле;
+
+a wirklich
+действительно; правда;
+
+a eigentlich
+вообще-то; собственно;
+
+in Wirklichkeit
+в действительности; на самом деле;
+
+v erzählen / - / hat erzählt
+рассказывать;
+[j-m; von+Dat]
+
+v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
+соглашаться; одобрять;
+[j-m]
+
+v vereinbaren / - / hat vereinbart
+договариваться; согласовывать; назначать;
+
+v vergessen-vergisst / vergaß / hat vergessen
+забывать;
+
+v verstehen / verstand / hat verstanden
+TODO;
+
+v schreiben / schrieb / hat geschrieben
+писать{prs=пишет, pst=писал};
+
+v verkaufen
+TODO;
+
+v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
+TODO;
+[sich+Akk]
+
+v finden / fand / hat gefunden
+находить;
+
+v benutzen
+использовать{prs=использует, pst=использовал};
+
+v besuchen / - / hat besucht
+посещать{prs=посещает, pst=посещал}; навещать;
+
+v begrüßen / - / hat begrüßt
+приветствовать{prs=приветствует, pst=приветствовал};
+
+v bestellen
+TODO;
+
+v funktionieren / - / hat funktioniert
+работать{prs=работает, pst=работал}; функционировать;
+
+das Gedicht -e
+стихотворение;
+
+das Lied -er
+песня;
+
+gute Nachrichten
+хорошие новости;
+
+schlechte Nachrichten
+плохие новости;
+
+die Nachricht -en
+сообщение; новость;
+
+der Kopf "-e
+голова;
+
+das Gehirn -e
+мозг;
+
+der Sonnenaufgang "-e
+восход солнца;
+
+der Sonnenuntergang "-e
+закат солнца;
+
+das Alpenglühen (sg.)
+альпийское зарево; красноватое свечение гор;
+
+a womit
+на чём; чем;
+
+mit wem
+с кем;
+
+a wann
+когда;
+
+a woher
+откуда;
+
+Wann sind Sie geboren?
+Когда Вы родились?;
+
+Was ist Ihr Geburtsdatum?
+Какая у Вас дата рождения?;
+
+Wann haben Sie Geburtstag?
+Когда у Вас день рождения?;
+
+das Geburtsdatum Geburtsdaten
+TODO;
+
+der Geburtstag -e
+TODO;
+
+Ebbe und Flut
+отлив и прилив;
+
+die Ebbe -n
+отлив;
+
+die Flut -en
+прилив; наводнение;
+
+Sei leise!
+Будь тихим!; Тише!;
+
+Seid leise!
+Будьте тихими!; Тише!;
+
+Seien Sie leise!
+Будьте тихи!; Пожалуйста, тише!;
+
+a leise
+тихий; тихо;
+
+a still
+TODO;
+
+Lass das!
+Прекрати!; Не делай этого!; Оставь это!;
+
+v lassen-lässt / ließ / hat gelassen
+оставлять; позволять; велеть сделать;
+
+v anfassen-fasst an / fasste an / hat angefasst
+трогать; прикасаться;
+
+Fass mich nicht an!
+Не трогай меня!; Не прикасайся ко мне!;
+
+Seien Sie bitte leise!
+Пожалуйста, ведите себя тихо!; Пожалуйста, тише!;
+
+Halt die Klappe!
+Заткнись!;
+
+Halt die Fresse!
+Заткни пасть!;
+
+Halt's Maul!
+Закрой пасть!; Заткнись!;
+
+v halten-hält / hielt / hat gehalten
+держать; останавливать;
+
+v einräumen-räumt ein / räumte ein / hat eingeräumt
+складывать внутрь; загружать;
+
+v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+вынимать; разгружать;
+
+v abräumen-räumt ab / räumte ab / hat abgeräumt
+убирать со стола;
+
+v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+убирать; наводить порядок;
+
+Räum die Spülmaschine ein!
+Загрузи посудомоечную машину!;
+
+Räum die Spülmaschine aus!
+Разгрузи посудомоечную машину!;
+
+Räum den Tisch ab!
+Убери со стола!;
+
+Räum dein Spielzeug auf!
+Убери свои игрушки!;
+
+Verschwinde!
+Исчезни!; Убирайся!;
+
+Hau ab!
+Проваливай!; Вали отсюда!;
+
+Red mit mir!
+Поговори со мной!; Говори со мной!;
+
+v verschwinden / verschwand / ist verschwunden
+исчезать;
+
+v abhauen-haut ab / haute ab / ist abgehauen
+убегать; сваливать;
+
+v reden
+говорить; разговаривать;
+
+a gefährlich gefährlicher am gefährlichsten
+опасный;
+
+der Beruf -e
+профессия;
+
+der Taxifahrer -
+TODO;
+
+die Taxifahrerin -nen
+TODO;
+
+(-) Köln (sg.)
+Кёльн;
+
+die Zulassungsstelle -n
+регистрационный орган; отдел регистрации транспортных средств;
+
+das Kfz -
+автомобиль; транспортное средство;
+
+das Kraftfahrzeug -e
+моторное транспортное средство;
+
+das Nummernschild -er
+номерной знак; автомобильный номер;
+
+v zulassen-lässt zu / ließ zu / hat zugelassen
+TODO;
+
+v anmelden-meldet an / meldete an / hat angemeldet
+TODO;
+
+v einziehen-zieht ein / zog ein / ist eingezogen
+въезжать; вселяться;
+
+v ausziehen-zieht aus / zog aus / ist ausgezogen
+выезжать; раздеваться;
+
+v umziehen-zieht um / zog um / ist umgezogen
+переезжать;
+
+die Staatsangehörigkeit -en
+гражданство; подданство;
+
+die Nationalität -en
+национальность; гражданство;
+
+der Staat -en
+государство;
+
+a angehörig
+принадлежащий; относящийся;
+
+Herein, bitte!
+Войдите, пожалуйста!;
+
+Herein!
+TODO;
+
+Kommen Sie herein!
+Войдите!;
+
+Komm herein!
+Входи!;
+
+v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+заполнять;
+
+der Antrag "-e
+заявление; заявка;
+
+v unterrichten
+преподавать; обучать; сообщать; информировать;
+
+der Unterricht (sg.)
+урок; занятие; преподавание;
+
+a bald
+скоро; вскоре;
+
+der Wettbewerb -e
+соревнование; конкурс; состязание; конкуренция;
+
+a lokal
+местный; локальный;
+
+das Lokal -e
+заведение; ресторан; кафе; бар;
+
+der Beamte -n
+чиновник; госслужащий со специальным статусом;
+
+die Beamtin -nen
+чиновница; госслужащая со специальным статусом;
+
+der Staatsangestellte -n
+государственный служащий;
+
+die Staatsangestellte -n
+государственная служащая;
+
+der Polizist -en
+полицейский;
+
+die Polizistin -nen
+полицейская;
+
+der Lehrer -
+учитель;
+
+die Lehrerin -nen
+учительница;
+
+der Staatsanwalt "-e
+прокурор;
+
+die Staatsanwältin -nen
+прокурор;
+
+der Rechtsanwalt "-e
+адвокат;
+
+die Rechtsanwältin -nen
+адвокат;
+
+der Richter -
+судья;
+
+die Richterin -nen
+судья; женщина-судья;
+
+das Gericht -e
+суд;
+
+die Strafe -n
+наказание; штраф;
+
+das Gefängnis -se
+тюрьма;
+
+die Geldstrafe -n
+денежный штраф;
+
+die Freiheitsstrafe -n
+лишение свободы;
+
+die Haft (sg.)
+заключение; арест;
+
+v verhaften
+арестовывать;
+
+der Zoll (sg.)
+таможня; пошлина; дюйм;
+
+der Zoll "-e
+таможня; пошлина;
+
+der Zoll -
+TODO;
+
+v bestechen-besticht / bestach / hat bestochen
+подкупать; давать взятку;
+
+die Bestechung -en
+подкуп; взяточничество;
+
+das Bestechungsgeld -er
+взятка;
+
+die Korruption (sg.)
+коррупция;
+
+die Wirtschaft (sg.)
+экономика; хозяйство; ресторан; трактир;
+
+die Wirtschaft -en
+TODO;
+
+a wirtschaftlich
+экономический; выгодный;
+
+die Volkswirtschaft -en
+народное хозяйство; экономика страны;
+
+die Betriebswirtschaft -en
+экономика предприятия; бизнес-администрирование;
+
+das Küken -
+птенец; цыплёнок;
+
+das Apartment -s
+апартаменты; квартира;
+
+die Ausbildung -en
+профессиональное обучение;
+
+das Ausland (sg.)
+заграница;
+
+der Ausweis -e
+удостоверение; документ;
+
+die Bahn -en
+поезд; железная дорога;
+
+die Bewerbung -en
+заявление; отклик на вакансию;
+
+der Europäer -
+европеец;
+
+die Europäerin -nen
+европейка;
+
+der Führerschein -e
+водительские права;
+
+das Geburtsjahr -e
+год рождения;
+
+der Geburtsort -e
+место рождения;
+
+die Kantine -n
+столовая;
+
+das Konto Konten
+счёт; банковский счёт;
+
+der Kunde -n
+клиент; покупатель;
+
+die Kundin -nen
+клиентка; покупательница;
+
+die Monatskarte -n
+месячный проездной;
+
+das Paket -e
+посылка; пакет;
+
+die Papiere (pl.)
+документы; бумаги;
+
+der Pass "-e
+паспорт;
+
+die Post (sg.)
+почта;
+
+die Reise -n
+поездка; путешествие;
+
+das Studium (sg.)
+учёба в вузе; обучение в университете;
+
+der Test -s
+тест;
+
+der Tourist -en
+турист;
+
+die Touristin -nen
+туристка;
+
+die Umwelt (sg.)
+окружающая среда;
+
+der Vertrag "-e
+договор; контракт;
+
+der Verwandte -n
+родственник;
+
+die Verwandte -n
+родственница;
+
+v abschließen-schließt ab / schloss ab / hat abgeschlossen
+заканчивать; заключать договор; запирать;
+
+v abwaschen-wäscht ab / wusch ab / hat abgewaschen
+мыть посуду;
+
+v bedeuten / - / hat bedeutet
+означать;
+
+v schneiden / schnitt / hat geschnitten
+резать; стричь;
+
+v tragen-trägt / trug / hat getragen
+носить; нести;
+
+v unterschreiben / unterschrieb / hat unterschrieben
+подписывать;
+
+a dünn
+тонкий; худой;
+
+a fremd
+чужой; незнакомый; иностранный;
+
+a gültig
+действительный; имеющий силу;
+
+a traurig
+грустный; печальный;
+
+a zufrieden
+довольный;
+
+a hierher
+сюда;
+
+a dorthin
+туда;
+
+v dekorieren / - / hat dekoriert
+украшать;
+
+v demonstrieren / - / hat demonstriert
+демонстрировать; участвовать в демонстрации;
+
+v fotografieren / - / hat fotografiert
+фотографировать;
+
+v frisieren / - / hat frisiert
+причёсывать; укладывать волосы;
+
+v frustrieren / - / hat frustriert
+расстраивать; разочаровывать;
+
+v gratulieren / - / hat gratuliert
+поздравлять;
+[j-m; zu+Dat]
+
+v korrigieren / - / hat korrigiert
+исправлять;
+
+v lackieren / - / hat lackiert
+покрывать лаком; красить;
+
+v montieren / - / hat montiert
+монтировать; устанавливать;
+
+v motivieren / - / hat motiviert
+мотивировать;
+
+v nostrifizieren / - / hat nostrifiziert
+нострифицировать; признавать диплом;
+
+v operieren / - / hat operiert
+оперировать;
+
+v präsentieren / - / hat präsentiert
+представлять; презентовать;
+
+v probieren / - / hat probiert
+пробовать;
+
+v protestieren / - / hat protestiert
+протестовать;
+[gegen+Akk]
+
+v rasieren / - / hat rasiert
+брить;
+
+v sich rasieren / - / hat sich rasiert
+бриться;
+[sich+Akk]
+
+v renovieren / - / hat renoviert
+ремонтировать; обновлять;
+
+v sanieren / - / hat saniert
+санировать; капитально ремонтировать;
+
+v sortieren / - / hat sortiert
+сортировать;
+
+v stornieren / - / hat storniert
+отменять; аннулировать;
+
+v trainieren / - / hat trainiert
+тренироваться; тренировать;
+
+die Tür abschließen
+запирать дверь на ключ;
+
+eine Ausbildung abschließen
+заканчивать обучение; завершать Ausbildung;
+
+der Trinkspruch "-e
+тост; застольное пожелание;
+
+v anstoßen-stößt an / stieß an / hat angestoßen
+чокаться; подталкивать;
+[auf+Akk; mit+Dat]
+
+v aufstoßen-stößt auf / stieß auf / hat aufgestoßen
+отрыгивать; распахиваться; наталкиваться;
+
+v aufstoßen-stößt auf / stieß auf / ist aufgestoßen
+TODO;
+
+v stoßen-stößt / stieß / hat gestoßen
+толкать; ударяться; натыкаться;
+[j-n; etw.]
+
+v stoßen-stößt / stieß / ist gestoßen
+TODO;
+[an+Akk; auf+Akk]
+
+Auf Ruslan!
+За Руслана!;
+
+Zum Wohl!
+За здоровье!;
+
+das Aufstoßen (sg.)
+отрыжка; отрыгивание;
+
+a danach
+после этого; затем; об этом; на это;
+
+a nachher
+потом; позже;
+
+nach + Dat.
+TODO;
+
 das Wasser (sg.)
 вода; воды; водоем;
 
@@ -2135,12 +4090,6 @@ die Eltern (pl.)
 die Ferien (pl.)
 каникулы; отпуск; школьные каникулы; перерыв в занятиях;
 
-die Kosten (pl.)
-расходы; затраты; издержки;
-
-die Möbel (pl.)
-мебель; предметы мебели; обстановка;
-
 die Lebensmittel (pl.)
 продукты питания; продукты; съестные припасы;
 
@@ -2150,9 +4099,6 @@ die Geschwister (pl.)
 die Daten (pl.)
 данные; сведения; компьютерные данные;
 
-das Leben (sg.)
-жизнь; существование;
-
 der Weg -e
 путь; дорога; способ;
 
@@ -2161,9 +4107,6 @@ der Teil -e
 
 die Gruppe -n
 группа;
-
-die Seite -n
-страница; сторона;
 
 die Art -en
 вид; тип; способ;
@@ -2227,9 +4170,6 @@ die Prüfung -en
 
 das Beispiel -e
 пример; образец;
-
-die Erfahrung -en
-опыт;
 
 das Studium -en
 учеба (в вузе); обучение;
@@ -2300,9 +4240,6 @@ der Beitrag "-e
 der Inhalt -e
 содержание;
 
-die Nachricht -en
-сообщение; новость;
-
 die Mitteilung -en
 уведомление; сообщение;
 
@@ -2317,12 +4254,6 @@ die Nachfrage -n
 
 das Angebot -e
 предложение; оферта;
-
-der Vertrag "-e
-договор; контракт;
-
-die Bedingung -en
-условие;
 
 die Beratung -en
 консультация; совет;
@@ -2360,17 +4291,11 @@ die Versicherung -en
 die Steuer -n
 налог;
 
-der Staat -en
-государство;
-
 die Regierung -en
 правительство;
 
 das Gesetz -e
 закон;
-
-das Gericht -e
-суд; блюдо;
 
 der Prozess -e
 процесс; судебный процесс;
@@ -2378,14 +4303,8 @@ der Prozess -e
 die Industrie -n
 промышленность;
 
-die Rechnung -en
-счет; счет-фактура;
-
 die Quittung -en
 квитанция; чек;
-
-die Karte -n
-карта; карточка;
 
 das Konto -en
 счет (банковский);
@@ -2489,14 +4408,8 @@ das Urteil -e
 der Anspruch "-e
 требование; право (на что-то);
 
-der Antrag "-e
-заявление; заявка; ходатайство;
-
 die Anlage -n
 приложение (к письму); установка; сооружение; вложение;
-
-die Ware -n
-товар;
 
 die Zahlung -en
 платеж;
@@ -2525,9 +4438,6 @@ der Vortrag "-e
 das Gespräch "-e
 беседа; разговор;
 
-die Bedeutung -en
-значение; смысл;
-
 die Erklärung -en
 объяснение; декларация;
 
@@ -2540,9 +4450,6 @@ der Text -e
 die Geschichte -n
 история; рассказ;
 
-die Zeitung -en
-газета;
-
 der Artikel -
 статья; товар;
 
@@ -2554,9 +4461,6 @@ die Rolle -n
 
 die Figur -en
 фигура; персонаж;
-
-das Lied -er
-песня;
 
 die Sicherheit -en
 безопасность;
@@ -2605,9 +4509,6 @@ die Erhöhung -en
 
 die Senkung -en
 снижение; понижение;
-
-die Wahl -en
-выбор; выборы;
 
 die Konsequenz -en
 последствие;
@@ -2663,9 +4564,6 @@ der Zeitpunkt -e
 die Anzahl -en
 количество; численность;
 
-die Gebühr -en
-сбор; пошлина; комиссия;
-
 der Schaden "-en
 ущерб; повреждение;
 
@@ -2696,17 +4594,8 @@ die Maschine -n
 die Webseite -n
 веб-страница; сайт;
 
-die Anzeige -n
-объявление; индикация;
-
 die Meldung -en
 сообщение; уведомление;
-
-der Test -s
-тест; проверка;
-
-die Aufgabe -n
-задание; задача;
 
 die Übersicht -en
 обзор; сводка;
@@ -2716,9 +4605,6 @@ die Zusammenfassung -en
 
 der Job -s
 работа (должность); подработка;
-
-die Bewerbung -en
-заявление; отклик; заявка;
 
 der Lebenslauf "-e
 жизненный путь; резюме; автобиография;
@@ -2771,9 +4657,6 @@ die Größe -n
 der Körper -
 тело; организм;
 
-der Kopf "-e
-голова;
-
 der Rücken -
 спина;
 
@@ -2789,29 +4672,14 @@ die Ressource -n
 der Zugriff -e
 доступ; обращение (к данным);
 
-die Heizung -en
-отопление; система отопления;
-
-die Miete -n
-аренда; квартплата;
-
 der Haushalt -e
 домохозяйство; бюджет;
 
 der Abfall "-e
 отходы; мусор;
 
-die Umwelt (sg.)
-окружающая среда;
-
 die Teilnahme -n
 участие;
-
-der Teilnehmer -
-участник;
-
-die Teilnehmerin -nen
-участница;
 
 die Rückmeldung -en
 обратная связь; отклик;
@@ -2870,12 +4738,6 @@ die Trennung -en
 der Auftrag "-e
 заказ; поручение;
 
-der Kunde -n
-клиент; покупатель;
-
-die Kundin -nen
-клиентка; покупательница;
-
 der Anbieter -
 поставщик услуг; провайдер;
 
@@ -2914,9 +4776,6 @@ der Bestand "-e
 
 das Sortiment -e
 ассортимент;
-
-der Rabatt -e
-скидка;
 
 die Aktion -en
 акция; промо;
@@ -2959,12 +4818,6 @@ die Unterlage -n
 
 die Bescheinigung -en
 справка; удостоверение;
-
-der Ausweis -e
-удостоверение личности; пропуск;
-
-der Pass "-e
-паспорт;
 
 die Kontrolle -n
 контроль; проверка;
@@ -3020,9 +4873,6 @@ der Austritt -e
 die Mitgliedschaft -en
 членство;
 
-das Mitglied -er
-член (организации);
-
 der Verein -e
 клуб; объединение;
 
@@ -3073,9 +4923,6 @@ die Klage -n
 
 die Berufung -en
 апелляция; призвание;
-
-die Strafe -n
-штраф; наказание;
 
 der Täter -
 преступник; виновный;
@@ -3221,14 +5068,8 @@ der Wunsch "-e
 die Hoffnung -en
 надежда;
 
-der Traum "-e
-сон (видение); мечта;
-
 der Streit -e
 спор; ссора;
-
-der Beruf -e
-профессия;
 
 der Arbeitnehmer -
 работник; сотрудник;
@@ -3241,9 +5082,6 @@ der Arbeitgeber -
 
 die Arbeitgeberin -nen
 работодательница;
-
-die Stelle -n
-должность; место (работы);
 
 die Schicht -en
 смена;
@@ -3356,9 +5194,6 @@ die Ampel -n
 die Brücke -n
 мост;
 
-der Park -s
-парк;
-
 der Einkauf "-e
 покупка; шопинг;
 
@@ -3367,9 +5202,6 @@ der Laden "-
 
 das Geschäft -e
 магазин; дело;
-
-das Zentrum -en
-центр;
 
 der Bewohner -
 житель;
@@ -3494,12 +5326,6 @@ der Platz "-e
 der Sitz -e
 сиденье; место;
 
-der Hafen "-
-порт; гавань;
-
-der Flughafen "-
-аэропорт;
-
 der Bahnsteig -e
 платформа (на вокзале); перрон;
 
@@ -3533,9 +5359,6 @@ die Richtung -en
 der Standort -e
 местоположение; площадка; база;
 
-das Ausland (sg.)
-заграница; зарубежье;
-
 die Heimat -en
 родина; родной край;
 
@@ -3551,9 +5374,6 @@ der Bürger -
 die Bürgerin -nen
 гражданка;
 
-die Staatsangehörigkeit -en
-гражданство; национальная принадлежность;
-
 die Botschaft -en
 посольство; весть (сообщение);
 
@@ -3565,9 +5385,6 @@ die Mehrheit -en
 
 die Minderheit -en
 меньшинство;
-
-die Abstimmung -en
-голосование; согласование;
 
 der Kandidat -en
 кандидат;
@@ -3595,12 +5412,6 @@ die Reparatur -en
 
 die Polizei (sg.)
 полиция;
-
-der Polizist -en
-полицейский;
-
-die Polizistin -nen
-полицейская;
 
 der Diebstahl "-e
 кража;
@@ -3685,9 +5496,6 @@ das Einkommen -
 
 die Ausgabe -n
 расход; трата;
-
-die Ausgabe -n
-выпуск; издание;
 
 die Abgabe -n
 сбор; отчисление; сдача;
@@ -3917,9 +5725,6 @@ das Mittel -
 der Ursprung "-e
 исток; происхождение;
 
-die Küche -n
-кухня;
-
 der Ofen "-
 духовка; печь;
 
@@ -4037,9 +5842,6 @@ die Nähe (sg.)
 die Kante -n
 край; кромка;
 
-die Ecke -n
-угол;
-
 die Mitte -n
 середина; центр;
 
@@ -4133,9 +5935,6 @@ die Übergabe -n
 die Übernahme -n
 принятие; поглощение;
 
-der Wettbewerb -e
-конкурс; конкуренция;
-
 die Konkurrenz -en
 конкуренция; соперничество;
 
@@ -4153,9 +5952,6 @@ die Berechtigung -en
 
 die Sicherung -en
 резервирование; защита; предохранитель;
-
-das Zeichen -
-знак; символ;
 
 die Kennzeichnung -en
 маркировка; обозначение;
@@ -4439,12 +6235,6 @@ der Raum "-e
 die Fläche -n
 площадь; поверхность;
 
-das Bett -en
-кровать;
-
-der Schrank "-e
-шкаф;
-
 das Regal -e
 полка; стеллаж;
 
@@ -4454,14 +6244,8 @@ der Teppich -e
 die Decke -n
 потолок; одеяло;
 
-das Bad "-er
-ванная; ванна;
-
 das Badezimmer -
 ванная комната;
-
-die Dusche -n
-душ;
 
 die Badewanne -n
 ванна (чаша);
@@ -4553,9 +6337,6 @@ das Knie -
 die Brust "-e
 грудь;
 
-die Schulter -n
-плечо;
-
 der Hals "-e
 шея; горло;
 
@@ -4588,9 +6369,6 @@ das Hemd -en
 
 die Hose -n
 брюки; штаны;
-
-der Schuh -e
-обувь; ботинок;
 
 der Gürtel -
 ремень;
@@ -4652,9 +6430,6 @@ das Ufer -
 die Wüste -n
 пустыня;
 
-der Regen (sg.)
-дождь;
-
 der Schnee (sg.)
 снег;
 
@@ -4678,9 +6453,6 @@ der Stern -e
 
 der Kugelschreiber -
 шариковая ручка;
-
-der Bleistift -e
-карандаш;
 
 die Mappe -n
 папка; портфель;
@@ -4748,9 +6520,6 @@ das Abendessen -
 die Mahlzeit -en
 прием пищи; трапеза;
 
-der Hunger (sg.)
-голод;
-
 der Durst (sg.)
 жажда;
 
@@ -4760,9 +6529,6 @@ die Diät -en
 das Getränk -e
 напиток;
 
-das Wasser (sg.)
-вода;
-
 der Saft "-e
 сок;
 
@@ -4771,9 +6537,6 @@ der Tee -s
 
 der Kaffee -s
 кофе;
-
-die Milch (sg.)
-молоко;
 
 das Bier -e
 пиво;
@@ -4793,9 +6556,6 @@ die Nudel -n
 der Supermarkt "-e
 супермаркет;
 
-die Bäckerei -en
-пекарня; булочная;
-
 der Bäcker -
 пекарь;
 
@@ -4805,14 +6565,8 @@ die Bäckerin -nen
 die Metzgerei -en
 мясная лавка; мясной магазин;
 
-das Restaurant -s
-ресторан;
-
 das Café -s
 кафе;
-
-die Kantine -n
-столовая;
 
 das Menü -s
 меню (комплекс);
@@ -4822,9 +6576,6 @@ die Speise -n
 
 das Taxi -s
 такси;
-
-der Bus -se
-автобус;
 
 der Passagier -e
 пассажир;
@@ -4838,12 +6589,6 @@ der Fahrschein -e
 die Pünktlichkeit (sg.)
 пунктуальность;
 
-der Lehrer -
-учитель;
-
-die Lehrerin -nen
-учительница;
-
 der Schüler -
 ученик; школьник;
 
@@ -4855,9 +6600,6 @@ die Klasse -n
 
 das Klassenzimmer -
 классная комната;
-
-die Pause -n
-перемена; пауза;
 
 die Mensa -en
 студенческая столовая;
@@ -4928,15 +6670,6 @@ das Einkaufszentrum -en
 die Drogerie -n
 магазин бытовой химии; дрогери;
 
-die Post (sg.)
-почта; почтовое отделение;
-
-das Paket -e
-посылка; пакет;
-
-der Brief -e
-письмо;
-
 die Briefmarke -n
 почтовая марка;
 
@@ -4961,9 +6694,6 @@ die Treppe -n
 der Hof "-e
 двор; хозяйство;
 
-der Garten "-
-сад;
-
 das Wohnzimmer -
 гостиная;
 
@@ -4976,50 +6706,17 @@ das Kinderzimmer -
 das Arbeitszimmer -
 кабинет;
 
-die Toilette -n
-туалет;
-
-der Flur -e
-коридор;
-
-der Balkon -e
-балкон;
-
 die Terrasse -n
 терраса;
 
 die Kaution -en
 залог;
 
-die Nebenkosten (pl.)
-коммунальные платежи; доп. расходы;
-
-der Vermieter -
-арендодатель;
-
-die Vermieterin -nen
-арендодателька;
-
-der Mieter -
-арендатор; жилец;
-
-die Mieterin -nen
-арендаторка;
-
 die Besichtigung -en
 осмотр;
 
 die Renovierung -en
 ремонт (косметический); обновление;
-
-die Möbel (pl.)
-мебель;
-
-das Sofa -s
-диван;
-
-der Sessel -
-кресло;
 
 der Vorhang "-e
 штора;
@@ -5039,14 +6736,8 @@ die Fernbedienung -en
 das Radio -s
 радио; радиоприемник;
 
-das Konzert -e
-концерт;
-
 das Festival -s
 фестиваль;
-
-die Kultur -en
-культура;
 
 das Hobby -s
 хобби; увлечение;
@@ -5059,9 +6750,6 @@ der Fußball "-e
 
 das Tennis (sg.)
 теннис;
-
-das Schwimmbad "-er
-бассейн;
 
 das Fitnessstudio -s
 фитнес-клуб; спортзал;
@@ -5111,9 +6799,6 @@ die Schiedsrichterin -nen
 das Tor -e
 ворота; гол;
 
-der Ball "-e
-мяч; шар;
-
 die Halle -n
 зал; арена;
 
@@ -5143,12 +6828,6 @@ die Sicht -en
 
 die Einrichtung -en
 учреждение;
-
-die Einrichtung -en
-обстановка; интерьер;
-
-die Einrichtung -en
-настройка; установка;
 
 die Erinnerung -en
 воспоминание; напоминание;
@@ -5180,9 +6859,6 @@ die Rücksendung -en
 der Koffer -
 чемодан;
 
-das Gepäck (sg.)
-багаж;
-
 die Rezeption -en
 стойка регистрации; рецепция;
 
@@ -5194,9 +6870,6 @@ die Sicherheitskontrolle -n
 
 die Zollkontrolle -n
 таможенный контроль;
-
-der Zoll "-e
-таможня; пошлина;
 
 der Flug "-e
 перелет; рейс;
@@ -5231,9 +6904,6 @@ die Lastschrift -en
 die Filiale -n
 филиал; отделение;
 
-die Bedienung -en
-обслуживание; управление (прибором);
-
 der Service -s
 сервис; обслуживание;
 
@@ -5257,9 +6927,6 @@ die Sperrung -en
 
 die Entsperrung -en
 разблокировка;
-
-die Fabrik -en
-фабрика; завод;
 
 die Produktion -en
 производство; выпуск;
@@ -5335,9 +7002,6 @@ das Vorstellungsgespräch -e
 
 der Gutschein -e
 купон; подарочный сертификат;
-
-die Ermäßigung -en
-скидка; льгота;
 
 die Warnung -en
 предупреждение; предостережение;
@@ -5591,23 +7255,14 @@ die Klausur -en
 das Examen -e
 экзамен;
 
-das Zeugnis -se
-свидетельство; аттестат; характеристика;
-
 die Gutschrift -en
 кредит-нота; зачет средств;
-
-die Hausordnung -en
-правила внутреннего распорядка (дома);
 
 das Ereignis -se
 событие;
 
 die Verzögerung -en
 задержка; замедление;
-
-die Daten (pl.)
-данные; сведения;
 
 der Datenschutz (sg.)
 защита данных;

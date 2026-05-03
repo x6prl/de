@@ -1,6 +1,3 @@
-das Leben (sg.)
-life; existence;
-
 der Weg -e
 path; road; way;
 
@@ -9,9 +6,6 @@ part; share;
 
 die Gruppe -n
 group;
-
-die Seite -n
-page; side;
 
 die Art -en
 view; type; way;
@@ -75,9 +69,6 @@ exam; examination; trial;
 
 das Beispiel -e
 example; sample;
-
-die Erfahrung -en
-experience;
 
 das Studium -en
 study (at university); education;
@@ -148,9 +139,6 @@ contribution; contribution; article (in the media);
 der Inhalt -e
 content;
 
-die Nachricht -en
-message; news;
-
 die Mitteilung -en
 notification; message;
 
@@ -165,12 +153,6 @@ demand; request;
 
 das Angebot -e
 offer; offer;
-
-der Vertrag "-e
-contract; contract;
-
-die Bedingung -en
-condition;
 
 die Beratung -en
 consultation; advice;
@@ -208,17 +190,11 @@ insurance; insurance;
 die Steuer -n
 tax;
 
-der Staat -en
-state;
-
 die Regierung -en
 government;
 
 das Gesetz -e
 law;
-
-das Gericht -e
-court; dish;
 
 der Prozess -e
 process; trial;
@@ -226,14 +202,8 @@ process; trial;
 die Industrie -n
 industry;
 
-die Rechnung -en
-check; invoice;
-
 die Quittung -en
 receipt; check;
-
-die Karte -n
-map; card;
 
 das Konto -en
 account (bank);
@@ -337,14 +307,8 @@ sentence; judgment;
 der Anspruch "-e
 requirement; right (to something);
 
-der Antrag "-e
-statement; bid; petition;
-
 die Anlage -n
 attachment (to letter); installation; construction; attachment;
-
-die Ware -n
-product;
 
 die Zahlung -en
 payment;
@@ -373,9 +337,6 @@ report; lecture;
 das Gespräch "-e
 conversation; talk;
 
-die Bedeutung -en
-meaning; meaning;
-
 die Erklärung -en
 explanation; declaration;
 
@@ -388,9 +349,6 @@ text;
 die Geschichte -n
 story; story;
 
-die Zeitung -en
-newspaper;
-
 der Artikel -
 article; product;
 
@@ -402,9 +360,6 @@ role;
 
 die Figur -en
 figure; character;
-
-das Lied -er
-song;
 
 die Sicherheit -en
 safety;
@@ -453,9 +408,6 @@ promotion; increase;
 
 die Senkung -en
 decline; demotion;
-
-die Wahl -en
-choice; elections;
 
 die Konsequenz -en
 consequence;
@@ -511,9 +463,6 @@ moment (of time);
 die Anzahl -en
 quantity; number;
 
-die Gebühr -en
-collection; duty; commission;
-
 der Schaden "-en
 damage; damage;
 
@@ -544,17 +493,8 @@ car; mechanism;
 die Webseite -n
 web page; website;
 
-die Anzeige -n
-announcement; indication;
-
 die Meldung -en
 message; notification;
-
-der Test -s
-test; examination;
-
-die Aufgabe -n
-exercise; task;
 
 die Übersicht -en
 review; summary;
@@ -564,9 +504,6 @@ summary;
 
 der Job -s
 job (position); part-time job;
-
-die Bewerbung -en
-statement; response; bid;
 
 der Lebenslauf "-e
 life path; resume; autobiography;
@@ -619,9 +556,6 @@ height; size;
 der Körper -
 body; organism;
 
-der Kopf "-e
-head;
-
 der Rücken -
 back;
 
@@ -637,29 +571,14 @@ resource;
 der Zugriff -e
 access; access (to data);
 
-die Heizung -en
-heating; heating system;
-
-die Miete -n
-rent; rent;
-
 der Haushalt -e
 household; budget;
 
 der Abfall "-e
 waste; garbage;
 
-die Umwelt (sg.)
-environment;
-
 die Teilnahme -n
 participation;
-
-der Teilnehmer -
-participant;
-
-die Teilnehmerin -nen
-participant;
 
 die Rückmeldung -en
 feedback; response;
@@ -718,12 +637,6 @@ parting; separation;
 der Auftrag "-e
 order; assignment;
 
-der Kunde -n
-client; buyer;
-
-die Kundin -nen
-client; customer;
-
 der Anbieter -
 service provider; provider;
 
@@ -762,9 +675,6 @@ stock; availability; compound;
 
 das Sortiment -e
 assortment;
-
-der Rabatt -e
-discount;
 
 die Aktion -en
 promotion; promo;
@@ -807,12 +717,6 @@ document; base (paper);
 
 die Bescheinigung -en
 reference; certificate;
-
-der Ausweis -e
-ID card; pass;
-
-der Pass "-e
-passport;
 
 die Kontrolle -n
 control; examination;
@@ -868,9 +772,6 @@ exit; disposal;
 die Mitgliedschaft -en
 membership;
 
-das Mitglied -er
-member (of organization);
-
 der Verein -e
 club; association;
 
@@ -921,9 +822,6 @@ lawsuit; complaint;
 
 die Berufung -en
 appeal; vocation;
-
-die Strafe -n
-fine; punishment;
 
 der Täter -
 criminal; guilty;
@@ -1069,14 +967,8 @@ wish; wish;
 die Hoffnung -en
 hope;
 
-der Traum "-e
-dream (vision); dream;
-
 der Streit -e
 dispute; argument;
-
-der Beruf -e
-profession;
 
 der Arbeitnehmer -
 worker; employee;
@@ -1089,9 +981,6 @@ employer;
 
 die Arbeitgeberin -nen
 employer;
-
-die Stelle -n
-job title; place (of work);
 
 die Schicht -en
 shift;
@@ -1204,9 +1093,6 @@ traffic light;
 die Brücke -n
 bridge;
 
-der Park -s
-park;
-
 der Einkauf "-e
 purchase; shopping;
 
@@ -1215,9 +1101,6 @@ shop; shop;
 
 das Geschäft -e
 shop; case;
-
-das Zentrum -en
-center;
 
 der Bewohner -
 inhabitant;
@@ -1342,12 +1225,6 @@ place; square;
 der Sitz -e
 seat; place;
 
-der Hafen "-
-port; harbor;
-
-der Flughafen "-
-airport;
-
 der Bahnsteig -e
 platform (at the station); platform;
 
@@ -1381,9 +1258,6 @@ direction;
 der Standort -e
 location; platform; base;
 
-das Ausland (sg.)
-abroad; abroad;
-
 die Heimat -en
 homeland; native land;
 
@@ -1399,9 +1273,6 @@ citizen; inhabitant;
 die Bürgerin -nen
 citizen;
 
-die Staatsangehörigkeit -en
-citizenship; nationality;
-
 die Botschaft -en
 embassy; news (message);
 
@@ -1413,9 +1284,6 @@ majority;
 
 die Minderheit -en
 minority;
-
-die Abstimmung -en
-vote; coordination;
 
 der Kandidat -en
 candidate;
@@ -1443,12 +1311,6 @@ repair;
 
 die Polizei (sg.)
 police;
-
-der Polizist -en
-police officer;
-
-die Polizistin -nen
-police officer;
 
 der Diebstahl "-e
 theft;
@@ -1533,9 +1395,6 @@ income;
 
 die Ausgabe -n
 consumption; spending;
-
-die Ausgabe -n
-release; edition;
 
 die Abgabe -n
 collection; deduction; change;
@@ -1765,9 +1624,6 @@ means; preparation;
 der Ursprung "-e
 source; origin;
 
-die Küche -n
-kitchen;
-
 der Ofen "-
 oven; bake;
 
@@ -1885,9 +1741,6 @@ intimacy;
 die Kante -n
 edge; edge;
 
-die Ecke -n
-corner;
-
 die Mitte -n
 middle; center;
 
@@ -1981,9 +1834,6 @@ broadcast;
 die Übernahme -n
 acceptance; absorption;
 
-der Wettbewerb -e
-contest; competition;
-
 die Konkurrenz -en
 competition; rivalry;
 
@@ -2001,9 +1851,6 @@ right of access; permission;
 
 die Sicherung -en
 reservation; protection; fuse;
-
-das Zeichen -
-sign; symbol;
 
 die Kennzeichnung -en
 marking; designation;
@@ -2287,12 +2134,6 @@ premises; space; room;
 die Fläche -n
 square; surface;
 
-das Bett -en
-bed;
-
-der Schrank "-e
-closet;
-
 das Regal -e
 shelf; rack;
 
@@ -2302,14 +2143,8 @@ carpet;
 die Decke -n
 ceiling; blanket;
 
-das Bad "-er
-bathroom; bath;
-
 das Badezimmer -
 bathroom;
-
-die Dusche -n
-shower;
 
 die Badewanne -n
 bath (bowl);
@@ -2401,9 +2236,6 @@ knee;
 die Brust "-e
 breast;
 
-die Schulter -n
-shoulder;
-
 der Hals "-e
 neck; throat;
 
@@ -2436,9 +2268,6 @@ shirt;
 
 die Hose -n
 trousers; trousers;
-
-der Schuh -e
-shoes; shoe;
 
 der Gürtel -
 belt;
@@ -2500,9 +2329,6 @@ shore (river/lake);
 die Wüste -n
 desert;
 
-der Regen (sg.)
-rain;
-
 der Schnee (sg.)
 snow;
 
@@ -2526,9 +2352,6 @@ star;
 
 der Kugelschreiber -
 ballpen;
-
-der Bleistift -e
-pencil;
 
 die Mappe -n
 folder; briefcase;
@@ -2596,9 +2419,6 @@ dinner;
 die Mahlzeit -en
 eating; meal;
 
-der Hunger (sg.)
-hunger;
-
 der Durst (sg.)
 thirst;
 
@@ -2608,9 +2428,6 @@ diet;
 das Getränk -e
 drink;
 
-das Wasser (sg.)
-water;
-
 der Saft "-e
 juice;
 
@@ -2619,9 +2436,6 @@ tea;
 
 der Kaffee -s
 coffee;
-
-die Milch (sg.)
-milk;
 
 das Bier -e
 beer;
@@ -2641,9 +2455,6 @@ noodles; pasta;
 der Supermarkt "-e
 supermarket;
 
-die Bäckerei -en
-bakery; bakery;
-
 der Bäcker -
 baker;
 
@@ -2653,14 +2464,8 @@ baker;
 die Metzgerei -en
 butcher shop; butcher shop;
 
-das Restaurant -s
-restaurant;
-
 das Café -s
 cafe;
-
-die Kantine -n
-dining room;
 
 das Menü -s
 menu (complex);
@@ -2670,9 +2475,6 @@ dish; food;
 
 das Taxi -s
 taxi;
-
-der Bus -se
-bus;
 
 der Passagier -e
 passenger;
@@ -2686,12 +2488,6 @@ ticket;
 die Pünktlichkeit (sg.)
 punctuality;
 
-der Lehrer -
-teacher;
-
-die Lehrerin -nen
-teacher;
-
 der Schüler -
 student; schoolboy;
 
@@ -2703,9 +2499,6 @@ class; category;
 
 das Klassenzimmer -
 classroom;
-
-die Pause -n
-break; pause;
 
 die Mensa -en
 student canteen;
@@ -2776,15 +2569,6 @@ shopping mall;
 die Drogerie -n
 household chemicals store; drogerie;
 
-die Post (sg.)
-mail; post office;
-
-das Paket -e
-package; plastic bag;
-
-der Brief -e
-letter;
-
 die Briefmarke -n
 postage stamp;
 
@@ -2809,9 +2593,6 @@ ladder;
 der Hof "-e
 yard; farming;
 
-der Garten "-
-garden;
-
 das Wohnzimmer -
 living room;
 
@@ -2824,50 +2605,17 @@ children's;
 das Arbeitszimmer -
 cabinet;
 
-die Toilette -n
-toilet;
-
-der Flur -e
-corridor;
-
-der Balkon -e
-balcony;
-
 die Terrasse -n
 terrace;
 
 die Kaution -en
 pledge;
 
-die Nebenkosten (pl.)
-utility bills; add. expenses;
-
-der Vermieter -
-landlord;
-
-die Vermieterin -nen
-landlady;
-
-der Mieter -
-tenant; lodger;
-
-die Mieterin -nen
-tenant;
-
 die Besichtigung -en
 inspection;
 
 die Renovierung -en
 repair (cosmetic); update;
-
-die Möbel (pl.)
-furniture;
-
-das Sofa -s
-sofa;
-
-der Sessel -
-armchair;
 
 der Vorhang "-e
 curtain;
@@ -2887,14 +2635,8 @@ remote control;
 das Radio -s
 radio; radio;
 
-das Konzert -e
-concert;
-
 das Festival -s
 festival;
-
-die Kultur -en
-culture;
 
 das Hobby -s
 hobby; enthusiasm;
@@ -2907,9 +2649,6 @@ football; soccer ball;
 
 das Tennis (sg.)
 tennis;
-
-das Schwimmbad "-er
-pool;
 
 das Fitnessstudio -s
 fitness club; gym;
@@ -2959,9 +2698,6 @@ referee (sports);
 das Tor -e
 gates; goal;
 
-der Ball "-e
-ball; ball;
-
 die Halle -n
 hall; arena;
 
@@ -2991,12 +2727,6 @@ sight; visibility; point of view;
 
 die Einrichtung -en
 institution;
-
-die Einrichtung -en
-situation; interior;
-
-die Einrichtung -en
-setting; installation;
 
 die Erinnerung -en
 memory; reminder;
@@ -3028,9 +2758,6 @@ return; return shipping;
 der Koffer -
 suitcase;
 
-das Gepäck (sg.)
-baggage;
-
 die Rezeption -en
 reception; reception;
 
@@ -3042,9 +2769,6 @@ inspection; security control;
 
 die Zollkontrolle -n
 customs control;
-
-der Zoll "-e
-customs; duty;
 
 der Flug "-e
 flight; flight;
@@ -3079,9 +2803,6 @@ direct debit; automatic bank withdrawal;
 die Filiale -n
 branch; department;
 
-die Bedienung -en
-service; control (device);
-
 der Service -s
 service; service;
 
@@ -3105,9 +2826,6 @@ blocking; overlap;
 
 die Entsperrung -en
 unlock;
-
-die Fabrik -en
-factory; factory;
 
 die Produktion -en
 production; release;
@@ -3183,9 +2901,6 @@ interview (for a job);
 
 der Gutschein -e
 coupon; gift certificate;
-
-die Ermäßigung -en
-discount; benefit;
 
 die Warnung -en
 warning; warning;
@@ -3439,23 +3154,14 @@ written exam (at university);
 das Examen -e
 exam;
 
-das Zeugnis -se
-certificate; certificate; characteristic;
-
 die Gutschrift -en
 credit note; offset of funds;
-
-die Hausordnung -en
-house rules (at home);
 
 das Ereignis -se
 event;
 
 die Verzögerung -en
 delay; slowdown;
-
-die Daten (pl.)
-data; intelligence;
 
 der Datenschutz (sg.)
 data protection;
