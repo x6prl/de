@@ -1155,7 +1155,6 @@ der Bon -s
 
 v decken
 покрывать; накрывать;
-[etw.]
 
 den Tisch decken
 накрывать на стол;
@@ -1298,9 +1297,6 @@ die Garage -n
 der Garten "-
 сад;
 
-das Haus "-er
-дом;
-
 die Heizung -en
 отопление;
 
@@ -1358,9 +1354,6 @@ der Vermieter -
 die Vermieterin -nen
 арендодатель; хозяйка квартиры;
 
-die Wohnung -en
-квартира;
-
 das Zentrum -en
 центр;
 
@@ -1378,9 +1371,6 @@ v bezahlen / bezahlte / hat bezahlt
 
 v dürfen-darf / durfte / hat gedurft
 мочь{prs=может, pst=мог}; иметь разрешение;
-
-v grillen / grillte / hat gegrillt
-жарить на гриле{prs=жарит на гриле, pst=жарил на гриле}; готовить на углях;
 
 v mieten / mietete / hat gemietet
 снимать{prs=снимает, pst=снимал}; арендовать{prs=арендует, pst=арендовал};
@@ -1402,12 +1392,6 @@ a alt
 
 a neu
 новый{cmp=новее, sup=самый новый};
-
-a billig
-дешевый;
-
-a teuer
-дорогой;
 
 a dunkel
 темный{cmp=темнее, sup=самый темный};
@@ -1465,6 +1449,670 @@ a sehr
 
 a wenig
 мало; немного;
+
+die Geldschuld -en
+денежный долг;
+
+die Schuld -en
+долг; вина; проступок;
+
+die Schulden (pl.)
+долги; задолженности;
+
+die Sache -n
+вещь; дело;
+
+die Sachen (pl.)
+вещи; пожитки;
+
+Wo sind deine Sachen?
+Где твои вещи?;
+
+a blau
+синий; голубой;
+
+Blau wie das Meer und wie deine Augen.
+Синий, как море и как твои глаза.;
+
+Ich mag Blau, blau wie der Himmel.
+Мне нравится синий, синий, как небо.;
+
+v lieben / liebte / hat geliebt
+любить{prs=любит, pst=любил};
+
+Ich mag dich.
+Ты мне нравишься.;
+
+Ich liebe dich.
+Я люблю тебя.;
+
+so ... wie
+такой ... как; так же ... как;
+
+Mein Auto ist schnell wie ein Ferrari.
+Моя машина такая же быстрая, как Ferrari.;
+
+Meine Wohnung ist klein wie ein Schuhkarton.
+Моя квартира маленькая, как коробка для обуви.;
+
+Mein Auto ist so schnell wie ein Ferrari.
+Моя машина такая же быстрая, как Ferrari.;
+
+Meine Wohnung ist so klein wie ein Schuhkarton.
+Моя квартира такая же маленькая, как коробка для обуви.;
+
+v können-kann / konnte / hat gekonnt
+мочь{prs=может, pst=мог}; уметь{prs=умеет, pst=умел};
+
+v müssen-muss / musste / hat gemusst
+быть должным{prs=должен, pst=должен был}; быть вынужденным{prs=вынужден, pst=был вынужден};
+
+das Modalverb -en
+модальный глагол;
+
+das Vollverb -en
+основной глагол; смысловой глагол;
+
+der Infinitiv -e
+инфинитив;
+
+Ich kann heute zu dir kommen.
+Я могу сегодня прийти к тебе.;
+
+Das Modalverb steht an Position zwei, und das Vollverb steht im Infinitiv am Satzende.
+Модальный глагол стоит на втором месте, а основной глагол стоит в инфинитиве в конце предложения.;
+
+Jedes Modalverb hat eine eigene Bedeutung.
+У каждого модального глагола есть свое значение.;
+
+Ich mag Schokolade.
+Мне нравится шоколад.;
+
+Ich mag ihn.
+Он мне нравится.;
+
+Ich möchte schlafen.
+Я хотел бы поспать.;
+
+Ich möchte einen Kaffee.
+Я хотел бы кофе.;
+
+v besuchen / besuchte / hat besucht
+посещать{prs=посещает, pst=посещал}; навещать{prs=навещает, pst=навещал};
+
+v schwimmen-schwimmt / schwamm / ist geschwommen
+плавать{prs=плавает, pst=плавал};
+
+Ich kann schwimmen.
+Я умею плавать.;
+
+Viele Kinder können nicht gut lesen.
+Многие дети не умеют хорошо читать.;
+
+Ich kann dich heute besuchen. Ich habe Zeit.
+Я могу навестить тебя сегодня. У меня есть время.;
+
+Er kann Brot vom Bäcker holen.
+Он может сходить за хлебом к пекарю.;
+
+der Kosename -n
+ласковое имя; ласковое обращение;
+
+der Schatz "-e
+сокровище; дорогой; дорогая;
+
+Schatz!
+дорогой!; дорогая!;
+
+Mein Schatz
+мой дорогой; моя дорогая;
+
+a genug
+достаточно;
+
+Das ist genug.
+Этого достаточно.;
+
+Ich habe genug Zeit.
+У меня достаточно времени.;
+
+Genug!
+Хватит!; Довольно!;
+
+gut genug
+достаточно хороший;
+
+schnell genug
+достаточно быстрый;
+
+ein Picknick machen
+устраивать пикник;
+
+v mitbringen-bringt mit / brachte mit / hat mitgebracht
+приносить с собой{prs=приносит с собой, pst=приносил с собой};
+
+v brauchen / brauchte / hat gebraucht
+нуждаться{prs=нуждается, pst=нуждался}; требоваться{prs=требуется, pst=требовалось};
+
+die Getränke (pl.)
+напитки;
+
+das Obst (sg.)
+фрукты; фрукты как категория;
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+встречаться{prs=встречается, pst=встречался};
+
+v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+подготавливать{prs=подготавливает, pst=подготавливал}; готовить{prs=готовит, pst=готовил};
+
+a trennbar
+отделяемый;
+
+das trennbare Verb -en
+отделяемый глагол;
+
+Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
+Мы устраиваем пикник в парке. Кто что делает? Что нам нужно?;
+
+Ich bringe Brot, Käse und Tomaten mit.
+Я принесу с собой хлеб, сыр и помидоры.;
+
+Wir brauchen eine Decke, Teller, Servietten und Obst.
+Нам нужны плед, тарелки, салфетки и фрукты.;
+
+Wann treffen wir uns?
+Когда мы встречаемся?;
+
+Ich bereite das Picknick vor.
+Я готовлю пикник.;
+
+Wir bereiten alles für die Party vor.
+Мы готовим все для вечеринки.;
+
+Ich bereite das Essen vor.
+Я готовлю еду.;
+
+Ich möchte das Essen vorbereiten.
+Я хотел бы приготовить еду.;
+
+Ich muss mit dir reden.
+Мне нужно с тобой поговорить.;
+
+Ich muss morgen arbeiten.
+Мне нужно завтра работать.;
+
+Musst du immer fernsehen?
+Тебе обязательно все время смотреть телевизор?;
+
+Wir können doch etwas spielen.
+Мы же можем во что-нибудь поиграть.;
+
+a müde
+усталый; сонный;
+
+morgens
+по утрам; утром;
+
+im Meer
+в море;
+
+Wann können Sie schwimmen?
+Когда Вы можете плавать?;
+
+Ich kann morgens schwimmen. Ich habe Zeit.
+Я могу плавать по утрам. У меня есть время.;
+
+Wie können Sie schwimmen?
+Как Вы умеете плавать?;
+
+Ich kann schnell schwimmen.
+Я умею быстро плавать.;
+
+Wo können Sie schwimmen?
+Где Вы можете плавать?;
+
+Ich kann im Meer schwimmen.
+Я могу плавать в море.;
+
+Ich kann nicht mit diesen Schuhen im Park tanzen.
+Я не могу танцевать в парке в этой обуви.;
+
+Mein Kopf ist leer! Ich bin sehr müde.
+У меня пустая голова! Я очень устал.; У меня в голове пусто! Я очень устал.;
+
+v schätzen / schätzte / hat geschätzt
+оценивать{prs=оценивает, pst=оценивал}; ценить{prs=ценит, pst=ценил}; предполагать{prs=предполагает, pst=предполагал};
+
+Ich schätze Ihre Hilfe sehr.
+Я очень ценю Вашу помощь.;
+
+Er schätzt das Alter auf 40.
+Он оценивает возраст в 40 лет.;
+
+Ich schätze, er kommt später.
+Я думаю, он придет позже.;
+
+Wo warst du gestern?
+Где ты был вчера?;
+
+Ich war in der Schule.
+Я был в школе.;
+
+Ich war müde.
+Я был уставшим.;
+
+Wir waren zu Hause.
+Мы были дома.;
+
+Ich hatte Zeit.
+У меня было время.;
+
+Sie hatten Glück.
+Им повезло.; У них была удача.;
+
+a langweilig
+скучный;
+
+Der Film ist langweilig.
+Фильм скучный.;
+
+Mir ist langweilig.
+Мне скучно.;
+
+a endlich
+наконец; конечный;
+
+Endlich bist du da!
+Наконец-то ты здесь!;
+
+Es ist endlich vorbei.
+Это наконец закончилось.;
+
+das Zuhause -
+дом; домашний очаг;
+
+Ich bin zu Hause.
+Я дома.;
+
+Ich bin zuhause.
+Я дома.;
+
+Ein schönes Zuhause ist wichtig.
+Красивый дом важен.; Уютный дом важен.;
+
+Ich bevorzuge ...
+Я предпочитаю ...;
+
+die Kleidung (sg.)
+одежда;
+
+v probieren / probierte / hat probiert
+пробовать{prs=пробует, pst=пробовал}; примерять{prs=примеряет, pst=примерял};
+
+v reparieren / reparierte / hat repariert
+ремонтировать{prs=ремонтирует, pst=ремонтировал}; чинить{prs=чинит, pst=чинил};
+
+a geschieden
+разведенный;
+
+der Stress (sg.)
+стресс;
+
+a stressig
+стрессовый; напряженный;
+
+v mitmachen-macht mit / machte mit / hat mitgemacht
+участвовать{prs=участвует, pst=участвовал}; присоединяться{prs=присоединяется, pst=присоединялся};
+
+a süchtig
+зависимый;
+[nach+Dat]
+
+der Duft "-e
+запах; аромат;
+
+Ich kaufe Kleidung nicht online. Ich kann im Internet nicht probieren.
+Я не покупаю одежду онлайн. Я не могу примерить ее в интернете.;
+
+Ich muss alles probieren.
+Мне нужно все примерять.;
+
+große Auswahl
+большой выбор; широкий выбор;
+
+Die Größe passt nicht. Die Schuhe sind zu klein.
+Размер не подходит. Обувь слишком маленькая.;
+
+Ich repariere den Fernseher.
+Я чиню телевизор.;
+
+Sie sind geschieden.
+Они разведены.;
+
+Ich reise nach Kasachstan / in die Ukraine / auf die Philippinen.
+Я еду в Казахстан / в Украину / на Филиппины.;
+
+Ich habe Stress. Meine Arbeit ist stressig.
+У меня стресс. Моя работа напряженная.;
+
+Ich mache beim Sport mit.
+Я занимаюсь спортом вместе с другими.;
+
+Wir machen bei der Demonstration mit.
+Мы участвуем в демонстрации.;
+
+Ich bin süchtig nach diesem Duft.
+Я зависим от этого аромата.;
+
+Ich bin drogensüchtig.
+Я зависим от наркотиков.;
+
+die Anrede -n
+обращение; приветствие в начале письма;
+
+der Gruß "-e
+приветствие; завершающая формула;
+
+Liebe ...
+дорогая ...;
+
+Lieber ...
+дорогой ...;
+
+Sehr geehrte ...
+уважаемая ...;
+
+Sehr geehrter ...
+уважаемый ...;
+
+Mit freundlichen Grüßen
+с уважением;
+
+Viele Grüße
+с наилучшими пожеланиями;
+
+Liebe Grüße
+с любовью; сердечный привет;
+
+Bis bald
+до скорого.;
+
+der Boden "-
+пол;
+
+der Dachboden "-
+чердак;
+
+der Stellplatz "-e
+парковочное место;
+
+die Heizkörper (pl.)
+радиаторы;
+
+der Nachttisch -e
+прикроватный столик;
+
+das Bücherregal -e
+книжная полка; книжный шкаф;
+
+die Jalousie -n
+жалюзи;
+
+die Gardine -n
+гардина; легкая занавеска;
+
+der Spiegel -
+зеркало;
+
+das Bettzeug (sg.)
+постельные принадлежности; постельное белье;
+
+der Wäschekorb "-e
+корзина для белья;
+
+die Kommode -n
+комод;
+
+das Waschbecken -
+раковина;
+
+das Toilettenpapier (sg.)
+туалетная бумага;
+
+die Toilettenbürste -n
+ершик для туалета;
+
+der Duschvorhang "-e
+шторка для душа;
+
+der Wasserhahn "-e
+кран;
+
+der Toilettenpapierhalter -
+держатель для туалетной бумаги;
+
+die Wasseruhr -en
+счетчик воды;
+
+die Toilettenspülung -en
+слив в туалете; система смыва;
+
+der Wasserkocher -
+электрический чайник;
+
+die Mikrowelle -n
+микроволновка;
+
+die Küchenmaschine -n
+кухонная машина; кухонный комбайн;
+
+das Geschirr (sg.)
+посуда;
+
+der Backofen "-
+духовка;
+
+der Gemüsekorb "-e
+корзина для овощей;
+
+der Gefrierschrank "-e
+морозильник;
+
+die Spülmaschine -n
+посудомоечная машина;
+
+die Spüle -n
+кухонная мойка;
+
+die Abzugshaube -n
+вытяжка;
+
+der Küchenschrank "-e
+кухонный шкаф;
+
+der Fleischwolf "-e
+мясорубка;
+
+der Entsafter -
+соковыжималка;
+
+der Mülleimer -
+мусорное ведро;
+
+die Arbeitsplatte -n
+столешница; рабочая поверхность;
+
+das Brett -er
+доска;
+
+das Küchenbrett -er
+кухонная доска; разделочная доска;
+
+der Kram (sg.)
+хлам; барахло;
+
+Wir haben eine Drei-Zimmer-Wohnung mit Bad, Küche, Keller und Balkon.
+У нас трехкомнатная квартира с ванной, кухней, подвалом и балконом.;
+
+In welcher Etage?
+На каком этаже?;
+
+Sie ist in der ersten Etage.
+Она на первом этаже.;
+
+Wir haben ein Haus mit Garten und Terrasse.
+У нас есть дом с садом и террасой.;
+
+Ich habe eine Küchenkombination.
+У меня есть встроенная кухня.; У меня есть кухонный гарнитур.;
+
+Wir haben einen privaten Stellplatz.
+У нас есть частное парковочное место.;
+
+Die Heizkörper sind warm.
+Радиаторы теплые.;
+
+Die Lampe steht auf dem Nachttisch.
+Лампа стоит на прикроватном столике.;
+
+Der Spiegel hängt an der Wand.
+Зеркало висит на стене.;
+
+Ich brauche neues Bettzeug.
+Мне нужны новые постельные принадлежности.;
+
+Die Zeit fliegt.
+Время летит.;
+
+es gibt
+есть; имеется;
+
+zum Essen
+для еды;
+
+aus Plastik
+из пластика;
+
+die Fensterbank "-e
+подоконник;
+
+v liegen-liegt / lag / hat gelegen
+лежать{prs=лежит, pst=лежал};
+
+v legen / legte / hat gelegt
+класть{prs=кладет, pst=клал}; положить{prs=положит, pst=положил};
+
+v sitzen-sitzt / saß / hat gesessen
+сидеть{prs=сидит, pst=сидел};
+
+im (in dem)
+в; в этом;
+
+ins (in das)
+в; внутрь;
+
+auf dem
+на;
+
+auf den
+на; на поверхность;
+
+Es gibt in der Küche einen Tisch und zwei Stühle.
+На кухне есть стол и два стула.;
+
+Auf dem Balkon gibt es zwei Stühle aus Plastik. Auf der Fensterbank liegt ein großes Brett. Wir benutzen es zum Essen. Auf dem Balkon gibt es auch Pflanzen meiner Frau.
+На балконе есть два пластиковых стула. На подоконнике лежит большая доска. Мы используем ее для еды. На балконе также есть растения моей жены.;
+
+Ich bin im Zimmer.
+Я в комнате.;
+
+Ich fahre in die Ukraine.
+Я еду в Украину.;
+
+Ich bin auf dem Balkon.
+Я на балконе.;
+
+Ich gehe auf den Balkon.
+Я выхожу на балкон.;
+
+Das Buch liegt auf dem Tisch.
+Книга лежит на столе.;
+
+Ich lege das Buch auf den Tisch.
+Я кладу книгу на стол.;
+
+Ich sitze auf dem Auto.
+Я сижу на машине.;
+
+Ich sitze im Auto.
+Я сижу в машине.;
+
+Ruhe!
+Тишина!;
+
+Sei still!
+Тихо!; Не шуми!;
+
+v wünschen / wünschte / hat gewünscht
+желать{prs=желает, pst=желал};
+
+sich etw. wünschen
+желать что-то себе; хотеть что-то для себя;
+
+auf dem Land
+в деревне; в сельской местности;
+
+in der Stadt
+в городе;
+
+auf jeden Fall
+в любом случае; обязательно;
+
+der Schmuck (sg.)
+украшения; ювелирные изделия;
+
+die Privatsphäre (sg.)
+личное пространство; приватность;
+
+die Hygiene (sg.)
+гигиена;
+
+das Steuer -
+руль; управление;
+
+der Bestatter -
+похоронный агент; сотрудник похоронного бюро;
+
+die Urne -n
+урна; погребальная урна;
+
+v sterben-stirbt / starb / ist gestorben
+умирать{prs=умирает, pst=умирал};
+
+v töten / tötete / hat getötet
+убивать{prs=убивает, pst=убивал};
+
+Ich will ein Auto.
+Я хочу машину.;
+
+Ich will schlafen.
+Я хочу спать.;
+
+Meine Frau will Schmuck, aber ich habe kein Geld.
+Моя жена хочет украшения, но у меня нет денег.;
+
+Wir wollen Deutsch lernen.
+Мы хотим учить немецкий.;
+
+Ich lebe auf dem Land.
+Я живу в сельской местности.;
+
+Auf jeden Fall komme ich morgen.
+Я обязательно приду завтра.;
+
+Ich mache Sandwiches.
+Я делаю бутерброды.;
 
 das Wasser (sg.)
 вода; воды; водоем;

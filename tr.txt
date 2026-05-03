@@ -1155,7 +1155,6 @@ fiş; makbuz;
 
 v decken
 örtmek;
-[etw.]
 
 den Tisch decken
 sofrayı kurmak;
@@ -1298,9 +1297,6 @@ garaj;
 der Garten "-
 bahçe;
 
-das Haus "-er
-ev; konut;
-
 die Heizung -en
 ısıtma; ısıtma sistemi;
 
@@ -1358,9 +1354,6 @@ ev sahibi; kiraya veren;
 die Vermieterin -nen
 ev sahibesi; kiraya veren kadın;
 
-die Wohnung -en
-daire; ev; konut;
-
 das Zentrum -en
 merkez; şehir merkezi;
 
@@ -1378,9 +1371,6 @@ v bezahlen / bezahlte / hat bezahlt
 
 v dürfen-darf / durfte / hat gedurft
 izinli olmak{prs=izinli olur, pst=izinli oldu}; izin verilmiş olmak;
-
-v grillen / grillte / hat gegrillt
-ızgara yapmak{prs=ızgara yapar, pst=ızgara yaptı}; mangalda pişirmek;
 
 v mieten / mietete / hat gemietet
 kiralamak{prs=kiralar, pst=kiraladı};
@@ -1402,12 +1392,6 @@ eski{cmp=daha eski, sup=en eski}; yaşlı{cmp=daha yaşlı, sup=en yaşlı};
 
 a neu
 yeni{cmp=daha yeni, sup=en yeni};
-
-a billig
-ucuz;
-
-a teuer
-pahalı;
 
 a dunkel
 karanlık{cmp=daha karanlık, sup=en karanlık}; koyu{cmp=daha koyu, sup=en koyu};
@@ -1465,6 +1449,670 @@ a sehr
 
 a wenig
 az; az miktarda;
+
+die Geldschuld -en
+maddi borç;
+
+die Schuld -en
+borç; suç; kabahat;
+
+die Schulden (pl.)
+borçlar; yükümlülükler;
+
+die Sache -n
+şey; mesele;
+
+die Sachen (pl.)
+eşyalar; şeyler;
+
+Wo sind deine Sachen?
+Eşyaların nerede?;
+
+a blau
+mavi{cmp=daha mavi, sup=en mavi};
+
+Blau wie das Meer und wie deine Augen.
+Deniz gibi ve gözlerin gibi mavi. ;
+
+Ich mag Blau, blau wie der Himmel.
+Maviyi seviyorum, gökyüzü gibi mavi. ;
+
+v lieben / liebte / hat geliebt
+sevmek{prs=sever, pst=sevdi};
+
+Ich mag dich.
+Senden hoşlanıyorum. ;
+
+Ich liebe dich.
+Seni seviyorum. ;
+
+so ... wie
+... kadar; ... gibi;
+
+Mein Auto ist schnell wie ein Ferrari.
+Arabam Ferrari kadar hızlı. ;
+
+Meine Wohnung ist klein wie ein Schuhkarton.
+Dairem bir ayakkabı kutusu kadar küçük. ;
+
+Mein Auto ist so schnell wie ein Ferrari.
+Arabam bir Ferrari kadar hızlı. ;
+
+Meine Wohnung ist so klein wie ein Schuhkarton.
+Dairem ayakkabı kutusu kadar küçük. ;
+
+v können-kann / konnte / hat gekonnt
+yapabilmek{prs=yapabilir, pst=yapabildi}; gücü yetmek{prs=gücü yeter, pst=gücü yetti};
+
+v müssen-muss / musste / hat gemusst
+zorunda olmak{prs=zorundadır, pst=zorundaydı}; mecbur olmak;
+
+das Modalverb -en
+kip fiili; modal fiil;
+
+das Vollverb -en
+esas fiil; ana fiil;
+
+der Infinitiv -e
+mastar; fiilin yalın hali;
+
+Ich kann heute zu dir kommen.
+Bugün sana gelebilirim. ;
+
+Das Modalverb steht an Position zwei, und das Vollverb steht im Infinitiv am Satzende.
+Modal fiil ikinci sırada durur ve ana fiil mastar halinde cümlenin sonunda bulunur. ;
+
+Jedes Modalverb hat eine eigene Bedeutung.
+Her modal fiilin kendine özgü bir anlamı vardır. ;
+
+Ich mag Schokolade.
+Çikolatayı seviyorum. ;
+
+Ich mag ihn.
+Ondan hoşlanıyorum.; Onu seviyorum. ;
+
+Ich möchte schlafen.
+Uyumak isterim. ;
+
+Ich möchte einen Kaffee.
+Bir kahve isterim. ;
+
+v besuchen / besuchte / hat besucht
+ziyaret etmek{prs=ziyaret eder, pst=ziyaret etti};
+
+v schwimmen-schwimmt / schwamm / ist geschwommen
+yüzmek{prs=yüzer, pst=yüzdü};
+
+Ich kann schwimmen.
+Yüzebilirim. ;
+
+Viele Kinder können nicht gut lesen.
+Birçok çocuk iyi okuyamaz. ;
+
+Ich kann dich heute besuchen. Ich habe Zeit.
+Bugün seni ziyaret edebilirim. Vaktim var. ;
+
+Er kann Brot vom Bäcker holen.
+Fırıncıdan ekmek alabilir. ;
+
+der Kosename -n
+sevgi adı; lakap;
+
+der Schatz "-e
+hazine; sevgilim; canım;
+
+Schatz!
+canım!; sevgilim!;
+
+Mein Schatz
+sevgilim; canım;
+
+a genug
+yeterli; kafi;
+
+Das ist genug.
+Bu yeterli. ;
+
+Ich habe genug Zeit.
+Yeterince vaktim var. ;
+
+Genug!
+Yeter!; Bu kadar!;
+
+gut genug
+yeterince iyi;
+
+schnell genug
+yeterince hızlı;
+
+ein Picknick machen
+piknik yapmak;
+
+v mitbringen-bringt mit / brachte mit / hat mitgebracht
+yanında getirmek{prs=yanında getirir, pst=yanında getirdi};
+
+v brauchen / brauchte / hat gebraucht
+ihtiyacı olmak{prs=ihtiyacı olur, pst=ihtiyacı oldu}; ihtiyaç duymak{prs=ihtiyaç duyar, pst=ihtiyaç duydu};
+
+die Getränke (pl.)
+içecekler;
+
+das Obst (sg.)
+meyve;
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+buluşmak{prs=buluşur, pst=buluştu};
+
+v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+hazırlamak{prs=hazırlar, pst=hazırladı};
+
+a trennbar
+ayrılabilen;
+
+das trennbare Verb -en
+ayrılabilen fiil;
+
+Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
+Parkta piknik yapıyoruz. Kim ne yapıyor? Neye ihtiyacımız var?;
+
+Ich bringe Brot, Käse und Tomaten mit.
+Yanımda ekmek, peynir ve domates getiriyorum. ;
+
+Wir brauchen eine Decke, Teller, Servietten und Obst.
+Bir battaniyeye, tabaklara, peçetelere ve meyveye ihtiyacımız var. ;
+
+Wann treffen wir uns?
+Ne zaman buluşuyoruz?;
+
+Ich bereite das Picknick vor.
+Pikniği hazırlıyorum. ;
+
+Wir bereiten alles für die Party vor.
+Parti için her şeyi hazırlıyoruz. ;
+
+Ich bereite das Essen vor.
+Yemeği hazırlıyorum. ;
+
+Ich möchte das Essen vorbereiten.
+Yemeği hazırlamak istiyorum. ;
+
+Ich muss mit dir reden.
+Seninle konuşmam gerekiyor. ;
+
+Ich muss morgen arbeiten.
+Yarın çalışmam gerekiyor. ;
+
+Musst du immer fernsehen?
+Her zaman televizyon izlemek zorunda mısın?;
+
+Wir können doch etwas spielen.
+Yine de bir şey oynayabiliriz. ;
+
+a müde
+yorgun{cmp=daha yorgun, sup=en yorgun}; uykulu;
+
+morgens
+sabahları; sabahleyin;
+
+im Meer
+denizde;
+
+Wann können Sie schwimmen?
+Ne zaman yüzebilirsiniz?;
+
+Ich kann morgens schwimmen. Ich habe Zeit.
+Sabahları yüzebilirim. Vaktim var. ;
+
+Wie können Sie schwimmen?
+Nasıl yüzebilirsiniz?;
+
+Ich kann schnell schwimmen.
+Hızlı yüzebilirim. ;
+
+Wo können Sie schwimmen?
+Nerede yüzebilirsiniz?;
+
+Ich kann im Meer schwimmen.
+Denizde yüzebilirim. ;
+
+Ich kann nicht mit diesen Schuhen im Park tanzen.
+Bu ayakkabılarla parkta dans edemem. ;
+
+Mein Kopf ist leer! Ich bin sehr müde.
+Kafam boş! Çok yorgunum.; Aklım durmuş gibi! Çok yorgunum. ;
+
+v schätzen / schätzte / hat geschätzt
+tahmin etmek{prs=tahmin eder, pst=tahmin etti}; değer vermek{prs=değer verir, pst=değer verdi}; takdir etmek{prs=takdir eder, pst=takdir etti};
+
+Ich schätze Ihre Hilfe sehr.
+Yardımınızı çok takdir ediyorum. ;
+
+Er schätzt das Alter auf 40.
+Yaşı kırk olarak tahmin ediyor. ;
+
+Ich schätze, er kommt später.
+Sanırım daha sonra gelecek. ;
+
+Wo warst du gestern?
+Dün neredeydin?;
+
+Ich war in der Schule.
+Okuldaydım. ;
+
+Ich war müde.
+Yorgundum. ;
+
+Wir waren zu Hause.
+Evdeydik. ;
+
+Ich hatte Zeit.
+Vaktim vardı. ;
+
+Sie hatten Glück.
+Şansları vardı.; Şanslıydılar. ;
+
+a langweilig
+sıkıcı{cmp=daha sıkıcı, sup=en sıkıcı};
+
+Der Film ist langweilig.
+Film sıkıcı. ;
+
+Mir ist langweilig.
+Canım sıkılıyor. ;
+
+a endlich
+nihayet; sonlu;
+
+Endlich bist du da!
+Nihayet buradasın!; Sonunda geldin!;
+
+Es ist endlich vorbei.
+Nihayet bitti. ;
+
+das Zuhause -
+yuva; ev;
+
+Ich bin zu Hause.
+Evdeyim. ;
+
+Ich bin zuhause.
+Evdeyim. ;
+
+Ein schönes Zuhause ist wichtig.
+Güzel bir yuva önemlidir. ;
+
+Ich bevorzuge ...
+Ben ... tercih ediyorum;
+
+die Kleidung (sg.)
+giyim; kıyafet;
+
+v probieren / probierte / hat probiert
+denemek{prs=dener, pst=denedi}; üstünde denemek{prs=üstünde dener, pst=üstünde denedi};
+
+v reparieren / reparierte / hat repariert
+tamir etmek{prs=tamir eder, pst=tamir etti}; onarmak{prs=onarır, pst=onardı};
+
+a geschieden
+boşanmış;
+
+der Stress (sg.)
+stres;
+
+a stressig
+stresli{cmp=daha stresli, sup=en stresli}; yorucu;
+
+v mitmachen-macht mit / machte mit / hat mitgemacht
+katılmak{prs=katılır, pst=katıldı}; dahil olmak{prs=dahil olur, pst=dahil oldu};
+
+a süchtig
+bağımlı;
+[nach+Dat]
+
+der Duft "-e
+hoş koku; güzel koku;
+
+Ich kaufe Kleidung nicht online. Ich kann im Internet nicht probieren.
+İnternetten kıyafet almıyorum. İnternette deneyemem. ;
+
+Ich muss alles probieren.
+Her şeyi denemem gerekiyor. ;
+
+große Auswahl
+geniş seçim; büyük çeşit;
+
+Die Größe passt nicht. Die Schuhe sind zu klein.
+Beden uymuyor. Ayakkabılar çok küçük. ;
+
+Ich repariere den Fernseher.
+Televizyonu tamir ediyorum. ;
+
+Sie sind geschieden.
+Onlar boşanmış. ;
+
+Ich reise nach Kasachstan / in die Ukraine / auf die Philippinen.
+Kazakistan'a / Ukrayna'ya / Filipinler'e gidiyorum. ;
+
+Ich habe Stress. Meine Arbeit ist stressig.
+Stresim var. İşim stresli. ;
+
+Ich mache beim Sport mit.
+Spora katılıyorum. ;
+
+Wir machen bei der Demonstration mit.
+Gösteriye katılıyoruz. ;
+
+Ich bin süchtig nach diesem Duft.
+Bu kokuya bağımlıyım. ;
+
+Ich bin drogensüchtig.
+Uyuşturucu bağımlısıyım. ;
+
+die Anrede -n
+hitap; açılış selamı;
+
+der Gruß "-e
+selam; kapanış selamı;
+
+Liebe ...
+sevgili ...;
+
+Lieber ...
+sevgili ...;
+
+Sehr geehrte ...
+sayın ...;
+
+Sehr geehrter ...
+sayın ...;
+
+Mit freundlichen Grüßen
+saygılarımla;
+
+Viele Grüße
+çok selamlar;
+
+Liebe Grüße
+sevgiyle; sevgiler;
+
+Bis bald
+yakında görüşürüz.;
+
+der Boden "-
+zemin; taban;
+
+der Dachboden "-
+tavan arası;
+
+der Stellplatz "-e
+park yeri;
+
+die Heizkörper (pl.)
+radyatörler;
+
+der Nachttisch -e
+komodin;
+
+das Bücherregal -e
+kitap rafı; kitaplık;
+
+die Jalousie -n
+jaluzi;
+
+die Gardine -n
+ince perde; tül perde;
+
+der Spiegel -
+ayna;
+
+das Bettzeug (sg.)
+yatak takımı; nevresim;
+
+der Wäschekorb "-e
+çamaşır sepeti;
+
+die Kommode -n
+şifonyer;
+
+das Waschbecken -
+lavabo;
+
+das Toilettenpapier (sg.)
+tuvalet kağıdı;
+
+die Toilettenbürste -n
+tuvalet fırçası;
+
+der Duschvorhang "-e
+duş perdesi;
+
+der Wasserhahn "-e
+musluk;
+
+der Toilettenpapierhalter -
+tuvalet kağıdı tutacağı;
+
+die Wasseruhr -en
+su sayacı;
+
+die Toilettenspülung -en
+sifon; tuvalet sifonu;
+
+der Wasserkocher -
+su ısıtıcısı; elektrikli kettle;
+
+die Mikrowelle -n
+mikrodalga;
+
+die Küchenmaschine -n
+mutfak makinesi; mutfak robotu;
+
+das Geschirr (sg.)
+bulaşıklar; sofra takımı;
+
+der Backofen "-
+fırın;
+
+der Gemüsekorb "-e
+sebze sepeti;
+
+der Gefrierschrank "-e
+derin dondurucu;
+
+die Spülmaschine -n
+bulaşık makinesi;
+
+die Spüle -n
+mutfak lavabosu;
+
+die Abzugshaube -n
+aspiratör; davlumbaz;
+
+der Küchenschrank "-e
+mutfak dolabı;
+
+der Fleischwolf "-e
+et kıyma makinesi;
+
+der Entsafter -
+meyve sıkacağı;
+
+der Mülleimer -
+çöp kutusu;
+
+die Arbeitsplatte -n
+tezgah; çalışma yüzeyi;
+
+das Brett -er
+tahta; pano;
+
+das Küchenbrett -er
+mutfak tahtası; kesme tahtası;
+
+der Kram (sg.)
+ıvır zıvır; dağınık eşyalar;
+
+Wir haben eine Drei-Zimmer-Wohnung mit Bad, Küche, Keller und Balkon.
+Banyolu, mutfaklı, bodrumlu ve balkonlu üç odalı bir dairemiz var. ;
+
+In welcher Etage?
+Hangi katta?;
+
+Sie ist in der ersten Etage.
+Birinci katta. ;
+
+Wir haben ein Haus mit Garten und Terrasse.
+Bahçeli ve teraslı bir evimiz var. ;
+
+Ich habe eine Küchenkombination.
+Hazır mutfağım var.; Mutfak ünitem var. ;
+
+Wir haben einen privaten Stellplatz.
+Özel bir park yerimiz var. ;
+
+Die Heizkörper sind warm.
+Radyatörler sıcak. ;
+
+Die Lampe steht auf dem Nachttisch.
+Lamba komodinin üstünde duruyor. ;
+
+Der Spiegel hängt an der Wand.
+Ayna duvarda asılı. ;
+
+Ich brauche neues Bettzeug.
+Yeni yatak takımına ihtiyacım var. ;
+
+Die Zeit fliegt.
+Zaman uçuyor.; Zaman hızla geçiyor. ;
+
+es gibt
+var; bulunuyor;
+
+zum Essen
+yemek için;
+
+aus Plastik
+plastikten yapılmış;
+
+die Fensterbank "-e
+pencere pervazı;
+
+v liegen-liegt / lag / hat gelegen
+durmak{prs=durur, pst=durdu}; yatmak{prs=yatar, pst=yattı};
+
+v legen / legte / hat gelegt
+koymak{prs=koyar, pst=koydu}; yerleştirmek{prs=yerleştirir, pst=yerleştirdi};
+
+v sitzen-sitzt / saß / hat gesessen
+oturmak{prs=oturur, pst=oturdu};
+
+im (in dem)
+... içinde; ...de;
+
+ins (in das)
+... içine; ...e;
+
+auf dem
+... üzerinde; ...de;
+
+auf den
+... üzerine; ...e;
+
+Es gibt in der Küche einen Tisch und zwei Stühle.
+Mutfakta bir masa ve iki sandalye var. ;
+
+Auf dem Balkon gibt es zwei Stühle aus Plastik. Auf der Fensterbank liegt ein großes Brett. Wir benutzen es zum Essen. Auf dem Balkon gibt es auch Pflanzen meiner Frau.
+Balkonda plastikten iki sandalye var. Pencere pervazında büyük bir tahta duruyor. Onu yemek yemek için kullanıyoruz. Balkonda ayrıca eşimin bitkileri de var. ;
+
+Ich bin im Zimmer.
+Odadayım. ;
+
+Ich fahre in die Ukraine.
+Ukrayna'ya gidiyorum. ;
+
+Ich bin auf dem Balkon.
+Balkondayım. ;
+
+Ich gehe auf den Balkon.
+Balkona gidiyorum. ;
+
+Das Buch liegt auf dem Tisch.
+Kitap masanın üstünde duruyor. ;
+
+Ich lege das Buch auf den Tisch.
+Kitabı masanın üstüne koyuyorum. ;
+
+Ich sitze auf dem Auto.
+Arabanın üstünde oturuyorum. ;
+
+Ich sitze im Auto.
+Arabanın içinde oturuyorum. ;
+
+Ruhe!
+Sessizlik!; Susun!;
+
+Sei still!
+Sessiz ol!; Kıpırdama!;
+
+v wünschen / wünschte / hat gewünscht
+dilemek{prs=diler, pst=diledi}; istemek{prs=ister, pst=istedi};
+
+sich etw. wünschen
+kendisi için bir şey dilemek; bir şey istemek;
+
+auf dem Land
+kırsalda; köyde;
+
+in der Stadt
+şehirde;
+
+auf jeden Fall
+her durumda; kesinlikle;
+
+der Schmuck (sg.)
+takı; mücevher;
+
+die Privatsphäre (sg.)
+özel hayat; mahremiyet;
+
+die Hygiene (sg.)
+hijyen;
+
+das Steuer -
+direksiyon; kontrol;
+
+der Bestatter -
+cenaze görevlisi; defin görevlisi;
+
+die Urne -n
+urna; kül kabı;
+
+v sterben-stirbt / starb / ist gestorben
+ölmek{prs=ölür, pst=öldü};
+
+v töten / tötete / hat getötet
+öldürmek{prs=öldürür, pst=öldürdü};
+
+Ich will ein Auto.
+Bir araba istiyorum. ;
+
+Ich will schlafen.
+Uyumak istiyorum. ;
+
+Meine Frau will Schmuck, aber ich habe kein Geld.
+Karım takı istiyor ama benim param yok. ;
+
+Wir wollen Deutsch lernen.
+Almanca öğrenmek istiyoruz. ;
+
+Ich lebe auf dem Land.
+Kırsalda yaşıyorum. ;
+
+Auf jeden Fall komme ich morgen.
+Yarın kesinlikle geleceğim. ;
+
+Ich mache Sandwiches.
+Sandviç yapıyorum. ;
 
 das Wasser (sg.)
 su; sular; su kütlesi;
