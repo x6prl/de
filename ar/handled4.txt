@@ -1,0 +1,663 @@
+die Geldschuld -en
+دين مالي;
+
+die Schuld -en
+دين; ذنب; خطأ;
+
+die Schulden (pl.)
+ديون; التزامات مالية;
+
+die Sache -n
+شيء; أمر;
+
+die Sachen (pl.)
+أشياء; أغراض;
+
+Wo sind deine Sachen?
+أين أغراضك؟;
+
+a blau
+أزرق;
+
+Blau wie das Meer und wie deine Augen.
+أزرق مثل البحر ومثل عينيك.;
+
+Ich mag Blau, blau wie der Himmel.
+أحب الأزرق، أزرق مثل السماء.;
+
+v lieben / liebte / hat geliebt
+يحب{prs=يحب, pst=أحب};
+
+Ich mag dich.
+أنت تعجبني.;
+
+Ich liebe dich.
+أنا أحبك. ;
+
+so ... wie
+بنفس القدر مثل ...; على قدر ... مثل;
+
+Mein Auto ist schnell wie ein Ferrari.
+سيارتي سريعة مثل فيراري. ;
+
+Meine Wohnung ist klein wie ein Schuhkarton.
+شقتي صغيرة مثل علبة أحذية. ;
+
+Mein Auto ist so schnell wie ein Ferrari.
+سيارتي سريعة مثل سيارة فيراري. ;
+
+Meine Wohnung ist so klein wie ein Schuhkarton.
+شقتي صغيرة مثل علبة الأحذية. ;
+
+v können-kann / konnte / hat gekonnt
+يستطيع{prs=يستطيع, pst=استطاع}; يقدر على{prs=يقدر على, pst=قدر على};
+
+v müssen-muss / musste / hat gemusst
+يجب أن{prs=يجب أن, pst=كان يجب أن}; يضطر إلى{prs=يضطر إلى, pst=اضطر إلى};
+
+das Modalverb -en
+فعل ناقص; فعل مساعد;
+
+das Vollverb -en
+فعل رئيسي; فعل أساسي;
+
+der Infinitiv -e
+مصدر; صيغة المصدر;
+
+Ich kann heute zu dir kommen.
+أستطيع أن آتي إليك اليوم. ;
+
+Das Modalverb steht an Position zwei, und das Vollverb steht im Infinitiv am Satzende.
+الفعل الناقص يأتي في المرتبة الثانية، والفعل الرئيسي يأتي في صيغة المصدر في نهاية الجملة. ;
+
+Jedes Modalverb hat eine eigene Bedeutung.
+لكل فعل ناقص معنى خاص به. ;
+
+Ich mag Schokolade.
+أحب الشوكولاتة. ;
+
+Ich mag ihn.
+هو يعجبني.;
+
+Ich möchte schlafen.
+أود أن أنام. ;
+
+Ich möchte einen Kaffee.
+أود فنجان قهوة. ;
+
+v besuchen / besuchte / hat besucht
+يزور{prs=يزور, pst=زار};
+
+v schwimmen-schwimmt / schwamm / ist geschwommen
+يسبح{prs=يسبح, pst=سبح};
+
+Ich kann schwimmen.
+أستطيع السباحة. ;
+
+Viele Kinder können nicht gut lesen.
+كثير من الأطفال لا يستطيعون القراءة جيدًا. ;
+
+Ich kann dich heute besuchen. Ich habe Zeit.
+أستطيع زيارتك اليوم. لدي وقت. ;
+
+Er kann Brot vom Bäcker holen.
+يستطيع أن يجلب خبزًا من الخباز. ;
+
+der Kosename -n
+اسم دلع; اسم تحبب;
+
+der Schatz "-e
+كنز; حبيبي; حبيبتي;
+
+Schatz!
+يا حبيبي!; يا حبيبتي!;
+
+Mein Schatz
+حبيبي; حبيبتي;
+
+a genug
+كافٍ; بما فيه الكفاية;
+
+Das ist genug.
+هذا يكفي. ;
+
+Ich habe genug Zeit.
+لدي وقت كافٍ. ;
+
+Genug!
+كفى!; هذا يكفي!;
+
+gut genug
+جيد بما فيه الكفاية;
+
+schnell genug
+سريع بما فيه الكفاية;
+
+ein Picknick machen
+يقيم نزهة; يقوم بنزهة;
+
+v mitbringen-bringt mit / brachte mit / hat mitgebracht
+يحضر معه{prs=يحضر معه, pst=أحضر معه}; يجلب معه;
+
+v brauchen / brauchte / hat gebraucht
+يحتاج{prs=يحتاج, pst=احتاج};
+
+die Getränke (pl.)
+مشروبات;
+
+das Obst (sg.)
+فاكهة;
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+يلتقي{prs=يلتقي, pst=التقى};
+
+v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+يحضّر{prs=يحضّر, pst=حضّر}; يعدّ{prs=يعدّ, pst=أعدّ};
+
+a trennbar
+قابل للفصل;
+
+das trennbare Verb -en
+فعل قابل للفصل;
+
+Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
+نحن نقيم نزهة في الحديقة. من يفعل ماذا؟ ماذا نحتاج؟;
+
+Ich bringe Brot, Käse und Tomaten mit.
+سأحضر معي خبزًا وجبنًا وطماطم. ;
+
+Wir brauchen eine Decke, Teller, Servietten und Obst.
+نحتاج إلى بطانية وصحون ومناديل وفاكهة. ;
+
+Wann treffen wir uns?
+متى نلتقي؟;
+
+Ich bereite das Picknick vor.
+أنا أحضّر النزهة. ;
+
+Wir bereiten alles für die Party vor.
+نحن نحضّر كل شيء للحفلة. ;
+
+Ich bereite das Essen vor.
+أنا أحضّر الطعام. ;
+
+Ich möchte das Essen vorbereiten.
+أود أن أحضّر الطعام. ;
+
+Ich muss mit dir reden.
+يجب أن أتحدث معك. ;
+
+Ich muss morgen arbeiten.
+يجب أن أعمل غدًا. ;
+
+Musst du immer fernsehen?
+هل يجب عليك دائمًا أن تشاهد التلفاز؟;
+
+Wir können doch etwas spielen.
+لكن يمكننا أن نلعب شيئًا ما.; يمكننا على الأقل أن نلعب شيئًا ما.;
+
+a müde
+متعب{cmp=أكثر تعبًا, sup=الأكثر تعبًا}; نعسان;
+
+morgens
+في الصباح; صباحًا;
+
+im Meer
+في البحر;
+
+Wann können Sie schwimmen?
+متى تستطيع السباحة؟;
+
+Ich kann morgens schwimmen. Ich habe Zeit.
+أستطيع السباحة صباحًا. لدي وقت. ;
+
+Wie können Sie schwimmen?
+كيف تستطيع السباحة؟;
+
+Ich kann schnell schwimmen.
+أستطيع السباحة بسرعة. ;
+
+Wo können Sie schwimmen?
+أين تستطيع السباحة؟;
+
+Ich kann im Meer schwimmen.
+أستطيع السباحة في البحر. ;
+
+Ich kann nicht mit diesen Schuhen im Park tanzen.
+لا أستطيع الرقص في الحديقة بهذا الحذاء. ;
+
+Mein Kopf ist leer! Ich bin sehr müde.
+رأسي فارغ! أنا متعب جدًا.; ذهني فارغ! أنا متعب جدًا. ;
+
+v schätzen / schätzte / hat geschätzt
+يقدّر{prs=يقدّر, pst=قدّر}; يثمّن{prs=يثمّن, pst=ثمّن}; يفترض{prs=يفترض, pst=افترض};
+
+Ich schätze Ihre Hilfe sehr.
+أقدّر مساعدتك كثيرًا. ;
+
+Er schätzt das Alter auf 40.
+يقدّر العمر بأربعين سنة. ;
+
+Ich schätze, er kommt später.
+أظن أنه سيأتي لاحقًا. ;
+
+Wo warst du gestern?
+أين كنت أمس؟;
+
+Ich war in der Schule.
+كنت في المدرسة. ;
+
+Ich war müde.
+كنت متعبًا. ;
+
+Wir waren zu Hause.
+كنا في البيت. ;
+
+Ich hatte Zeit.
+كان لدي وقت. ;
+
+Sie hatten Glück.
+كان لديهم حظ.; كانوا محظوظين. ;
+
+a langweilig
+ممل{cmp=أكثر مللًا, sup=الأكثر مللًا};
+
+Der Film ist langweilig.
+الفيلم ممل. ;
+
+Mir ist langweilig.
+أنا أشعر بالملل. ;
+
+a endlich
+أخيرًا; نهائي;
+
+Endlich bist du da!
+أخيرًا أنت هنا!; أخيرًا وصلت!;
+
+Es ist endlich vorbei.
+لقد انتهى أخيرًا. ;
+
+das Zuhause -
+البيت; المنزل;
+
+Ich bin zu Hause.
+أنا في البيت. ;
+
+Ich bin zuhause.
+أنا في المنزل. ;
+
+Ein schönes Zuhause ist wichtig.
+المنزل الجميل مهم. ;
+
+Ich bevorzuge ...
+أنا أفضّل ...;
+
+die Kleidung (sg.)
+ملابس; لباس;
+
+v probieren / probierte / hat probiert
+يجرّب{prs=يجرّب, pst=جرّب}; يقيس الملابس{prs=يقيس الملابس, pst=قاس الملابس};
+
+v reparieren / reparierte / hat repariert
+يصلح{prs=يصلح, pst=أصلح}; يرمم;
+
+a geschieden
+مطلّق; منفصل رسميًا;
+
+der Stress (sg.)
+توتر; ضغط;
+
+a stressig
+مجهد{cmp=أكثر إجهادًا, sup=الأكثر إجهادًا}; مرهق;
+
+v mitmachen-macht mit / machte mit / hat mitgemacht
+يشارك{prs=يشارك, pst=شارك}; ينضم{prs=ينضم, pst=انضم};
+
+a süchtig
+مدمن;
+[nach+Dat]
+
+der Duft "-e
+رائحة; عطر;
+
+Ich kaufe Kleidung nicht online. Ich kann im Internet nicht probieren.
+أنا لا أشتري الملابس عبر الإنترنت. لا أستطيع قياسها على الإنترنت. ;
+
+Ich muss alles probieren.
+يجب أن أجرّب كل شيء. ;
+
+große Auswahl
+اختيار واسع; تشكيلة كبيرة;
+
+Die Größe passt nicht. Die Schuhe sind zu klein.
+المقاس لا يناسب. الحذاء صغير جدًا. ;
+
+Ich repariere den Fernseher.
+أنا أصلح التلفاز. ;
+
+Sie sind geschieden.
+هما مطلقان.; إنهم مطلقون. ;
+
+Ich reise nach Kasachstan / in die Ukraine / auf die Philippinen.
+أسافر إلى كازاخستان / إلى أوكرانيا / إلى الفلبين. ;
+
+Ich habe Stress. Meine Arbeit ist stressig.
+أنا تحت ضغط. عملي مرهق. ;
+
+Ich mache beim Sport mit.
+أنا أشارك في الرياضة. ;
+
+Wir machen bei der Demonstration mit.
+نحن نشارك في المظاهرة. ;
+
+Ich bin süchtig nach diesem Duft.
+أنا مدمن على هذه الرائحة. ;
+
+Ich bin drogensüchtig.
+أنا مدمن مخدرات. ;
+
+die Anrede -n
+صيغة مخاطبة; تحية افتتاحية;
+
+der Gruß "-e
+تحية; عبارة ختامية;
+
+Liebe ...
+عزيزتي ...;
+
+Lieber ...
+عزيزي ...;
+
+Sehr geehrte ...
+السيدة المحترمة ...;
+
+Sehr geehrter ...
+السيد المحترم ...;
+
+Mit freundlichen Grüßen
+مع أطيب التحيات; مع خالص التحية;
+
+Viele Grüße
+تحيات كثيرة; أطيب التحيات;
+
+Liebe Grüße
+تحياتي الحارة; مع المحبة;
+
+Bis bald
+إلى اللقاء قريبًا.;
+
+der Boden "-
+أرضية; أرض;
+
+der Dachboden "-
+علية; سطح داخلي;
+
+der Stellplatz "-e
+مكان لركن السيارة; موقف;
+
+die Heizkörper (pl.)
+مشعات; أجهزة تدفئة;
+
+der Nachttisch -e
+طاولة جانبية; منضدة بجانب السرير;
+
+das Bücherregal -e
+رف كتب; مكتبة;
+
+die Jalousie -n
+ستارة معدنية; ستارة شرائح;
+
+die Gardine -n
+ستارة; ستارة خفيفة;
+
+der Spiegel -
+مرآة;
+
+das Bettzeug (sg.)
+أغطية السرير; فراش;
+
+der Wäschekorb "-e
+سلة غسيل;
+
+die Kommode -n
+خزانة أدراج; كومود;
+
+das Waschbecken -
+مغسلة; حوض;
+
+das Toilettenpapier (sg.)
+ورق تواليت;
+
+die Toilettenbürste -n
+فرشاة المرحاض;
+
+der Duschvorhang "-e
+ستارة الدش;
+
+der Wasserhahn "-e
+صنبور; حنفية;
+
+der Toilettenpapierhalter -
+حامل ورق التواليت;
+
+die Wasseruhr -en
+عداد الماء;
+
+die Toilettenspülung -en
+سيفون المرحاض; نظام الشطف;
+
+der Wasserkocher -
+غلاية كهربائية;
+
+die Mikrowelle -n
+ميكروويف; فرن ميكروويف;
+
+die Küchenmaschine -n
+آلة مطبخ; محضرة طعام;
+
+das Geschirr (sg.)
+أوانٍ; أدوات المائدة;
+
+der Backofen "-
+فرن;
+
+der Gemüsekorb "-e
+سلة خضار;
+
+der Gefrierschrank "-e
+مجمّد; فريزر;
+
+die Spülmaschine -n
+غسالة صحون;
+
+die Spüle -n
+حوض المطبخ;
+
+die Abzugshaube -n
+شفاط; غطاء الشفط;
+
+der Küchenschrank "-e
+خزانة مطبخ;
+
+der Fleischwolf "-e
+مفرمة لحم;
+
+der Entsafter -
+عصّارة;
+
+der Mülleimer -
+سلة قمامة;
+
+die Arbeitsplatte -n
+سطح عمل; طاولة مطبخ;
+
+das Brett -er
+لوح; قطعة خشب;
+
+das Küchenbrett -er
+لوح مطبخ; لوح تقطيع;
+
+der Kram (sg.)
+أغراض; كراكيب;
+
+Wir haben eine Drei-Zimmer-Wohnung mit Bad, Küche, Keller und Balkon.
+لدينا شقة من ثلاث غرف مع حمام ومطبخ وقبو وشرفة. ;
+
+In welcher Etage?
+في أي طابق؟;
+
+Sie ist in der ersten Etage.
+هي في الطابق الأول. ;
+
+Wir haben ein Haus mit Garten und Terrasse.
+لدينا بيت مع حديقة وتراس.;
+
+Ich habe eine Küchenkombination.
+لدي مطبخ مجهز.; لدي وحدة مطبخ. ;
+
+Wir haben einen privaten Stellplatz.
+لدينا موقف سيارات خاص. ;
+
+Die Heizkörper sind warm.
+أجهزة التدفئة دافئة. ;
+
+Die Lampe steht auf dem Nachttisch.
+المصباح موضوع على الطاولة الجانبية. ;
+
+Der Spiegel hängt an der Wand.
+المرآة معلقة على الحائط. ;
+
+Ich brauche neues Bettzeug.
+أحتاج إلى أغطية سرير جديدة. ;
+
+Die Zeit fliegt.
+الوقت يطير.; الوقت يمر بسرعة. ;
+
+es gibt
+يوجد; هناك;
+
+zum Essen
+للأكل;
+
+aus Plastik
+من البلاستيك;
+
+die Fensterbank "-e
+حافة النافذة; عتبة النافذة;
+
+v liegen-liegt / lag / hat gelegen
+يقع{prs=يقع, pst=وقع}; يكون موضوعًا{prs=يكون موضوعًا, pst=كان موضوعًا};
+
+v legen / legte / hat gelegt
+يضع{prs=يضع, pst=وضع}; يضع شيئًا;
+
+v sitzen-sitzt / saß / hat gesessen
+يجلس{prs=يجلس, pst=جلس};
+
+im (in dem)
+في الـ;
+
+ins (in das)
+إلى داخل الـ; إلى الـ;
+
+auf dem
+على الـ;
+
+auf den
+إلى على الـ;
+
+Es gibt in der Küche einen Tisch und zwei Stühle.
+يوجد في المطبخ طاولة وكرسيان. ;
+
+Auf dem Balkon gibt es zwei Stühle aus Plastik. Auf der Fensterbank liegt ein großes Brett. Wir benutzen es zum Essen. Auf dem Balkon gibt es auch Pflanzen meiner Frau.
+يوجد على الشرفة كرسيان من البلاستيك. وعلى حافة النافذة لوح كبير. نحن نستخدمه للأكل. وعلى الشرفة أيضًا نباتات زوجتي. ;
+
+Ich bin im Zimmer.
+أنا في الغرفة. ;
+
+Ich fahre in die Ukraine.
+أنا ذاهب إلى أوكرانيا. ;
+
+Ich bin auf dem Balkon.
+أنا على الشرفة. ;
+
+Ich gehe auf den Balkon.
+أنا أذهب إلى الشرفة. ;
+
+Das Buch liegt auf dem Tisch.
+الكتاب موضوع على الطاولة. ;
+
+Ich lege das Buch auf den Tisch.
+أنا أضع الكتاب على الطاولة. ;
+
+Ich sitze auf dem Auto.
+أنا أجلس على السيارة. ;
+
+Ich sitze im Auto.
+أنا أجلس في السيارة. ;
+
+Ruhe!
+هدوء!; اصمتوا!;
+
+Sei still!
+كن هادئًا!; اصمت!;
+
+v wünschen / wünschte / hat gewünscht
+يتمنى{prs=يتمنى, pst=تمنى}; يرغب{prs=يرغب, pst=رغب};
+
+sich etw. wünschen
+يتمنى شيئًا لنفسه; يرغب في شيء;
+
+auf dem Land
+في الريف; في منطقة ريفية;
+
+in der Stadt
+في المدينة;
+
+auf jeden Fall
+على أي حال; بالتأكيد;
+
+der Schmuck (sg.)
+مجوهرات; حلي;
+
+die Privatsphäre (sg.)
+خصوصية;
+
+die Hygiene (sg.)
+نظافة; صحة;
+
+das Steuer -
+مقود; تحكم;
+
+der Bestatter -
+متعهد دفن; مدير جنازات;
+
+die Urne -n
+جرة; جرة رماد;
+
+v sterben-stirbt / starb / ist gestorben
+يموت{prs=يموت, pst=مات};
+
+v töten / tötete / hat getötet
+يقتل{prs=يقتل, pst=قتل};
+
+Ich will ein Auto.
+أريد سيارة. ;
+
+Ich will schlafen.
+أريد أن أنام. ;
+
+Meine Frau will Schmuck, aber ich habe kein Geld.
+زوجتي تريد مجوهرات، لكن ليس لدي مال. ;
+
+Wir wollen Deutsch lernen.
+نحن نريد أن نتعلم الألمانية. ;
+
+Ich lebe auf dem Land.
+أنا أعيش في الريف. ;
+
+Auf jeden Fall komme ich morgen.
+سآتي غدًا بالتأكيد. ;
+
+Ich mache Sandwiches.
+أنا أعدّ شطائر. ;

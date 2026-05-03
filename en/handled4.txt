@@ -1,0 +1,663 @@
+die Geldschuld -en
+monetary debt; money debt;
+
+die Schuld -en
+debt; guilt; fault;
+
+die Schulden (pl.)
+debts; liabilities;
+
+die Sache -n
+thing; matter;
+
+die Sachen (pl.)
+things; belongings;
+
+Wo sind deine Sachen?
+Where are your things?;
+
+a blau
+blue;
+
+Blau wie das Meer und wie deine Augen.
+Blue like the sea and like your eyes.;
+
+Ich mag Blau, blau wie der Himmel.
+I like blue, blue like the sky.;
+
+v lieben / liebte / hat geliebt
+love{prs=loves, pst=loved};
+
+Ich mag dich.
+I like you.;
+
+Ich liebe dich.
+I love you.;
+
+so ... wie
+as ... as;
+
+Mein Auto ist schnell wie ein Ferrari.
+My car is as fast as a Ferrari.;
+
+Meine Wohnung ist klein wie ein Schuhkarton.
+My apartment is as small as a shoebox.;
+
+Mein Auto ist so schnell wie ein Ferrari.
+My car is as fast as a Ferrari.;
+
+Meine Wohnung ist so klein wie ein Schuhkarton.
+My apartment is as small as a shoebox.;
+
+v können-kann / konnte / hat gekonnt
+can; be able to{prs=is able to, pst=was able to, par=been able to};
+
+v müssen-muss / musste / hat gemusst
+must; have to{prs=has to, pst=had to, par=had to}; need to{prs=needs to, pst=needed to, par=needed to};
+
+das Modalverb -en
+modal verb;
+
+das Vollverb -en
+main verb; full verb;
+
+der Infinitiv -e
+infinitive;
+
+Ich kann heute zu dir kommen.
+I can come to your place today.;
+
+Das Modalverb steht an Position zwei, und das Vollverb steht im Infinitiv am Satzende.
+The modal verb is in second position, and the main verb is at the end of the sentence in the infinitive.;
+
+Jedes Modalverb hat eine eigene Bedeutung.
+Each modal verb has its own meaning.;
+
+Ich mag Schokolade.
+I like chocolate.;
+
+Ich mag ihn.
+I like him.;
+
+Ich möchte schlafen.
+I would like to sleep.;
+
+Ich möchte einen Kaffee.
+I would like a coffee.;
+
+v besuchen / besuchte / hat besucht
+visit{prs=visits, pst=visited};
+
+v schwimmen-schwimmt / schwamm / ist geschwommen
+swim{prs=swims, pst=swam, par=swum};
+
+Ich kann schwimmen.
+I can swim.;
+
+Viele Kinder können nicht gut lesen.
+Many children cannot read well.;
+
+Ich kann dich heute besuchen. Ich habe Zeit.
+I can visit you today. I have time.;
+
+Er kann Brot vom Bäcker holen.
+He can get bread from the baker.;
+
+der Kosename -n
+pet name; term of endearment;
+
+der Schatz "-e
+treasure; darling; sweetheart;
+
+Schatz!
+darling!; sweetheart!;
+
+Mein Schatz
+my darling; my sweetheart;
+
+a genug
+enough;
+
+Das ist genug.
+That is enough.;
+
+Ich habe genug Zeit.
+I have enough time.;
+
+Genug!
+Enough!; Stop!;
+
+gut genug
+good enough;
+
+schnell genug
+fast enough;
+
+ein Picknick machen
+have a picnic;
+
+v mitbringen-bringt mit / brachte mit / hat mitgebracht
+bring along{prs=brings along, pst=brought along};
+
+v brauchen / brauchte / hat gebraucht
+need{prs=needs, pst=needed};
+
+die Getränke (pl.)
+drinks; beverages;
+
+das Obst (sg.)
+fruit;
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+meet{prs=meets, pst=met, par=met};
+
+v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+prepare{prs=prepares, pst=prepared};
+
+a trennbar
+separable;
+
+das trennbare Verb -en
+separable verb;
+
+Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
+We are having a picnic in the park. Who does what? What do we need?;
+
+Ich bringe Brot, Käse und Tomaten mit.
+I am bringing bread, cheese, and tomatoes.;
+
+Wir brauchen eine Decke, Teller, Servietten und Obst.
+We need a blanket, plates, napkins, and fruit.;
+
+Wann treffen wir uns?
+When shall we meet?;
+
+Ich bereite das Picknick vor.
+I am preparing the picnic.;
+
+Wir bereiten alles für die Party vor.
+We are preparing everything for the party.;
+
+Ich bereite das Essen vor.
+I am preparing the food.;
+
+Ich möchte das Essen vorbereiten.
+I would like to prepare the food.;
+
+Ich muss mit dir reden.
+I need to talk to you.;
+
+Ich muss morgen arbeiten.
+I have to work tomorrow.;
+
+Musst du immer fernsehen?
+Do you always have to watch TV?;
+
+Wir können doch etwas spielen.
+We can play something, after all.; We could play something instead.;
+
+a müde
+tired; sleepy;
+
+morgens
+in the morning;
+
+im Meer
+in the sea;
+
+Wann können Sie schwimmen?
+When can you swim?;
+
+Ich kann morgens schwimmen. Ich habe Zeit.
+I can swim in the morning. I have time.;
+
+Wie können Sie schwimmen?
+How can you swim?;
+
+Ich kann schnell schwimmen.
+I can swim fast.;
+
+Wo können Sie schwimmen?
+Where can you swim?;
+
+Ich kann im Meer schwimmen.
+I can swim in the sea.;
+
+Ich kann nicht mit diesen Schuhen im Park tanzen.
+I cannot dance in the park with these shoes.;
+
+Mein Kopf ist leer! Ich bin sehr müde.
+My head is empty! I am very tired.; My mind is blank! I am very tired.;
+
+v schätzen / schätzte / hat geschätzt
+estimate{prs=estimates, pst=estimated}; appreciate{prs=appreciates, pst=appreciated}; suppose{prs=supposes, pst=supposed};
+
+Ich schätze Ihre Hilfe sehr.
+I really appreciate your help.;
+
+Er schätzt das Alter auf 40.
+He estimates the age at 40.;
+
+Ich schätze, er kommt später.
+I suppose he will come later.;
+
+Wo warst du gestern?
+Where were you yesterday?;
+
+Ich war in der Schule.
+I was at school.;
+
+Ich war müde.
+I was tired.;
+
+Wir waren zu Hause.
+We were at home.;
+
+Ich hatte Zeit.
+I had time.;
+
+Sie hatten Glück.
+They were lucky.;
+
+a langweilig
+boring; dull;
+
+Der Film ist langweilig.
+The film is boring.;
+
+Mir ist langweilig.
+I am bored.;
+
+a endlich
+finally; at last; finite;
+
+Endlich bist du da!
+At last you are here!;
+
+Es ist endlich vorbei.
+It is finally over.;
+
+das Zuhause -
+home;
+
+Ich bin zu Hause.
+I am at home.;
+
+Ich bin zuhause.
+I am at home.;
+
+Ein schönes Zuhause ist wichtig.
+A nice home is important.;
+
+Ich bevorzuge ...
+I prefer ...;
+
+die Kleidung (sg.)
+clothing;
+
+v probieren / probierte / hat probiert
+try{prs=tries, pst=tried}; try on{prs=tries on, pst=tried on};
+
+v reparieren / reparierte / hat repariert
+repair{prs=repairs, pst=repaired}; fix{prs=fixes, pst=fixed};
+
+a geschieden
+divorced;
+
+der Stress (sg.)
+stress;
+
+a stressig
+stressful;
+
+v mitmachen-macht mit / machte mit / hat mitgemacht
+join in{prs=joins in, pst=joined in}; take part{prs=takes part, pst=took part, par=taken part}; participate{prs=participates, pst=participated};
+
+a süchtig
+addicted;
+[nach+Dat]
+
+der Duft "-e
+scent; fragrance;
+
+Ich kaufe Kleidung nicht online. Ich kann im Internet nicht probieren.
+I do not buy clothes online. I cannot try them on online.;
+
+Ich muss alles probieren.
+I have to try everything on.;
+
+große Auswahl
+wide selection; large choice;
+
+Die Größe passt nicht. Die Schuhe sind zu klein.
+The size does not fit. The shoes are too small.;
+
+Ich repariere den Fernseher.
+I am repairing the TV.;
+
+Sie sind geschieden.
+They are divorced.;
+
+Ich reise nach Kasachstan / in die Ukraine / auf die Philippinen.
+I am traveling to Kazakhstan / to Ukraine / to the Philippines.;
+
+Ich habe Stress. Meine Arbeit ist stressig.
+I am stressed. My work is stressful.;
+
+Ich mache beim Sport mit.
+I take part in sports.;
+
+Wir machen bei der Demonstration mit.
+We are taking part in the demonstration.;
+
+Ich bin süchtig nach diesem Duft.
+I am addicted to this scent.;
+
+Ich bin drogensüchtig.
+I am addicted to drugs.;
+
+die Anrede -n
+greeting; opening;
+
+der Gruß "-e
+greeting; closing;
+
+Liebe ...
+dear ...;
+
+Lieber ...
+dear ...;
+
+Sehr geehrte ...
+dear ...;
+
+Sehr geehrter ...
+dear ...;
+
+Mit freundlichen Grüßen
+kind regards; yours sincerely;
+
+Viele Grüße
+best regards;
+
+Liebe Grüße
+lots of love; kind regards;
+
+Bis bald
+see you soon.;
+
+der Boden "-
+floor;
+
+der Dachboden "-
+attic;
+
+der Stellplatz "-e
+parking space;
+
+die Heizkörper (pl.)
+radiators;
+
+der Nachttisch -e
+bedside table;
+
+das Bücherregal -e
+bookshelf;
+
+die Jalousie -n
+blind; venetian blind;
+
+die Gardine -n
+curtain; net curtain;
+
+der Spiegel -
+mirror;
+
+das Bettzeug (sg.)
+bedding; bed linen;
+
+der Wäschekorb "-e
+laundry basket;
+
+die Kommode -n
+chest of drawers;
+
+das Waschbecken -
+sink; washbasin;
+
+das Toilettenpapier (sg.)
+toilet paper;
+
+die Toilettenbürste -n
+toilet brush;
+
+der Duschvorhang "-e
+shower curtain;
+
+der Wasserhahn "-e
+tap; faucet;
+
+der Toilettenpapierhalter -
+toilet paper holder;
+
+die Wasseruhr -en
+water meter;
+
+die Toilettenspülung -en
+toilet flush; flushing system;
+
+der Wasserkocher -
+electric kettle;
+
+die Mikrowelle -n
+microwave;
+
+die Küchenmaschine -n
+food processor; kitchen machine;
+
+das Geschirr (sg.)
+dishes; tableware;
+
+der Backofen "-
+oven;
+
+der Gemüsekorb "-e
+vegetable basket;
+
+der Gefrierschrank "-e
+freezer;
+
+die Spülmaschine -n
+dishwasher;
+
+die Spüle -n
+kitchen sink;
+
+die Abzugshaube -n
+extractor hood; cooker hood;
+
+der Küchenschrank "-e
+kitchen cupboard;
+
+der Fleischwolf "-e
+meat grinder;
+
+der Entsafter -
+juicer;
+
+der Mülleimer -
+trash can; garbage bin;
+
+die Arbeitsplatte -n
+countertop; worktop;
+
+das Brett -er
+board;
+
+das Küchenbrett -er
+kitchen board; cutting board;
+
+der Kram (sg.)
+stuff; junk; clutter;
+
+Wir haben eine Drei-Zimmer-Wohnung mit Bad, Küche, Keller und Balkon.
+We have a three-room apartment with a bathroom, kitchen, cellar, and balcony.;
+
+In welcher Etage?
+Which floor is it on?;
+
+Sie ist in der ersten Etage.
+It is on the first floor.;
+
+Wir haben ein Haus mit Garten und Terrasse.
+We have a house with a garden and a terrace.;
+
+Ich habe eine Küchenkombination.
+I have a fitted kitchen.; I have a kitchen unit.;
+
+Wir haben einen privaten Stellplatz.
+We have a private parking space.;
+
+Die Heizkörper sind warm.
+The radiators are warm.;
+
+Die Lampe steht auf dem Nachttisch.
+The lamp is on the bedside table.;
+
+Der Spiegel hängt an der Wand.
+The mirror is hanging on the wall.;
+
+Ich brauche neues Bettzeug.
+I need new bedding.;
+
+Die Zeit fliegt.
+Time flies.;
+
+es gibt
+there is; there are;
+
+zum Essen
+for eating;
+
+aus Plastik
+made of plastic;
+
+die Fensterbank "-e
+windowsill;
+
+v liegen-liegt / lag / hat gelegen
+lie{prs=lies, pst=lay, par=lain}; be lying{prs=is lying, pst=was lying, par=been lying};
+
+v legen / legte / hat gelegt
+put{prs=puts, pst=put, par=put}; lay{prs=lays, pst=laid, par=laid};
+
+v sitzen-sitzt / saß / hat gesessen
+sit{prs=sits, pst=sat, par=sat};
+
+im (in dem)
+in the;
+
+ins (in das)
+into the; in the;
+
+auf dem
+on the;
+
+auf den
+onto the;
+
+Es gibt in der Küche einen Tisch und zwei Stühle.
+There is a table and two chairs in the kitchen.;
+
+Auf dem Balkon gibt es zwei Stühle aus Plastik. Auf der Fensterbank liegt ein großes Brett. Wir benutzen es zum Essen. Auf dem Balkon gibt es auch Pflanzen meiner Frau.
+There are two plastic chairs on the balcony. There is a big board on the windowsill. We use it for eating. There are also my wife's plants on the balcony.;
+
+Ich bin im Zimmer.
+I am in the room.;
+
+Ich fahre in die Ukraine.
+I am going to Ukraine.;
+
+Ich bin auf dem Balkon.
+I am on the balcony.;
+
+Ich gehe auf den Balkon.
+I go onto the balcony.;
+
+Das Buch liegt auf dem Tisch.
+The book is lying on the table.;
+
+Ich lege das Buch auf den Tisch.
+I put the book onto the table.;
+
+Ich sitze auf dem Auto.
+I am sitting on the car.;
+
+Ich sitze im Auto.
+I am sitting in the car.;
+
+Ruhe!
+Quiet!; Silence!;
+
+Sei still!
+Be quiet!; Keep still!;
+
+v wünschen / wünschte / hat gewünscht
+wish{prs=wishes, pst=wished}; desire{prs=desires, pst=desired};
+
+sich etw. wünschen
+wish for something;
+
+auf dem Land
+in the countryside; in a rural area;
+
+in der Stadt
+in the city;
+
+auf jeden Fall
+in any case; anyway; definitely;
+
+der Schmuck (sg.)
+jewelry;
+
+die Privatsphäre (sg.)
+privacy;
+
+die Hygiene (sg.)
+hygiene;
+
+das Steuer -
+steering wheel; control;
+
+der Bestatter -
+undertaker; funeral director;
+
+die Urne -n
+urn; funeral urn;
+
+v sterben-stirbt / starb / ist gestorben
+die{prs=dies, pst=died};
+
+v töten / tötete / hat getötet
+kill{prs=kills, pst=killed};
+
+Ich will ein Auto.
+I want a car.;
+
+Ich will schlafen.
+I want to sleep.;
+
+Meine Frau will Schmuck, aber ich habe kein Geld.
+My wife wants jewelry, but I have no money.;
+
+Wir wollen Deutsch lernen.
+We want to learn German.;
+
+Ich lebe auf dem Land.
+I live in the countryside.;
+
+Auf jeden Fall komme ich morgen.
+I will definitely come tomorrow.;
+
+Ich mache Sandwiches.
+I make sandwiches.;
