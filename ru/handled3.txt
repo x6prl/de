@@ -25,9 +25,6 @@ die Garage -n
 der Garten "-
 сад;
 
-das Haus "-er
-дом;
-
 die Heizung -en
 отопление;
 
@@ -85,9 +82,6 @@ der Vermieter -
 die Vermieterin -nen
 арендодатель; хозяйка квартиры;
 
-die Wohnung -en
-квартира;
-
 das Zentrum -en
 центр;
 
@@ -105,9 +99,6 @@ v bezahlen / bezahlte / hat bezahlt
 
 v dürfen-darf / durfte / hat gedurft
 мочь{prs=может, pst=мог}; иметь разрешение;
-
-v grillen / grillte / hat gegrillt
-жарить на гриле{prs=жарит на гриле, pst=жарил на гриле}; готовить на углях;
 
 v mieten / mietete / hat gemietet
 снимать{prs=снимает, pst=снимал}; арендовать{prs=арендует, pst=арендовал};
@@ -129,12 +120,6 @@ a alt
 
 a neu
 новый{cmp=новее, sup=самый новый};
-
-a billig
-дешевый;
-
-a teuer
-дорогой;
 
 a dunkel
 темный{cmp=темнее, sup=самый темный};

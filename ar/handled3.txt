@@ -25,9 +25,6 @@ die Garage -n
 der Garten "-
 حديقة;
 
-das Haus "-er
-بيت; منزل;
-
 die Heizung -en
 تدفئة; نظام تدفئة;
 
@@ -85,9 +82,6 @@ der Vermieter -
 die Vermieterin -nen
 مالكة مؤجرة; مالكة العقار;
 
-die Wohnung -en
-شقة;
-
 das Zentrum -en
 مركز; وسط المدينة;
 
@@ -129,12 +123,6 @@ a alt
 
 a neu
 جديد{cmp=أحدث, sup=الأحدث};
-
-a billig
-رخيص;
-
-a teuer
-غالٍ; مكلف;
 
 a dunkel
 مظلم{cmp=أظلم, sup=الأظلم}; داكن{cmp=أدكن, sup=الأدكن};

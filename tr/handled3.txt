@@ -25,9 +25,6 @@ garaj;
 der Garten "-
 bahçe;
 
-das Haus "-er
-ev; konut;
-
 die Heizung -en
 ısıtma; ısıtma sistemi;
 
@@ -85,9 +82,6 @@ ev sahibi; kiraya veren;
 die Vermieterin -nen
 ev sahibesi; kiraya veren kadın;
 
-die Wohnung -en
-daire; ev; konut;
-
 das Zentrum -en
 merkez; şehir merkezi;
 
@@ -105,9 +99,6 @@ v bezahlen / bezahlte / hat bezahlt
 
 v dürfen-darf / durfte / hat gedurft
 izinli olmak{prs=izinli olur, pst=izinli oldu}; izin verilmiş olmak;
-
-v grillen / grillte / hat gegrillt
-ızgara yapmak{prs=ızgara yapar, pst=ızgara yaptı}; mangalda pişirmek;
 
 v mieten / mietete / hat gemietet
 kiralamak{prs=kiralar, pst=kiraladı};
@@ -129,12 +120,6 @@ eski{cmp=daha eski, sup=en eski}; yaşlı{cmp=daha yaşlı, sup=en yaşlı};
 
 a neu
 yeni{cmp=daha yeni, sup=en yeni};
-
-a billig
-ucuz;
-
-a teuer
-pahalı;
 
 a dunkel
 karanlık{cmp=daha karanlık, sup=en karanlık}; koyu{cmp=daha koyu, sup=en koyu};

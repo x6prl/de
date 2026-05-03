@@ -84,7 +84,6 @@ receipt; slip;
 
 v decken
 cover;
-[etw.]
 
 den Tisch decken
 set the table;

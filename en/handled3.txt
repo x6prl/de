@@ -25,9 +25,6 @@ garage;
 der Garten "-
 garden; yard;
 
-das Haus "-er
-house; home;
-
 die Heizung -en
 heating; heating system;
 
@@ -85,9 +82,6 @@ landlord;
 die Vermieterin -nen
 landlady; landlord;
 
-die Wohnung -en
-apartment; flat;
-
 das Zentrum -en
 center; downtown;
 
@@ -106,17 +100,11 @@ pay{prs=pays, pst=paid}; pay for{prs=pays for, pst=paid for};
 v dürfen-darf / durfte / hat gedurft
 may; be allowed to{prs=is allowed to, pst=was allowed to, par=been allowed to};
 
-v grillen / grillte / hat gegrillt
-grill{prs=grills, pst=grilled}; barbecue{prs=barbecues, pst=barbecued};
-
 v mieten / mietete / hat gemietet
 rent{prs=rents, pst=rented}; lease{prs=leases, pst=leased};
 
 v parken / parkte / hat geparkt
 park{prs=parks, pst=parked};
-
-v putzen / putzte / hat geputzt
-clean{prs=cleans, pst=cleaned}; tidy up{prs=tidies up, pst=tidied up};
 
 v rauchen / rauchte / hat geraucht
 smoke{prs=smokes, pst=smoked};
@@ -129,12 +117,6 @@ old{cmp=older, sup=oldest}; aged{cmp=more aged, sup=most aged};
 
 a neu
 new{cmp=newer, sup=newest};
-
-a billig
-cheap;
-
-a teuer
-expensive; costly;
 
 a dunkel
 dark{cmp=darker, sup=darkest};
