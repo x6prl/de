@@ -3348,7 +3348,7 @@ v buchstabieren / - / hat buchstabiert
 spell;
 
 v informieren / - / hat informiert
-inform;
+inform; notify;
 
 v sich informieren / - / hat sich informiert
 get information; find out;

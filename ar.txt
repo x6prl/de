@@ -3590,7 +3590,7 @@ v halten-hält / hielt / hat gehalten
 يمسك; يوقف; يحتفظ; يحافظ;
 
 v einräumen-räumt ein / räumte ein / hat eingeräumt
-يرتب داخل; يضع في الداخل; يحمّل; يقر; يعترف;
+يرتب في الداخل; يضع في الداخل; يحمّل; يقر; يعترف;
 
 v ausräumen-räumt aus / räumte aus / hat ausgeräumt
 يفرغ; يخرج المحتويات; يخلي;

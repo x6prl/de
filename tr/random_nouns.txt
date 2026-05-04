@@ -1136,7 +1136,7 @@ das Niveau -s
 seviye;
 
 das Kapitel -
-bölüm;
+kitap bölümü;
 
 der Abschnitt -e
 bölüm; paragraf;

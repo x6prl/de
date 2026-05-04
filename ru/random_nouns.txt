@@ -1136,7 +1136,7 @@ das Niveau -s
 уровень;
 
 das Kapitel -
-глава;
+глава (книги);
 
 der Abschnitt -e
 раздел; абзац;

@@ -869,7 +869,7 @@ die Wirtschaft (sg.)
 ekonomi; iktisat; işletme sistemi;
 
 die Wirtschaft -en
-meyhane; han; lokanta; işletme;
+meyhane; han; lokanta;
 
 a wirtschaftlich
 ekonomik; iktisadi; kârlı; tasarruflu;
@@ -1050,7 +1050,7 @@ v präsentieren / - / hat präsentiert
 sunmak; takdim etmek;
 
 v probieren / - / hat probiert
-denemek; tatmak; prova etmek;
+denemek; tatmak; üstünde denemek;
 
 v protestieren / - / hat protestiert
 protesto etmek;

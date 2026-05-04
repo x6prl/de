@@ -3056,19 +3056,19 @@ die Zeitung -en
 газета;
 
 der Januar (sg.)
-TODO;
+январь;
 
 der Bus -se
 автобус;
 
 das Kind -er
-TODO;
+ребёнок; дитя;
 
 der Kindergarten "-
-TODO;
+детский сад;
 
 das Spielzeug -e
-TODO;
+игрушка; игрушки;
 
 v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 знакомиться; узнавать;
@@ -3078,7 +3078,7 @@ v leihen / lieh / hat geliehen
 [j-m; etw.]
 
 v sich leihen / lieh sich / hat sich geliehen
-TODO;
+брать взаймы;
 [sich+Dat; etw.; von+Dat]
 
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
@@ -3127,7 +3127,7 @@ v stürzen / - / ist gestürzt
 падать; рухнуть; бросаться;
 
 v stürzen / - / hat gestürzt
-TODO;
+свергать; опрокидывать;
 [j-n; etw.]
 
 v aussteigen-steigt aus / stieg aus / ist ausgestiegen
@@ -3158,7 +3158,7 @@ v fliegen / flog / ist geflogen
 лететь; летать;
 
 v fliegen / flog / hat geflogen
-TODO;
+пилотировать;
 [etw.]
 
 v reisen / - / ist gereist
@@ -3174,10 +3174,10 @@ v schaukeln
 качаться; раскачиваться; качаться на качелях;
 
 v wiegen / wog / hat gewogen
-TODO;
+весить;
 
 v wiegen / wiegte / hat gewiegt
-TODO;
+качать; баюкать;
 
 v sich wiegen / wiegte sich / hat sich gewiegt
 покачиваться; колыхаться;
@@ -3198,10 +3198,10 @@ v bleiben / blieb / ist geblieben
 оставаться;
 
 zu Hause
-TODO;
+дома;
 
 nach Hause
-TODO;
+домой;
 
 die Stelle -n
 место; должность; вакансия;
@@ -3234,7 +3234,7 @@ v machen
 делать; готовить;
 
 v brauchen
-нуждаться; быть нужным;
+нуждаться; требоваться;
 
 der Arbeitsplatz "-e
 рабочее место;
@@ -3333,7 +3333,7 @@ v notieren / - / hat notiert
 записывать; отмечать;
 
 v telefonieren / - / hat telefoniert
-звонить по телефону;
+разговаривать по телефону; звонить по телефону;
 
 v reservieren / - / hat reserviert
 бронировать;
@@ -3351,10 +3351,10 @@ v buchstabieren / - / hat buchstabiert
 произносить по буквам;
 
 v informieren / - / hat informiert
-информировать; узнавать информацию;
+информировать; сообщать;
 
 v sich informieren / - / hat sich informiert
-TODO;
+узнавать информацию; осведомляться;
 [sich+Akk; über+Akk]
 
 v markieren / - / hat markiert
@@ -3448,16 +3448,16 @@ v vergessen-vergisst / vergaß / hat vergessen
 забывать;
 
 v verstehen / verstand / hat verstanden
-TODO;
+понимать;
 
 v schreiben / schrieb / hat geschrieben
 писать{prs=пишет, pst=писал};
 
 v verkaufen
-TODO;
+продавать;
 
 v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
-TODO;
+мыться; умываться;
 [sich+Akk]
 
 v finden / fand / hat gefunden
@@ -3473,7 +3473,7 @@ v begrüßen / - / hat begrüßt
 приветствовать{prs=приветствует, pst=приветствовал};
 
 v bestellen
-TODO;
+заказывать;
 
 v funktionieren / - / hat funktioniert
 работать{prs=работает, pst=работал}; функционировать;
@@ -3530,10 +3530,10 @@ Wann haben Sie Geburtstag?
 Когда у Вас день рождения?;
 
 das Geburtsdatum -daten
-TODO;
+дата рождения;
 
 der Geburtstag -e
-TODO;
+день рождения;
 
 Ebbe und Flut
 отлив и прилив;
@@ -3557,7 +3557,7 @@ a leise
 тихий; тихо;
 
 a still
-TODO;
+тихий; безмолвный; неподвижный;
 
 Lass das!
 Прекрати!; Не делай этого!; Оставь это!;
@@ -3587,13 +3587,13 @@ v halten-hält / hielt / hat gehalten
 держать; останавливать;
 
 v einräumen-räumt ein / räumte ein / hat eingeräumt
-складывать внутрь; загружать;
+убирать на место; загружать; признавать;
 
 v ausräumen-räumt aus / räumte aus / hat ausgeräumt
-вынимать; разгружать;
+выносить; разгружать; освобождать;
 
 v abräumen-räumt ab / räumte ab / hat abgeräumt
-убирать со стола;
+убирать; убирать со стола;
 
 v aufräumen-räumt auf / räumte auf / hat aufgeräumt
 убирать; наводить порядок;
@@ -3635,10 +3635,10 @@ der Beruf -e
 профессия;
 
 der Taxifahrer -
-TODO;
+таксист; водитель такси;
 
 die Taxifahrerin -nen
-TODO;
+таксистка; женщина-водитель такси;
 
 (-) Köln (sg.)
 Кёльн;
@@ -3656,10 +3656,10 @@ das Nummernschild -er
 номерной знак; автомобильный номер;
 
 v zulassen-lässt zu / ließ zu / hat zugelassen
-TODO;
+разрешать; допускать; регистрировать транспортное средство;
 
 v anmelden-meldet an / meldete an / hat angemeldet
-TODO;
+регистрировать; записывать; заявлять;
 
 v einziehen-zieht ein / zog ein / ist eingezogen
 въезжать; вселяться;
@@ -3686,7 +3686,7 @@ Herein, bitte!
 Войдите, пожалуйста!;
 
 Herein!
-TODO;
+Войдите!;
 
 Kommen Sie herein!
 Войдите!;
@@ -3761,7 +3761,7 @@ die Richterin -nen
 судья; женщина-судья;
 
 das Gericht -e
-суд;
+суд; блюдо;
 
 die Strafe -n
 наказание; штраф;
@@ -3782,13 +3782,13 @@ v verhaften
 арестовывать;
 
 der Zoll (sg.)
-таможня; пошлина; дюйм;
+таможня;
 
 der Zoll "-e
 таможня; пошлина;
 
 der Zoll -
-TODO;
+дюйм;
 
 v bestechen-besticht / bestach / hat bestochen
 подкупать; давать взятку;
@@ -3803,10 +3803,10 @@ die Korruption (sg.)
 коррупция;
 
 die Wirtschaft (sg.)
-экономика; хозяйство; ресторан; трактир;
+экономика; хозяйство; экономическая система;
 
 die Wirtschaft -en
-TODO;
+трактир; ресторан;
 
 a wirtschaftlich
 экономический; выгодный;
@@ -3987,7 +3987,7 @@ v präsentieren / - / hat präsentiert
 представлять; презентовать;
 
 v probieren / - / hat probiert
-пробовать;
+пробовать; примерять; пробовать на вкус;
 
 v protestieren / - / hat protestiert
 протестовать;
@@ -4029,17 +4029,17 @@ v anstoßen-stößt an / stieß an / hat angestoßen
 [auf+Akk; mit+Dat]
 
 v aufstoßen-stößt auf / stieß auf / hat aufgestoßen
-отрыгивать; распахиваться; наталкиваться;
+отрыгивать;
 
 v aufstoßen-stößt auf / stieß auf / ist aufgestoßen
-TODO;
+распахиваться; внезапно открываться;
 
 v stoßen-stößt / stieß / hat gestoßen
-толкать; ударяться; натыкаться;
+толкать; пихать; ударять;
 [j-n; etw.]
 
 v stoßen-stößt / stieß / ist gestoßen
-TODO;
+ударяться; наталкиваться; сталкиваться;
 [an+Akk; auf+Akk]
 
 Auf Ruslan!
@@ -4058,7 +4058,7 @@ a nachher
 потом; позже;
 
 nach + Dat.
-TODO;
+после; к; по направлению к; согласно;
 
 das Wasser (sg.)
 вода; воды; водоем;
@@ -5228,7 +5228,7 @@ das Niveau -s
 уровень;
 
 das Kapitel -
-глава;
+глава (книги);
 
 der Abschnitt -e
 раздел; абзац;
