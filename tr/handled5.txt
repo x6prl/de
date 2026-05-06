@@ -76,7 +76,7 @@ fazla sıcak;
 die Bedeutung -en
 anlam;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 birleştirmek{prs=birleştirir, pst=birleştirdi}; kombinlemek{prs=kombinler, pst=kombinledi};
 
 ich darf
@@ -187,7 +187,7 @@ hız;
 die Begrenzung -en
 sınır; kısıtlama;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 sınırlamak{prs=sınırlar, pst=sınırladı}; kısıtlamak{prs=kısıtlar, pst=kısıtladı};
 
 mal so, mal so
@@ -205,7 +205,7 @@ hariç; dışında;
 Es ist verboten.
 Yasaktır. ; Buna izin yok. ;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 yasaklamak{prs=yasaklar, pst=yasakladı}; men etmek{prs=men eder, pst=men etti};
 
 der Aberglaube (sg.)
@@ -226,7 +226,7 @@ siyah kedi;
 Eine schwarze Katze bringt Unglück.
 Siyah kedi uğursuzluk getirir. ;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 gürültü yapmak{prs=gürültü yapar, pst=gürültü yaptı}; gürlemek{prs=gürler, pst=gürledi};
 
 das Unglück (sg.)
@@ -238,7 +238,7 @@ sarımsak;
 Knoblauch schützt vor Vampiren.
 Sarımsak vampirlere karşı korur. ;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 korumak{prs=korur, pst=korudu};
 
 der Vampir -e
@@ -280,25 +280,25 @@ on milyon;
 v machen / - / hat
 yapmak{prs=yapar, pst=yaptı}; etmek{prs=eder, pst=etti};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 kapatmak{prs=kapatır, pst=kapattı};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 açmak{prs=açar, pst=açtı};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 kapatmak{prs=kapatır, pst=kapattı}; ayarlamak{prs=ayarlar, pst=ayarladı}; önemli olmak{prs=önemli olur, pst=önemli oldu};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 açmak{prs=açar, pst=açtı}; asılmak{prs=asılır, pst=asıldı};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 anlaşmak{prs=anlaşır, pst=anlaştı}; çıkarmak{prs=çıkarır, pst=çıkardı};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 konserve yapmak{prs=konserve yapar, pst=konserve yaptı}; saklamak{prs=saklar, pst=sakladı};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 devam etmek{prs=devam eder, pst=devam etti};
 
 die Vorsilbe -n
@@ -319,10 +319,10 @@ imza;
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 altını çizmek{prs=altını çizer, pst=altını çizdi};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 temizlemek{prs=temizler, pst=temizledi}; arındırmak{prs=arındırır, pst=arındırdı};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 ortadan kaldırmak{prs=ortadan kaldırır, pst=ortadan kaldırdı}; yerine kaldırmak{prs=yerine kaldırır, pst=yerine kaldırdı};
 
 Ich unterschreibe den Brief.
@@ -397,16 +397,16 @@ rahatlatmak{prs=rahatlatır, pst=rahatlattı};
 v sich entspannen / entspannte sich / hat sich entspannt
 rahatlamak{prs=rahatlar, pst=rahatladı}; gevşemek{prs=gevşer, pst=gevşedi};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 dinlenmek{prs=dinlenir, pst=dinlendi};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 dinlenmek{prs=dinlenir, pst=dinlendi}; biraz soluklanmak{prs=biraz soluklanır, pst=biraz soluklandı};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 takılmak{prs=takılır, pst=takıldı}; rahatlamak{prs=rahatlar, pst=rahatladı};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 yıkanmak{prs=yıkanır, pst=yıkandı}; yüzmek{prs=yüzer, pst=yüzdü};
 
 im See baden
@@ -424,10 +424,10 @@ Heyecanlıyım. ; Gerginim. ;
 a gespannt
 meraklı; heyecanla bekleyen; ilgili;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 sevinmek{prs=sevinir, pst=sevindi}; dört gözle beklemek{prs=dört gözle bekler, pst=dört gözle bekledi};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 meşgul etmek{prs=meşgul eder, pst=meşgul etti}; çalıştırmak{prs=çalıştırır, pst=çalıştırdı};
 
 sich mit etw. beschäftigen
@@ -463,7 +463,7 @@ die Ente -n
 Enten füttern
 ördekleri beslemek;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 hayvanları beslemek{prs=hayvanları besler, pst=hayvanları besledi};
 
 Das hängt ab.
@@ -586,7 +586,7 @@ Okula gidiyorum. ;
 v laufen-läuft / lief / ist gelaufen
 koşmak{prs=koşar, pst=koştu}; yürümek{prs=yürür, pst=yürüdü};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 tırmanmak{prs=tırmanır, pst=tırmandı};
 
 v rennen-rennt / rannte / ist gerannt
@@ -595,7 +595,7 @@ hızlı koşmak{prs=hızlı koşar, pst=hızlı koştu};
 v wandern / - / ist
 yürüyüş yapmak{prs=yürüyüş yapar, pst=yürüyüş yaptı}; doğa yürüyüşüne çıkmak{prs=doğa yürüyüşüne çıkar, pst=doğa yürüyüşüne çıktı};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 uçmak{prs=uçar, pst=uçtu};
 
 nach
@@ -607,13 +607,13 @@ Erfurt'a gidiyorum. ;
 Wir fliegen nach Palästina.
 Filistin'e uçuyoruz. ;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 çalışmak{prs=çalışır, pst=çalıştı};
 
 v lernen / lernte / hat gelernt
 öğrenmek{prs=öğrenir, pst=öğrendi}; ders çalışmak{prs=ders çalışır, pst=ders çalıştı};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 satın almak{prs=satın alır, pst=satın aldı};
 
 v essen-isst / aß / hat gegessen
@@ -742,7 +742,7 @@ Pazartesi alışveriş yaptım. ;
 Ich habe keine Ahnung.
 Hiçbir fikrim yok. ;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 check-in yapmak{prs=check-in yapar, pst=check-in yaptı}; giriş kaydı yaptırmak{prs=giriş kaydı yaptırır, pst=giriş kaydı yaptırdı};
 
 v liefern / - / hat
@@ -790,13 +790,13 @@ limandan;
 das Präteritum (sg.)
 Präteritum; hikâye geçmiş zamanı;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 gitmek{prs=gider, pst=gitti};
 
 v helfen-hilft / half / hat geholfen
 yardım etmek{prs=yardım eder, pst=yardım etti};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 kalmak{prs=kalır, pst=kaldı};
 
 v werden-wird / wurde / ist geworden
@@ -811,7 +811,7 @@ indirimli;
 eine Ermäßigung bekommen
 indirim almak;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 durmak{prs=durur, pst=durdu}; bırakmak{prs=bırakır, pst=bıraktı};
 
 mit etw. aufhören

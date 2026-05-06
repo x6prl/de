@@ -141,7 +141,7 @@ v sich leihen / lieh sich / hat sich geliehen
 ödünç almak;
 [sich+Dat; etw.; von+Dat]
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 ödünç almak; ödünç vermek; kiralamak;
 [etw.]
 
@@ -154,7 +154,7 @@ bakmak; seyretmek; izlemek;
 v schwimmen / schwamm / ist geschwommen
 yüzmek;
 
-v stattfinden-findet statt / fand statt / hat stattgefunden
+v stattfinden / fand statt / hat stattgefunden
 gerçekleşmek; yapılmak;
 
 v treffen-trifft / traf / hat getroffen
@@ -179,39 +179,39 @@ süpermarkette birçok farklı ürün var;
 v bekommen-bekommt / bekam / hat bekommen
 almak; elde etmek; ulaşmak;
 
-v stürzen / - / ist gestürzt
+v stürzen / - / ist
 düşmek; devrilmek; yere çakılmak;
 
-v stürzen / - / hat gestürzt
+v stürzen / - / hat
 devirmek; düşürmek; yıkmak;
 [j-n; etw.]
 
-v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+v aussteigen / stieg aus / ist ausgestiegen
 inmek; araçtan çıkmak;
 
-v einsteigen-steigt ein / stieg ein / ist eingestiegen
+v einsteigen / stieg ein / ist eingestiegen
 binmek; araca binmek;
 
-v umsteigen-steigt um / stieg um / ist umgestiegen
+v umsteigen / stieg um / ist umgestiegen
 aktarma yapmak; başka araca geçmek;
 
 v springen / sprang / ist gesprungen
 zıplamak; atlamak;
 
-v klettern / - / ist geklettert
+v klettern / - / ist
 tırmanmak; yukarı çıkmak;
 
 v fallen-fällt / fiel / ist gefallen
 düşmek;
 
-v joggen / - / ist gejoggt
+v joggen / - / ist
 jogging yapmak; hafif koşmak;
 
 v fliegen / flog / hat geflogen
 uçurmak; pilotluk yapmak; uçak kullanmak;
 [etw.]
 
-v reisen / - / ist gereist
+v reisen / - / ist
 seyahat etmek; yolculuk yapmak;
 
 v steigen / stieg / ist gestiegen
@@ -223,10 +223,10 @@ sallanmak; salıncakta sallanmak; sallamak;
 v wiegen / wog / hat gewogen
 tartmak; ağırlığında olmak;
 
-v wiegen / wiegte / hat gewiegt
+v wiegen / - / hat
 sallamak; beşik gibi sallamak;
 
-v sich wiegen / wiegte sich / hat sich gewiegt
+v sich wiegen / - / hat
 hafifçe sallanmak; salınmak;
 
 v schwingen / schwang / hat geschwungen
@@ -262,7 +262,7 @@ kiralamak;
 v kommen / kam / ist gekommen
 gelmek; varmak;
 
-v bezahlen / - / hat bezahlt
+v bezahlen / - / hat
 ödemek; parasını ödemek;
 
 v übersetzen
@@ -289,7 +289,7 @@ SIM kart;
 v stehen / stand / hat gestanden
 ayakta durmak; durmak;
 
-v aufwachen-wacht auf / wachte auf / ist aufgewacht
+v aufwachen / - / ist
 uyanmak;
 
 der Papayasalat -e
@@ -298,7 +298,7 @@ papaya salatası;
 v bringen / brachte / hat gebracht
 getirmek; götürmek; birini götürmek;
 
-v abholen-holt ab / holte ab / hat abgeholt
+v abholen / - / hat
 almaya gitmek; teslim almak; karşılamak;
 
 die Erfahrung -en
@@ -316,7 +316,7 @@ dağıtmak; adrese teslim etmek; dışarı taşımak;
 die Tochter "-
 kız evlat; kız;
 
-v einfügen-fügt ein / fügte ein / hat eingefügt
+v einfügen / - / hat
 eklemek; yerleştirmek; araya koymak;
 
 die Silbe -n
@@ -328,7 +328,7 @@ hece hece;
 die Silbentrennung -en
 heceleme; hece bölme; sözcük bölme;
 
-v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+v mitschreiben / schrieb mit / hat mitgeschrieben
 not almak; yazmak; söyleneni yazmak;
 
 v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
@@ -355,50 +355,50 @@ mektup;
 das Personalbüro -s
 personel bürosu; insan kaynakları ofisi;
 
-v festlegen-legt fest / legte fest / hat festgelegt
+v festlegen / - / hat
 belirlemek; saptamak; sabitlemek; kararlaştırmak;
 
 v legen
 koymak; yatırmak;
 
-v organisieren / - / hat organisiert
+v organisieren / - / hat
 organize etmek; düzenlemek;
 
 v bestimmen / - / hat bestimmt
 belirlemek; tayin etmek; karar vermek;
 
-v notieren / - / hat notiert
+v notieren / - / hat
 not etmek; yazmak;
 
-v telefonieren / - / hat telefoniert
+v telefonieren / - / hat
 telefon etmek; telefonda konuşmak;
 
-v reservieren / - / hat reserviert
+v reservieren / - / hat
 rezerve etmek; ayırtmak;
 
-v reparieren / - / hat repariert
+v reparieren / - / hat
 tamir etmek; onarmak;
 
-v kopieren / - / hat kopiert
+v kopieren / - / hat
 kopyalamak; fotokopi çekmek;
 
-v studieren / - / hat studiert
+v studieren / - / hat
 üniversitede okumak; öğrenim görmek; incelemek;
 
-v buchstabieren / - / hat buchstabiert
+v buchstabieren / - / hat
 harf harf söylemek; hecelemek;
 
-v informieren / - / hat informiert
+v informieren / - / hat
 bilgilendirmek; haber vermek;
 
-v sich informieren / - / hat sich informiert
+v sich informieren / - / hat
 bilgi almak; bilgi edinmek; araştırmak;
 [sich+Akk; über+Akk]
 
-v markieren / - / hat markiert
+v markieren / - / hat
 işaretlemek; vurgulamak; markalamak;
 
-v kontrollieren / - / hat kontrolliert
+v kontrollieren / - / hat
 kontrol etmek; denetlemek; yoklamak;
 
 a normalerweise
@@ -425,33 +425,33 @@ adım adım; kademeli olarak;
 a höflicherweise
 nazikçe; nezaketen;
 
-v zerstören / - / hat zerstört
+v zerstören / - / hat
 yıkmak; tahrip etmek; yok etmek;
 
 v entlassen-entlässt / entließ / hat entlassen
 işten çıkarmak; serbest bırakmak; taburcu etmek;
 
-v erklären / - / hat erklärt
+v erklären / - / hat
 açıklamak; ilan etmek; beyan etmek;
 
-v ergänzen / - / hat ergänzt
+v ergänzen / - / hat
 tamamlamak; eklemek;
 
-v missbrauchen / - / hat missbraucht
+v missbrauchen / - / hat
 kötüye kullanmak; istismar etmek;
 
 v gefallen-gefällt / gefiel / hat gefallen
 hoşuna gitmek; beğenilmek;
 [j-m]
 
-v missverstehen-missversteht / missverstand / hat missverstanden
+v missverstehen / missverstand / hat missverstanden
 yanlış anlamak;
 
-v gelingen-gelingt / gelang / ist gelungen
+v gelingen / gelang / ist gelungen
 başarılı olmak; iyi sonuçlanmak; becerilmek;
 [j-m]
 
-v misslingen-misslingt / misslang / ist misslungen
+v misslingen / misslang / ist misslungen
 başarısız olmak; ters gitmek;
 [j-m]
 
@@ -471,7 +471,7 @@ aslında; gerçekte; esasen;
 in Wirklichkeit
 gerçekte; aslında;
 
-v erzählen / - / hat erzählt
+v erzählen / - / hat
 anlatmak; hikâye etmek;
 [j-m; von+Dat]
 
@@ -479,7 +479,7 @@ v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
 katılmak; onaylamak; razı olmak;
 [j-m]
 
-v vereinbaren / - / hat vereinbart
+v vereinbaren / - / hat
 anlaşmak; kararlaştırmak; randevu ayarlamak;
 
 v vergessen-vergisst / vergaß / hat vergessen
@@ -504,16 +504,16 @@ bulmak;
 v benutzen
 kullanmak;
 
-v besuchen / - / hat besucht
+v besuchen / - / hat
 ziyaret etmek; gitmek; katılmak;
 
-v begrüßen / - / hat begrüßt
+v begrüßen / - / hat
 selamlamak; karşılamak;
 
 v bestellen
 sipariş etmek; ısmarlamak;
 
-v funktionieren / - / hat funktioniert
+v funktionieren / - / hat
 çalışmak; işlemek;
 
 das Gedicht -e
@@ -603,7 +603,7 @@ Bunu bırak!; Yapma!; Kes şunu!;
 v lassen-lässt / ließ / hat gelassen
 bırakmak; izin vermek; yaptırmak;
 
-v anfassen-fasst an / fasste an / hat angefasst
+v anfassen / - / hat
 dokunmak; ellemek;
 
 Fass mich nicht an!
@@ -624,16 +624,16 @@ Kapa çeneni!; Sus!;
 v halten-hält / hielt / hat gehalten
 tutmak; durdurmak; korumak;
 
-v einräumen-räumt ein / räumte ein / hat eingeräumt
+v einräumen / - / hat
 yerleştirmek; içine koymak; yüklemek; kabul etmek;
 
-v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+v ausräumen / - / hat
 boşaltmak; dışarı çıkarmak; temizlemek;
 
-v abräumen-räumt ab / räumte ab / hat abgeräumt
+v abräumen / - / hat
 masayı toplamak; kaldırmak;
 
-v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+v aufräumen / - / hat
 toplamak; düzenlemek; ortalığı toplamak;
 
 Räum die Spülmaschine ein!
@@ -660,7 +660,7 @@ Benimle konuş!;
 v verschwinden / verschwand / ist verschwunden
 kaybolmak; ortadan yok olmak;
 
-v abhauen-haut ab / haute ab / ist abgehauen
+v abhauen / - / ist abgehauen
 kaçmak; sıvışmak; çekip gitmek;
 
 v reden
@@ -696,16 +696,16 @@ plaka; araç plakası;
 v zulassen-lässt zu / ließ zu / hat zugelassen
 izin vermek; kabul etmek; aracı tescil etmek;
 
-v anmelden-meldet an / meldete an / hat angemeldet
+v anmelden / - / hat
 kaydettirmek; kayıt yapmak; bildirmek; başvurmak;
 
-v einziehen-zieht ein / zog ein / ist eingezogen
+v einziehen / zog ein / ist eingezogen
 taşınmak; eve yerleşmek;
 
-v ausziehen-zieht aus / zog aus / ist ausgezogen
+v ausziehen / zog aus / ist ausgezogen
 taşınmak; evden çıkmak; soyunmak; çıkarmak;
 
-v umziehen-zieht um / zog um / ist umgezogen
+v umziehen / zog um / ist umgezogen
 taşınmak; kıyafet değiştirmek;
 
 die Staatsangehörigkeit -en
@@ -732,7 +732,7 @@ Kommen Sie herein!
 Komm herein!
 İçeri gir!;
 
-v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+v ausfüllen / - / hat
 doldurmak; form doldurmak;
 
 der Antrag "-e
@@ -945,13 +945,13 @@ erkek akraba; akraba;
 die Verwandte -n
 kadın akraba; akraba;
 
-v abschließen-schließt ab / schloss ab / hat abgeschlossen
+v abschließen / schloss ab / hat abgeschlossen
 kilitlemek; bitirmek; tamamlamak; sözleşme yapmak;
 
 v abwaschen-wäscht ab / wusch ab / hat abgewaschen
 bulaşık yıkamak; yıkayıp çıkarmak;
 
-v bedeuten / - / hat bedeutet
+v bedeuten / - / hat
 anlamına gelmek; demek olmak;
 
 v schneiden / schnitt / hat geschnitten
@@ -981,73 +981,73 @@ buraya; buraya doğru;
 a dorthin
 oraya; oraya doğru;
 
-v dekorieren / - / hat dekoriert
+v dekorieren / - / hat
 süslemek; dekore etmek;
 
-v demonstrieren / - / hat demonstriert
+v demonstrieren / - / hat
 göstermek; gösteri yapmak; protesto etmek;
 
-v fotografieren / - / hat fotografiert
+v fotografieren / - / hat
 fotoğraf çekmek;
 
-v frisieren / - / hat frisiert
+v frisieren / - / hat
 saç yapmak; saçı şekillendirmek;
 
-v frustrieren / - / hat frustriert
+v frustrieren / - / hat
 hayal kırıklığına uğratmak; moral bozmak;
 
-v gratulieren / - / hat gratuliert
+v gratulieren / - / hat
 tebrik etmek; kutlamak;
 [j-m; zu+Dat]
 
-v korrigieren / - / hat korrigiert
+v korrigieren / - / hat
 düzeltmek; tashih etmek;
 
-v lackieren / - / hat lackiert
+v lackieren / - / hat
 verniklemek; cilalamak; boyamak;
 
-v montieren / - / hat montiert
+v montieren / - / hat
 monte etmek; kurmak; takmak;
 
-v motivieren / - / hat motiviert
+v motivieren / - / hat
 motive etmek; teşvik etmek;
 
-v nostrifizieren / - / hat nostrifiziert
+v nostrifizieren / - / hat
 diploma denkliği yaptırmak; diplomayı tanıtmak;
 
-v operieren / - / hat operiert
+v operieren / - / hat
 ameliyat etmek; operasyon yapmak;
 
-v präsentieren / - / hat präsentiert
+v präsentieren / - / hat
 sunmak; takdim etmek;
 
-v probieren / - / hat probiert
+v probieren / - / hat
 denemek; tatmak; üstünde denemek;
 
-v protestieren / - / hat protestiert
+v protestieren / - / hat
 protesto etmek;
 [gegen+Akk]
 
-v rasieren / - / hat rasiert
+v rasieren / - / hat
 tıraş etmek;
 
-v sich rasieren / - / hat sich rasiert
+v sich rasieren / - / hat
 tıraş olmak;
 [sich+Akk]
 
-v renovieren / - / hat renoviert
+v renovieren / - / hat
 yenilemek; tadilat yapmak;
 
-v sanieren / - / hat saniert
+v sanieren / - / hat
 kapsamlı şekilde yenilemek; ıslah etmek; restore etmek;
 
-v sortieren / - / hat sortiert
+v sortieren / - / hat
 sıralamak; ayırmak; tasnif etmek;
 
-v stornieren / - / hat storniert
+v stornieren / - / hat
 iptal etmek; rezervasyonu iptal etmek;
 
-v trainieren / - / hat trainiert
+v trainieren / - / hat
 antrenman yapmak; çalıştırmak; eğitmek;
 
 Die Tür abschließen
