@@ -172,7 +172,7 @@ low;
 das Benzin (sg.)
 gasoline; petrol;
 
-die Preise für Diesel und Benzin (pl.)
+Preise für Diesel und Benzin
 the prices for diesel and gasoline;
 
 Jetzt sind die Preise für Diesel und Benzin sehr hoch.
@@ -220,7 +220,7 @@ belief; faith;
 der Polterabend -e
 pre-wedding party with broken dishes for good luck;
 
-die schwarze Katze -n
+schwarze Katze
 black cat;
 
 Eine schwarze Katze bringt Unglück.
@@ -388,7 +388,7 @@ proverb; saying;
 das Motto -s
 motto;
 
-das geflügelte Wort "-er
+geflügeltes Wort
 well-known saying; catchphrase;
 
 v entspannen / entspannte / hat entspannt
@@ -640,7 +640,7 @@ perfect tense;
 das Hilfsverb -en
 auxiliary verb;
 
-das Partizip II (sg.)
+Partizip II
 past participle;
 
 Gestern habe ich lange gearbeitet.

@@ -157,7 +157,7 @@ hazırlamak{prs=hazırlar, pst=hazırladı};
 a trennbar
 ayrılabilen;
 
-das trennbare Verb -en
+trennbares Verb
 ayrılabilen fiil;
 
 Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?

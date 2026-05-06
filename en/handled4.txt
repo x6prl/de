@@ -157,7 +157,7 @@ prepare{prs=prepares, pst=prepared};
 a trennbar
 separable;
 
-das trennbare Verb -en
+trennbares Verb
 separable verb;
 
 Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?

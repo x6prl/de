@@ -1581,7 +1581,7 @@ v vorbereiten / - / hat
 a trennbar
 отделяемый;
 
-das trennbare Verb -en
+trennbares Verb
 отделяемый глагол;
 
 Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
@@ -2260,7 +2260,7 @@ a niedrig
 das Benzin (sg.)
 бензин;
 
-die Preise für Diesel und Benzin (pl.)
+Preise für Diesel und Benzin
 цены на дизель и бензин;
 
 Jetzt sind die Preise für Diesel und Benzin sehr hoch.
@@ -2308,7 +2308,7 @@ der Glaube -n
 der Polterabend -e
 полтерабенд; предсвадебная вечеринка с битьем посуды на счастье;
 
-die schwarze Katze -n
+schwarze Katze
 черная кошка;
 
 Eine schwarze Katze bringt Unglück.
@@ -2476,7 +2476,7 @@ das Sprichwort "-er
 das Motto -s
 девиз;
 
-das geflügelte Wort "-er
+geflügeltes Wort
 крылатое выражение; известная фраза;
 
 v entspannen / entspannte / hat entspannt
@@ -2728,7 +2728,7 @@ das Perfekt (sg.)
 das Hilfsverb -en
 вспомогательный глагол;
 
-das Partizip II (sg.)
+Partizip II
 причастие II; причастие прошедшего времени;
 
 Gestern habe ich lange gearbeitet.

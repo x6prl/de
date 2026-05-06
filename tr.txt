@@ -1581,7 +1581,7 @@ hazırlamak{prs=hazırlar, pst=hazırladı};
 a trennbar
 ayrılabilen;
 
-das trennbare Verb -en
+trennbares Verb
 ayrılabilen fiil;
 
 Wir machen ein Picknick im Park. Wer macht was? Was brauchen wir?
@@ -2260,7 +2260,7 @@ alçak; düşük;
 das Benzin (sg.)
 benzin;
 
-die Preise für Diesel und Benzin (pl.)
+Preise für Diesel und Benzin
 dizel ve benzin fiyatları;
 
 Jetzt sind die Preise für Diesel und Benzin sehr hoch.
@@ -2308,7 +2308,7 @@ inanç; iman;
 der Polterabend -e
 iyi şans için tabak çanak kırılan düğün öncesi eğlence;
 
-die schwarze Katze -n
+schwarze Katze
 siyah kedi;
 
 Eine schwarze Katze bringt Unglück.
@@ -2476,7 +2476,7 @@ atasözü; deyiş;
 das Motto -s
 slogan; motto;
 
-das geflügelte Wort "-er
+geflügeltes Wort
 meşhur söz; kalıplaşmış ifade;
 
 v entspannen / entspannte / hat entspannt
@@ -2728,7 +2728,7 @@ Perfekt zaman; görülen geçmiş zaman yapısı;
 das Hilfsverb -en
 yardımcı fiil;
 
-das Partizip II (sg.)
+Partizip II
 ortaç II; geçmiş ortaç;
 
 Gestern habe ich lange gearbeitet.

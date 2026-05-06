@@ -172,7 +172,7 @@ a niedrig
 das Benzin (sg.)
 بنزين;
 
-die Preise für Diesel und Benzin (pl.)
+Preise für Diesel und Benzin
 أسعار الديزل والبنزين;
 
 Jetzt sind die Preise für Diesel und Benzin sehr hoch.
@@ -220,7 +220,7 @@ der Glaube -n
 der Polterabend -e
 حفلة ما قبل الزفاف لكسر الصحون من أجل الحظ;
 
-die schwarze Katze -n
+schwarze Katze
 قطة سوداء;
 
 Eine schwarze Katze bringt Unglück.
@@ -388,7 +388,7 @@ das Sprichwort "-er
 das Motto -s
 شعار;
 
-das geflügelte Wort "-er
+geflügeltes Wort
 عبارة مشهورة; قول متداول;
 
 v entspannen / entspannte / hat entspannt
@@ -640,7 +640,7 @@ das Perfekt (sg.)
 das Hilfsverb -en
 فعل مساعد;
 
-das Partizip II (sg.)
+Partizip II
 صيغة اسم المفعول; التصريف الثالث;
 
 Gestern habe ich lange gearbeitet.
