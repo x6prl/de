@@ -277,7 +277,7 @@ bir milyon;
 10.000.000
 on milyon;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 yapmak{prs=yapar, pst=yaptı}; etmek{prs=eder, pst=etti};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -541,7 +541,7 @@ Onunla ve arkadaşlarıyla buluşuyoruz. ;
 Er trifft sie und ihre Freunde.
 O, onunla ve arkadaşlarıyla buluşuyor. ;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 tanışmak{prs=tanışır, pst=tanıştı}; yakından tanımak{prs=yakından tanır, pst=yakından tanıdı};
 
 j-n kennenlernen
@@ -592,7 +592,7 @@ tırmanmak{prs=tırmanır, pst=tırmandı};
 v rennen-rennt / rannte / ist gerannt
 hızlı koşmak{prs=hızlı koşar, pst=hızlı koştu};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 yürüyüş yapmak{prs=yürüyüş yapar, pst=yürüyüş yaptı}; doğa yürüyüşüne çıkmak{prs=doğa yürüyüşüne çıkar, pst=doğa yürüyüşüne çıktı};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -745,7 +745,7 @@ Hiçbir fikrim yok. ;
 v einchecken / checkte ein / hat eingecheckt
 check-in yapmak{prs=check-in yapar, pst=check-in yaptı}; giriş kaydı yaptırmak{prs=giriş kaydı yaptırır, pst=giriş kaydı yaptırdı};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 teslim etmek{prs=teslim eder, pst=teslim etti}; tedarik etmek{prs=tedarik eder, pst=tedarik etti};
 
 der Arbeitstag -e

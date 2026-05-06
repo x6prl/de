@@ -277,7 +277,7 @@ one million;
 10.000.000
 ten million;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -541,7 +541,7 @@ We meet him and his friends.;
 Er trifft sie und ihre Freunde.
 He meets her and her friends.;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 meet and get to know someone{prs=meets and gets to know someone, pst=met and got to know someone}; get to know{prs=gets to know, pst=got to know};
 
 j-n kennenlernen
@@ -592,7 +592,7 @@ climb{prs=climbs, pst=climbed};
 v rennen-rennt / rannte / ist gerannt
 run fast{prs=runs fast, pst=ran fast};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 hike{prs=hikes, pst=hiked};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -745,7 +745,7 @@ I have no idea.;
 v einchecken / checkte ein / hat eingecheckt
 check in{prs=checks in, pst=checked in};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 deliver{prs=delivers, pst=delivered}; supply{prs=supplies, pst=supplied};
 
 der Arbeitstag -e

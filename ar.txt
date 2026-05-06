@@ -2368,7 +2368,7 @@ der Traum "-e
 10.000.000
 عشرة ملايين;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 يفعل{prs=يفعل, pst=فعل}; يصنع{prs=يصنع, pst=صنع};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -2632,7 +2632,7 @@ Wir treffen ihn und seine Freunde.
 Er trifft sie und ihre Freunde.
 هو يلتقي بها وبأصدقائها.;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 يتعرف على{prs=يتعرف على, pst=تعرّف على}; يعرف عن قرب{prs=يعرف عن قرب, pst=عرف عن قرب};
 
 j-n kennenlernen
@@ -2683,7 +2683,7 @@ v klettern / kletterte / hat geklettert
 v rennen-rennt / rannte / ist gerannt
 يركض بسرعة{prs=يركض بسرعة, pst=ركض بسرعة};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 يتنزه سيرًا{prs=يتنزه سيرًا, pst=تنزه سيرًا}; يمشي في الطبيعة{prs=يمشي في الطبيعة, pst=مشى في الطبيعة};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -2836,7 +2836,7 @@ Ich habe keine Ahnung.
 v einchecken / checkte ein / hat eingecheckt
 يسجل الوصول{prs=يسجل الوصول, pst=سجل الوصول};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 يوصل{prs=يوصل, pst=أوصل}; يورّد{prs=يورّد, pst=ورّد};
 
 der Arbeitstag -e
@@ -3073,9 +3073,6 @@ der Kindergarten "-
 das Spielzeug -e
 لعبة; ألعاب;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-يتعرف إلى; يتعرف على; يتعرف لأول مرة;
-
 v leihen / lieh / hat geliehen
 يعير; يقرض; يعطي على سبيل الإعارة;
 [j-m; etw.]
@@ -3087,10 +3084,6 @@ v sich leihen / lieh sich / hat sich geliehen
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 يستعير; يعير; يؤجر; يستأجر;
 [etw.]
-
-v liefern
-يسلّم; يوصل; يورد;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 يأتي مع; يذهب مع; يرافق;
@@ -3151,14 +3144,8 @@ v klettern / - / ist geklettert
 v fallen-fällt / fiel / ist gefallen
 يسقط;
 
-v rennen / rannte / ist gerannt
-يركض; يجري بسرعة; يندفع;
-
 v joggen / - / ist gejoggt
 يركض ببطء; يمارس الجري الخفيف;
-
-v fliegen / flog / ist geflogen
-يطير; يسافر بالطائرة;
 
 v fliegen / flog / hat geflogen
 يقود طائرة; يطير بطائرة;
@@ -3166,9 +3153,6 @@ v fliegen / flog / hat geflogen
 
 v reisen / - / ist gereist
 يسافر; يقوم برحلة;
-
-v wandern / - / ist gewandert
-يتنزه سيراً; يمشي في الطبيعة; يتجول;
 
 v steigen / stieg / ist gestiegen
 يصعد; يرتفع; يزداد; يتسلق;
@@ -3196,9 +3180,6 @@ v schwanken
 
 v ankommen-kommt an / kam an / ist angekommen
 يصل; يأتي; يبلغ;
-
-v bleiben / blieb / ist geblieben
-يبقى; يظل;
 
 zu Hause
 في البيت; في المنزل;
@@ -3233,9 +3214,6 @@ v überweisen / überwies / hat überwiesen
 v suchen
 يبحث عن; يفتش عن;
 
-v machen
-يفعل; يعمل; يصنع; يحضّر;
-
 v brauchen
 يحتاج; يلزم; يتطلب;
 
@@ -3253,9 +3231,6 @@ v stehen / stand / hat gestanden
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 يستيقظ;
-
-v gehen / ging / ist gegangen
-يذهب; يمشي;
 
 der Papayasalat -e
 سلطة بابايا;
@@ -3924,9 +3899,6 @@ v schneiden / schnitt / hat geschnitten
 
 v tragen-trägt / trug / hat getragen
 يحمل; يرتدي;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-يوقّع;
 
 a dünn
 رفيع; نحيف; خفيف; مائي;

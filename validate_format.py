@@ -12,10 +12,58 @@ from typing import Iterable
 NOUN_PREFIXES = ("der ", "die ", "das ", "(-) ")
 PLURAL_MARKER_RE = re.compile(r'^(?:\((?:sg|pl)\.\)|[-"][^\s]*)$')
 VERB_SPLIT_RE = re.compile(r"\s*/\s*")
+VERB_VARIANT_SPLIT_RE = re.compile(r"\s*,\s*")
 GRAMMAR_LINE_RE = re.compile(r"^\[(.*)\]$")
 TRANSLATION_CUES_RE = re.compile(r"^(?P<gloss>.*\S)\{(?P<cues>[^{}]+)\}$")
 TRANSLATION_CUE_ITEM_RE = re.compile(r"^(?P<tag>[a-z]{3})=(?P<value>.*\S)$")
 KNOWN_CUE_TAGS = {"prs", "pst", "par", "aux", "cmp", "sup"}
+SEPARABLE_PREFIXES = (
+    "zurecht",
+    "zurück",
+    "zusammen",
+    "weiter",
+    "hinweg",
+    "vorbei",
+    "gegenüber",
+    "empor",
+    "entgegen",
+    "heraus",
+    "herein",
+    "herbei",
+    "heran",
+    "hinauf",
+    "hinaus",
+    "hinein",
+    "voran",
+    "weg",
+    "bei",
+    "dar",
+    "ein",
+    "fern",
+    "fest",
+    "fort",
+    "heim",
+    "her",
+    "hin",
+    "los",
+    "mit",
+    "nach",
+    "preis",
+    "statt",
+    "teil",
+    "um",
+    "unter",
+    "vor",
+    "weg",
+    "wieder",
+    "zu",
+    "ab",
+    "an",
+    "auf",
+    "aus",
+)
+INSEPARABLE_PREFIXES = ("be", "emp", "ent", "er", "ge", "miss", "ver", "zer")
+EPENTHETIC_E_RE = re.compile(r"(?:[dt]|[^aeiouäöüy][mn]|chn|ffn)$")
 
 
 @dataclass(frozen=True)
@@ -23,9 +71,10 @@ class ValidationError:
     path: Path
     line: int
     message: str
+    severity: str = "error"
 
     def render(self) -> str:
-        return f"{self.path}:{self.line}: {self.message}"
+        return f"{self.path}:{self.line}: {self.severity}: {self.message}"
 
 
 def iter_files(paths: list[str]) -> Iterable[Path]:
@@ -115,15 +164,129 @@ def validate_verb(path: Path, line_no: int, lemma: str) -> list[ValidationError]
             errors.append(ValidationError(path, line_no, "verb infinitive is empty"))
         if not present_exception:
             errors.append(ValidationError(path, line_no, "verb present-tense exception is empty"))
+        elif infinitive:
+            regular_present = build_regular_present_forms(infinitive)
+            present_variants = split_variants(present_exception)
+            if present_variants and all(variant in regular_present for variant in present_variants):
+                errors.append(
+                    ValidationError(
+                        path,
+                        line_no,
+                        "verb present-tense exception stores only regular forms; omit the exception block",
+                        severity="warning",
+                    )
+                )
     elif not first:
         errors.append(ValidationError(path, line_no, "verb infinitive is empty"))
+    else:
+        infinitive = first
 
     if len(fields) >= 2 and fields[1] == "":
         errors.append(ValidationError(path, line_no, "verb Prateritum field is empty"))
+    elif len(fields) >= 2 and fields[1] != "-" and first:
+        regular_praeteritum = build_regular_praeteritum_forms(infinitive)
+        praeteritum_variants = split_variants(fields[1])
+        if praeteritum_variants and all(variant in regular_praeteritum for variant in praeteritum_variants):
+            errors.append(
+                ValidationError(
+                    path,
+                    line_no,
+                    "verb Prateritum field stores only regular forms; use `-` instead",
+                    severity="warning",
+                )
+            )
     if len(fields) == 3 and fields[2] == "":
         errors.append(ValidationError(path, line_no, "verb auxiliary/participle field is empty"))
+    elif len(fields) == 3 and first:
+        regular_participle = build_regular_participle_forms(infinitive)
+        explicit_participle = extract_explicit_participle(fields[2])
+        if explicit_participle in regular_participle:
+            errors.append(
+                ValidationError(
+                    path,
+                    line_no,
+                    "verb auxiliary/participle field stores a regular participle; keep only the auxiliary",
+                    severity="warning",
+                )
+            )
 
     return errors
+
+
+def split_variants(value: str) -> list[str]:
+    return [part.strip() for part in VERB_VARIANT_SPLIT_RE.split(value) if part.strip()]
+
+
+def split_infinitive(infinitive: str) -> tuple[bool, str, str]:
+    reflexive = infinitive.startswith("sich ")
+    core = infinitive[5:] if reflexive else infinitive
+    for prefix in SEPARABLE_PREFIXES:
+        if core.startswith(prefix) and len(core) > len(prefix) + 1:
+            base = core[len(prefix) :]
+            if base.endswith(("en", "n")):
+                return reflexive, prefix, base
+    return reflexive, "", core
+
+
+def needs_epenthetic_e(stem: str) -> bool:
+    return bool(EPENTHETIC_E_RE.search(stem))
+
+
+def build_regular_stem(base: str) -> tuple[str, bool]:
+    if base.endswith(("eln", "ern")):
+        return base[:-1], False
+    if base.endswith("en"):
+        return base[:-2], needs_epenthetic_e(base[:-2])
+    if base.endswith("n"):
+        return base[:-1], False
+    return base, False
+
+
+def build_regular_present_forms(infinitive: str) -> set[str]:
+    reflexive, prefix, base = split_infinitive(infinitive)
+    stem, add_e = build_regular_stem(base)
+    finite = stem + ("et" if add_e else "t")
+    return {compose_surface_form(finite, prefix, reflexive)}
+
+
+def build_regular_praeteritum_forms(infinitive: str) -> set[str]:
+    reflexive, prefix, base = split_infinitive(infinitive)
+    stem, add_e = build_regular_stem(base)
+    finite = stem + ("ete" if add_e else "te")
+    return {compose_surface_form(finite, prefix, reflexive)}
+
+
+def build_regular_participle_forms(infinitive: str) -> set[str]:
+    reflexive, prefix, base = split_infinitive(infinitive)
+    stem, add_e = build_regular_stem(base)
+    participle_core = stem + ("et" if add_e else "t")
+    if base.endswith("ieren") or any(base.startswith(item) for item in INSEPARABLE_PREFIXES):
+        participle = base[:-2] + "t" if base.endswith("ieren") else participle_core
+    else:
+        participle = "ge" + participle_core
+    if prefix:
+        participle = prefix + participle
+    forms = {participle}
+    if reflexive:
+        forms.add(f"sich {participle}")
+    return forms
+
+
+def compose_surface_form(finite: str, prefix: str, reflexive: bool) -> str:
+    parts = [finite]
+    if reflexive:
+        parts.append("sich")
+    if prefix:
+        parts.append(prefix)
+    return " ".join(parts)
+
+
+def extract_explicit_participle(auxiliary_field: str) -> str | None:
+    for prefix in ("hat ", "ist "):
+        if auxiliary_field.startswith(prefix):
+            remainder = auxiliary_field[len(prefix) :].strip()
+            return remainder or None
+    return None
 
 
 def validate_adjective(path: Path, line_no: int, lemma: str) -> list[ValidationError]:
@@ -148,6 +311,93 @@ def validate_adjective(path: Path, line_no: int, lemma: str) -> list[ValidationE
         )
     )
     return errors
+
+
+def entry_head_key(lemma: str) -> str:
+    if lemma.startswith(NOUN_PREFIXES):
+        body = lemma[4:]
+        if " " not in body:
+            return lemma
+        noun, _marker = body.rsplit(" ", 1)
+        return lemma[:4] + noun
+    if lemma.startswith("v "):
+        body = lemma[2:]
+        first = VERB_SPLIT_RE.split(body, maxsplit=1)[0]
+        infinitive = first.split("-", 1)[0]
+        return f"v {infinitive}"
+    if lemma.startswith("a "):
+        return f"a {lemma[2:].split(' ', 1)[0]}"
+    return lemma
+
+
+def duplicate_scope_key(path: Path) -> str:
+    language_like = {"ar", "en", "ru", "tr"}
+    if path.parent.name in language_like:
+        return path.parent.name
+    if path.suffix == ".txt" and path.stem in language_like:
+        return path.stem
+    return str(path.parent)
+
+
+def collect_entry_heads(path: Path) -> list[tuple[int, str]]:
+    lines, errors = read_lines(path)
+    if lines is None or errors:
+        return []
+
+    heads: list[tuple[int, str]] = []
+    index = 0
+    total = len(lines)
+    while index < total:
+        stripped = lines[index].strip()
+        line_no = index + 1
+        if stripped == "":
+            index += 1
+            continue
+
+        heads.append((line_no, entry_head_key(stripped)))
+        index += 1
+
+        if index < total:
+            index += 1
+
+        if index < total:
+            grammar = lines[index].strip()
+            if grammar != "" and GRAMMAR_LINE_RE.match(grammar):
+                index += 1
+
+        while index < total and lines[index].strip() != "":
+            index += 1
+
+        while index < total and lines[index].strip() == "":
+            index += 1
+
+    return heads
+
+
+def validate_duplicate_heads(paths: Iterable[Path]) -> list[ValidationError]:
+    warnings: list[ValidationError] = []
+    first_seen: dict[tuple[str, str], tuple[Path, int]] = {}
+
+    for path in paths:
+        if not path.exists() or not path.is_file():
+            continue
+        scope = duplicate_scope_key(path)
+        for line_no, head in collect_entry_heads(path):
+            key = (scope, head)
+            if key not in first_seen:
+                first_seen[key] = (path, line_no)
+                continue
+            first_path, first_line = first_seen[key]
+            warnings.append(
+                ValidationError(
+                    path,
+                    line_no,
+                    f"duplicate head {head!r}; first seen at {first_path}:{first_line}",
+                    severity="warning",
+                )
+            )
+
+    return warnings
 
 
 def validate_lemma(path: Path, line_no: int, lemma: str) -> list[ValidationError]:
@@ -383,20 +633,36 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 
 def main(argv: list[str]) -> int:
     args = parse_args(argv)
-    all_errors: list[ValidationError] = []
+    all_messages: list[ValidationError] = []
     validated_files = 0
+    file_paths = list(iter_files(args.paths))
 
-    for path in iter_files(args.paths):
-        file_errors = validate_file(path)
-        all_errors.extend(file_errors)
+    for path in file_paths:
+        file_messages = validate_file(path)
+        all_messages.extend(file_messages)
         if path.exists() and path.is_file():
             validated_files += 1
 
-    if all_errors:
-        for error in all_errors:
-            print(error.render(), file=sys.stderr)
-        print(f"{len(all_errors)} error(s) found across {validated_files} file(s).", file=sys.stderr)
+    all_messages.extend(validate_duplicate_heads(file_paths))
+
+    error_count = sum(1 for message in all_messages if message.severity == "error")
+    warning_count = sum(1 for message in all_messages if message.severity == "warning")
+
+    if all_messages:
+        for message in all_messages:
+            stream = sys.stderr if message.severity == "error" else sys.stdout
+            print(message.render(), file=stream)
+
+    if error_count:
+        summary = f"{error_count} error(s)"
+        if warning_count:
+            summary += f", {warning_count} warning(s)"
+        print(f"{summary} found across {validated_files} file(s).", file=sys.stderr)
         return 1
+
+    if warning_count:
+        print(f"Validated {validated_files} file(s); {warning_count} warning(s) found.")
+        return 0
 
     print(f"Validated {validated_files} file(s); no format errors found.")
     return 0

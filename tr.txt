@@ -2365,7 +2365,7 @@ bir milyon;
 10.000.000
 on milyon;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 yapmak{prs=yapar, pst=yaptı}; etmek{prs=eder, pst=etti};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -2629,7 +2629,7 @@ Onunla ve arkadaşlarıyla buluşuyoruz. ;
 Er trifft sie und ihre Freunde.
 O, onunla ve arkadaşlarıyla buluşuyor. ;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 tanışmak{prs=tanışır, pst=tanıştı}; yakından tanımak{prs=yakından tanır, pst=yakından tanıdı};
 
 j-n kennenlernen
@@ -2680,7 +2680,7 @@ tırmanmak{prs=tırmanır, pst=tırmandı};
 v rennen-rennt / rannte / ist gerannt
 hızlı koşmak{prs=hızlı koşar, pst=hızlı koştu};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 yürüyüş yapmak{prs=yürüyüş yapar, pst=yürüyüş yaptı}; doğa yürüyüşüne çıkmak{prs=doğa yürüyüşüne çıkar, pst=doğa yürüyüşüne çıktı};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -2833,7 +2833,7 @@ Hiçbir fikrim yok. ;
 v einchecken / checkte ein / hat eingecheckt
 check-in yapmak{prs=check-in yapar, pst=check-in yaptı}; giriş kaydı yaptırmak{prs=giriş kaydı yaptırır, pst=giriş kaydı yaptırdı};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 teslim etmek{prs=teslim eder, pst=teslim etti}; tedarik etmek{prs=tedarik eder, pst=tedarik etti};
 
 der Arbeitstag -e
@@ -3070,9 +3070,6 @@ anaokulu; kreş;
 das Spielzeug -e
 oyuncak; oyuncaklar;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-tanışmak; tanımak; öğrenip tanımak;
-
 v leihen / lieh / hat geliehen
 ödünç vermek;
 [j-m; etw.]
@@ -3084,10 +3081,6 @@ v sich leihen / lieh sich / hat sich geliehen
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 ödünç almak; ödünç vermek; kiralamak;
 [etw.]
-
-v liefern
-teslim etmek; tedarik etmek; götürmek;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 birlikte gelmek; birlikte gitmek;
@@ -3148,14 +3141,8 @@ tırmanmak; yukarı çıkmak;
 v fallen-fällt / fiel / ist gefallen
 düşmek;
 
-v rennen / rannte / ist gerannt
-koşmak; hızla koşmak;
-
 v joggen / - / ist gejoggt
 jogging yapmak; hafif koşmak;
-
-v fliegen / flog / ist geflogen
-uçmak; uçakla gitmek;
 
 v fliegen / flog / hat geflogen
 uçurmak; pilotluk yapmak; uçak kullanmak;
@@ -3163,9 +3150,6 @@ uçurmak; pilotluk yapmak; uçak kullanmak;
 
 v reisen / - / ist gereist
 seyahat etmek; yolculuk yapmak;
-
-v wandern / - / ist gewandert
-doğa yürüyüşü yapmak; yürüyerek gezmek; dolaşmak;
 
 v steigen / stieg / ist gestiegen
 yükselmek; tırmanmak; artmak; çıkmak;
@@ -3193,9 +3177,6 @@ sallanmak; sendelemek; dalgalanmak; tereddüt etmek;
 
 v ankommen-kommt an / kam an / ist angekommen
 varmak; gelmek; ulaşmak;
-
-v bleiben / blieb / ist geblieben
-kalmak; devam etmek;
 
 zu Hause
 evde;
@@ -3230,9 +3211,6 @@ para havale etmek; para transfer etmek;
 v suchen
 aramak;
 
-v machen
-yapmak; hazırlamak;
-
 v brauchen
 ihtiyaç duymak; gerekmek; lazım olmak;
 
@@ -3250,9 +3228,6 @@ ayakta durmak; durmak;
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 uyanmak;
-
-v gehen / ging / ist gegangen
-gitmek; yürümek;
 
 der Papayasalat -e
 papaya salatası;
@@ -3921,9 +3896,6 @@ kesmek; doğramak; saç kesmek;
 
 v tragen-trägt / trug / hat getragen
 taşımak; giymek;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-imzalamak;
 
 a dünn
 ince; zayıf; sulu;

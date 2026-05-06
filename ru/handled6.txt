@@ -133,9 +133,6 @@ der Kindergarten "-
 das Spielzeug -e
 игрушка; игрушки;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-знакомиться; узнавать;
-
 v leihen / lieh / hat geliehen
 одалживать; брать на время; давать на время;
 [j-m; etw.]
@@ -147,10 +144,6 @@ v sich leihen / lieh sich / hat sich geliehen
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 брать на время; выдавать на время;
 [etw.]
-
-v liefern
-доставлять; поставлять;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 идти с кем-либо; ехать с кем-либо;
@@ -211,14 +204,8 @@ v klettern / - / ist geklettert
 v fallen-fällt / fiel / ist gefallen
 падать;
 
-v rennen / rannte / ist gerannt
-бежать; мчаться;
-
 v joggen / - / ist gejoggt
 бегать трусцой;
-
-v fliegen / flog / ist geflogen
-лететь; летать;
 
 v fliegen / flog / hat geflogen
 пилотировать;
@@ -226,9 +213,6 @@ v fliegen / flog / hat geflogen
 
 v reisen / - / ist gereist
 путешествовать;
-
-v wandern / - / ist gewandert
-ходить в походы; странствовать;
 
 v steigen / stieg / ist gestiegen
 подниматься; расти; повышаться;
@@ -256,9 +240,6 @@ v schwanken
 
 v ankommen-kommt an / kam an / ist angekommen
 прибывать; приезжать; доходить;
-
-v bleiben / blieb / ist geblieben
-оставаться;
 
 zu Hause
 дома;
@@ -293,9 +274,6 @@ v überweisen / überwies / hat überwiesen
 v suchen
 искать;
 
-v machen
-делать; готовить;
-
 v brauchen
 нуждаться; требоваться;
 
@@ -313,9 +291,6 @@ v stehen / stand / hat gestanden
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 просыпаться;
-
-v gehen / ging / ist gegangen
-идти;
 
 der Papayasalat -e
 салат из папайи;
@@ -984,9 +959,6 @@ v schneiden / schnitt / hat geschnitten
 
 v tragen-trägt / trug / hat getragen
 носить; нести;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-подписывать;
 
 a dünn
 тонкий; худой;

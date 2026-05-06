@@ -277,7 +277,7 @@ der Traum "-e
 10.000.000
 عشرة ملايين;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 يفعل{prs=يفعل, pst=فعل}; يصنع{prs=يصنع, pst=صنع};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -541,7 +541,7 @@ Wir treffen ihn und seine Freunde.
 Er trifft sie und ihre Freunde.
 هو يلتقي بها وبأصدقائها.;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 يتعرف على{prs=يتعرف على, pst=تعرّف على}; يعرف عن قرب{prs=يعرف عن قرب, pst=عرف عن قرب};
 
 j-n kennenlernen
@@ -592,7 +592,7 @@ v klettern / kletterte / hat geklettert
 v rennen-rennt / rannte / ist gerannt
 يركض بسرعة{prs=يركض بسرعة, pst=ركض بسرعة};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 يتنزه سيرًا{prs=يتنزه سيرًا, pst=تنزه سيرًا}; يمشي في الطبيعة{prs=يمشي في الطبيعة, pst=مشى في الطبيعة};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -745,7 +745,7 @@ Ich habe keine Ahnung.
 v einchecken / checkte ein / hat eingecheckt
 يسجل الوصول{prs=يسجل الوصول, pst=سجل الوصول};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 يوصل{prs=يوصل, pst=أوصل}; يورّد{prs=يورّد, pst=ورّد};
 
 der Arbeitstag -e

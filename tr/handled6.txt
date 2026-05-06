@@ -133,9 +133,6 @@ anaokulu; kreş;
 das Spielzeug -e
 oyuncak; oyuncaklar;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-tanışmak; tanımak; öğrenip tanımak;
-
 v leihen / lieh / hat geliehen
 ödünç vermek;
 [j-m; etw.]
@@ -147,10 +144,6 @@ v sich leihen / lieh sich / hat sich geliehen
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 ödünç almak; ödünç vermek; kiralamak;
 [etw.]
-
-v liefern
-teslim etmek; tedarik etmek; götürmek;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 birlikte gelmek; birlikte gitmek;
@@ -211,14 +204,8 @@ tırmanmak; yukarı çıkmak;
 v fallen-fällt / fiel / ist gefallen
 düşmek;
 
-v rennen / rannte / ist gerannt
-koşmak; hızla koşmak;
-
 v joggen / - / ist gejoggt
 jogging yapmak; hafif koşmak;
-
-v fliegen / flog / ist geflogen
-uçmak; uçakla gitmek;
 
 v fliegen / flog / hat geflogen
 uçurmak; pilotluk yapmak; uçak kullanmak;
@@ -226,9 +213,6 @@ uçurmak; pilotluk yapmak; uçak kullanmak;
 
 v reisen / - / ist gereist
 seyahat etmek; yolculuk yapmak;
-
-v wandern / - / ist gewandert
-doğa yürüyüşü yapmak; yürüyerek gezmek; dolaşmak;
 
 v steigen / stieg / ist gestiegen
 yükselmek; tırmanmak; artmak; çıkmak;
@@ -256,9 +240,6 @@ sallanmak; sendelemek; dalgalanmak; tereddüt etmek;
 
 v ankommen-kommt an / kam an / ist angekommen
 varmak; gelmek; ulaşmak;
-
-v bleiben / blieb / ist geblieben
-kalmak; devam etmek;
 
 zu Hause
 evde;
@@ -293,9 +274,6 @@ para havale etmek; para transfer etmek;
 v suchen
 aramak;
 
-v machen
-yapmak; hazırlamak;
-
 v brauchen
 ihtiyaç duymak; gerekmek; lazım olmak;
 
@@ -313,9 +291,6 @@ ayakta durmak; durmak;
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 uyanmak;
-
-v gehen / ging / ist gegangen
-gitmek; yürümek;
 
 der Papayasalat -e
 papaya salatası;
@@ -984,9 +959,6 @@ kesmek; doğramak; saç kesmek;
 
 v tragen-trägt / trug / hat getragen
 taşımak; giymek;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-imzalamak;
 
 a dünn
 ince; zayıf; sulu;

@@ -2365,7 +2365,7 @@ der Traum "-e
 10.000.000
 десять миллионов;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 делать{prs=делает, pst=делал}; изготавливать{prs=изготавливает, pst=изготавливал};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -2629,7 +2629,7 @@ Wir treffen ihn und seine Freunde.
 Er trifft sie und ihre Freunde.
 Он встречает ее и ее друзей.;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 знакомиться{prs=знакомится, pst=знакомился}; узнавать ближе{prs=узнает ближе, pst=узнавал ближе};
 
 j-n kennenlernen
@@ -2680,7 +2680,7 @@ v klettern / kletterte / hat geklettert
 v rennen-rennt / rannte / ist gerannt
 бежать быстро{prs=бежит быстро, pst=бежал быстро};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 ходить в поход{prs=ходит в поход, pst=ходил в поход}; путешествовать пешком{prs=путешествует пешком, pst=путешествовал пешком};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -2833,7 +2833,7 @@ Ich habe keine Ahnung.
 v einchecken / checkte ein / hat eingecheckt
 регистрироваться{prs=регистрируется, pst=регистрировался}; проходить регистрацию{prs=проходит регистрацию, pst=проходил регистрацию};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 доставлять{prs=доставляет, pst=доставлял}; поставлять{prs=поставляет, pst=поставлял};
 
 der Arbeitstag -e
@@ -3070,9 +3070,6 @@ der Kindergarten "-
 das Spielzeug -e
 игрушка; игрушки;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-знакомиться; узнавать;
-
 v leihen / lieh / hat geliehen
 одалживать; брать на время; давать на время;
 [j-m; etw.]
@@ -3084,10 +3081,6 @@ v sich leihen / lieh sich / hat sich geliehen
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 брать на время; выдавать на время;
 [etw.]
-
-v liefern
-доставлять; поставлять;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 идти с кем-либо; ехать с кем-либо;
@@ -3148,14 +3141,8 @@ v klettern / - / ist geklettert
 v fallen-fällt / fiel / ist gefallen
 падать;
 
-v rennen / rannte / ist gerannt
-бежать; мчаться;
-
 v joggen / - / ist gejoggt
 бегать трусцой;
-
-v fliegen / flog / ist geflogen
-лететь; летать;
 
 v fliegen / flog / hat geflogen
 пилотировать;
@@ -3163,9 +3150,6 @@ v fliegen / flog / hat geflogen
 
 v reisen / - / ist gereist
 путешествовать;
-
-v wandern / - / ist gewandert
-ходить в походы; странствовать;
 
 v steigen / stieg / ist gestiegen
 подниматься; расти; повышаться;
@@ -3193,9 +3177,6 @@ v schwanken
 
 v ankommen-kommt an / kam an / ist angekommen
 прибывать; приезжать; доходить;
-
-v bleiben / blieb / ist geblieben
-оставаться;
 
 zu Hause
 дома;
@@ -3230,9 +3211,6 @@ v überweisen / überwies / hat überwiesen
 v suchen
 искать;
 
-v machen
-делать; готовить;
-
 v brauchen
 нуждаться; требоваться;
 
@@ -3250,9 +3228,6 @@ v stehen / stand / hat gestanden
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 просыпаться;
-
-v gehen / ging / ist gegangen
-идти;
 
 der Papayasalat -e
 салат из папайи;
@@ -3921,9 +3896,6 @@ v schneiden / schnitt / hat geschnitten
 
 v tragen-trägt / trug / hat getragen
 носить; нести;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-подписывать;
 
 a dünn
 тонкий; худой;

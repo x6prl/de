@@ -133,9 +133,6 @@ kindergarten; nursery school;
 das Spielzeug -e
 toy; toys;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-get to know; meet; become acquainted with;
-
 v leihen / lieh / hat geliehen
 lend; loan;
 [j-m; etw.]
@@ -147,10 +144,6 @@ borrow;
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 borrow; lend out; rent;
 [etw.]
-
-v liefern
-deliver; supply;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 come along; go along;
@@ -211,14 +204,8 @@ climb; scramble;
 v fallen-fällt / fiel / ist gefallen
 fall;
 
-v rennen / rannte / ist gerannt
-run; race; dash;
-
 v joggen / - / ist gejoggt
 jog;
-
-v fliegen / flog / ist geflogen
-fly; travel by plane;
 
 v fliegen / flog / hat geflogen
 fly; pilot;
@@ -226,9 +213,6 @@ fly; pilot;
 
 v reisen / - / ist gereist
 travel;
-
-v wandern / - / ist gewandert
-hike; wander;
 
 v steigen / stieg / ist gestiegen
 rise; climb; increase; go up;
@@ -256,9 +240,6 @@ sway; stagger; fluctuate; hesitate;
 
 v ankommen-kommt an / kam an / ist angekommen
 arrive; come; reach;
-
-v bleiben / blieb / ist geblieben
-stay; remain;
 
 zu Hause
 at home;
@@ -293,9 +274,6 @@ transfer money; remit;
 v suchen
 search; look for;
 
-v machen
-make; do; prepare;
-
 v brauchen
 need; require;
 
@@ -313,9 +291,6 @@ stand;
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 wake up;
-
-v gehen / ging / ist gegangen
-go; walk;
 
 der Papayasalat -e
 papaya salad;
@@ -984,9 +959,6 @@ cut; slice; cut hair;
 
 v tragen-trägt / trug / hat getragen
 carry; wear;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-sign;
 
 a dünn
 thin; slim; watery;

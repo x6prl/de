@@ -68,15 +68,28 @@ def main(argv: list[str]) -> int:
         print(str(exc), file=sys.stderr)
         return 1
 
-    all_errors: list[validate_format.ValidationError] = []
+    all_messages: list[validate_format.ValidationError] = []
     for output_path in generated:
-        all_errors.extend(validate_format.validate_file(output_path))
+        all_messages.extend(validate_format.validate_file(output_path))
 
-    if all_errors:
-        for error in all_errors:
-            print(error.render(), file=sys.stderr)
-        print(f"{len(all_errors)} validation error(s) found across {len(generated)} generated file(s).", file=sys.stderr)
+    error_count = sum(1 for message in all_messages if message.severity == "error")
+    warning_count = sum(1 for message in all_messages if message.severity == "warning")
+
+    if all_messages:
+        for message in all_messages:
+            stream = sys.stderr if message.severity == "error" else sys.stdout
+            print(message.render(), file=stream)
+
+    if error_count:
+        summary = f"{error_count} validation error(s)"
+        if warning_count:
+            summary += f", {warning_count} warning(s)"
+        print(f"{summary} found across {len(generated)} generated file(s).", file=sys.stderr)
         return 1
+
+    if warning_count:
+        print(f"Validated {len(generated)} generated file(s); {warning_count} warning(s) found.")
+        return 0
 
     print(f"Validated {len(generated)} generated file(s); no format errors found.")
     return 0

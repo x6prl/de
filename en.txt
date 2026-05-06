@@ -2362,7 +2362,7 @@ one million;
 10.000.000
 ten million;
 
-v machen / machte / hat gemacht
+v machen / - / hat
 do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
 
 v zumachen-macht zu / machte zu / hat zugemacht
@@ -2626,7 +2626,7 @@ We meet him and his friends.;
 Er trifft sie und ihre Freunde.
 He meets her and her friends.;
 
-v kennenlernen / lernte kennen / hat kennengelernt
+v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
 meet and get to know someone{prs=meets and gets to know someone, pst=met and got to know someone}; get to know{prs=gets to know, pst=got to know};
 
 j-n kennenlernen
@@ -2677,7 +2677,7 @@ climb{prs=climbs, pst=climbed};
 v rennen-rennt / rannte / ist gerannt
 run fast{prs=runs fast, pst=ran fast};
 
-v wandern / wanderte / ist gewandert
+v wandern / - / ist
 hike{prs=hikes, pst=hiked};
 
 v fliegen-fliegt / flog / ist geflogen
@@ -2830,7 +2830,7 @@ I have no idea.;
 v einchecken / checkte ein / hat eingecheckt
 check in{prs=checks in, pst=checked in};
 
-v liefern / lieferte / hat geliefert
+v liefern / - / hat
 deliver{prs=delivers, pst=delivered}; supply{prs=supplies, pst=supplied};
 
 der Arbeitstag -e
@@ -3067,9 +3067,6 @@ kindergarten; nursery school;
 das Spielzeug -e
 toy; toys;
 
-v kennenlernen-lernt kennen / lernte kennen / hat kennengelernt
-get to know; meet; become acquainted with;
-
 v leihen / lieh / hat geliehen
 lend; loan;
 [j-m; etw.]
@@ -3081,10 +3078,6 @@ borrow;
 v ausleihen-leiht aus / lieh aus / hat ausgeliehen
 borrow; lend out; rent;
 [etw.]
-
-v liefern
-deliver; supply;
-[zu+Dat]
 
 v mitkommen-kommt mit / kam mit / ist mitgekommen
 come along; go along;
@@ -3145,14 +3138,8 @@ climb; scramble;
 v fallen-fällt / fiel / ist gefallen
 fall;
 
-v rennen / rannte / ist gerannt
-run; race; dash;
-
 v joggen / - / ist gejoggt
 jog;
-
-v fliegen / flog / ist geflogen
-fly; travel by plane;
 
 v fliegen / flog / hat geflogen
 fly; pilot;
@@ -3160,9 +3147,6 @@ fly; pilot;
 
 v reisen / - / ist gereist
 travel;
-
-v wandern / - / ist gewandert
-hike; wander;
 
 v steigen / stieg / ist gestiegen
 rise; climb; increase; go up;
@@ -3190,9 +3174,6 @@ sway; stagger; fluctuate; hesitate;
 
 v ankommen-kommt an / kam an / ist angekommen
 arrive; come; reach;
-
-v bleiben / blieb / ist geblieben
-stay; remain;
 
 zu Hause
 at home;
@@ -3227,9 +3208,6 @@ transfer money; remit;
 v suchen
 search; look for;
 
-v machen
-make; do; prepare;
-
 v brauchen
 need; require;
 
@@ -3247,9 +3225,6 @@ stand;
 
 v aufwachen-wacht auf / wachte auf / ist aufgewacht
 wake up;
-
-v gehen / ging / ist gegangen
-go; walk;
 
 der Papayasalat -e
 papaya salad;
@@ -3918,9 +3893,6 @@ cut; slice; cut hair;
 
 v tragen-trägt / trug / hat getragen
 carry; wear;
-
-v unterschreiben / unterschrieb / hat unterschrieben
-sign;
 
 a dünn
 thin; slim; watery;
