@@ -82,31 +82,31 @@ das Zentrum -en
 das Zimmer -
 комната;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 ставить{prs=ставит, pst=ставил}; оставлять{prs=оставляет, pst=оставлял}; отключать{prs=отключает, pst=отключал};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 использовать{prs=использует, pst=использовал};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 платить{prs=платит, pst=платил}; оплачивать{prs=оплачивает, pst=оплачивал};
 
 v dürfen-darf / durfte / hat gedurft
 мочь{prs=может, pst=мог}; иметь разрешение;
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 снимать{prs=снимает, pst=снимал}; арендовать{prs=арендует, pst=арендовал};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 парковаться{prs=паркуется, pst=парковался};
 
-v putzen / putzte / hat geputzt
+v putzen / - / hat
 чистить{prs=чистит, pst=чистил}; убирать{prs=убирает, pst=убирал};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 курить{prs=курит, pst=курил};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 хотеть{prs=хочет, pst=хотел};
 
 a alt

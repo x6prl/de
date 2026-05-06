@@ -82,31 +82,31 @@ merkez; şehir merkezi;
 das Zimmer -
 oda;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 bir yere koymak{prs=bir yere koyar, pst=bir yere koydu}; bırakmak{prs=bırakır, pst=bıraktı}; kapatmak{prs=kapatır, pst=kapattı};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 kullanmak{prs=kullanır, pst=kullandı};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 ödemek{prs=öder, pst=ödedi}; parasını vermek{prs=parasını verir, pst=parasını verdi};
 
 v dürfen-darf / durfte / hat gedurft
 izinli olmak{prs=izinli olur, pst=izinli oldu}; izin verilmiş olmak;
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 kiralamak{prs=kiralar, pst=kiraladı};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 park etmek{prs=park eder, pst=park etti};
 
-v putzen / putzte / hat geputzt
+v putzen / - / hat
 temizlemek{prs=temizler, pst=temizledi}; toparlamak{prs=toparlar, pst=toparladı};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 sigara içmek{prs=sigara içer, pst=sigara içti};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 istemek{prs=ister, pst=istedi};
 
 a alt

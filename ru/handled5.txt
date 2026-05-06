@@ -76,7 +76,7 @@ zu heiß
 die Bedeutung -en
 значение;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 сочетать{prs=сочетает, pst=сочетал}; комбинировать{prs=комбинирует, pst=комбинировал};
 
 ich darf
@@ -187,7 +187,7 @@ die Geschwindigkeit -en
 die Begrenzung -en
 ограничение;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 ограничивать{prs=ограничивает, pst=ограничивал};
 
 mal so, mal so
@@ -205,7 +205,7 @@ außer + Dat.
 Es ist verboten.
 Это запрещено.;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 запрещать{prs=запрещает, pst=запрещал};
 
 der Aberglaube (sg.)
@@ -226,7 +226,7 @@ die schwarze Katze -n
 Eine schwarze Katze bringt Unglück.
 Черная кошка приносит несчастье.;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 греметь{prs=гремит, pst=гремел}; шуметь{prs=шумит, pst=шумел};
 
 das Unglück (sg.)
@@ -238,7 +238,7 @@ der Knoblauch (sg.)
 Knoblauch schützt vor Vampiren.
 Чеснок защищает от вампиров.;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 защищать{prs=защищает, pst=защищал};
 
 der Vampir -e
@@ -280,25 +280,25 @@ der Traum "-e
 v machen / - / hat
 делать{prs=делает, pst=делал}; изготавливать{prs=изготавливает, pst=изготавливал};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 закрывать{prs=закрывает, pst=закрывал};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 открывать{prs=открывает, pst=открывал};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 выключать{prs=выключает, pst=выключал}; договариваться{prs=договаривается, pst=договаривался}; иметь значение{prs=имеет значение, pst=имел значение};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 включать{prs=включает, pst=включал}; клеиться к кому-то{prs=клеится к кому-то, pst=клеился к кому-то};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 договариваться{prs=договаривается, pst=договаривался}; снимать{prs=снимает, pst=снимал};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 консервировать{prs=консервирует, pst=консервировал};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 продолжать{prs=продолжает, pst=продолжал};
 
 die Vorsilbe -n
@@ -319,10 +319,10 @@ die Unterschrift -en
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 подчеркивать{prs=подчеркивает, pst=подчеркивал};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 чистить{prs=чистит, pst=чистил}; очищать{prs=очищает, pst=очищал};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 убирать{prs=убирает, pst=убирал}; убирать прочь{prs=убирает прочь, pst=убирал прочь}; относить в сторону{prs=относит в сторону, pst=относил в сторону};
 
 Ich unterschreibe den Brief.
@@ -397,16 +397,16 @@ v entspannen / entspannte / hat entspannt
 v sich entspannen / entspannte sich / hat sich entspannt
 расслабляться{prs=расслабляется, pst=расслаблялся}; отдыхать{prs=отдыхает, pst=отдыхал};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 отдыхать{prs=отдыхает, pst=отдыхал};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 отдыхать{prs=отдыхает, pst=отдыхал}; передохнуть{prs=передохнет, pst=передохнул};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 чиллить{prs=чиллит, pst=чиллил}; расслабляться{prs=расслабляется, pst=расслаблялся};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 купаться{prs=купается, pst=купался}; мыть{prs=моет, pst=мыл};
 
 im See baden
@@ -424,10 +424,10 @@ Ich bin aufgeregt.
 a gespannt
 заинтересованный; в предвкушении; любопытный;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 радоваться{prs=радуется, pst=радовался}; ждать с радостью{prs=ждет с радостью, pst=ждал с радостью};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 занимать{prs=занимает, pst=занимал}; нанимать{prs=нанимает, pst=нанимал};
 
 sich mit etw. beschäftigen
@@ -463,7 +463,7 @@ die Ente -n
 Enten füttern
 кормить уток;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 кормить животных{prs=кормит животных, pst=кормил животных};
 
 Das hängt ab.
@@ -586,7 +586,7 @@ Ich gehe in die Schule.
 v laufen-läuft / lief / ist gelaufen
 бежать{prs=бежит, pst=бежал}; ходить пешком{prs=ходит пешком, pst=ходил пешком};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 лезть{prs=лезет, pst=лез}; карабкаться{prs=карабкается, pst=карабкался};
 
 v rennen-rennt / rannte / ist gerannt
@@ -595,7 +595,7 @@ v rennen-rennt / rannte / ist gerannt
 v wandern / - / ist
 ходить в поход{prs=ходит в поход, pst=ходил в поход}; путешествовать пешком{prs=путешествует пешком, pst=путешествовал пешком};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 лететь{prs=летит, pst=летел};
 
 nach
@@ -607,13 +607,13 @@ Ich fahre nach Erfurt.
 Wir fliegen nach Palästina.
 Мы летим в Палестину.;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 работать{prs=работает, pst=работал};
 
 v lernen / lernte / hat gelernt
 учить{prs=учит, pst=учил}; учиться{prs=учится, pst=учился};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 покупать{prs=покупает, pst=покупал};
 
 v essen-isst / aß / hat gegessen
@@ -742,7 +742,7 @@ Ich habe am Montag eingekauft.
 Ich habe keine Ahnung.
 Я не имею ни малейшего представления.; Я не знаю.;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 регистрироваться{prs=регистрируется, pst=регистрировался}; проходить регистрацию{prs=проходит регистрацию, pst=проходил регистрацию};
 
 v liefern / - / hat
@@ -790,13 +790,13 @@ vom Hafen
 das Präteritum (sg.)
 претерит; простое прошедшее время;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 идти{prs=идет, pst=шел};
 
 v helfen-hilft / half / hat geholfen
 помогать{prs=помогает, pst=помогал};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 оставаться{prs=остается, pst=оставался};
 
 v werden-wird / wurde / ist geworden
@@ -811,7 +811,7 @@ mit Ermäßigung
 eine Ermäßigung bekommen
 получить скидку;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 переставать{prs=перестает, pst=переставал}; прекращать{prs=прекращает, pst=прекращал};
 
 mit etw. aufhören

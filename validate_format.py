@@ -77,6 +77,14 @@ class ValidationError:
         return f"{self.path}:{self.line}: {self.severity}: {self.message}"
 
 
+@dataclass(frozen=True)
+class DuplicateEntryRecord:
+    path: Path
+    line: int
+    head: str
+    signature: tuple[str, ...]
+
+
 def iter_files(paths: list[str]) -> Iterable[Path]:
     for raw_path in paths:
         path = Path(raw_path)
@@ -129,6 +137,8 @@ def validate_noun(path: Path, line_no: int, lemma: str) -> list[ValidationError]
     noun, marker = body.rsplit(" ", 1)
     if not noun:
         errors.append(ValidationError(path, line_no, "noun lemma is empty"))
+    elif " " in noun:
+        errors.append(ValidationError(path, line_no, "noun lemma must be a single token; multi-word nouns are not allowed"))
     if not marker:
         errors.append(ValidationError(path, line_no, "noun plural marker is empty"))
     elif not PLURAL_MARKER_RE.match(marker):
@@ -330,6 +340,52 @@ def entry_head_key(lemma: str) -> str:
     return lemma
 
 
+def extract_verb_infinitive(lemma: str) -> str:
+    body = lemma[2:]
+    first = VERB_SPLIT_RE.split(body, maxsplit=1)[0]
+    return first.split("-", 1)[0]
+
+
+def extract_verb_auxiliary(lemma: str) -> str:
+    body = lemma[2:]
+    fields = VERB_SPLIT_RE.split(body)
+    if len(fields) < 3:
+        return ""
+    third = fields[2].strip()
+    if third.startswith("hat "):
+        return "hat"
+    if third == "hat":
+        return "hat"
+    if third.startswith("ist "):
+        return "ist"
+    if third == "ist":
+        return "ist"
+    return ""
+
+
+def build_duplicate_signature(lemma: str, grammar: str) -> tuple[str, ...]:
+    if lemma.startswith(NOUN_PREFIXES):
+        body = lemma[4:]
+        noun, marker = body.rsplit(" ", 1)
+        return ("noun", marker, grammar)
+    if lemma.startswith("v "):
+        infinitive = extract_verb_infinitive(lemma)
+        reflexive = "reflexive" if infinitive.startswith("sich ") else "plain"
+        auxiliary = extract_verb_auxiliary(lemma)
+        return ("verb", reflexive, auxiliary, grammar)
+    if lemma.startswith("a "):
+        body = lemma[2:]
+        parts = body.split()
+        if len(parts) == 1:
+            return ("adj", "", "", grammar)
+        if len(parts) == 2 and parts[1] == "(indecl.)":
+            return ("adj", "(indecl.)", "", grammar)
+        if len(parts) >= 3:
+            return ("adj", parts[1], " ".join(parts[2:]), grammar)
+        return ("adj", body, "", grammar)
+    return ("phrase", lemma, grammar)
+
+
 def duplicate_scope_key(path: Path) -> str:
     language_like = {"ar", "en", "ru", "tr"}
     if path.parent.name in language_like:
@@ -339,12 +395,12 @@ def duplicate_scope_key(path: Path) -> str:
     return str(path.parent)
 
 
-def collect_entry_heads(path: Path) -> list[tuple[int, str]]:
+def collect_entry_records(path: Path) -> list[DuplicateEntryRecord]:
     lines, errors = read_lines(path)
     if lines is None or errors:
         return []
 
-    heads: list[tuple[int, str]] = []
+    records: list[DuplicateEntryRecord] = []
     index = 0
     total = len(lines)
     while index < total:
@@ -354,16 +410,27 @@ def collect_entry_heads(path: Path) -> list[tuple[int, str]]:
             index += 1
             continue
 
-        heads.append((line_no, entry_head_key(stripped)))
+        lemma = stripped
         index += 1
 
         if index < total:
             index += 1
 
+        grammar = ""
         if index < total:
-            grammar = lines[index].strip()
-            if grammar != "" and GRAMMAR_LINE_RE.match(grammar):
+            grammar_line = lines[index].strip()
+            if grammar_line != "" and GRAMMAR_LINE_RE.match(grammar_line):
+                grammar = grammar_line
                 index += 1
+
+        records.append(
+            DuplicateEntryRecord(
+                path=path,
+                line=line_no,
+                head=entry_head_key(lemma),
+                signature=build_duplicate_signature(lemma, grammar),
+            )
+        )
 
         while index < total and lines[index].strip() != "":
             index += 1
@@ -371,28 +438,28 @@ def collect_entry_heads(path: Path) -> list[tuple[int, str]]:
         while index < total and lines[index].strip() == "":
             index += 1
 
-    return heads
+    return records
 
 
 def validate_duplicate_heads(paths: Iterable[Path]) -> list[ValidationError]:
     warnings: list[ValidationError] = []
-    first_seen: dict[tuple[str, str], tuple[Path, int]] = {}
+    first_seen: dict[tuple[str, str, tuple[str, ...]], tuple[Path, int]] = {}
 
     for path in paths:
         if not path.exists() or not path.is_file():
             continue
         scope = duplicate_scope_key(path)
-        for line_no, head in collect_entry_heads(path):
-            key = (scope, head)
+        for record in collect_entry_records(path):
+            key = (scope, record.head, record.signature)
             if key not in first_seen:
-                first_seen[key] = (path, line_no)
+                first_seen[key] = (record.path, record.line)
                 continue
             first_path, first_line = first_seen[key]
             warnings.append(
                 ValidationError(
-                    path,
-                    line_no,
-                    f"duplicate head {head!r}; first seen at {first_path}:{first_line}",
+                    record.path,
+                    record.line,
+                    f"duplicate head {record.head!r}; first seen at {first_path}:{first_line}",
                     severity="warning",
                 )
             )

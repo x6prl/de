@@ -21,7 +21,7 @@ v aufräumen
 toparlamak{prs=toparlar, pst=toparladı}; düzenlemek;
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 bakmak{prs=bakar, pst=baktı}; seyretmek; incelemek;
 [j-n; etw.]
 
@@ -300,7 +300,7 @@ limon;
 die Zwiebel -n
 soğan;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 bulmak{prs=bulur, pst=buldu};
 
 v geben-gibt / gab / hat gegeben
@@ -349,7 +349,7 @@ keyif verici madde; lüks tüketim ürünü; uyarıcı;
 der Geschmack "-er
 tat; lezzet;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 kokmak{prs=kokar, pst=koktu}; kokusunu almak;
 
 der Geruch "-e
@@ -458,11 +458,11 @@ daire; ev; konut;
 die Zeit (sg.)
 zaman;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 aramak{prs=arar, pst=aradı}; telefon etmek;
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 kalkmak{prs=kalkar, pst=kalktı};
 
 v beginnen-beginnt / begann / hat begonnen
@@ -472,7 +472,7 @@ v besuchen
 ziyaret etmek{prs=ziyaret eder, pst=ziyaret etti}; gitmek;
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 alışveriş yapmak{prs=alışveriş yapar, pst=alışveriş yaptı}; alışverişe gitmek;
 
 v fahren-fährt / fuhr / ist gefahren
@@ -794,7 +794,7 @@ v fragen
 sormak{prs=sorar, pst=sordu};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 adı olmak{prs=adı olur, pst=adı oldu}; denmek;
 
 v kennen-kennt / kannte / hat gekannt
@@ -806,7 +806,7 @@ gelmek{prs=gelir, pst=geldi}; varmak;
 v lesen-liest / las / hat gelesen
 okumak{prs=okur, pst=okudu};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 yazmak{prs=yazar, pst=yazdı};
 
 v sein-ist / war / ist gewesen
@@ -815,7 +815,7 @@ olmak{prs=olur, pst=oldu};
 v sprechen-spricht / sprach / hat gesprochen
 konuşmak{prs=konuşur, pst=konuştu};
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 tanıtmak{prs=tanıtır, pst=tanıttı}; takdim etmek;
 
 v wiederholen

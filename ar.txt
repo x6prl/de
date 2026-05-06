@@ -214,7 +214,7 @@ v aufräumen
 يرتب{prs=يرتب, pst=رتب}; ينظف;
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 ينظر إلى{prs=ينظر إلى, pst=نظر إلى}; يشاهد; يتأمل;
 [j-n; etw.]
 
@@ -493,7 +493,7 @@ die Zitrone -n
 die Zwiebel -n
 بصلة;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 يجد{prs=يجد, pst=وجد};
 
 v geben-gibt / gab / hat gegeben
@@ -542,7 +542,7 @@ das Genussmittel -
 der Geschmack "-er
 طعم; مذاق;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 يشم; تفوح منه رائحة;
 
 der Geruch "-e
@@ -651,11 +651,11 @@ die Wohnung -en
 die Zeit (sg.)
 وقت; زمن;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 يتصل هاتفيًا{prs=يتصل هاتفيًا, pst=اتصل هاتفيًا};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 ينهض; يستيقظ;
 
 v beginnen-beginnt / begann / hat begonnen
@@ -665,7 +665,7 @@ v besuchen
 يزور; يرتاد;
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 يتسوق; يقوم بالتسوق;
 
 v fahren-fährt / fuhr / ist gefahren
@@ -987,7 +987,7 @@ v fragen
 يسأل{prs=يسأل, pst=سأل};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 يُسمّى{prs=يُسمّى, pst=سُمّي};
 
 v kennen-kennt / kannte / hat gekannt
@@ -999,7 +999,7 @@ v kommen-kommt / kam / ist gekommen
 v lesen-liest / las / hat gelesen
 يقرأ{prs=يقرأ, pst=قرأ};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 يكتب{prs=يكتب, pst=كتب};
 
 v sein-ist / war / ist gewesen
@@ -1008,7 +1008,7 @@ v sein-ist / war / ist gewesen
 v sprechen-spricht / sprach / hat gesprochen
 يتحدث{prs=يتحدث, pst=تحدث}; يتكلم;
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 يقدّم; يعرّف;
 
 v wiederholen
@@ -1335,34 +1335,34 @@ das Zentrum -en
 das Zimmer -
 غرفة;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 يضع{prs=يضع, pst=وضع}; يترك{prs=يترك, pst=ترك}; يطفئ{prs=يطفئ, pst=أطفأ};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 يستخدم{prs=يستخدم, pst=استخدم};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 يدفع{prs=يدفع, pst=دفع}; يسدد{prs=يسدد, pst=سدد};
 
 v dürfen-darf / durfte / hat gedurft
 يُسمح له بـ{prs=يُسمح له, pst=سُمح له}; يجوز له;
 
-v grillen / grillte / hat gegrillt
+v grillen / - / hat
 يشوي{prs=يشوي, pst=شوى}; يشوي على الفحم;
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 يستأجر{prs=يستأجر, pst=استأجر};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 يركن{prs=يركن, pst=ركن}; يصفّ السيارة;
 
-v putzen / putzte / hat geputzt
+v putzen / - / hat
 ينظف{prs=ينظف, pst=نظف}; يرتب{prs=يرتب, pst=رتب};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 يدخن{prs=يدخن, pst=دخن};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 يريد{prs=يريد, pst=أراد};
 
 a alt
@@ -1452,7 +1452,7 @@ Blau wie das Meer und wie deine Augen.
 Ich mag Blau, blau wie der Himmel.
 أحب الأزرق، أزرق مثل السماء.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 يحب{prs=يحب, pst=أحب};
 
 Ich mag dich.
@@ -1512,7 +1512,7 @@ Ich möchte schlafen.
 Ich möchte einen Kaffee.
 أود فنجان قهوة. ;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 يزور{prs=يزور, pst=زار};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -1563,10 +1563,10 @@ schnell genug
 ein Picknick machen
 يقيم نزهة; يقوم بنزهة;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 يحضر معه{prs=يحضر معه, pst=أحضر معه}; يجلب معه;
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 يحتاج{prs=يحتاج, pst=احتاج};
 
 die Getränke (pl.)
@@ -1578,7 +1578,7 @@ das Obst (sg.)
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 يلتقي{prs=يلتقي, pst=التقى};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 يحضّر{prs=يحضّر, pst=حضّر}; يعدّ{prs=يعدّ, pst=أعدّ};
 
 a trennbar
@@ -1656,7 +1656,7 @@ Ich kann nicht mit diesen Schuhen im Park tanzen.
 Mein Kopf ist leer! Ich bin sehr müde.
 رأسي فارغ! أنا متعب جدًا.; ذهني فارغ! أنا متعب جدًا. ;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 يقدّر{prs=يقدّر, pst=قدّر}; يثمّن{prs=يثمّن, pst=ثمّن}; يفترض{prs=يفترض, pst=افترض};
 
 Ich schätze Ihre Hilfe sehr.
@@ -1722,10 +1722,10 @@ Ich bevorzuge ...
 die Kleidung (sg.)
 ملابس; لباس;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 يجرّب{prs=يجرّب, pst=جرّب}; يقيس الملابس{prs=يقيس الملابس, pst=قاس الملابس};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 يصلح{prs=يصلح, pst=أصلح}; يرمم;
 
 a geschieden
@@ -1737,7 +1737,7 @@ der Stress (sg.)
 a stressig
 مجهد{cmp=أكثر إجهادًا, sup=الأكثر إجهادًا}; مرهق;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 يشارك{prs=يشارك, pst=شارك}; ينضم{prs=ينضم, pst=انضم};
 
 a süchtig
@@ -1972,13 +1972,13 @@ aus Plastik
 die Fensterbank "-e
 حافة النافذة; عتبة النافذة;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 يقع{prs=يقع, pst=وقع}; يكون موضوعًا{prs=يكون موضوعًا, pst=كان موضوعًا};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 يضع{prs=يضع, pst=وضع}; يضع شيئًا;
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 يجلس{prs=يجلس, pst=جلس};
 
 im (in dem)
@@ -2029,7 +2029,7 @@ Ruhe!
 Sei still!
 كن هادئًا!; اصمت!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 يتمنى{prs=يتمنى, pst=تمنى}; يرغب{prs=يرغب, pst=رغب};
 
 sich etw. wünschen
@@ -2065,7 +2065,7 @@ die Urne -n
 v sterben-stirbt / starb / ist gestorben
 يموت{prs=يموت, pst=مات};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 يقتل{prs=يقتل, pst=قتل};
 
 Ich will ein Auto.
@@ -2167,7 +2167,7 @@ zu heiß
 die Bedeutung -en
 معنى;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 يجمع{prs=يجمع, pst=جمع}; يدمج{prs=يدمج, pst=دمج};
 
 ich darf
@@ -2278,7 +2278,7 @@ die Geschwindigkeit -en
 die Begrenzung -en
 حد; تقييد;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 يحد{prs=يحد, pst=حد}; يقيّد{prs=يقيّد, pst=قيّد};
 
 mal so, mal so
@@ -2296,7 +2296,7 @@ außer + Dat.
 Es ist verboten.
 هذا ممنوع. ; هذا محظور.;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 يمنع{prs=يمنع, pst=منع}; يحظر{prs=يحظر, pst=حظر};
 
 der Aberglaube (sg.)
@@ -2317,7 +2317,7 @@ die schwarze Katze -n
 Eine schwarze Katze bringt Unglück.
 القطة السوداء تجلب سوء الحظ.;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 يحدث ضجة{prs=يحدث ضجة, pst=أحدث ضجة}; يدوي{prs=يدوي, pst=دوى};
 
 das Unglück (sg.)
@@ -2329,7 +2329,7 @@ der Knoblauch (sg.)
 Knoblauch schützt vor Vampiren.
 الثوم يحمي من مصاصي الدماء.;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 يحمي{prs=يحمي, pst=حمى};
 
 der Vampir -e
@@ -2371,25 +2371,25 @@ der Traum "-e
 v machen / - / hat
 يفعل{prs=يفعل, pst=فعل}; يصنع{prs=يصنع, pst=صنع};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 يغلق{prs=يغلق, pst=أغلق};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 يفتح{prs=يفتح, pst=فتح};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 يطفئ{prs=يطفئ, pst=أطفأ}; يرتب{prs=يرتب, pst=رتب}; يهم{prs=يهم, pst=هم};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 يشغل{prs=يشغل, pst=شغّل}; يغازل{prs=يغازل, pst=غازل};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 يتفق{prs=يتفق, pst=اتفق}; يزيل{prs=يزيل, pst=أزال};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 يحفظ{prs=يحفظ, pst=حفظ}; يعلّب{prs=يعلّب, pst=علّب};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 يواصل{prs=يواصل, pst=واصل}; يستمر{prs=يستمر, pst=استمر};
 
 die Vorsilbe -n
@@ -2410,10 +2410,10 @@ die Unterschrift -en
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 يضع خطًا تحت{prs=يضع خطًا تحت, pst=وضع خطًا تحت}; يؤكد بالتسطير{prs=يؤكد بالتسطير, pst=أكد بالتسطير};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 ينظف{prs=ينظف, pst=نظف}; يطهّر{prs=يطهّر, pst=طهّر};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 يرتب بعيدًا{prs=يرتب بعيدًا, pst=رتب بعيدًا}; يزيل{prs=يزيل, pst=أزال};
 
 Ich unterschreibe den Brief.
@@ -2488,16 +2488,16 @@ v entspannen / entspannte / hat entspannt
 v sich entspannen / entspannte sich / hat sich entspannt
 يسترخي{prs=يسترخي, pst=استرخى}; يرتاح{prs=يرتاح, pst=ارتاح};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 يستريح{prs=يستريح, pst=استراح};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 يستريح{prs=يستريح, pst=استراح}; يأخذ قسطًا من الراحة{prs=يأخذ قسطًا من الراحة, pst=أخذ قسطًا من الراحة};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 يسترخي{prs=يسترخي, pst=استرخى}; يأخذ الأمور ببساطة{prs=يأخذ الأمور ببساطة, pst=أخذ الأمور ببساطة};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 يستحم{prs=يستحم, pst=استحم}; يسبح{prs=يسبح, pst=سبح};
 
 im See baden
@@ -2515,10 +2515,10 @@ Ich bin aufgeregt.
 a gespannt
 متحمس; فضولي; مترقب;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 يفرح بـ{prs=يفرح بـ, pst=فرح بـ}; يتطلع إلى{prs=يتطلع إلى, pst=تطلع إلى};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 يشغل{prs=يشغل, pst=شغل}; يوظف{prs=يوظف, pst=وظّف};
 
 sich mit etw. beschäftigen
@@ -2554,7 +2554,7 @@ die Ente -n
 Enten füttern
 يطعم البط;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 يطعم الحيوانات{prs=يطعم الحيوانات, pst=أطعم الحيوانات};
 
 Das hängt ab.
@@ -2677,7 +2677,7 @@ Ich gehe in die Schule.
 v laufen-läuft / lief / ist gelaufen
 يركض{prs=يركض, pst=ركض}; يمشي{prs=يمشي, pst=مشى};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 يتسلق{prs=يتسلق, pst=تسلق};
 
 v rennen-rennt / rannte / ist gerannt
@@ -2686,7 +2686,7 @@ v rennen-rennt / rannte / ist gerannt
 v wandern / - / ist
 يتنزه سيرًا{prs=يتنزه سيرًا, pst=تنزه سيرًا}; يمشي في الطبيعة{prs=يمشي في الطبيعة, pst=مشى في الطبيعة};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 يطير{prs=يطير, pst=طار};
 
 nach
@@ -2698,13 +2698,13 @@ Ich fahre nach Erfurt.
 Wir fliegen nach Palästina.
 نحن نطير إلى فلسطين.;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 يعمل{prs=يعمل, pst=عمل};
 
 v lernen / lernte / hat gelernt
 يتعلم{prs=يتعلم, pst=تعلّم}; يدرس{prs=يدرس, pst=درس};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 يشتري{prs=يشتري, pst=اشترى};
 
 v essen-isst / aß / hat gegessen
@@ -2833,7 +2833,7 @@ Ich habe am Montag eingekauft.
 Ich habe keine Ahnung.
 ليس لدي أي فكرة.;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 يسجل الوصول{prs=يسجل الوصول, pst=سجل الوصول};
 
 v liefern / - / hat
@@ -2881,13 +2881,13 @@ vom Hafen
 das Präteritum (sg.)
 الماضي البسيط;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 يذهب{prs=يذهب, pst=ذهب};
 
 v helfen-hilft / half / hat geholfen
 يساعد{prs=يساعد, pst=ساعد};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 يبقى{prs=يبقى, pst=بقي};
 
 v werden-wird / wurde / ist geworden
@@ -2902,7 +2902,7 @@ mit Ermäßigung
 eine Ermäßigung bekommen
 يحصل على خصم;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 يتوقف{prs=يتوقف, pst=توقف}; يكف{prs=يكف, pst=كف};
 
 mit etw. aufhören
@@ -3081,7 +3081,7 @@ v sich leihen / lieh sich / hat sich geliehen
 يستعير; يأخذ على سبيل الإعارة;
 [sich+Dat; etw.; von+Dat]
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 يستعير; يعير; يؤجر; يستأجر;
 [etw.]
 
@@ -3094,7 +3094,7 @@ v schauen
 v schwimmen / schwamm / ist geschwommen
 يسبح;
 
-v stattfinden-findet statt / fand statt / hat stattgefunden
+v stattfinden / fand statt / hat stattgefunden
 يقام; يحدث; يجري;
 
 v treffen-trifft / traf / hat getroffen
@@ -3119,39 +3119,39 @@ im Supermarkt gibt es viele verschiedene Waren
 v bekommen-bekommt / bekam / hat bekommen
 يحصل على; يستلم; يتلقى; ينال;
 
-v stürzen / - / ist gestürzt
+v stürzen / - / ist
 يسقط; ينهار; يهوي;
 
-v stürzen / - / hat gestürzt
+v stürzen / - / hat
 يسقط; يطيح; يقلب;
 [j-n; etw.]
 
-v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+v aussteigen / stieg aus / ist ausgestiegen
 ينزل من وسيلة نقل; يخرج من وسيلة نقل;
 
-v einsteigen-steigt ein / stieg ein / ist eingestiegen
+v einsteigen / stieg ein / ist eingestiegen
 يركب وسيلة نقل; يصعد إلى وسيلة نقل;
 
-v umsteigen-steigt um / stieg um / ist umgestiegen
+v umsteigen / stieg um / ist umgestiegen
 ينتقل إلى وسيلة نقل أخرى; يبدل المواصلات;
 
 v springen / sprang / ist gesprungen
 يقفز; يثب;
 
-v klettern / - / ist geklettert
+v klettern / - / ist
 يتسلق; يصعد متسلقاً;
 
 v fallen-fällt / fiel / ist gefallen
 يسقط;
 
-v joggen / - / ist gejoggt
+v joggen / - / ist
 يركض ببطء; يمارس الجري الخفيف;
 
 v fliegen / flog / hat geflogen
 يقود طائرة; يطير بطائرة;
 [etw.]
 
-v reisen / - / ist gereist
+v reisen / - / ist
 يسافر; يقوم برحلة;
 
 v steigen / stieg / ist gestiegen
@@ -3163,10 +3163,10 @@ v schaukeln
 v wiegen / wog / hat gewogen
 يزن; يزن شيئاً;
 
-v wiegen / wiegte / hat gewiegt
+v wiegen / - / hat
 يهز; يهدئ بالهز; يهدهد;
 
-v sich wiegen / wiegte sich / hat sich gewiegt
+v sich wiegen / - / hat
 يتمايل; يتأرجح بلطف;
 
 v schwingen / schwang / hat geschwungen
@@ -3202,7 +3202,7 @@ v mieten
 v kommen / kam / ist gekommen
 يأتي; يصل;
 
-v bezahlen / - / hat bezahlt
+v bezahlen / - / hat
 يدفع; يسدد; يدفع ثمن;
 
 v übersetzen
@@ -3229,7 +3229,7 @@ die SIM-Karte -n
 v stehen / stand / hat gestanden
 يقف; يكون واقفاً;
 
-v aufwachen-wacht auf / wachte auf / ist aufgewacht
+v aufwachen / - / ist
 يستيقظ;
 
 der Papayasalat -e
@@ -3238,7 +3238,7 @@ der Papayasalat -e
 v bringen / brachte / hat gebracht
 يحضر; يجلب; يأخذ إلى; يوصل شخصاً;
 
-v abholen-holt ab / holte ab / hat abgeholt
+v abholen / - / hat
 يأخذ من مكان; يستلم; يستقبل;
 
 die Erfahrung -en
@@ -3256,7 +3256,7 @@ v austragen-trägt aus / trug aus / hat ausgetragen
 die Tochter "-
 ابنة; بنت;
 
-v einfügen-fügt ein / fügte ein / hat eingefügt
+v einfügen / - / hat
 يدرج; يضيف; يضع في الداخل;
 
 die Silbe -n
@@ -3268,7 +3268,7 @@ a silbenweise
 die Silbentrennung -en
 تقسيم المقاطع; فصل الكلمات إلى مقاطع; تقسيم الكلمة عند السطر;
 
-v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+v mitschreiben / schrieb mit / hat mitgeschrieben
 يدون; يكتب أثناء الاستماع; يأخذ ملاحظات;
 
 v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
@@ -3295,50 +3295,50 @@ der Brief -e
 das Personalbüro -s
 مكتب شؤون الموظفين; مكتب الموارد البشرية;
 
-v festlegen-legt fest / legte fest / hat festgelegt
+v festlegen / - / hat
 يحدد; يقرر; يثبت; يضع;
 
 v legen
 يضع; يمدد; يضع أفقياً;
 
-v organisieren / - / hat organisiert
+v organisieren / - / hat
 ينظم; يرتب;
 
 v bestimmen / - / hat bestimmt
 يحدد; يقرر; يعين;
 
-v notieren / - / hat notiert
+v notieren / - / hat
 يدون; يسجل; يكتب ملاحظة;
 
-v telefonieren / - / hat telefoniert
+v telefonieren / - / hat
 يتصل هاتفياً; يتحدث بالهاتف;
 
-v reservieren / - / hat reserviert
+v reservieren / - / hat
 يحجز; يحتفظ;
 
-v reparieren / - / hat repariert
+v reparieren / - / hat
 يصلح; يرمم;
 
-v kopieren / - / hat kopiert
+v kopieren / - / hat
 ينسخ; يصور;
 
-v studieren / - / hat studiert
+v studieren / - / hat
 يدرس في الجامعة; يدرس; يبحث;
 
-v buchstabieren / - / hat buchstabiert
+v buchstabieren / - / hat
 يهجئ; يقول حرفاً حرفاً;
 
-v informieren / - / hat informiert
+v informieren / - / hat
 يُعلم; يخبر; يزوّد بالمعلومات;
 
-v sich informieren / - / hat sich informiert
+v sich informieren / - / hat
 يستعلم; يحصل على معلومات; يبحث عن معلومات;
 [sich+Akk; über+Akk]
 
-v markieren / - / hat markiert
+v markieren / - / hat
 يعلّم; يحدد; يبرز; يضع علامة;
 
-v kontrollieren / - / hat kontrolliert
+v kontrollieren / - / hat
 يفحص; يراقب; يتحقق من;
 
 a normalerweise
@@ -3365,33 +3365,33 @@ a schrittweise
 a höflicherweise
 بلطف; من باب الأدب;
 
-v zerstören / - / hat zerstört
+v zerstören / - / hat
 يدمر; يخرب; يهدم;
 
 v entlassen-entlässt / entließ / hat entlassen
 يفصل من العمل; يسرّح; يطلق سراح; يخرج من المستشفى;
 
-v erklären / - / hat erklärt
+v erklären / - / hat
 يشرح; يفسر; يعلن; يصرح;
 
-v ergänzen / - / hat ergänzt
+v ergänzen / - / hat
 يكمل; يضيف; يتمم;
 
-v missbrauchen / - / hat missbraucht
+v missbrauchen / - / hat
 يسيء استعمال; يستغل; يعتدي;
 
 v gefallen-gefällt / gefiel / hat gefallen
 يعجب; يروق;
 [j-m]
 
-v missverstehen-missversteht / missverstand / hat missverstanden
+v missverstehen / missverstand / hat missverstanden
 يسيء الفهم; يفهم خطأ;
 
-v gelingen-gelingt / gelang / ist gelungen
+v gelingen / gelang / ist gelungen
 ينجح; يوفق; يخرج جيداً;
 [j-m]
 
-v misslingen-misslingt / misslang / ist misslungen
+v misslingen / misslang / ist misslungen
 يفشل; لا ينجح; يسوء;
 [j-m]
 
@@ -3411,7 +3411,7 @@ a eigentlich
 in Wirklichkeit
 في الحقيقة; في الواقع;
 
-v erzählen / - / hat erzählt
+v erzählen / - / hat
 يحكي; يروي; يخبر;
 [j-m; von+Dat]
 
@@ -3419,7 +3419,7 @@ v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
 يوافق; يؤيد; يقر;
 [j-m]
 
-v vereinbaren / - / hat vereinbart
+v vereinbaren / - / hat
 يتفق على; يرتب; يحدد موعداً;
 
 v vergessen-vergisst / vergaß / hat vergessen
@@ -3444,16 +3444,16 @@ v finden / fand / hat gefunden
 v benutzen
 يستخدم; يستعمل;
 
-v besuchen / - / hat besucht
+v besuchen / - / hat
 يزور; يحضر; يرتاد;
 
-v begrüßen / - / hat begrüßt
+v begrüßen / - / hat
 يحيي; يرحب;
 
 v bestellen
 يطلب; يحجز; يطلب شراء;
 
-v funktionieren / - / hat funktioniert
+v funktionieren / - / hat
 يعمل; يشتغل; يؤدي وظيفته;
 
 das Gedicht -e
@@ -3543,7 +3543,7 @@ Lass das!
 v lassen-lässt / ließ / hat gelassen
 يترك; يسمح; يجعل شخصاً يفعل شيئاً;
 
-v anfassen-fasst an / fasste an / hat angefasst
+v anfassen / - / hat
 يلمس; يمسك;
 
 Fass mich nicht an!
@@ -3564,16 +3564,16 @@ Halt's Maul!
 v halten-hält / hielt / hat gehalten
 يمسك; يوقف; يحتفظ; يحافظ;
 
-v einräumen-räumt ein / räumte ein / hat eingeräumt
+v einräumen / - / hat
 يرتب في الداخل; يضع في الداخل; يحمّل; يقر; يعترف;
 
-v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+v ausräumen / - / hat
 يفرغ; يخرج المحتويات; يخلي;
 
-v abräumen-räumt ab / räumte ab / hat abgeräumt
+v abräumen / - / hat
 يرفع عن الطاولة; يزيل; ينظف الطاولة;
 
-v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+v aufräumen / - / hat
 يرتب; ينظف; ينظم;
 
 Räum die Spülmaschine ein!
@@ -3600,7 +3600,7 @@ Red mit mir!
 v verschwinden / verschwand / ist verschwunden
 يختفي; يزول;
 
-v abhauen-haut ab / haute ab / ist abgehauen
+v abhauen / - / ist abgehauen
 يهرب; ينصرف; يغادر بسرعة;
 
 v reden
@@ -3636,16 +3636,16 @@ das Nummernschild -er
 v zulassen-lässt zu / ließ zu / hat zugelassen
 يسمح; يجيز; يقبل; يسجل مركبة;
 
-v anmelden-meldet an / meldete an / hat angemeldet
+v anmelden / - / hat
 يسجل; يقدم طلباً; يعلن; يبلغ;
 
-v einziehen-zieht ein / zog ein / ist eingezogen
+v einziehen / zog ein / ist eingezogen
 ينتقل إلى السكن; يسكن في; يدخل;
 
-v ausziehen-zieht aus / zog aus / ist ausgezogen
+v ausziehen / zog aus / ist ausgezogen
 يخرج من السكن; ينتقل من; يخلع الملابس;
 
-v umziehen-zieht um / zog um / ist umgezogen
+v umziehen / zog um / ist umgezogen
 ينتقل إلى سكن آخر; يغير ملابسه;
 
 die Staatsangehörigkeit -en
@@ -3672,7 +3672,7 @@ Kommen Sie herein!
 Komm herein!
 ادخل!; تفضل بالدخول!;
 
-v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+v ausfüllen / - / hat
 يملأ; يعبئ استمارة;
 
 der Antrag "-e
@@ -3885,13 +3885,13 @@ der Verwandte -n
 die Verwandte -n
 قريبة; امرأة من الأقارب;
 
-v abschließen-schließt ab / schloss ab / hat abgeschlossen
+v abschließen / schloss ab / hat abgeschlossen
 يقفل; ينهي; يكمل; يبرم عقداً;
 
 v abwaschen-wäscht ab / wusch ab / hat abgewaschen
 يغسل الصحون; يغسل ويزيل;
 
-v bedeuten / - / hat bedeutet
+v bedeuten / - / hat
 يعني; يدل على;
 
 v schneiden / schnitt / hat geschnitten
@@ -3921,73 +3921,73 @@ a hierher
 a dorthin
 إلى هناك; هناك;
 
-v dekorieren / - / hat dekoriert
+v dekorieren / - / hat
 يزين; يزخرف; يديكور;
 
-v demonstrieren / - / hat demonstriert
+v demonstrieren / - / hat
 يتظاهر; يعرض; يبرهن;
 
-v fotografieren / - / hat fotografiert
+v fotografieren / - / hat
 يصور; يلتقط صوراً;
 
-v frisieren / - / hat frisiert
+v frisieren / - / hat
 يصفف الشعر; يرتب الشعر;
 
-v frustrieren / - / hat frustriert
+v frustrieren / - / hat
 يحبط; يسبب الإحباط;
 
-v gratulieren / - / hat gratuliert
+v gratulieren / - / hat
 يهنئ; يبارك;
 [j-m; zu+Dat]
 
-v korrigieren / - / hat korrigiert
+v korrigieren / - / hat
 يصحح; يعدل;
 
-v lackieren / - / hat lackiert
+v lackieren / - / hat
 يطلي بالورنيش; يدهِن; يطلي;
 
-v montieren / - / hat montiert
+v montieren / - / hat
 يركب; يثبت; يجمع;
 
-v motivieren / - / hat motiviert
+v motivieren / - / hat
 يحفز; يشجع;
 
-v nostrifizieren / - / hat nostrifiziert
+v nostrifizieren / - / hat
 يعادل الشهادة; يعترف بالدبلوم;
 
-v operieren / - / hat operiert
+v operieren / - / hat
 يجري عملية; يعمل جراحة;
 
-v präsentieren / - / hat präsentiert
+v präsentieren / - / hat
 يقدم; يعرض;
 
-v probieren / - / hat probiert
+v probieren / - / hat
 يجرب; يتذوق; يقيس الملابس;
 
-v protestieren / - / hat protestiert
+v protestieren / - / hat
 يحتج; يتظاهر احتجاجاً;
 [gegen+Akk]
 
-v rasieren / - / hat rasiert
+v rasieren / - / hat
 يحلق;
 
-v sich rasieren / - / hat sich rasiert
+v sich rasieren / - / hat
 يحلق ذقنه; يحلق لنفسه;
 [sich+Akk]
 
-v renovieren / - / hat renoviert
+v renovieren / - / hat
 يرمم; يجدد;
 
-v sanieren / - / hat saniert
+v sanieren / - / hat
 يرمم ترميماً شاملاً; يؤهل; يصلح;
 
-v sortieren / - / hat sortiert
+v sortieren / - / hat
 يفرز; يرتب; يصنف;
 
-v stornieren / - / hat storniert
+v stornieren / - / hat
 يلغي; يلغي الحجز;
 
-v trainieren / - / hat trainiert
+v trainieren / - / hat
 يتدرب; يدرّب; يمارس التدريب;
 
 Die Tür abschließen

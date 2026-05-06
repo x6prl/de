@@ -25,7 +25,7 @@ Deniz gibi ve gözlerin gibi mavi. ;
 Ich mag Blau, blau wie der Himmel.
 Maviyi seviyorum, gökyüzü gibi mavi. ;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 sevmek{prs=sever, pst=sevdi};
 
 Ich mag dich.
@@ -85,7 +85,7 @@ Uyumak isterim. ;
 Ich möchte einen Kaffee.
 Bir kahve isterim. ;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 ziyaret etmek{prs=ziyaret eder, pst=ziyaret etti};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -136,10 +136,10 @@ yeterince hızlı;
 ein Picknick machen
 piknik yapmak;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 yanında getirmek{prs=yanında getirir, pst=yanında getirdi};
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 ihtiyacı olmak{prs=ihtiyacı olur, pst=ihtiyacı oldu}; ihtiyaç duymak{prs=ihtiyaç duyar, pst=ihtiyaç duydu};
 
 die Getränke (pl.)
@@ -151,7 +151,7 @@ meyve;
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 buluşmak{prs=buluşur, pst=buluştu};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 hazırlamak{prs=hazırlar, pst=hazırladı};
 
 a trennbar
@@ -229,7 +229,7 @@ Bu ayakkabılarla parkta dans edemem. ;
 Mein Kopf ist leer! Ich bin sehr müde.
 Kafam boş! Çok yorgunum.; Aklım durmuş gibi! Çok yorgunum. ;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 tahmin etmek{prs=tahmin eder, pst=tahmin etti}; değer vermek{prs=değer verir, pst=değer verdi}; takdir etmek{prs=takdir eder, pst=takdir etti};
 
 Ich schätze Ihre Hilfe sehr.
@@ -295,10 +295,10 @@ Ben ... tercih ediyorum;
 die Kleidung (sg.)
 giyim; kıyafet;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 denemek{prs=dener, pst=denedi}; üstünde denemek{prs=üstünde dener, pst=üstünde denedi};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 tamir etmek{prs=tamir eder, pst=tamir etti}; onarmak{prs=onarır, pst=onardı};
 
 a geschieden
@@ -310,7 +310,7 @@ stres;
 a stressig
 stresli{cmp=daha stresli, sup=en stresli}; yorucu;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 katılmak{prs=katılır, pst=katıldı}; dahil olmak{prs=dahil olur, pst=dahil oldu};
 
 a süchtig
@@ -545,13 +545,13 @@ plastikten yapılmış;
 die Fensterbank "-e
 pencere pervazı;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 durmak{prs=durur, pst=durdu}; yatmak{prs=yatar, pst=yattı};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 koymak{prs=koyar, pst=koydu}; yerleştirmek{prs=yerleştirir, pst=yerleştirdi};
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 oturmak{prs=oturur, pst=oturdu};
 
 im (in dem)
@@ -602,7 +602,7 @@ Sessizlik!; Susun!;
 Sei still!
 Sessiz ol!; Kıpırdama!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 dilemek{prs=diler, pst=diledi}; istemek{prs=ister, pst=istedi};
 
 sich etw. wünschen
@@ -638,7 +638,7 @@ urna; kül kabı;
 v sterben-stirbt / starb / ist gestorben
 ölmek{prs=ölür, pst=öldü};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 öldürmek{prs=öldürür, pst=öldürdü};
 
 Ich will ein Auto.

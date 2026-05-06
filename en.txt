@@ -214,7 +214,7 @@ v aufräumen
 tidy up{prs=tidies up, pst=tidied up}; clean up{prs=cleans up, pst=cleaned up};
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 look at{prs=looks at, pst=looked at}; watch{prs=watches, pst=watched};
 [j-n; etw.]
 
@@ -493,7 +493,7 @@ lemon;
 die Zwiebel -n
 onion;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 find{prs=finds, pst=found};
 
 v geben-gibt / gab / hat gegeben
@@ -542,7 +542,7 @@ luxury good; stimulant; indulgence item;
 der Geschmack "-er
 taste; flavor;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 smell{prs=smells, pst=smelled}; smell of{prs=smells of, pst=smelled of};
 
 der Geruch "-e
@@ -651,11 +651,11 @@ apartment; flat; housing;
 die Zeit (sg.)
 time;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 call{prs=calls, pst=called}; phone{prs=phones, pst=phoned};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 get up{prs=gets up, pst=got up, par=gotten up};
 
 v beginnen-beginnt / begann / hat begonnen
@@ -665,7 +665,7 @@ v besuchen
 visit{prs=visits, pst=visited};
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 shop{prs=shops, pst=shopped}; do the shopping{prs=does the shopping, pst=did the shopping, par=done the shopping};
 
 v fahren-fährt / fuhr / ist gefahren
@@ -987,7 +987,7 @@ v fragen
 ask{prs=asks, pst=asked};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 be called{prs=is called, pst=was called, par=been called}; be named{prs=is named, pst=was named, par=been named};
 
 v kennen-kennt / kannte / hat gekannt
@@ -999,7 +999,7 @@ come{prs=comes, pst=came, par=come}; arrive{prs=arrives, pst=arrived};
 v lesen-liest / las / hat gelesen
 read{prs=reads, pst=read};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 write{prs=writes, pst=wrote, par=written};
 
 v sein-ist / war / ist gewesen
@@ -1008,7 +1008,7 @@ be{prs=is, pst=was, par=been};
 v sprechen-spricht / sprach / hat gesprochen
 speak{prs=speaks, pst=spoke, par=spoken}; talk{prs=talks, pst=talked};
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 introduce{prs=introduces, pst=introduced}; present{prs=presents, pst=presented};
 
 v wiederholen
@@ -1335,28 +1335,28 @@ center; downtown;
 das Zimmer -
 room;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 put down{prs=puts down, pst=put down}; leave{prs=leaves, pst=left}; switch off{prs=switches off, pst=switched off};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 use{prs=uses, pst=used};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 pay{prs=pays, pst=paid}; pay for{prs=pays for, pst=paid for};
 
 v dürfen-darf / durfte / hat gedurft
 may; be allowed to{prs=is allowed to, pst=was allowed to, par=been allowed to};
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 rent{prs=rents, pst=rented}; lease{prs=leases, pst=leased};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 park{prs=parks, pst=parked};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 smoke{prs=smokes, pst=smoked};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 want{prs=wants, pst=wanted};
 
 a alt
@@ -1446,7 +1446,7 @@ Blue like the sea and like your eyes.;
 Ich mag Blau, blau wie der Himmel.
 I like blue, blue like the sky.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 love{prs=loves, pst=loved};
 
 Ich mag dich.
@@ -1506,7 +1506,7 @@ I would like to sleep.;
 Ich möchte einen Kaffee.
 I would like a coffee.;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 visit{prs=visits, pst=visited};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -1557,10 +1557,10 @@ fast enough;
 ein Picknick machen
 have a picnic;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 bring along{prs=brings along, pst=brought along};
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 need{prs=needs, pst=needed};
 
 die Getränke (pl.)
@@ -1572,7 +1572,7 @@ fruit;
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 meet{prs=meets, pst=met, par=met};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 prepare{prs=prepares, pst=prepared};
 
 a trennbar
@@ -1650,7 +1650,7 @@ I cannot dance in the park with these shoes.;
 Mein Kopf ist leer! Ich bin sehr müde.
 My head is empty! I am very tired.; My mind is blank! I am very tired.;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 estimate{prs=estimates, pst=estimated}; appreciate{prs=appreciates, pst=appreciated}; suppose{prs=supposes, pst=supposed};
 
 Ich schätze Ihre Hilfe sehr.
@@ -1716,10 +1716,10 @@ I prefer ...;
 die Kleidung (sg.)
 clothing;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 try{prs=tries, pst=tried}; try on{prs=tries on, pst=tried on};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 repair{prs=repairs, pst=repaired}; fix{prs=fixes, pst=fixed};
 
 a geschieden
@@ -1731,7 +1731,7 @@ stress;
 a stressig
 stressful;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 join in{prs=joins in, pst=joined in}; take part{prs=takes part, pst=took part, par=taken part}; participate{prs=participates, pst=participated};
 
 a süchtig
@@ -1966,13 +1966,13 @@ made of plastic;
 die Fensterbank "-e
 windowsill;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 lie{prs=lies, pst=lay, par=lain}; be lying{prs=is lying, pst=was lying, par=been lying};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 put{prs=puts, pst=put, par=put}; lay{prs=lays, pst=laid, par=laid};
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 sit{prs=sits, pst=sat, par=sat};
 
 im (in dem)
@@ -2023,7 +2023,7 @@ Quiet!; Silence!;
 Sei still!
 Be quiet!; Keep still!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 wish{prs=wishes, pst=wished}; desire{prs=desires, pst=desired};
 
 sich etw. wünschen
@@ -2059,7 +2059,7 @@ urn; funeral urn;
 v sterben-stirbt / starb / ist gestorben
 die{prs=dies, pst=died};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 kill{prs=kills, pst=killed};
 
 Ich will ein Auto.
@@ -2161,7 +2161,7 @@ too hot;
 die Bedeutung -en
 meaning;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 combine{prs=combines, pst=combined};
 
 ich darf
@@ -2272,7 +2272,7 @@ speed;
 die Begrenzung -en
 limit; restriction;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 limit{prs=limits, pst=limited};
 
 mal so, mal so
@@ -2290,7 +2290,7 @@ except;
 Es ist verboten.
 It is forbidden.; It is prohibited.;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 forbid{prs=forbids, pst=forbade, par=forbidden}; prohibit{prs=prohibits, pst=prohibited, par=prohibited};
 
 der Aberglaube (sg.)
@@ -2311,7 +2311,7 @@ black cat;
 Eine schwarze Katze bringt Unglück.
 A black cat brings bad luck.;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 make a loud noise{prs=makes a loud noise, pst=made a loud noise}; rumble{prs=rumbles, pst=rumbled};
 
 das Unglück (sg.)
@@ -2323,7 +2323,7 @@ garlic;
 Knoblauch schützt vor Vampiren.
 Garlic protects against vampires.;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 protect{prs=protects, pst=protected};
 
 der Vampir -e
@@ -2365,25 +2365,25 @@ ten million;
 v machen / - / hat
 do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 close{prs=closes, pst=closed};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 open{prs=opens, pst=opened};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 switch off{prs=switches off, pst=switched off}; arrange{prs=arranges, pst=arranged}; matter{prs=matters, pst=mattered};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 switch on{prs=switches on, pst=switched on}; hit on someone{prs=hits on someone, pst=hit on someone};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 arrange{prs=arranges, pst=arranged}; remove{prs=removes, pst=removed};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 preserve{prs=preserves, pst=preserved}; can{prs=cans, pst=canned};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 continue{prs=continues, pst=continued};
 
 die Vorsilbe -n
@@ -2404,10 +2404,10 @@ signature;
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 underline{prs=underlines, pst=underlined};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 clean{prs=cleans, pst=cleaned}; cleanse{prs=cleanses, pst=cleansed};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 put away{prs=puts away, pst=put away, par=put away}; clear away{prs=clears away, pst=cleared away}; remove{prs=removes, pst=removed};
 
 Ich unterschreibe den Brief.
@@ -2482,16 +2482,16 @@ relax{prs=relaxes, pst=relaxed};
 v sich entspannen / entspannte sich / hat sich entspannt
 relax{prs=relaxes, pst=relaxed}; unwind{prs=unwinds, pst=unwound, par=unwound};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 rest{prs=rests, pst=rested};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 have a rest{prs=has a rest, pst=had a rest}; rest{prs=rests, pst=rested};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 chill{prs=chills, pst=chilled}; relax casually{prs=relaxes casually, pst=relaxed casually};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 bathe{prs=bathes, pst=bathed}; swim{prs=swims, pst=swam, par=swum};
 
 im See baden
@@ -2509,10 +2509,10 @@ I am excited.; I am nervous.;
 a gespannt
 excited; curious; looking forward to something;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 be happy about{prs=is happy about, pst=was happy about}; look forward to{prs=looks forward to, pst=looked forward to};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 occupy{prs=occupies, pst=occupied}; employ{prs=employs, pst=employed};
 
 sich mit etw. beschäftigen
@@ -2548,7 +2548,7 @@ duck;
 Enten füttern
 feed ducks;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 feed animals{prs=feeds animals, pst=fed animals};
 
 Das hängt ab.
@@ -2671,7 +2671,7 @@ I am going to school.;
 v laufen-läuft / lief / ist gelaufen
 run{prs=runs, pst=ran, par=run}; walk{prs=walks, pst=walked, par=walked};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 climb{prs=climbs, pst=climbed};
 
 v rennen-rennt / rannte / ist gerannt
@@ -2680,7 +2680,7 @@ run fast{prs=runs fast, pst=ran fast};
 v wandern / - / ist
 hike{prs=hikes, pst=hiked};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 fly{prs=flies, pst=flew, par=flown};
 
 nach
@@ -2692,13 +2692,13 @@ I am going to Erfurt.;
 Wir fliegen nach Palästina.
 We are flying to Palestine.;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 work{prs=works, pst=worked};
 
 v lernen / lernte / hat gelernt
 learn{prs=learns, pst=learned, par=learned}; study{prs=studies, pst=studied, par=studied};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 buy{prs=buys, pst=bought, par=bought};
 
 v essen-isst / aß / hat gegessen
@@ -2827,7 +2827,7 @@ I went shopping on Monday.;
 Ich habe keine Ahnung.
 I have no idea.;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 check in{prs=checks in, pst=checked in};
 
 v liefern / - / hat
@@ -2875,13 +2875,13 @@ from the harbor;
 das Präteritum (sg.)
 simple past;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 go{prs=goes, pst=went, par=gone};
 
 v helfen-hilft / half / hat geholfen
 help{prs=helps, pst=helped, par=helped};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 stay{prs=stays, pst=stayed, par=stayed};
 
 v werden-wird / wurde / ist geworden
@@ -2896,7 +2896,7 @@ with a discount;
 eine Ermäßigung bekommen
 get a discount;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 stop{prs=stops, pst=stopped}; cease{prs=ceases, pst=ceased}; give up{prs=gives up, pst=gave up, par=given up};
 
 mit etw. aufhören
@@ -3075,7 +3075,7 @@ v sich leihen / lieh sich / hat sich geliehen
 borrow;
 [sich+Dat; etw.; von+Dat]
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 borrow; lend out; rent;
 [etw.]
 
@@ -3088,7 +3088,7 @@ look; watch;
 v schwimmen / schwamm / ist geschwommen
 swim;
 
-v stattfinden-findet statt / fand statt / hat stattgefunden
+v stattfinden / fand statt / hat stattgefunden
 take place; be held;
 
 v treffen-trifft / traf / hat getroffen
@@ -3113,39 +3113,39 @@ there are many different goods in the supermarket;
 v bekommen-bekommt / bekam / hat bekommen
 get; receive; obtain;
 
-v stürzen / - / ist gestürzt
+v stürzen / - / ist
 fall; plunge; crash;
 
-v stürzen / - / hat gestürzt
+v stürzen / - / hat
 overthrow; topple; knock over;
 [j-n; etw.]
 
-v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+v aussteigen / stieg aus / ist ausgestiegen
 get out; get off;
 
-v einsteigen-steigt ein / stieg ein / ist eingestiegen
+v einsteigen / stieg ein / ist eingestiegen
 get in; get on; board;
 
-v umsteigen-steigt um / stieg um / ist umgestiegen
+v umsteigen / stieg um / ist umgestiegen
 change; transfer;
 
 v springen / sprang / ist gesprungen
 jump; leap;
 
-v klettern / - / ist geklettert
+v klettern / - / ist
 climb; scramble;
 
 v fallen-fällt / fiel / ist gefallen
 fall;
 
-v joggen / - / ist gejoggt
+v joggen / - / ist
 jog;
 
 v fliegen / flog / hat geflogen
 fly; pilot;
 [etw.]
 
-v reisen / - / ist gereist
+v reisen / - / ist
 travel;
 
 v steigen / stieg / ist gestiegen
@@ -3157,10 +3157,10 @@ swing; rock;
 v wiegen / wog / hat gewogen
 weigh;
 
-v wiegen / wiegte / hat gewiegt
+v wiegen / - / hat
 rock; cradle;
 
-v sich wiegen / wiegte sich / hat sich gewiegt
+v sich wiegen / - / hat
 sway; rock gently;
 
 v schwingen / schwang / hat geschwungen
@@ -3196,7 +3196,7 @@ rent; hire;
 v kommen / kam / ist gekommen
 come; arrive;
 
-v bezahlen / - / hat bezahlt
+v bezahlen / - / hat
 pay; pay for;
 
 v übersetzen
@@ -3223,7 +3223,7 @@ SIM card;
 v stehen / stand / hat gestanden
 stand;
 
-v aufwachen-wacht auf / wachte auf / ist aufgewacht
+v aufwachen / - / ist
 wake up;
 
 der Papayasalat -e
@@ -3232,7 +3232,7 @@ papaya salad;
 v bringen / brachte / hat gebracht
 bring; take; lead; drive someone;
 
-v abholen-holt ab / holte ab / hat abgeholt
+v abholen / - / hat
 pick up; collect; meet;
 
 die Erfahrung -en
@@ -3250,7 +3250,7 @@ deliver; distribute; carry out;
 die Tochter "-
 daughter;
 
-v einfügen-fügt ein / fügte ein / hat eingefügt
+v einfügen / - / hat
 insert; add;
 
 die Silbe -n
@@ -3262,7 +3262,7 @@ syllable by syllable;
 die Silbentrennung -en
 syllabification; word division;
 
-v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+v mitschreiben / schrieb mit / hat mitgeschrieben
 take notes; write down; write along;
 
 v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
@@ -3289,50 +3289,50 @@ letter;
 das Personalbüro -s
 HR office; personnel office;
 
-v festlegen-legt fest / legte fest / hat festgelegt
+v festlegen / - / hat
 set; determine; fix; define;
 
 v legen
 lay; put;
 
-v organisieren / - / hat organisiert
+v organisieren / - / hat
 organize;
 
 v bestimmen / - / hat bestimmt
 determine; appoint; decide;
 
-v notieren / - / hat notiert
+v notieren / - / hat
 write down; note;
 
-v telefonieren / - / hat telefoniert
+v telefonieren / - / hat
 talk on the phone; phone;
 
-v reservieren / - / hat reserviert
+v reservieren / - / hat
 reserve; book;
 
-v reparieren / - / hat repariert
+v reparieren / - / hat
 repair; fix;
 
-v kopieren / - / hat kopiert
+v kopieren / - / hat
 copy;
 
-v studieren / - / hat studiert
+v studieren / - / hat
 study at university; study;
 
-v buchstabieren / - / hat buchstabiert
+v buchstabieren / - / hat
 spell;
 
-v informieren / - / hat informiert
+v informieren / - / hat
 inform; notify;
 
-v sich informieren / - / hat sich informiert
+v sich informieren / - / hat
 get information; find out;
 [sich+Akk; über+Akk]
 
-v markieren / - / hat markiert
+v markieren / - / hat
 mark; highlight;
 
-v kontrollieren / - / hat kontrolliert
+v kontrollieren / - / hat
 check; control; inspect;
 
 a normalerweise
@@ -3359,33 +3359,33 @@ step by step; gradually;
 a höflicherweise
 politely; out of politeness;
 
-v zerstören / - / hat zerstört
+v zerstören / - / hat
 destroy; ruin;
 
 v entlassen-entlässt / entließ / hat entlassen
 dismiss; fire; release; discharge;
 
-v erklären / - / hat erklärt
+v erklären / - / hat
 explain; declare; state;
 
-v ergänzen / - / hat ergänzt
+v ergänzen / - / hat
 add; complete; supplement;
 
-v missbrauchen / - / hat missbraucht
+v missbrauchen / - / hat
 abuse; misuse;
 
 v gefallen-gefällt / gefiel / hat gefallen
 please; be pleasing; like;
 [j-m]
 
-v missverstehen-missversteht / missverstand / hat missverstanden
+v missverstehen / missverstand / hat missverstanden
 misunderstand;
 
-v gelingen-gelingt / gelang / ist gelungen
+v gelingen / gelang / ist gelungen
 succeed; turn out well;
 [j-m]
 
-v misslingen-misslingt / misslang / ist misslungen
+v misslingen / misslang / ist misslungen
 fail; go wrong;
 [j-m]
 
@@ -3405,7 +3405,7 @@ actually; really; in fact;
 in Wirklichkeit
 in reality; actually;
 
-v erzählen / - / hat erzählt
+v erzählen / - / hat
 tell; narrate;
 [j-m; von+Dat]
 
@@ -3413,7 +3413,7 @@ v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
 agree; consent; approve;
 [j-m]
 
-v vereinbaren / - / hat vereinbart
+v vereinbaren / - / hat
 agree; arrange; make an appointment;
 
 v vergessen-vergisst / vergaß / hat vergessen
@@ -3438,16 +3438,16 @@ find;
 v benutzen
 use;
 
-v besuchen / - / hat besucht
+v besuchen / - / hat
 visit; attend;
 
-v begrüßen / - / hat begrüßt
+v begrüßen / - / hat
 greet; welcome;
 
 v bestellen
 order;
 
-v funktionieren / - / hat funktioniert
+v funktionieren / - / hat
 work; function;
 
 das Gedicht -e
@@ -3537,7 +3537,7 @@ Stop that!; Don't do that!; Leave it!;
 v lassen-lässt / ließ / hat gelassen
 leave; let; allow; have something done;
 
-v anfassen-fasst an / fasste an / hat angefasst
+v anfassen / - / hat
 touch;
 
 Fass mich nicht an!
@@ -3558,16 +3558,16 @@ Shut up!; Shut your mouth!;
 v halten-hält / hielt / hat gehalten
 hold; stop; keep;
 
-v einräumen-räumt ein / räumte ein / hat eingeräumt
+v einräumen / - / hat
 put away; load; admit; concede;
 
-v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+v ausräumen / - / hat
 empty; unload; clear out;
 
-v abräumen-räumt ab / räumte ab / hat abgeräumt
+v abräumen / - / hat
 clear away; clear the table;
 
-v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+v aufräumen / - / hat
 tidy up; clean up;
 
 Räum die Spülmaschine ein!
@@ -3594,7 +3594,7 @@ Talk to me!;
 v verschwinden / verschwand / ist verschwunden
 disappear;
 
-v abhauen-haut ab / haute ab / ist abgehauen
+v abhauen / - / ist abgehauen
 run away; clear off; take off;
 
 v reden
@@ -3630,16 +3630,16 @@ license plate; number plate;
 v zulassen-lässt zu / ließ zu / hat zugelassen
 allow; permit; admit; register a vehicle;
 
-v anmelden-meldet an / meldete an / hat angemeldet
+v anmelden / - / hat
 register; sign up; announce;
 
-v einziehen-zieht ein / zog ein / ist eingezogen
+v einziehen / zog ein / ist eingezogen
 move in; move into;
 
-v ausziehen-zieht aus / zog aus / ist ausgezogen
+v ausziehen / zog aus / ist ausgezogen
 move out; undress; take off;
 
-v umziehen-zieht um / zog um / ist umgezogen
+v umziehen / zog um / ist umgezogen
 move house; relocate; change clothes;
 
 die Staatsangehörigkeit -en
@@ -3666,7 +3666,7 @@ Come in!;
 Komm herein!
 Come in!;
 
-v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+v ausfüllen / - / hat
 fill in; fill out;
 
 der Antrag "-e
@@ -3879,13 +3879,13 @@ male relative; relative;
 die Verwandte -n
 female relative; relative;
 
-v abschließen-schließt ab / schloss ab / hat abgeschlossen
+v abschließen / schloss ab / hat abgeschlossen
 lock; finish; complete; conclude a contract;
 
 v abwaschen-wäscht ab / wusch ab / hat abgewaschen
 wash dishes; wash off;
 
-v bedeuten / - / hat bedeutet
+v bedeuten / - / hat
 mean; signify;
 
 v schneiden / schnitt / hat geschnitten
@@ -3915,73 +3915,73 @@ here; to here;
 a dorthin
 there; to there;
 
-v dekorieren / - / hat dekoriert
+v dekorieren / - / hat
 decorate;
 
-v demonstrieren / - / hat demonstriert
+v demonstrieren / - / hat
 demonstrate; protest;
 
-v fotografieren / - / hat fotografiert
+v fotografieren / - / hat
 photograph; take photos;
 
-v frisieren / - / hat frisiert
+v frisieren / - / hat
 style hair; do hair;
 
-v frustrieren / - / hat frustriert
+v frustrieren / - / hat
 frustrate; discourage;
 
-v gratulieren / - / hat gratuliert
+v gratulieren / - / hat
 congratulate;
 [j-m; zu+Dat]
 
-v korrigieren / - / hat korrigiert
+v korrigieren / - / hat
 correct;
 
-v lackieren / - / hat lackiert
+v lackieren / - / hat
 varnish; lacquer; paint;
 
-v montieren / - / hat montiert
+v montieren / - / hat
 assemble; install; mount;
 
-v motivieren / - / hat motiviert
+v motivieren / - / hat
 motivate;
 
-v nostrifizieren / - / hat nostrifiziert
+v nostrifizieren / - / hat
 nostrify; recognize a diploma;
 
-v operieren / - / hat operiert
+v operieren / - / hat
 operate; perform surgery;
 
-v präsentieren / - / hat präsentiert
+v präsentieren / - / hat
 present;
 
-v probieren / - / hat probiert
+v probieren / - / hat
 try; try on; taste;
 
-v protestieren / - / hat protestiert
+v protestieren / - / hat
 protest;
 [gegen+Akk]
 
-v rasieren / - / hat rasiert
+v rasieren / - / hat
 shave;
 
-v sich rasieren / - / hat sich rasiert
+v sich rasieren / - / hat
 shave oneself; shave;
 [sich+Akk]
 
-v renovieren / - / hat renoviert
+v renovieren / - / hat
 renovate; refurbish;
 
-v sanieren / - / hat saniert
+v sanieren / - / hat
 renovate thoroughly; rehabilitate; restore;
 
-v sortieren / - / hat sortiert
+v sortieren / - / hat
 sort;
 
-v stornieren / - / hat storniert
+v stornieren / - / hat
 cancel;
 
-v trainieren / - / hat trainiert
+v trainieren / - / hat
 train; exercise; coach;
 
 Die Tür abschließen

@@ -25,7 +25,7 @@ Blau wie das Meer und wie deine Augen.
 Ich mag Blau, blau wie der Himmel.
 Мне нравится синий, синий, как небо.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 любить{prs=любит, pst=любил};
 
 Ich mag dich.
@@ -85,7 +85,7 @@ Ich möchte schlafen.
 Ich möchte einen Kaffee.
 Я хотел бы кофе.;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 посещать{prs=посещает, pst=посещал}; навещать{prs=навещает, pst=навещал};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -136,10 +136,10 @@ schnell genug
 ein Picknick machen
 устраивать пикник;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 приносить с собой{prs=приносит с собой, pst=приносил с собой};
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 нуждаться{prs=нуждается, pst=нуждался}; требоваться{prs=требуется, pst=требовалось};
 
 die Getränke (pl.)
@@ -151,7 +151,7 @@ das Obst (sg.)
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 встречаться{prs=встречается, pst=встречался};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 подготавливать{prs=подготавливает, pst=подготавливал}; готовить{prs=готовит, pst=готовил};
 
 a trennbar
@@ -229,7 +229,7 @@ Ich kann nicht mit diesen Schuhen im Park tanzen.
 Mein Kopf ist leer! Ich bin sehr müde.
 У меня пустая голова! Я очень устал.; У меня в голове пусто! Я очень устал.;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 оценивать{prs=оценивает, pst=оценивал}; ценить{prs=ценит, pst=ценил}; предполагать{prs=предполагает, pst=предполагал};
 
 Ich schätze Ihre Hilfe sehr.
@@ -295,10 +295,10 @@ Ich bevorzuge ...
 die Kleidung (sg.)
 одежда;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 пробовать{prs=пробует, pst=пробовал}; примерять{prs=примеряет, pst=примерял};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 ремонтировать{prs=ремонтирует, pst=ремонтировал}; чинить{prs=чинит, pst=чинил};
 
 a geschieden
@@ -310,7 +310,7 @@ der Stress (sg.)
 a stressig
 стрессовый; напряженный;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 участвовать{prs=участвует, pst=участвовал}; присоединяться{prs=присоединяется, pst=присоединялся};
 
 a süchtig
@@ -545,13 +545,13 @@ aus Plastik
 die Fensterbank "-e
 подоконник;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 лежать{prs=лежит, pst=лежал};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 класть{prs=кладет, pst=клал}; положить{prs=положит, pst=положил};
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 сидеть{prs=сидит, pst=сидел};
 
 im (in dem)
@@ -602,7 +602,7 @@ Ruhe!
 Sei still!
 Тихо!; Не шуми!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 желать{prs=желает, pst=желал};
 
 sich etw. wünschen
@@ -638,7 +638,7 @@ die Urne -n
 v sterben-stirbt / starb / ist gestorben
 умирать{prs=умирает, pst=умирал};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 убивать{prs=убивает, pst=убивал};
 
 Ich will ein Auto.

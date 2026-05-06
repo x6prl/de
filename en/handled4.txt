@@ -25,7 +25,7 @@ Blue like the sea and like your eyes.;
 Ich mag Blau, blau wie der Himmel.
 I like blue, blue like the sky.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 love{prs=loves, pst=loved};
 
 Ich mag dich.
@@ -85,7 +85,7 @@ I would like to sleep.;
 Ich möchte einen Kaffee.
 I would like a coffee.;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 visit{prs=visits, pst=visited};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -136,10 +136,10 @@ fast enough;
 ein Picknick machen
 have a picnic;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 bring along{prs=brings along, pst=brought along};
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 need{prs=needs, pst=needed};
 
 die Getränke (pl.)
@@ -151,7 +151,7 @@ fruit;
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 meet{prs=meets, pst=met, par=met};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 prepare{prs=prepares, pst=prepared};
 
 a trennbar
@@ -229,7 +229,7 @@ I cannot dance in the park with these shoes.;
 Mein Kopf ist leer! Ich bin sehr müde.
 My head is empty! I am very tired.; My mind is blank! I am very tired.;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 estimate{prs=estimates, pst=estimated}; appreciate{prs=appreciates, pst=appreciated}; suppose{prs=supposes, pst=supposed};
 
 Ich schätze Ihre Hilfe sehr.
@@ -295,10 +295,10 @@ I prefer ...;
 die Kleidung (sg.)
 clothing;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 try{prs=tries, pst=tried}; try on{prs=tries on, pst=tried on};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 repair{prs=repairs, pst=repaired}; fix{prs=fixes, pst=fixed};
 
 a geschieden
@@ -310,7 +310,7 @@ stress;
 a stressig
 stressful;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 join in{prs=joins in, pst=joined in}; take part{prs=takes part, pst=took part, par=taken part}; participate{prs=participates, pst=participated};
 
 a süchtig
@@ -545,13 +545,13 @@ made of plastic;
 die Fensterbank "-e
 windowsill;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 lie{prs=lies, pst=lay, par=lain}; be lying{prs=is lying, pst=was lying, par=been lying};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 put{prs=puts, pst=put, par=put}; lay{prs=lays, pst=laid, par=laid};
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 sit{prs=sits, pst=sat, par=sat};
 
 im (in dem)
@@ -602,7 +602,7 @@ Quiet!; Silence!;
 Sei still!
 Be quiet!; Keep still!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 wish{prs=wishes, pst=wished}; desire{prs=desires, pst=desired};
 
 sich etw. wünschen
@@ -638,7 +638,7 @@ urn; funeral urn;
 v sterben-stirbt / starb / ist gestorben
 die{prs=dies, pst=died};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 kill{prs=kills, pst=killed};
 
 Ich will ein Auto.

@@ -76,7 +76,7 @@ too hot;
 die Bedeutung -en
 meaning;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 combine{prs=combines, pst=combined};
 
 ich darf
@@ -187,7 +187,7 @@ speed;
 die Begrenzung -en
 limit; restriction;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 limit{prs=limits, pst=limited};
 
 mal so, mal so
@@ -205,7 +205,7 @@ except;
 Es ist verboten.
 It is forbidden.; It is prohibited.;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 forbid{prs=forbids, pst=forbade, par=forbidden}; prohibit{prs=prohibits, pst=prohibited, par=prohibited};
 
 der Aberglaube (sg.)
@@ -226,7 +226,7 @@ black cat;
 Eine schwarze Katze bringt Unglück.
 A black cat brings bad luck.;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 make a loud noise{prs=makes a loud noise, pst=made a loud noise}; rumble{prs=rumbles, pst=rumbled};
 
 das Unglück (sg.)
@@ -238,7 +238,7 @@ garlic;
 Knoblauch schützt vor Vampiren.
 Garlic protects against vampires.;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 protect{prs=protects, pst=protected};
 
 der Vampir -e
@@ -280,25 +280,25 @@ ten million;
 v machen / - / hat
 do{prs=does, pst=did, par=done}; make{prs=makes, pst=made, par=made};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 close{prs=closes, pst=closed};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 open{prs=opens, pst=opened};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 switch off{prs=switches off, pst=switched off}; arrange{prs=arranges, pst=arranged}; matter{prs=matters, pst=mattered};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 switch on{prs=switches on, pst=switched on}; hit on someone{prs=hits on someone, pst=hit on someone};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 arrange{prs=arranges, pst=arranged}; remove{prs=removes, pst=removed};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 preserve{prs=preserves, pst=preserved}; can{prs=cans, pst=canned};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 continue{prs=continues, pst=continued};
 
 die Vorsilbe -n
@@ -319,10 +319,10 @@ signature;
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 underline{prs=underlines, pst=underlined};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 clean{prs=cleans, pst=cleaned}; cleanse{prs=cleanses, pst=cleansed};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 put away{prs=puts away, pst=put away, par=put away}; clear away{prs=clears away, pst=cleared away}; remove{prs=removes, pst=removed};
 
 Ich unterschreibe den Brief.
@@ -397,16 +397,16 @@ relax{prs=relaxes, pst=relaxed};
 v sich entspannen / entspannte sich / hat sich entspannt
 relax{prs=relaxes, pst=relaxed}; unwind{prs=unwinds, pst=unwound, par=unwound};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 rest{prs=rests, pst=rested};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 have a rest{prs=has a rest, pst=had a rest}; rest{prs=rests, pst=rested};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 chill{prs=chills, pst=chilled}; relax casually{prs=relaxes casually, pst=relaxed casually};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 bathe{prs=bathes, pst=bathed}; swim{prs=swims, pst=swam, par=swum};
 
 im See baden
@@ -424,10 +424,10 @@ I am excited.; I am nervous.;
 a gespannt
 excited; curious; looking forward to something;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 be happy about{prs=is happy about, pst=was happy about}; look forward to{prs=looks forward to, pst=looked forward to};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 occupy{prs=occupies, pst=occupied}; employ{prs=employs, pst=employed};
 
 sich mit etw. beschäftigen
@@ -463,7 +463,7 @@ duck;
 Enten füttern
 feed ducks;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 feed animals{prs=feeds animals, pst=fed animals};
 
 Das hängt ab.
@@ -586,7 +586,7 @@ I am going to school.;
 v laufen-läuft / lief / ist gelaufen
 run{prs=runs, pst=ran, par=run}; walk{prs=walks, pst=walked, par=walked};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 climb{prs=climbs, pst=climbed};
 
 v rennen-rennt / rannte / ist gerannt
@@ -595,7 +595,7 @@ run fast{prs=runs fast, pst=ran fast};
 v wandern / - / ist
 hike{prs=hikes, pst=hiked};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 fly{prs=flies, pst=flew, par=flown};
 
 nach
@@ -607,13 +607,13 @@ I am going to Erfurt.;
 Wir fliegen nach Palästina.
 We are flying to Palestine.;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 work{prs=works, pst=worked};
 
 v lernen / lernte / hat gelernt
 learn{prs=learns, pst=learned, par=learned}; study{prs=studies, pst=studied, par=studied};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 buy{prs=buys, pst=bought, par=bought};
 
 v essen-isst / aß / hat gegessen
@@ -742,7 +742,7 @@ I went shopping on Monday.;
 Ich habe keine Ahnung.
 I have no idea.;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 check in{prs=checks in, pst=checked in};
 
 v liefern / - / hat
@@ -790,13 +790,13 @@ from the harbor;
 das Präteritum (sg.)
 simple past;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 go{prs=goes, pst=went, par=gone};
 
 v helfen-hilft / half / hat geholfen
 help{prs=helps, pst=helped, par=helped};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 stay{prs=stays, pst=stayed, par=stayed};
 
 v werden-wird / wurde / ist geworden
@@ -811,7 +811,7 @@ with a discount;
 eine Ermäßigung bekommen
 get a discount;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 stop{prs=stops, pst=stopped}; cease{prs=ceases, pst=ceased}; give up{prs=gives up, pst=gave up, par=given up};
 
 mit etw. aufhören

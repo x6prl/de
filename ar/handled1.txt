@@ -21,7 +21,7 @@ v aufräumen
 يرتب{prs=يرتب, pst=رتب}; ينظف;
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 ينظر إلى{prs=ينظر إلى, pst=نظر إلى}; يشاهد; يتأمل;
 [j-n; etw.]
 
@@ -300,7 +300,7 @@ die Zitrone -n
 die Zwiebel -n
 بصلة;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 يجد{prs=يجد, pst=وجد};
 
 v geben-gibt / gab / hat gegeben
@@ -349,7 +349,7 @@ das Genussmittel -
 der Geschmack "-er
 طعم; مذاق;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 يشم; تفوح منه رائحة;
 
 der Geruch "-e
@@ -458,11 +458,11 @@ die Wohnung -en
 die Zeit (sg.)
 وقت; زمن;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 يتصل هاتفيًا{prs=يتصل هاتفيًا, pst=اتصل هاتفيًا};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 ينهض; يستيقظ;
 
 v beginnen-beginnt / begann / hat begonnen
@@ -472,7 +472,7 @@ v besuchen
 يزور; يرتاد;
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 يتسوق; يقوم بالتسوق;
 
 v fahren-fährt / fuhr / ist gefahren
@@ -794,7 +794,7 @@ v fragen
 يسأل{prs=يسأل, pst=سأل};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 يُسمّى{prs=يُسمّى, pst=سُمّي};
 
 v kennen-kennt / kannte / hat gekannt
@@ -806,7 +806,7 @@ v kommen-kommt / kam / ist gekommen
 v lesen-liest / las / hat gelesen
 يقرأ{prs=يقرأ, pst=قرأ};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 يكتب{prs=يكتب, pst=كتب};
 
 v sein-ist / war / ist gewesen
@@ -815,7 +815,7 @@ v sein-ist / war / ist gewesen
 v sprechen-spricht / sprach / hat gesprochen
 يتحدث{prs=يتحدث, pst=تحدث}; يتكلم;
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 يقدّم; يعرّف;
 
 v wiederholen

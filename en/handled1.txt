@@ -21,7 +21,7 @@ v aufräumen
 tidy up{prs=tidies up, pst=tidied up}; clean up{prs=cleans up, pst=cleaned up};
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 look at{prs=looks at, pst=looked at}; watch{prs=watches, pst=watched};
 [j-n; etw.]
 
@@ -300,7 +300,7 @@ lemon;
 die Zwiebel -n
 onion;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 find{prs=finds, pst=found};
 
 v geben-gibt / gab / hat gegeben
@@ -349,7 +349,7 @@ luxury good; stimulant; indulgence item;
 der Geschmack "-er
 taste; flavor;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 smell{prs=smells, pst=smelled}; smell of{prs=smells of, pst=smelled of};
 
 der Geruch "-e
@@ -458,11 +458,11 @@ apartment; flat; housing;
 die Zeit (sg.)
 time;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 call{prs=calls, pst=called}; phone{prs=phones, pst=phoned};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 get up{prs=gets up, pst=got up, par=gotten up};
 
 v beginnen-beginnt / begann / hat begonnen
@@ -472,7 +472,7 @@ v besuchen
 visit{prs=visits, pst=visited};
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 shop{prs=shops, pst=shopped}; do the shopping{prs=does the shopping, pst=did the shopping, par=done the shopping};
 
 v fahren-fährt / fuhr / ist gefahren
@@ -794,7 +794,7 @@ v fragen
 ask{prs=asks, pst=asked};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 be called{prs=is called, pst=was called, par=been called}; be named{prs=is named, pst=was named, par=been named};
 
 v kennen-kennt / kannte / hat gekannt
@@ -806,7 +806,7 @@ come{prs=comes, pst=came, par=come}; arrive{prs=arrives, pst=arrived};
 v lesen-liest / las / hat gelesen
 read{prs=reads, pst=read};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 write{prs=writes, pst=wrote, par=written};
 
 v sein-ist / war / ist gewesen
@@ -815,7 +815,7 @@ be{prs=is, pst=was, par=been};
 v sprechen-spricht / sprach / hat gesprochen
 speak{prs=speaks, pst=spoke, par=spoken}; talk{prs=talks, pst=talked};
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 introduce{prs=introduces, pst=introduced}; present{prs=presents, pst=presented};
 
 v wiederholen

@@ -214,7 +214,7 @@ v aufräumen
 убирать{prs=убирает, pst=убирал}; наводить порядок;
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 смотреть{prs=смотрит, pst=смотрел}; посмотреть; рассматривать;
 [j-n; etw.]
 
@@ -493,7 +493,7 @@ die Zitrone -n
 die Zwiebel -n
 лук;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 находить{prs=находит, pst=находил};
 
 v geben-gibt / gab / hat gegeben
@@ -542,7 +542,7 @@ das Genussmittel -
 der Geschmack "-er
 вкус;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 пахнуть{prs=пахнет, pst=пах}; чувствовать запах;
 
 der Geruch "-e
@@ -651,11 +651,11 @@ die Wohnung -en
 die Zeit (sg.)
 время;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 звонить{prs=звонит, pst=звонил};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 вставать{prs=встает, pst=вставал};
 
 v beginnen-beginnt / begann / hat begonnen
@@ -665,7 +665,7 @@ v besuchen
 посещать{prs=посещает, pst=посещал}; навещать;
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 делать покупки{prs=делает покупки, pst=делал покупки}; закупаться;
 
 v fahren-fährt / fuhr / ist gefahren
@@ -987,7 +987,7 @@ v fragen
 спрашивать{prs=спрашивает, pst=спрашивал};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 называться{prs=называется, pst=назывался};
 
 v kennen-kennt / kannte / hat gekannt
@@ -999,7 +999,7 @@ v kommen-kommt / kam / ist gekommen
 v lesen-liest / las / hat gelesen
 читать{prs=читает, pst=читал};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 писать{prs=пишет, pst=писал};
 
 v sein-ist / war / ist gewesen
@@ -1008,7 +1008,7 @@ v sein-ist / war / ist gewesen
 v sprechen-spricht / sprach / hat gesprochen
 говорить{prs=говорит, pst=говорил};
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 представлять{prs=представляет, pst=представлял}; знакомить;
 
 v wiederholen
@@ -1335,31 +1335,31 @@ das Zentrum -en
 das Zimmer -
 комната;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 ставить{prs=ставит, pst=ставил}; оставлять{prs=оставляет, pst=оставлял}; отключать{prs=отключает, pst=отключал};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 использовать{prs=использует, pst=использовал};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 платить{prs=платит, pst=платил}; оплачивать{prs=оплачивает, pst=оплачивал};
 
 v dürfen-darf / durfte / hat gedurft
 мочь{prs=может, pst=мог}; иметь разрешение;
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 снимать{prs=снимает, pst=снимал}; арендовать{prs=арендует, pst=арендовал};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 парковаться{prs=паркуется, pst=парковался};
 
-v putzen / putzte / hat geputzt
+v putzen / - / hat
 чистить{prs=чистит, pst=чистил}; убирать{prs=убирает, pst=убирал};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 курить{prs=курит, pst=курил};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 хотеть{prs=хочет, pst=хотел};
 
 a alt
@@ -1449,7 +1449,7 @@ Blau wie das Meer und wie deine Augen.
 Ich mag Blau, blau wie der Himmel.
 Мне нравится синий, синий, как небо.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 любить{prs=любит, pst=любил};
 
 Ich mag dich.
@@ -1509,7 +1509,7 @@ Ich möchte schlafen.
 Ich möchte einen Kaffee.
 Я хотел бы кофе.;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 посещать{prs=посещает, pst=посещал}; навещать{prs=навещает, pst=навещал};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -1560,10 +1560,10 @@ schnell genug
 ein Picknick machen
 устраивать пикник;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 приносить с собой{prs=приносит с собой, pst=приносил с собой};
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 нуждаться{prs=нуждается, pst=нуждался}; требоваться{prs=требуется, pst=требовалось};
 
 die Getränke (pl.)
@@ -1575,7 +1575,7 @@ das Obst (sg.)
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 встречаться{prs=встречается, pst=встречался};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 подготавливать{prs=подготавливает, pst=подготавливал}; готовить{prs=готовит, pst=готовил};
 
 a trennbar
@@ -1653,7 +1653,7 @@ Ich kann nicht mit diesen Schuhen im Park tanzen.
 Mein Kopf ist leer! Ich bin sehr müde.
 У меня пустая голова! Я очень устал.; У меня в голове пусто! Я очень устал.;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 оценивать{prs=оценивает, pst=оценивал}; ценить{prs=ценит, pst=ценил}; предполагать{prs=предполагает, pst=предполагал};
 
 Ich schätze Ihre Hilfe sehr.
@@ -1719,10 +1719,10 @@ Ich bevorzuge ...
 die Kleidung (sg.)
 одежда;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 пробовать{prs=пробует, pst=пробовал}; примерять{prs=примеряет, pst=примерял};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 ремонтировать{prs=ремонтирует, pst=ремонтировал}; чинить{prs=чинит, pst=чинил};
 
 a geschieden
@@ -1734,7 +1734,7 @@ der Stress (sg.)
 a stressig
 стрессовый; напряженный;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 участвовать{prs=участвует, pst=участвовал}; присоединяться{prs=присоединяется, pst=присоединялся};
 
 a süchtig
@@ -1969,13 +1969,13 @@ aus Plastik
 die Fensterbank "-e
 подоконник;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 лежать{prs=лежит, pst=лежал};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 класть{prs=кладет, pst=клал}; положить{prs=положит, pst=положил};
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 сидеть{prs=сидит, pst=сидел};
 
 im (in dem)
@@ -2026,7 +2026,7 @@ Ruhe!
 Sei still!
 Тихо!; Не шуми!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 желать{prs=желает, pst=желал};
 
 sich etw. wünschen
@@ -2062,7 +2062,7 @@ die Urne -n
 v sterben-stirbt / starb / ist gestorben
 умирать{prs=умирает, pst=умирал};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 убивать{prs=убивает, pst=убивал};
 
 Ich will ein Auto.
@@ -2164,7 +2164,7 @@ zu heiß
 die Bedeutung -en
 значение;
 
-v kombinieren / kombinierte / hat kombiniert
+v kombinieren / - / hat
 сочетать{prs=сочетает, pst=сочетал}; комбинировать{prs=комбинирует, pst=комбинировал};
 
 ich darf
@@ -2275,7 +2275,7 @@ die Geschwindigkeit -en
 die Begrenzung -en
 ограничение;
 
-v begrenzen / begrenzte / hat begrenzt
+v begrenzen / - / hat
 ограничивать{prs=ограничивает, pst=ограничивал};
 
 mal so, mal so
@@ -2293,7 +2293,7 @@ außer + Dat.
 Es ist verboten.
 Это запрещено.;
 
-v verbieten-verbietet / verbot / hat verboten
+v verbieten / verbot / hat verboten
 запрещать{prs=запрещает, pst=запрещал};
 
 der Aberglaube (sg.)
@@ -2314,7 +2314,7 @@ die schwarze Katze -n
 Eine schwarze Katze bringt Unglück.
 Черная кошка приносит несчастье.;
 
-v poltern / polterte / hat gepoltert
+v poltern / - / hat
 греметь{prs=гремит, pst=гремел}; шуметь{prs=шумит, pst=шумел};
 
 das Unglück (sg.)
@@ -2326,7 +2326,7 @@ der Knoblauch (sg.)
 Knoblauch schützt vor Vampiren.
 Чеснок защищает от вампиров.;
 
-v schützen / schützte / hat geschützt
+v schützen / - / hat
 защищать{prs=защищает, pst=защищал};
 
 der Vampir -e
@@ -2368,25 +2368,25 @@ der Traum "-e
 v machen / - / hat
 делать{prs=делает, pst=делал}; изготавливать{prs=изготавливает, pst=изготавливал};
 
-v zumachen-macht zu / machte zu / hat zugemacht
+v zumachen / - / hat
 закрывать{prs=закрывает, pst=закрывал};
 
-v aufmachen-macht auf / machte auf / hat aufgemacht
+v aufmachen / - / hat
 открывать{prs=открывает, pst=открывал};
 
-v ausmachen-macht aus / machte aus / hat ausgemacht
+v ausmachen / - / hat
 выключать{prs=выключает, pst=выключал}; договариваться{prs=договаривается, pst=договаривался}; иметь значение{prs=имеет значение, pst=имел значение};
 
-v anmachen-macht an / machte an / hat angemacht
+v anmachen / - / hat
 включать{prs=включает, pst=включал}; клеиться к кому-то{prs=клеится к кому-то, pst=клеился к кому-то};
 
-v abmachen-macht ab / machte ab / hat abgemacht
+v abmachen / - / hat
 договариваться{prs=договаривается, pst=договаривался}; снимать{prs=снимает, pst=снимал};
 
-v einmachen-macht ein / machte ein / hat eingemacht
+v einmachen / - / hat
 консервировать{prs=консервирует, pst=консервировал};
 
-v weitermachen-macht weiter / machte weiter / hat weitergemacht
+v weitermachen / - / hat
 продолжать{prs=продолжает, pst=продолжал};
 
 die Vorsilbe -n
@@ -2407,10 +2407,10 @@ die Unterschrift -en
 v unterstreichen-unterstreicht / unterstrich / hat unterstrichen
 подчеркивать{prs=подчеркивает, pst=подчеркивал};
 
-v reinigen / reinigte / hat gereinigt
+v reinigen / - / hat
 чистить{prs=чистит, pst=чистил}; очищать{prs=очищает, pst=очищал};
 
-v wegräumen-räumt weg / räumte weg / hat weggeräumt
+v wegräumen / - / hat
 убирать{prs=убирает, pst=убирал}; убирать прочь{prs=убирает прочь, pst=убирал прочь}; относить в сторону{prs=относит в сторону, pst=относил в сторону};
 
 Ich unterschreibe den Brief.
@@ -2485,16 +2485,16 @@ v entspannen / entspannte / hat entspannt
 v sich entspannen / entspannte sich / hat sich entspannt
 расслабляться{prs=расслабляется, pst=расслаблялся}; отдыхать{prs=отдыхает, pst=отдыхал};
 
-v ausruhen-ruht aus / ruhte aus / hat ausgeruht
+v ausruhen / - / hat
 отдыхать{prs=отдыхает, pst=отдыхал};
 
-v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht
+v sich ausruhen / - / hat
 отдыхать{prs=отдыхает, pst=отдыхал}; передохнуть{prs=передохнет, pst=передохнул};
 
-v chillen / chillte / hat gechillt
+v chillen / - / hat
 чиллить{prs=чиллит, pst=чиллил}; расслабляться{prs=расслабляется, pst=расслаблялся};
 
-v baden / badete / hat gebadet
+v baden / - / hat
 купаться{prs=купается, pst=купался}; мыть{prs=моет, pst=мыл};
 
 im See baden
@@ -2512,10 +2512,10 @@ Ich bin aufgeregt.
 a gespannt
 заинтересованный; в предвкушении; любопытный;
 
-v sich freuen / freute sich / hat sich gefreut
+v sich freuen / - / hat
 радоваться{prs=радуется, pst=радовался}; ждать с радостью{prs=ждет с радостью, pst=ждал с радостью};
 
-v beschäftigen / beschäftigte / hat beschäftigt
+v beschäftigen / - / hat
 занимать{prs=занимает, pst=занимал}; нанимать{prs=нанимает, pst=нанимал};
 
 sich mit etw. beschäftigen
@@ -2551,7 +2551,7 @@ die Ente -n
 Enten füttern
 кормить уток;
 
-v füttern / fütterte / hat gefüttert
+v füttern / - / hat
 кормить животных{prs=кормит животных, pst=кормил животных};
 
 Das hängt ab.
@@ -2674,7 +2674,7 @@ Ich gehe in die Schule.
 v laufen-läuft / lief / ist gelaufen
 бежать{prs=бежит, pst=бежал}; ходить пешком{prs=ходит пешком, pst=ходил пешком};
 
-v klettern / kletterte / hat geklettert
+v klettern / - / hat
 лезть{prs=лезет, pst=лез}; карабкаться{prs=карабкается, pst=карабкался};
 
 v rennen-rennt / rannte / ist gerannt
@@ -2683,7 +2683,7 @@ v rennen-rennt / rannte / ist gerannt
 v wandern / - / ist
 ходить в поход{prs=ходит в поход, pst=ходил в поход}; путешествовать пешком{prs=путешествует пешком, pst=путешествовал пешком};
 
-v fliegen-fliegt / flog / ist geflogen
+v fliegen / flog / ist geflogen
 лететь{prs=летит, pst=летел};
 
 nach
@@ -2695,13 +2695,13 @@ Ich fahre nach Erfurt.
 Wir fliegen nach Palästina.
 Мы летим в Палестину.;
 
-v arbeiten / arbeitete / hat gearbeitet
+v arbeiten / - / hat
 работать{prs=работает, pst=работал};
 
 v lernen / lernte / hat gelernt
 учить{prs=учит, pst=учил}; учиться{prs=учится, pst=учился};
 
-v kaufen / kaufte / hat gekauft
+v kaufen / - / hat
 покупать{prs=покупает, pst=покупал};
 
 v essen-isst / aß / hat gegessen
@@ -2830,7 +2830,7 @@ Ich habe am Montag eingekauft.
 Ich habe keine Ahnung.
 Я не имею ни малейшего представления.; Я не знаю.;
 
-v einchecken / checkte ein / hat eingecheckt
+v einchecken / - / hat
 регистрироваться{prs=регистрируется, pst=регистрировался}; проходить регистрацию{prs=проходит регистрацию, pst=проходил регистрацию};
 
 v liefern / - / hat
@@ -2878,13 +2878,13 @@ vom Hafen
 das Präteritum (sg.)
 претерит; простое прошедшее время;
 
-v gehen-geht / ging / ist gegangen
+v gehen / ging / ist gegangen
 идти{prs=идет, pst=шел};
 
 v helfen-hilft / half / hat geholfen
 помогать{prs=помогает, pst=помогал};
 
-v bleiben-bleibt / blieb / ist geblieben
+v bleiben / blieb / ist geblieben
 оставаться{prs=остается, pst=оставался};
 
 v werden-wird / wurde / ist geworden
@@ -2899,7 +2899,7 @@ mit Ermäßigung
 eine Ermäßigung bekommen
 получить скидку;
 
-v aufhören-hört auf / hörte auf / hat aufgehört
+v aufhören / - / hat
 переставать{prs=перестает, pst=переставал}; прекращать{prs=прекращает, pst=прекращал};
 
 mit etw. aufhören
@@ -3078,7 +3078,7 @@ v sich leihen / lieh sich / hat sich geliehen
 брать взаймы;
 [sich+Dat; etw.; von+Dat]
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 брать на время; выдавать на время;
 [etw.]
 
@@ -3091,7 +3091,7 @@ v schauen
 v schwimmen / schwamm / ist geschwommen
 плавать;
 
-v stattfinden-findet statt / fand statt / hat stattgefunden
+v stattfinden / fand statt / hat stattgefunden
 состояться; проходить;
 
 v treffen-trifft / traf / hat getroffen
@@ -3116,39 +3116,39 @@ im Supermarkt gibt es viele verschiedene Waren
 v bekommen-bekommt / bekam / hat bekommen
 получать;
 
-v stürzen / - / ist gestürzt
+v stürzen / - / ist
 падать; рухнуть; бросаться;
 
-v stürzen / - / hat gestürzt
+v stürzen / - / hat
 свергать; опрокидывать;
 [j-n; etw.]
 
-v aussteigen-steigt aus / stieg aus / ist ausgestiegen
+v aussteigen / stieg aus / ist ausgestiegen
 выходить из транспорта;
 
-v einsteigen-steigt ein / stieg ein / ist eingestiegen
+v einsteigen / stieg ein / ist eingestiegen
 садиться в транспорт;
 
-v umsteigen-steigt um / stieg um / ist umgestiegen
+v umsteigen / stieg um / ist umgestiegen
 пересаживаться;
 
 v springen / sprang / ist gesprungen
 прыгать; скакать;
 
-v klettern / - / ist geklettert
+v klettern / - / ist
 лазить; карабкаться;
 
 v fallen-fällt / fiel / ist gefallen
 падать;
 
-v joggen / - / ist gejoggt
+v joggen / - / ist
 бегать трусцой;
 
 v fliegen / flog / hat geflogen
 пилотировать;
 [etw.]
 
-v reisen / - / ist gereist
+v reisen / - / ist
 путешествовать;
 
 v steigen / stieg / ist gestiegen
@@ -3160,10 +3160,10 @@ v schaukeln
 v wiegen / wog / hat gewogen
 весить;
 
-v wiegen / wiegte / hat gewiegt
+v wiegen / - / hat
 качать; баюкать;
 
-v sich wiegen / wiegte sich / hat sich gewiegt
+v sich wiegen / - / hat
 покачиваться; колыхаться;
 
 v schwingen / schwang / hat geschwungen
@@ -3199,7 +3199,7 @@ v mieten
 v kommen / kam / ist gekommen
 приходить; приезжать;
 
-v bezahlen / - / hat bezahlt
+v bezahlen / - / hat
 оплачивать; платить;
 
 v übersetzen
@@ -3226,7 +3226,7 @@ SIM-карта;
 v stehen / stand / hat gestanden
 стоять;
 
-v aufwachen-wacht auf / wachte auf / ist aufgewacht
+v aufwachen / - / ist
 просыпаться;
 
 der Papayasalat -e
@@ -3235,7 +3235,7 @@ der Papayasalat -e
 v bringen / brachte / hat gebracht
 приносить; приводить; отвозить;
 
-v abholen-holt ab / holte ab / hat abgeholt
+v abholen / - / hat
 забирать; встречать;
 
 die Erfahrung -en
@@ -3253,7 +3253,7 @@ v austragen-trägt aus / trug aus / hat ausgetragen
 die Tochter "-
 дочь;
 
-v einfügen-fügt ein / fügte ein / hat eingefügt
+v einfügen / - / hat
 вставлять; добавлять;
 
 die Silbe -n
@@ -3265,7 +3265,7 @@ a silbenweise
 die Silbentrennung -en
 деление на слоги; перенос слов по слогам;
 
-v mitschreiben-schreibt mit / schrieb mit / hat mitgeschrieben
+v mitschreiben / schrieb mit / hat mitgeschrieben
 записывать; конспектировать;
 
 v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
@@ -3292,50 +3292,50 @@ der Brief -e
 das Personalbüro -s
 отдел кадров; кадровый отдел;
 
-v festlegen-legt fest / legte fest / hat festgelegt
+v festlegen / - / hat
 устанавливать; определять; фиксировать;
 
 v legen
 класть; положить;
 
-v organisieren / - / hat organisiert
+v organisieren / - / hat
 организовывать;
 
 v bestimmen / - / hat bestimmt
 определять; назначать; решать;
 
-v notieren / - / hat notiert
+v notieren / - / hat
 записывать; отмечать;
 
-v telefonieren / - / hat telefoniert
+v telefonieren / - / hat
 разговаривать по телефону; звонить по телефону;
 
-v reservieren / - / hat reserviert
+v reservieren / - / hat
 бронировать;
 
-v reparieren / - / hat repariert
+v reparieren / - / hat
 ремонтировать;
 
-v kopieren / - / hat kopiert
+v kopieren / - / hat
 копировать;
 
-v studieren / - / hat studiert
+v studieren / - / hat
 учиться в вузе; изучать;
 
-v buchstabieren / - / hat buchstabiert
+v buchstabieren / - / hat
 произносить по буквам;
 
-v informieren / - / hat informiert
+v informieren / - / hat
 информировать; сообщать;
 
-v sich informieren / - / hat sich informiert
+v sich informieren / - / hat
 узнавать информацию; осведомляться;
 [sich+Akk; über+Akk]
 
-v markieren / - / hat markiert
+v markieren / - / hat
 отмечать; выделять;
 
-v kontrollieren / - / hat kontrolliert
+v kontrollieren / - / hat
 проверять; контролировать;
 
 a normalerweise
@@ -3362,33 +3362,33 @@ a schrittweise
 a höflicherweise
 из вежливости;
 
-v zerstören / - / hat zerstört
+v zerstören / - / hat
 разрушать; уничтожать;
 
 v entlassen-entlässt / entließ / hat entlassen
 увольнять; отпускать; выписывать;
 
-v erklären / - / hat erklärt
+v erklären / - / hat
 объяснять;
 
-v ergänzen / - / hat ergänzt
+v ergänzen / - / hat
 дополнять;
 
-v missbrauchen / - / hat missbraucht
+v missbrauchen / - / hat
 злоупотреблять; использовать во вред;
 
 v gefallen-gefällt / gefiel / hat gefallen
 нравиться;
 [j-m]
 
-v missverstehen-missversteht / missverstand / hat missverstanden
+v missverstehen / missverstand / hat missverstanden
 неправильно понимать;
 
-v gelingen-gelingt / gelang / ist gelungen
+v gelingen / gelang / ist gelungen
 удаваться; получаться;
 [j-m]
 
-v misslingen-misslingt / misslang / ist misslungen
+v misslingen / misslang / ist misslungen
 не удаваться; не получаться;
 [j-m]
 
@@ -3408,7 +3408,7 @@ a eigentlich
 in Wirklichkeit
 в действительности; на самом деле;
 
-v erzählen / - / hat erzählt
+v erzählen / - / hat
 рассказывать;
 [j-m; von+Dat]
 
@@ -3416,7 +3416,7 @@ v zustimmen-stimmt zu / stimmte zu / hat zugestimmt
 соглашаться; одобрять;
 [j-m]
 
-v vereinbaren / - / hat vereinbart
+v vereinbaren / - / hat
 договариваться; согласовывать; назначать;
 
 v vergessen-vergisst / vergaß / hat vergessen
@@ -3441,16 +3441,16 @@ v finden / fand / hat gefunden
 v benutzen
 использовать{prs=использует, pst=использовал};
 
-v besuchen / - / hat besucht
+v besuchen / - / hat
 посещать{prs=посещает, pst=посещал}; навещать;
 
-v begrüßen / - / hat begrüßt
+v begrüßen / - / hat
 приветствовать{prs=приветствует, pst=приветствовал};
 
 v bestellen
 заказывать;
 
-v funktionieren / - / hat funktioniert
+v funktionieren / - / hat
 работать{prs=работает, pst=работал}; функционировать;
 
 das Gedicht -e
@@ -3540,7 +3540,7 @@ Lass das!
 v lassen-lässt / ließ / hat gelassen
 оставлять; позволять; велеть сделать;
 
-v anfassen-fasst an / fasste an / hat angefasst
+v anfassen / - / hat
 трогать; прикасаться;
 
 Fass mich nicht an!
@@ -3561,16 +3561,16 @@ Halt's Maul!
 v halten-hält / hielt / hat gehalten
 держать; останавливать;
 
-v einräumen-räumt ein / räumte ein / hat eingeräumt
+v einräumen / - / hat
 убирать на место; загружать; признавать;
 
-v ausräumen-räumt aus / räumte aus / hat ausgeräumt
+v ausräumen / - / hat
 выносить; разгружать; освобождать;
 
-v abräumen-räumt ab / räumte ab / hat abgeräumt
+v abräumen / - / hat
 убирать; убирать со стола;
 
-v aufräumen-räumt auf / räumte auf / hat aufgeräumt
+v aufräumen / - / hat
 убирать; наводить порядок;
 
 Räum die Spülmaschine ein!
@@ -3597,7 +3597,7 @@ Red mit mir!
 v verschwinden / verschwand / ist verschwunden
 исчезать;
 
-v abhauen-haut ab / haute ab / ist abgehauen
+v abhauen / - / ist abgehauen
 убегать; сваливать;
 
 v reden
@@ -3633,16 +3633,16 @@ das Nummernschild -er
 v zulassen-lässt zu / ließ zu / hat zugelassen
 разрешать; допускать; регистрировать транспортное средство;
 
-v anmelden-meldet an / meldete an / hat angemeldet
+v anmelden / - / hat
 регистрировать; записывать; заявлять;
 
-v einziehen-zieht ein / zog ein / ist eingezogen
+v einziehen / zog ein / ist eingezogen
 въезжать; вселяться;
 
-v ausziehen-zieht aus / zog aus / ist ausgezogen
+v ausziehen / zog aus / ist ausgezogen
 выезжать; раздеваться;
 
-v umziehen-zieht um / zog um / ist umgezogen
+v umziehen / zog um / ist umgezogen
 переезжать;
 
 die Staatsangehörigkeit -en
@@ -3669,7 +3669,7 @@ Kommen Sie herein!
 Komm herein!
 Входи!;
 
-v ausfüllen-füllt aus / füllte aus / hat ausgefüllt
+v ausfüllen / - / hat
 заполнять;
 
 der Antrag "-e
@@ -3882,13 +3882,13 @@ der Verwandte -n
 die Verwandte -n
 родственница;
 
-v abschließen-schließt ab / schloss ab / hat abgeschlossen
+v abschließen / schloss ab / hat abgeschlossen
 заканчивать; заключать договор; запирать;
 
 v abwaschen-wäscht ab / wusch ab / hat abgewaschen
 мыть посуду;
 
-v bedeuten / - / hat bedeutet
+v bedeuten / - / hat
 означать;
 
 v schneiden / schnitt / hat geschnitten
@@ -3918,73 +3918,73 @@ a hierher
 a dorthin
 туда;
 
-v dekorieren / - / hat dekoriert
+v dekorieren / - / hat
 украшать;
 
-v demonstrieren / - / hat demonstriert
+v demonstrieren / - / hat
 демонстрировать; участвовать в демонстрации;
 
-v fotografieren / - / hat fotografiert
+v fotografieren / - / hat
 фотографировать;
 
-v frisieren / - / hat frisiert
+v frisieren / - / hat
 причёсывать; укладывать волосы;
 
-v frustrieren / - / hat frustriert
+v frustrieren / - / hat
 расстраивать; разочаровывать;
 
-v gratulieren / - / hat gratuliert
+v gratulieren / - / hat
 поздравлять;
 [j-m; zu+Dat]
 
-v korrigieren / - / hat korrigiert
+v korrigieren / - / hat
 исправлять;
 
-v lackieren / - / hat lackiert
+v lackieren / - / hat
 покрывать лаком; красить;
 
-v montieren / - / hat montiert
+v montieren / - / hat
 монтировать; устанавливать;
 
-v motivieren / - / hat motiviert
+v motivieren / - / hat
 мотивировать;
 
-v nostrifizieren / - / hat nostrifiziert
+v nostrifizieren / - / hat
 нострифицировать; признавать диплом;
 
-v operieren / - / hat operiert
+v operieren / - / hat
 оперировать;
 
-v präsentieren / - / hat präsentiert
+v präsentieren / - / hat
 представлять; презентовать;
 
-v probieren / - / hat probiert
+v probieren / - / hat
 пробовать; примерять; пробовать на вкус;
 
-v protestieren / - / hat protestiert
+v protestieren / - / hat
 протестовать;
 [gegen+Akk]
 
-v rasieren / - / hat rasiert
+v rasieren / - / hat
 брить;
 
-v sich rasieren / - / hat sich rasiert
+v sich rasieren / - / hat
 бриться;
 [sich+Akk]
 
-v renovieren / - / hat renoviert
+v renovieren / - / hat
 ремонтировать; обновлять;
 
-v sanieren / - / hat saniert
+v sanieren / - / hat
 санировать; капитально ремонтировать;
 
-v sortieren / - / hat sortiert
+v sortieren / - / hat
 сортировать;
 
-v stornieren / - / hat storniert
+v stornieren / - / hat
 отменять; аннулировать;
 
-v trainieren / - / hat trainiert
+v trainieren / - / hat
 тренироваться; тренировать;
 
 Die Tür abschließen

@@ -21,7 +21,7 @@ v aufräumen
 убирать{prs=убирает, pst=убирал}; наводить порядок;
 [etw.]
 
-v anschauen-schaut an / schaute an / hat angeschaut
+v anschauen / - / hat
 смотреть{prs=смотрит, pst=смотрел}; посмотреть; рассматривать;
 [j-n; etw.]
 
@@ -300,7 +300,7 @@ die Zitrone -n
 die Zwiebel -n
 лук;
 
-v finden-findet / fand / hat gefunden
+v finden / fand / hat gefunden
 находить{prs=находит, pst=находил};
 
 v geben-gibt / gab / hat gegeben
@@ -349,7 +349,7 @@ das Genussmittel -
 der Geschmack "-er
 вкус;
 
-v riechen-riecht / roch / hat gerochen
+v riechen / roch / hat gerochen
 пахнуть{prs=пахнет, pst=пах}; чувствовать запах;
 
 der Geruch "-e
@@ -458,11 +458,11 @@ die Wohnung -en
 die Zeit (sg.)
 время;
 
-v anrufen-ruft an / rief an / hat angerufen
+v anrufen / rief an / hat angerufen
 звонить{prs=звонит, pst=звонил};
 [j-n]
 
-v aufstehen-steht auf / stand auf / ist aufgestanden
+v aufstehen / stand auf / ist aufgestanden
 вставать{prs=встает, pst=вставал};
 
 v beginnen-beginnt / begann / hat begonnen
@@ -472,7 +472,7 @@ v besuchen
 посещать{prs=посещает, pst=посещал}; навещать;
 [j-n; etw.]
 
-v einkaufen-kauft ein / kaufte ein / hat eingekauft
+v einkaufen / - / hat
 делать покупки{prs=делает покупки, pst=делал покупки}; закупаться;
 
 v fahren-fährt / fuhr / ist gefahren
@@ -794,7 +794,7 @@ v fragen
 спрашивать{prs=спрашивает, pst=спрашивал};
 [j-n; etw.]
 
-v heißen-heißt / hieß / hat geheißen
+v heißen / hieß / hat geheißen
 называться{prs=называется, pst=назывался};
 
 v kennen-kennt / kannte / hat gekannt
@@ -806,7 +806,7 @@ v kommen-kommt / kam / ist gekommen
 v lesen-liest / las / hat gelesen
 читать{prs=читает, pst=читал};
 
-v schreiben-schreibt / schrieb / hat geschrieben
+v schreiben / schrieb / hat geschrieben
 писать{prs=пишет, pst=писал};
 
 v sein-ist / war / ist gewesen
@@ -815,7 +815,7 @@ v sein-ist / war / ist gewesen
 v sprechen-spricht / sprach / hat gesprochen
 говорить{prs=говорит, pst=говорил};
 
-v vorstellen-stellt vor / stellte vor / hat vorgestellt
+v vorstellen / - / hat
 представлять{prs=представляет, pst=представлял}; знакомить;
 
 v wiederholen

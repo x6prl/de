@@ -25,7 +25,7 @@ Blau wie das Meer und wie deine Augen.
 Ich mag Blau, blau wie der Himmel.
 أحب الأزرق، أزرق مثل السماء.;
 
-v lieben / liebte / hat geliebt
+v lieben / - / hat
 يحب{prs=يحب, pst=أحب};
 
 Ich mag dich.
@@ -85,7 +85,7 @@ Ich möchte schlafen.
 Ich möchte einen Kaffee.
 أود فنجان قهوة. ;
 
-v besuchen / besuchte / hat besucht
+v besuchen / - / hat
 يزور{prs=يزور, pst=زار};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
@@ -136,10 +136,10 @@ schnell genug
 ein Picknick machen
 يقيم نزهة; يقوم بنزهة;
 
-v mitbringen-bringt mit / brachte mit / hat mitgebracht
+v mitbringen / brachte mit / hat mitgebracht
 يحضر معه{prs=يحضر معه, pst=أحضر معه}; يجلب معه;
 
-v brauchen / brauchte / hat gebraucht
+v brauchen / - / hat
 يحتاج{prs=يحتاج, pst=احتاج};
 
 die Getränke (pl.)
@@ -151,7 +151,7 @@ das Obst (sg.)
 v sich treffen-trifft sich / traf sich / hat sich getroffen
 يلتقي{prs=يلتقي, pst=التقى};
 
-v vorbereiten-bereitet vor / bereitete vor / hat vorbereitet
+v vorbereiten / - / hat
 يحضّر{prs=يحضّر, pst=حضّر}; يعدّ{prs=يعدّ, pst=أعدّ};
 
 a trennbar
@@ -229,7 +229,7 @@ Ich kann nicht mit diesen Schuhen im Park tanzen.
 Mein Kopf ist leer! Ich bin sehr müde.
 رأسي فارغ! أنا متعب جدًا.; ذهني فارغ! أنا متعب جدًا. ;
 
-v schätzen / schätzte / hat geschätzt
+v schätzen / - / hat
 يقدّر{prs=يقدّر, pst=قدّر}; يثمّن{prs=يثمّن, pst=ثمّن}; يفترض{prs=يفترض, pst=افترض};
 
 Ich schätze Ihre Hilfe sehr.
@@ -295,10 +295,10 @@ Ich bevorzuge ...
 die Kleidung (sg.)
 ملابس; لباس;
 
-v probieren / probierte / hat probiert
+v probieren / - / hat
 يجرّب{prs=يجرّب, pst=جرّب}; يقيس الملابس{prs=يقيس الملابس, pst=قاس الملابس};
 
-v reparieren / reparierte / hat repariert
+v reparieren / - / hat
 يصلح{prs=يصلح, pst=أصلح}; يرمم;
 
 a geschieden
@@ -310,7 +310,7 @@ der Stress (sg.)
 a stressig
 مجهد{cmp=أكثر إجهادًا, sup=الأكثر إجهادًا}; مرهق;
 
-v mitmachen-macht mit / machte mit / hat mitgemacht
+v mitmachen / - / hat
 يشارك{prs=يشارك, pst=شارك}; ينضم{prs=ينضم, pst=انضم};
 
 a süchtig
@@ -545,13 +545,13 @@ aus Plastik
 die Fensterbank "-e
 حافة النافذة; عتبة النافذة;
 
-v liegen-liegt / lag / hat gelegen
+v liegen / lag / hat gelegen
 يقع{prs=يقع, pst=وقع}; يكون موضوعًا{prs=يكون موضوعًا, pst=كان موضوعًا};
 
-v legen / legte / hat gelegt
+v legen / - / hat
 يضع{prs=يضع, pst=وضع}; يضع شيئًا;
 
-v sitzen-sitzt / saß / hat gesessen
+v sitzen / saß / hat gesessen
 يجلس{prs=يجلس, pst=جلس};
 
 im (in dem)
@@ -602,7 +602,7 @@ Ruhe!
 Sei still!
 كن هادئًا!; اصمت!;
 
-v wünschen / wünschte / hat gewünscht
+v wünschen / - / hat
 يتمنى{prs=يتمنى, pst=تمنى}; يرغب{prs=يرغب, pst=رغب};
 
 sich etw. wünschen
@@ -638,7 +638,7 @@ die Urne -n
 v sterben-stirbt / starb / ist gestorben
 يموت{prs=يموت, pst=مات};
 
-v töten / tötete / hat getötet
+v töten / - / hat
 يقتل{prs=يقتل, pst=قتل};
 
 Ich will ein Auto.

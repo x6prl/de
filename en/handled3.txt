@@ -82,28 +82,28 @@ center; downtown;
 das Zimmer -
 room;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 put down{prs=puts down, pst=put down}; leave{prs=leaves, pst=left}; switch off{prs=switches off, pst=switched off};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 use{prs=uses, pst=used};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 pay{prs=pays, pst=paid}; pay for{prs=pays for, pst=paid for};
 
 v dürfen-darf / durfte / hat gedurft
 may; be allowed to{prs=is allowed to, pst=was allowed to, par=been allowed to};
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 rent{prs=rents, pst=rented}; lease{prs=leases, pst=leased};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 park{prs=parks, pst=parked};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 smoke{prs=smokes, pst=smoked};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 want{prs=wants, pst=wanted};
 
 a alt

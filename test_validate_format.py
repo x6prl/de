@@ -52,9 +52,9 @@ class DuplicateHeadValidationTest(unittest.TestCase):
             ru = root / "ru"
             en.mkdir()
             ru.mkdir()
-            (en / "a.txt").write_text("v wandern\nwalk;\n", encoding="utf-8")
+            (en / "a.txt").write_text("v wandern / - / ist\nwalk;\n", encoding="utf-8")
             (en / "b.txt").write_text("v wandern / - / ist\nhike;\n", encoding="utf-8")
-            (ru / "a.txt").write_text("v wandern\nгулять;\n", encoding="utf-8")
+            (ru / "a.txt").write_text("v wandern / - / ist\nгулять;\n", encoding="utf-8")
 
             warnings = validate_format.validate_duplicate_heads([en / "a.txt", en / "b.txt", ru / "a.txt"])
 
@@ -67,6 +67,56 @@ class DuplicateHeadValidationTest(unittest.TestCase):
         self.assertEqual(
             validate_format.entry_head_key("v sich ausruhen-ruht sich aus / ruhte sich aus / hat sich ausgeruht"),
             "v sich ausruhen",
+        )
+
+    def test_duplicate_verb_with_different_auxiliary_is_not_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            en = root / "en"
+            en.mkdir()
+            (en / "a.txt").write_text("v fahren-fährt / fuhr / ist gefahren\ngo;\n", encoding="utf-8")
+            (en / "b.txt").write_text("v fahren-fährt / fuhr / hat gefahren\ndrive;\n", encoding="utf-8")
+
+            warnings = validate_format.validate_duplicate_heads([en / "a.txt", en / "b.txt"])
+
+            self.assertEqual(warnings, [])
+
+    def test_duplicate_noun_with_different_plural_marker_is_not_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            en = root / "en"
+            en.mkdir()
+            (en / "a.txt").write_text("die Bank -en\nbench;\n", encoding="utf-8")
+            (en / "b.txt").write_text('die Bank "-e\nbank;\n', encoding="utf-8")
+
+            warnings = validate_format.validate_duplicate_heads([en / "a.txt", en / "b.txt"])
+
+            self.assertEqual(warnings, [])
+
+    def test_duplicate_verb_with_different_grammar_is_not_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            en = root / "en"
+            en.mkdir()
+            (en / "a.txt").write_text("v helfen-hilft / half / hat geholfen\nhelp;\n[j-m]\n", encoding="utf-8")
+            (en / "b.txt").write_text("v helfen-hilft / half / hat geholfen\nhelp;\n[j-n]\n", encoding="utf-8")
+
+            warnings = validate_format.validate_duplicate_heads([en / "a.txt", en / "b.txt"])
+
+            self.assertEqual(warnings, [])
+
+
+class ValidateNounFormatTest(unittest.TestCase):
+    def validate(self, lemma: str) -> list[str]:
+        return [error.message for error in validate_format.validate_lemma(TEST_PATH, 1, lemma)]
+
+    def test_single_token_noun_is_valid(self) -> None:
+        self.assertEqual(self.validate("die Arbeit -en"), [])
+
+    def test_multiword_noun_is_invalid(self) -> None:
+        self.assertEqual(
+            self.validate("das geflugelte Wort -er"),
+            ["noun lemma must be a single token; multi-word nouns are not allowed"],
         )
 
 

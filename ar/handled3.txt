@@ -82,34 +82,34 @@ das Zentrum -en
 das Zimmer -
 غرفة;
 
-v abstellen-stellt ab / stellte ab / hat abgestellt
+v abstellen / - / hat
 يضع{prs=يضع, pst=وضع}; يترك{prs=يترك, pst=ترك}; يطفئ{prs=يطفئ, pst=أطفأ};
 
-v benutzen / benutzte / hat benutzt
+v benutzen / - / hat
 يستخدم{prs=يستخدم, pst=استخدم};
 
-v bezahlen / bezahlte / hat bezahlt
+v bezahlen / - / hat
 يدفع{prs=يدفع, pst=دفع}; يسدد{prs=يسدد, pst=سدد};
 
 v dürfen-darf / durfte / hat gedurft
 يُسمح له بـ{prs=يُسمح له, pst=سُمح له}; يجوز له;
 
-v grillen / grillte / hat gegrillt
+v grillen / - / hat
 يشوي{prs=يشوي, pst=شوى}; يشوي على الفحم;
 
-v mieten / mietete / hat gemietet
+v mieten / - / hat
 يستأجر{prs=يستأجر, pst=استأجر};
 
-v parken / parkte / hat geparkt
+v parken / - / hat
 يركن{prs=يركن, pst=ركن}; يصفّ السيارة;
 
-v putzen / putzte / hat geputzt
+v putzen / - / hat
 ينظف{prs=ينظف, pst=نظف}; يرتب{prs=يرتب, pst=رتب};
 
-v rauchen / rauchte / hat geraucht
+v rauchen / - / hat
 يدخن{prs=يدخن, pst=دخن};
 
-v wollen-will / wollte / hat gewollt
+v wollen-will / - / hat
 يريد{prs=يريد, pst=أراد};
 
 a alt

@@ -90,6 +90,7 @@ Do not turn the grammar line into a general annotation field. If a construction 
 
 #### A. Nouns (Articles: `der`, `die`, `das` or `(-)`)
 Identified by the definite article at the start of the line. The plural marker follows the noun. It may be a suffix such as `-en`, a zero-ending plural marker such as `-`, an umlaut-only marker such as `"-`, an umlaut+suffix such as `"-e`, or `(sg.)` / `(pl.)`.
+Noun lemmas are single-token only in this format. Multi-word noun lemmas are not allowed.
 
 For **Singularetantum** german nouns we will use ` (sg.)` instead of plural suffix.
 For **Pluraletantum** german nouns we will use ` (pl.)` instead of plural suffix.
