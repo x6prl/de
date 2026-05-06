@@ -151,9 +151,6 @@ v mitkommen-kommt mit / kam mit / ist mitgekommen
 v schauen
 ينظر; يشاهد; يتفرج;
 
-v schwimmen / schwamm / ist geschwommen
-يسبح;
-
 v stattfinden / fand statt / hat stattgefunden
 يقام; يحدث; يجري;
 
@@ -258,12 +255,6 @@ v besichtigen
 
 v mieten
 يستأجر; يؤجر;
-
-v kommen / kam / ist gekommen
-يأتي; يصل;
-
-v bezahlen / - / hat
-يدفع; يسدد; يدفع ثمن;
 
 v übersetzen
 يترجم;
@@ -376,9 +367,6 @@ v telefonieren / - / hat
 v reservieren / - / hat
 يحجز; يحتفظ;
 
-v reparieren / - / hat
-يصلح; يرمم;
-
 v kopieren / - / hat
 ينسخ; يصور;
 
@@ -488,24 +476,12 @@ v vergessen-vergisst / vergaß / hat vergessen
 v verstehen / verstand / hat verstanden
 يفهم;
 
-v schreiben / schrieb / hat geschrieben
-يكتب;
-
 v verkaufen
 يبيع;
 
 v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
 يغتسل; يغسل نفسه;
 [sich+Akk]
-
-v finden / fand / hat gefunden
-يجد; يعثر على;
-
-v benutzen
-يستخدم; يستعمل;
-
-v besuchen / - / hat
-يزور; يحضر; يرتاد;
 
 v begrüßen / - / hat
 يحيي; يرحب;
@@ -894,9 +870,6 @@ der Geburtsort -e
 die Kantine -n
 مقصف; كافيتريا; مطعم موظفين;
 
-das Konto -en
-حساب; حساب بنكي;
-
 der Kunde -n
 زبون; عميل;
 
@@ -1020,9 +993,6 @@ v operieren / - / hat
 
 v präsentieren / - / hat
 يقدم; يعرض;
-
-v probieren / - / hat
-يجرب; يتذوق; يقيس الملابس;
 
 v protestieren / - / hat
 يحتج; يتظاهر احتجاجاً;

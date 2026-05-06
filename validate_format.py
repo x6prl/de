@@ -83,6 +83,7 @@ class DuplicateEntryRecord:
     line: int
     head: str
     signature: tuple[str, ...]
+    lemma: str
 
 
 def iter_files(paths: list[str]) -> Iterable[Path]:
@@ -395,6 +396,16 @@ def duplicate_scope_key(path: Path) -> str:
     return str(path.parent)
 
 
+def is_allowed_duplicate_pair(first: DuplicateEntryRecord, current: DuplicateEntryRecord) -> bool:
+    return first.head == "v wiegen" and {
+        first.lemma,
+        current.lemma,
+    } == {
+        "v wiegen / wog / hat gewogen",
+        "v wiegen / - / hat",
+    }
+
+
 def collect_entry_records(path: Path) -> list[DuplicateEntryRecord]:
     lines, errors = read_lines(path)
     if lines is None or errors:
@@ -429,6 +440,7 @@ def collect_entry_records(path: Path) -> list[DuplicateEntryRecord]:
                 line=line_no,
                 head=entry_head_key(lemma),
                 signature=build_duplicate_signature(lemma, grammar),
+                lemma=lemma,
             )
         )
 
@@ -443,7 +455,7 @@ def collect_entry_records(path: Path) -> list[DuplicateEntryRecord]:
 
 def validate_duplicate_heads(paths: Iterable[Path]) -> list[ValidationError]:
     warnings: list[ValidationError] = []
-    first_seen: dict[tuple[str, str, tuple[str, ...]], tuple[Path, int]] = {}
+    first_seen: dict[tuple[str, str, tuple[str, ...]], DuplicateEntryRecord] = {}
 
     for path in paths:
         if not path.exists() or not path.is_file():
@@ -452,14 +464,16 @@ def validate_duplicate_heads(paths: Iterable[Path]) -> list[ValidationError]:
         for record in collect_entry_records(path):
             key = (scope, record.head, record.signature)
             if key not in first_seen:
-                first_seen[key] = (record.path, record.line)
+                first_seen[key] = record
                 continue
-            first_path, first_line = first_seen[key]
+            first_record = first_seen[key]
+            if is_allowed_duplicate_pair(first_record, record):
+                continue
             warnings.append(
                 ValidationError(
                     record.path,
                     record.line,
-                    f"duplicate head {record.head!r}; first seen at {first_path}:{first_line}",
+                    f"duplicate head {record.head!r}; first seen at {first_record.path}:{first_record.line}",
                     severity="warning",
                 )
             )

@@ -1720,7 +1720,7 @@ die Kleidung (sg.)
 одежда;
 
 v probieren / - / hat
-пробовать{prs=пробует, pst=пробовал}; примерять{prs=примеряет, pst=примерял};
+пробовать{prs=пробует, pst=пробовал}; примерять{prs=примеряет, pst=примерял}; пробовать на вкус{prs=пробует на вкус, pst=пробовал на вкус};
 
 v reparieren / - / hat
 ремонтировать{prs=ремонтирует, pst=ремонтировал}; чинить{prs=чинит, pst=чинил};
@@ -3088,9 +3088,6 @@ v mitkommen-kommt mit / kam mit / ist mitgekommen
 v schauen
 смотреть;
 
-v schwimmen / schwamm / ist geschwommen
-плавать;
-
 v stattfinden / fand statt / hat stattgefunden
 состояться; проходить;
 
@@ -3195,12 +3192,6 @@ v besichtigen
 
 v mieten
 арендовать; снимать;
-
-v kommen / kam / ist gekommen
-приходить; приезжать;
-
-v bezahlen / - / hat
-оплачивать; платить;
 
 v übersetzen
 переводить;
@@ -3313,9 +3304,6 @@ v telefonieren / - / hat
 v reservieren / - / hat
 бронировать;
 
-v reparieren / - / hat
-ремонтировать;
-
 v kopieren / - / hat
 копировать;
 
@@ -3425,24 +3413,12 @@ v vergessen-vergisst / vergaß / hat vergessen
 v verstehen / verstand / hat verstanden
 понимать;
 
-v schreiben / schrieb / hat geschrieben
-писать{prs=пишет, pst=писал};
-
 v verkaufen
 продавать;
 
 v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
 мыться; умываться;
 [sich+Akk]
-
-v finden / fand / hat gefunden
-находить;
-
-v benutzen
-использовать{prs=использует, pst=использовал};
-
-v besuchen / - / hat
-посещать{prs=посещает, pst=посещал}; навещать;
 
 v begrüßen / - / hat
 приветствовать{prs=приветствует, pst=приветствовал};
@@ -3831,9 +3807,6 @@ der Geburtsort -e
 die Kantine -n
 столовая;
 
-das Konto -en
-счёт; банковский счёт;
-
 der Kunde -n
 клиент; покупатель;
 
@@ -3957,9 +3930,6 @@ v operieren / - / hat
 
 v präsentieren / - / hat
 представлять; презентовать;
-
-v probieren / - / hat
-пробовать; примерять; пробовать на вкус;
 
 v protestieren / - / hat
 протестовать;

@@ -86,7 +86,7 @@ Ich möchte einen Kaffee.
 I would like a coffee.;
 
 v besuchen / - / hat
-visit{prs=visits, pst=visited};
+visit{prs=visits, pst=visited}; attend{prs=attends, pst=attended};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
 swim{prs=swims, pst=swam, par=swum};
@@ -296,7 +296,7 @@ die Kleidung (sg.)
 clothing;
 
 v probieren / - / hat
-try{prs=tries, pst=tried}; try on{prs=tries on, pst=tried on};
+try{prs=tries, pst=tried}; try on{prs=tries on, pst=tried on}; taste{prs=tastes, pst=tasted};
 
 v reparieren / - / hat
 repair{prs=repairs, pst=repaired}; fix{prs=fixes, pst=fixed};

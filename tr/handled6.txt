@@ -151,9 +151,6 @@ birlikte gelmek; birlikte gitmek;
 v schauen
 bakmak; seyretmek; izlemek;
 
-v schwimmen / schwamm / ist geschwommen
-yüzmek;
-
 v stattfinden / fand statt / hat stattgefunden
 gerçekleşmek; yapılmak;
 
@@ -258,12 +255,6 @@ gezmek; görmek; incelemek;
 
 v mieten
 kiralamak;
-
-v kommen / kam / ist gekommen
-gelmek; varmak;
-
-v bezahlen / - / hat
-ödemek; parasını ödemek;
 
 v übersetzen
 tercüme etmek; çevirmek;
@@ -376,9 +367,6 @@ telefon etmek; telefonda konuşmak;
 v reservieren / - / hat
 rezerve etmek; ayırtmak;
 
-v reparieren / - / hat
-tamir etmek; onarmak;
-
 v kopieren / - / hat
 kopyalamak; fotokopi çekmek;
 
@@ -488,24 +476,12 @@ unutmak;
 v verstehen / verstand / hat verstanden
 anlamak;
 
-v schreiben / schrieb / hat geschrieben
-yazmak;
-
 v verkaufen
 satmak;
 
 v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
 yıkanmak; elini yüzünü yıkamak;
 [sich+Akk]
-
-v finden / fand / hat gefunden
-bulmak;
-
-v benutzen
-kullanmak;
-
-v besuchen / - / hat
-ziyaret etmek; gitmek; katılmak;
 
 v begrüßen / - / hat
 selamlamak; karşılamak;
@@ -894,9 +870,6 @@ doğum yeri;
 die Kantine -n
 kantin; yemekhane;
 
-das Konto -en
-hesap; banka hesabı;
-
 der Kunde -n
 müşteri; erkek müşteri;
 
@@ -1020,9 +993,6 @@ ameliyat etmek; operasyon yapmak;
 
 v präsentieren / - / hat
 sunmak; takdim etmek;
-
-v probieren / - / hat
-denemek; tatmak; üstünde denemek;
 
 v protestieren / - / hat
 protesto etmek;

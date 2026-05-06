@@ -86,7 +86,7 @@ Ich möchte einen Kaffee.
 أود فنجان قهوة. ;
 
 v besuchen / - / hat
-يزور{prs=يزور, pst=زار};
+يزور{prs=يزور, pst=زار}; يحضر{prs=يحضر, pst=حضر}; يرتاد{prs=يرتاد, pst=ارتاد};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
 يسبح{prs=يسبح, pst=سبح};
@@ -296,7 +296,7 @@ die Kleidung (sg.)
 ملابس; لباس;
 
 v probieren / - / hat
-يجرّب{prs=يجرّب, pst=جرّب}; يقيس الملابس{prs=يقيس الملابس, pst=قاس الملابس};
+يجرّب{prs=يجرّب, pst=جرّب}; يتذوق{prs=يتذوق, pst=تذوق}; يقيس الملابس{prs=يقيس الملابس, pst=قاس الملابس};
 
 v reparieren / - / hat
 يصلح{prs=يصلح, pst=أصلح}; يرمم;

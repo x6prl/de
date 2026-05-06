@@ -151,9 +151,6 @@ come along; go along;
 v schauen
 look; watch;
 
-v schwimmen / schwamm / ist geschwommen
-swim;
-
 v stattfinden / fand statt / hat stattgefunden
 take place; be held;
 
@@ -258,12 +255,6 @@ view; inspect; visit;
 
 v mieten
 rent; hire;
-
-v kommen / kam / ist gekommen
-come; arrive;
-
-v bezahlen / - / hat
-pay; pay for;
 
 v übersetzen
 translate;
@@ -376,9 +367,6 @@ talk on the phone; phone;
 v reservieren / - / hat
 reserve; book;
 
-v reparieren / - / hat
-repair; fix;
-
 v kopieren / - / hat
 copy;
 
@@ -488,24 +476,12 @@ forget;
 v verstehen / verstand / hat verstanden
 understand;
 
-v schreiben / schrieb / hat geschrieben
-write;
-
 v verkaufen
 sell;
 
 v sich waschen-wäscht sich / wusch sich / hat sich gewaschen
 wash oneself; wash up;
 [sich+Akk]
-
-v finden / fand / hat gefunden
-find;
-
-v benutzen
-use;
-
-v besuchen / - / hat
-visit; attend;
 
 v begrüßen / - / hat
 greet; welcome;
@@ -894,9 +870,6 @@ place of birth;
 die Kantine -n
 canteen; cafeteria;
 
-das Konto -en
-account; bank account;
-
 der Kunde -n
 customer; client;
 
@@ -1020,9 +993,6 @@ operate; perform surgery;
 
 v präsentieren / - / hat
 present;
-
-v probieren / - / hat
-try; try on; taste;
 
 v protestieren / - / hat
 protest;

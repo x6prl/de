@@ -86,7 +86,7 @@ Ich möchte einen Kaffee.
 Bir kahve isterim. ;
 
 v besuchen / - / hat
-ziyaret etmek{prs=ziyaret eder, pst=ziyaret etti};
+ziyaret etmek{prs=ziyaret eder, pst=ziyaret etti}; gitmek{prs=gider, pst=gitti}; katılmak{prs=katılır, pst=katıldı};
 
 v schwimmen-schwimmt / schwamm / ist geschwommen
 yüzmek{prs=yüzer, pst=yüzdü};
@@ -296,7 +296,7 @@ die Kleidung (sg.)
 giyim; kıyafet;
 
 v probieren / - / hat
-denemek{prs=dener, pst=denedi}; üstünde denemek{prs=üstünde dener, pst=üstünde denedi};
+denemek{prs=dener, pst=denedi}; tatmak{prs=tadar, pst=tattı}; üstünde denemek{prs=üstünde dener, pst=üstünde denedi};
 
 v reparieren / - / hat
 tamir etmek{prs=tamir eder, pst=tamir etti}; onarmak{prs=onarır, pst=onardı};

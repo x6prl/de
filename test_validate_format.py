@@ -105,6 +105,18 @@ class DuplicateHeadValidationTest(unittest.TestCase):
 
             self.assertEqual(warnings, [])
 
+    def test_allowed_wiegen_split_is_not_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            en = root / "en"
+            en.mkdir()
+            (en / "a.txt").write_text("v wiegen / wog / hat gewogen\nweigh;\n", encoding="utf-8")
+            (en / "b.txt").write_text("v wiegen / - / hat\nrock;\n", encoding="utf-8")
+
+            warnings = validate_format.validate_duplicate_heads([en / "a.txt", en / "b.txt"])
+
+            self.assertEqual(warnings, [])
+
 
 class ValidateNounFormatTest(unittest.TestCase):
     def validate(self, lemma: str) -> list[str]:
