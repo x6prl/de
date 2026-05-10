@@ -4002,6 +4002,1266 @@ a nachher
 nach + Dat.
 после; к; по направлению к; согласно;
 
+v gehören / - / hat gehört
+принадлежать;
+[j-m]
+
+Das Buch gehört mir.
+Книга принадлежит мне.;
+
+Er gehört zur Familie.
+Он относится к семье.; Он член семьи.;
+
+Das gehört sich nicht.
+Так не подобает.; Так не принято.;
+
+Wem gehört diese Jacke?
+Кому принадлежит эта куртка?;
+
+Diese Jacke gehört ihr.
+Эта куртка принадлежит ей.;
+
+v gehören zu / - / hat gehört
+относиться к; быть частью;
+[zu+Dat]
+
+Das Auto gehört der Firma.
+Машина принадлежит фирме.;
+
+Er gehört zur Firma.
+Он относится к фирме.; Он является частью фирмы.;
+
+v gefallen-gefällt / gefiel / hat gefallen
+нравиться;
+[j-m]
+
+Mir gefallen die Autos.
+Мне нравятся машины.;
+
+Mir gefällt das Auto.
+Мне нравится машина.;
+
+Mir gefällt Kälte nicht.
+Мне не нравится холод.;
+
+Mir hat Putzen nicht gefallen.
+Мне не понравилось убираться.;
+
+Wie hat Ihnen die Ostsee gefallen?
+Как Вам понравилось Балтийское море?;
+
+v arbeiten
+работать;
+
+Ich arbeite bis zum Wochenende.
+Я работаю до выходных.;
+
+Ich arbeite von Montag bis Freitag.
+Я работаю с понедельника по пятницу.;
+
+v kennen / - / hat gekannt
+знать;
+[j-n]
+
+Wir kennen uns seit drei Wochen.
+Мы знакомы уже три недели.;
+
+v gehen / ging / ist gegangen
+идти; ходить;
+
+Wann gehen Sie nach Hause?
+Когда Вы идёте домой?;
+
+Ich gehe nach dem Sprachkurs nach Hause.
+Я иду домой после языкового курса.;
+
+Nach dem Unterricht gehe ich immer nach Hause.
+После занятий я всегда иду домой.;
+
+Nach der Uni gehe ich zur Mensa.
+После университета я иду в столовую.;
+
+Sie geht zur Schule.
+Она идёт в школу.; Она ходит в школу.;
+
+Wir gehen zum Tanzen.
+Мы идём на танцы.; Мы идём танцевать.;
+
+Gehst du übermorgen zum Konzert?
+Ты послезавтра идёшь на концерт?;
+
+Ich gehe zu seinen Kindern.
+Я иду к его детям.;
+
+Wir gehen vom Deutschkurs zum Bowling.
+Мы идём с курса немецкого на боулинг.;
+
+Ich gehe von zu Hause zum Treffpunkt.
+Я иду из дома к месту встречи.;
+
+Geh nach rechts!
+Иди направо!;
+
+Geh nicht nach links!
+Не иди налево!;
+
+nach Hause gehen
+идти домой;
+
+zu Hause sein
+быть дома;
+
+v fühlen
+чувствовать;
+[sich+Akk]
+
+Ich fühle mich gut.
+Я чувствую себя хорошо.;
+
+v putzen
+чистить; убирать;
+
+Putzen gefällt mir nicht.
+Мне не нравится убираться.;
+
+v backen / - / hat gebacken
+печь;
+
+Wenn ich du wäre, würde ich gern backen.
+Если бы я был тобой, я бы с удовольствием пёк.; Если бы я была тобой, я бы с удовольствием пекла.;
+
+An deiner Stelle würde ich gern backen.
+На твоём месте я бы с удовольствием пёк.; На твоём месте я бы с удовольствием пекла.;
+
+v gratulieren / - / hat gratuliert
+поздравлять;
+[j-m; zu+Dat]
+
+Ich gratuliere dir zum Geburtstag.
+Я поздравляю тебя с днём рождения.;
+
+Er hat mir zum Geburtstag gratuliert.
+Он поздравил меня с днём рождения.;
+
+v laufen-läuft / lief / ist gelaufen
+бежать; идти пешком;
+
+Wir laufen zum Zug.
+Мы бежим к поезду.; Мы идём быстрым шагом к поезду.;
+
+Viel Erfolg!
+Успехов!; Удачи!;
+
+Bescheid sagen
+сообщить; поставить в известность;
+
+Ja, ich habe unserer Nachbarin schon Bescheid gesagt.
+Да, я уже сообщил нашей соседке.; Да, я уже сообщила нашей соседке.;
+
+die Jahreszeit -en
+время года;
+
+Welche Jahreszeit magst du?
+Какое время года тебе нравится?;
+
+Meine Lieblingsjahreszeit ist der Herbst.
+Моё любимое время года — осень.;
+
+das Jahrhundert -e
+век; столетие;
+
+im 21. Jahrhundert
+в XXI веке;
+
+Das Schloss wurde im 18. Jahrhundert gebaut.
+Замок был построен в XVIII веке.;
+
+der Frühjahrsputz -e
+весенняя генеральная уборка;
+
+Ich mache Frühjahrsputz.
+Я делаю весеннюю генеральную уборку.;
+
+der Pilz -e
+гриб;
+
+v sammeln
+собирать;
+
+Wir sammeln gern Pilze.
+Мы любим собирать грибы.;
+
+der Fliegenpilz -e
+мухомор;
+
+v bummeln
+гулять без спешки; ходить по магазинам;
+
+Ich bummle gern durch die Stadt.
+Я люблю гулять по городу.;
+
+Ich bummle gern in der Stadt.
+Я люблю гулять в городе.;
+
+v angeln
+рыбачить; ловить рыбу;
+
+v genießen / - / hat genossen
+наслаждаться; получать удовольствие;
+
+Wir genießen das schöne Wetter.
+Мы наслаждаемся хорошей погодой.;
+
+Alle sind eingeladen.
+Все приглашены.;
+
+Alle sind herzlich eingeladen.
+Все сердечно приглашены.;
+
+v wählen
+выбирать; голосовать;
+
+v auswählen
+выбирать; отбирать;
+
+v sich entscheiden
+решать; выбирать;
+[für+Akk]
+
+den falschen Weg nehmen
+пойти не той дорогой; выбрать неправильный путь;
+
+Ich habe den falschen Weg genommen.
+Я выбрал не ту дорогу.; Я выбрала не ту дорогу.;
+
+v klappen
+получаться; удаваться; срабатывать;
+
+Das klappt.
+Это получится.; Это сработает.;
+
+Es hat geklappt.
+Получилось.;
+
+Klappt das morgen?
+Получится завтра?; Завтра удобно?;
+
+Das klappt leider nicht.
+К сожалению, не получится.;
+
+a zögernd
+нерешительный; нерешительно; колеблясь;
+
+Er antwortete zögernd.
+Он ответил нерешительно.;
+
+Sie nickte zögernd.
+Она неуверенно кивнула.;
+
+v zögern
+медлить; колебаться;
+
+a vorüber
+прошедший; миновавший; мимо;
+
+Der Sommer ist vorüber.
+Лето прошло.;
+
+Die Gefahr ist vorüber.
+Опасность миновала.;
+
+Er ging an mir vorüber.
+Он прошёл мимо меня.;
+
+v weinen
+плакать;
+
+Das Kind weint.
+Ребёнок плачет.;
+
+Sie hat vor Freude geweint.
+Она плакала от радости.;
+
+v sich weiterdrehen
+продолжать вращаться; крутиться дальше;
+
+Die Erde dreht sich weiter.
+Земля продолжает вращаться.;
+
+Das Rad dreht sich weiter.
+Колесо продолжает крутиться.;
+
+a verzweifelt
+отчаянный; в отчаянии; отчаянно;
+
+Ich bin verzweifelt.
+Я в отчаянии.;
+
+Sie suchte verzweifelt nach ihrem Schlüssel.
+Она отчаянно искала свой ключ.;
+
+ein verzweifelter Versuch
+отчаянная попытка;
+
+v verzweifeln / - / ist verzweifelt
+приходить в отчаяние;
+
+a hoffnungslos
+безнадёжный; безнадёжно;
+
+Die Situation ist hoffnungslos.
+Ситуация безнадёжна.;
+
+Er ist hoffnungslos verliebt.
+Он безнадёжно влюблён.;
+
+die Hoffnung -en
+надежда;
+
+Ich habe Hoffnung.
+У меня есть надежда.;
+
+Gib die Hoffnung nicht auf.
+Не теряй надежду.;
+
+v hoffen
+надеяться;
+[auf+Akk]
+
+Ich hoffe, dass alles gut wird.
+Я надеюсь, что всё будет хорошо.;
+
+Wir hoffen auf gutes Wetter.
+Мы надеемся на хорошую погоду.;
+
+Ich hoffe es.
+Я на это надеюсь.;
+
+Sowas passiert.
+Такое случается.;
+
+So etwas passiert.
+Такое случается.;
+
+v auseinandergehen-geht auseinander / ging auseinander / ist auseinandergegangen
+расходиться; расставаться;
+
+Wir gehen auseinander.
+Мы расходимся.; Мы расстаёмся.;
+
+Sie sind auseinandergegangen.
+Они разошлись.; Они расстались.;
+
+Die Meinungen gehen auseinander.
+Мнения расходятся.;
+
+Vielleicht verliebe ich mich auf das Neue.
+Может быть, я влюблюсь заново.;
+
+v sich verlieben
+влюбляться;
+
+v beobachten
+наблюдать; следить;
+[j-n]
+
+Ich beobachte Vögel.
+Я наблюдаю за птицами.;
+
+Ich beobachte meine Nachbarn.
+Я наблюдаю за своими соседями.;
+
+Beobachte ich meine Nachbarn?
+Я наблюдаю за своими соседями?;
+
+v gießen-gießt / goss / hat gegossen
+лить; наливать; поливать;
+
+Ich gieße die Blumen.
+Я поливаю цветы.;
+
+Sie gießt Wasser ins Glas.
+Она наливает воду в стакан.;
+
+Es gießt.
+Льёт как из ведра.;
+
+v bedecken
+покрывать; накрывать;
+
+Schnee bedeckt die Straßen.
+Снег покрывает улицы.;
+
+Der Himmel ist mit Wolken bedeckt.
+Небо покрыто облаками.; Небо затянуто облаками.;
+
+a schneebedeckt
+покрытый снегом; заснеженный;
+
+schneebedeckte Berge
+заснеженные горы;
+
+Die Straßen sind schneebedeckt.
+Улицы покрыты снегом.;
+
+Ich möchte nicht aus dem Haus gehen.
+Я не хочу выходить из дома.;
+
+a unterwegs
+в пути; вне дома; в разъездах;
+
+Er ist immer unterwegs.
+Он всегда где-то в разъездах.; Его постоянно нет дома.;
+
+Ich bin unterwegs.
+Я в пути.; Я уже еду.;
+
+Wir waren den ganzen Tag unterwegs.
+Мы весь день были в разъездах.; Мы весь день были вне дома.;
+
+Unterwegs habe ich Kaffee gekauft.
+По дороге я купил кофе.; По дороге я купила кофе.;
+
+die Ordinalzahl -en
+порядковое числительное;
+
+der erste Tag
+первый день;
+
+die zweite Woche
+вторая неделя;
+
+das dritte Kind
+третий ребёнок;
+
+am vierten Mai
+четвёртого мая;
+
+im einundzwanzigsten Jahrhundert
+в двадцать первом веке;
+
+Ich bin am fünfundzwanzigsten März geboren.
+Я родился двадцать пятого марта.; Я родилась двадцать пятого марта.;
+
+der Weihnachtsmarkt "-e
+рождественский рынок; рождественская ярмарка;
+
+Der Weihnachtsmarkt beginnt am vierten Dezember.
+Рождественский рынок начинается четвёртого декабря.;
+
+Er dauert vom vierten bis zum dreiundzwanzigsten Dezember.
+Он длится с четвёртого по двадцать третье декабря.;
+
+am ersten Fünften
+первого мая;
+
+der Muttertag -e
+День матери;
+
+Der Muttertag ist im Mai.
+День матери — в мае.;
+
+das Sternzeichen -
+знак зодиака;
+
+Ich glaube nicht an Sternzeichen.
+Я не верю в знаки зодиака.;
+
+a eigenartig
+странный; своеобразный; необычный;
+
+Das Wetter war gestern eigenartig.
+Погода вчера была странной.; Погода вчера была необычной.;
+
+Man muss in der Nacht schlafen.
+Ночью нужно спать.;
+
+v empfehlen-empfiehlt / empfahl / hat empfohlen
+рекомендовать; советовать;
+[j-m; etw.]
+
+Könnt ihr mir Lieder für die Playlist empfehlen?
+Можете посоветовать мне песни для плейлиста?;
+
+der Zeitraum "-e
+период; промежуток времени;
+
+in diesem Zeitraum
+в этот период; за этот период;
+
+über einen Zeitraum von drei Wochen
+в течение трёх недель;
+
+Der Zeitraum ist zu kurz.
+Период слишком короткий.;
+
+die Hexe -n
+ведьма; колдунья;
+
+Die Hexe lebt im Wald.
+Ведьма живёт в лесу.;
+
+der Hexer -
+колдун; чародей;
+
+Er ist ein mächtiger Hexer.
+Он могущественный колдун.;
+
+der Brauch "-e
+обычай; традиция;
+
+die Piñata -s
+пиньята;
+
+Eine Piñata ist eine Figur mit Süßigkeiten drin.
+Пиньята — это фигурка, внутри которой сладости.;
+
+Seiner Tochter hat das Fest gefallen.
+Его дочери праздник понравился.;
+
+der Stock "-e
+палка; трость; этаж;
+
+ein Stock aus Holz
+деревянная палка;
+
+Er geht am Stock.
+Он ходит с тростью.;
+
+Ich wohne im dritten Stock.
+Я живу на третьем этаже.;
+
+das Stockwerk -e
+этаж;
+
+Das Gebäude hat fünf Stockwerke.
+В здании пять этажей.;
+
+Was machst du denn da?
+Что ты там делаешь?; Что это ты там делаешь?;
+
+Ich bin da.
+Я здесь.; Я на месте.; Я присутствую.;
+
+Bist du da?
+Ты здесь?; Ты на связи?;
+
+Ich war gestern da.
+Я вчера был там.; Я вчера была там.;
+
+a böse
+злой; сердитый; плохой;
+
+Ich bin nicht böse.
+Я не злюсь.;
+
+Sei mir nicht böse.
+Не сердись на меня.;
+
+ein böser Traum
+плохой сон; кошмар;
+
+a komisch
+странный; смешной; неловкий;
+
+Das ist komisch.
+Это странно.; Это смешно.;
+
+Er sieht komisch aus.
+Он выглядит странно.;
+
+Meine Kollegin war nicht böse, aber es war ein bisschen komisch.
+Моя коллега не злилась, но было немного неловко.;
+
+a witzig
+смешной; остроумный;
+
+Der Film ist witzig.
+Фильм смешной.;
+
+Das war ein witziger Kommentar.
+Это был остроумный комментарий.;
+
+der Besen -
+метла; веник;
+
+Ich brauche einen Besen.
+Мне нужна метла.; Мне нужен веник.;
+
+Sie kehrt den Boden mit dem Besen.
+Она подметает пол метлой.;
+
+der Hexenbesen -
+ведьмина метла;
+
+v kriegen
+получать; доставать;
+
+Ich kriege ein Geschenk.
+Я получаю подарок.;
+
+Hast du meine Nachricht gekriegt?
+Ты получил моё сообщение?; Ты получила моё сообщение?;
+
+Ich kriege Hunger.
+Я начинаю хотеть есть.; У меня появляется голод.;
+
+Das kriegen wir hin.
+Мы с этим справимся.;
+
+v anbieten-bietet an / bot an / hat angeboten
+предлагать;
+[j-m; etw.]
+
+Kann ich dir noch etwas anbieten?
+Могу я тебе ещё что-нибудь предложить?;
+
+Darf ich etwas anbieten?
+Можно я что-нибудь предложу?; Могу я что-нибудь предложить?;
+
+v wachsen-wächst / wuchs / ist gewachsen
+расти; вырастать;
+
+Das Kind wächst schnell.
+Ребёнок быстро растёт.;
+
+Die Blumen wachsen im Garten.
+Цветы растут в саду.;
+
+Meine Haare sind gewachsen.
+Мои волосы выросли.; Мои волосы отросли.;
+
+v sich verbessern
+улучшаться; совершенствоваться;
+
+Ich verbessere mich.
+Я улучшаюсь.; Я становлюсь лучше.;
+
+Mein Deutsch verbessert sich.
+Мой немецкий улучшается.;
+
+v steigen / stieg / ist gestiegen
+расти; повышаться; подниматься;
+
+die Miete -n
+аренда; арендная плата;
+
+Meine Miete steigt!
+Моя аренда повышается!; У меня растёт арендная плата!;
+
+Unser Fest geht bis 14 Uhr.
+Наш праздник идёт до 14:00.; Наш праздник длится до 14:00.;
+
+Der Film geht drei Stunden.
+Фильм идёт три часа.;
+
+Das Video läuft auf YouTube.
+Видео идёт на YouTube.; Видео доступно на YouTube.;
+
+der Alkohol (sg.)
+алкоголь;
+
+der April (sg.)
+апрель;
+
+der August (sg.)
+август;
+
+das Datum Daten
+дата;
+
+der Dezember (sg.)
+декабрь;
+
+die Einladung -en
+приглашение;
+
+der Erfolg -e
+успех;
+
+(-) Europa (sg.)
+Европа;
+
+der Februar (sg.)
+февраль;
+
+der Frühling -e
+весна;
+
+der Geburtstag -e
+день рождения;
+
+das Geschenk -e
+подарок;
+
+das Glück (sg.)
+счастье; удача;
+
+der Glückwunsch "-e
+поздравление;
+
+der Herbst -e
+осень;
+
+das Herz -en
+сердце;
+
+der Januar (sg.)
+январь;
+
+der Juni (sg.)
+июнь;
+
+der Juli (sg.)
+июль;
+
+die Kette -n
+цепочка; ожерелье;
+
+das Lied -er
+песня;
+
+der Mai (sg.)
+май;
+
+der März (sg.)
+март;
+
+die Mitternacht (sg.)
+полночь;
+
+der Monat -e
+месяц;
+
+der November (sg.)
+ноябрь;
+
+der Oktober (sg.)
+октябрь;
+
+das Papier -e
+бумага;
+
+das Parfüm -s
+духи; парфюм;
+
+die Pflanze -n
+растение;
+
+das Salz (sg.)
+соль;
+
+der September (sg.)
+сентябрь;
+
+der Ski -
+лыжа;
+
+der Sommer -
+лето;
+
+der Wein -e
+вино;
+
+der Winter -
+зима;
+
+a früh früher am frühesten
+ранний; рано;
+
+a spät später am spätesten
+поздний; поздно;
+
+a pünktlich
+пунктуальный; вовремя;
+
+ab
+с; начиная с;
+
+bei + Dat.
+у; при; возле;
+
+außer
+кроме; за исключением;
+
+Wir brauchen Perfekt, außer „sein“ und „haben“.
+Нам нужен Perfekt, кроме „sein“ и „haben“.;
+
+Ich habe Pech gehabt.
+Мне не повезло.;
+
+Pech haben
+не везти; иметь невезение;
+
+die Redewendung -en
+устойчивое выражение; фразеологизм; идиома;
+
+„Pech gehabt“ ist eine Redewendung.
+„Pech gehabt“ — это устойчивое выражение.;
+
+Diese Redewendung verstehe ich nicht.
+Я не понимаю это выражение.;
+
+Kennst du diese Redewendung?
+Ты знаешь это выражение?;
+
+das Boot -e
+лодка; катер; небольшое судно;
+
+Wir fahren mit dem Boot.
+Мы едем на лодке.; Мы плывём на лодке.;
+
+Das Boot liegt am See.
+Лодка стоит у озера.;
+
+das Schlauchboot "-er
+надувная лодка;
+
+das Motorrad "-er
+мотоцикл;
+
+Ich fahre Motorrad.
+Я езжу на мотоцикле.;
+
+Er hat ein neues Motorrad.
+У него новый мотоцикл.;
+
+Wir fahren mit dem Motorrad.
+Мы едем на мотоцикле.;
+
+der Motorroller -
+мотороллер; скутер;
+
+Ich fahre Motorroller.
+Я езжу на скутере.;
+
+Er hat einen Motorroller.
+У него есть скутер.;
+
+Wir fahren mit dem Motorroller zur Arbeit.
+Мы едем на работу на скутере.;
+
+die Kutsche -n
+карета; повозка;
+
+Die Prinzessin fährt in einer Kutsche.
+Принцесса едет в карете.;
+
+die Pferdekutsche -n
+конная повозка; карета с лошадьми;
+
+Wir haben eine Kutschfahrt gemacht.
+Мы покатались в карете.;
+
+der Staub (sg.)
+пыль;
+
+Auf dem Tisch liegt Staub.
+На столе лежит пыль.;
+
+Ich wische Staub.
+Я вытираю пыль.;
+
+Das Buch ist voller Staub.
+Книга вся в пыли.;
+
+Staub wischen
+вытирать пыль;
+
+das Straßenschild -er
+дорожный знак; уличная табличка;
+
+Ich sehe ein Straßenschild.
+Я вижу дорожный знак.;
+
+Auf dem Straßenschild steht der Straßenname.
+На уличной табличке написано название улицы.;
+
+die Fußgängerstraße -n
+пешеходная улица;
+
+In der Fußgängerstraße fahren keine Autos.
+По пешеходной улице не ездят машины.;
+
+der Fußweg -e
+пешеходная дорожка; путь пешком;
+
+Der Fußweg ist schmal.
+Пешеходная дорожка узкая.;
+
+Der Fußweg dauert zehn Minuten.
+Путь пешком занимает десять минут.;
+
+der Bürgersteig -e
+тротуар;
+
+Bitte gehen Sie auf dem Bürgersteig.
+Пожалуйста, идите по тротуару.;
+
+die Straßenlampe -n
+уличный фонарь;
+
+Die Straßenlampe ist kaputt.
+Уличный фонарь сломан.;
+
+Unter der Straßenlampe steht ein Auto.
+Под уличным фонарём стоит машина.;
+
+Die Straßenlampen gehen abends an.
+Уличные фонари включаются вечером.;
+
+die Verkehrsinsel -n
+островок безопасности; дорожный островок;
+
+Die Fußgänger warten auf der Verkehrsinsel.
+Пешеходы ждут на островке безопасности.;
+
+Die Verkehrsinsel ist in der Mitte der Straße.
+Островок безопасности находится посередине дороги.;
+
+der Bahnsteig -e
+платформа; перрон;
+
+Der Zug fährt von Bahnsteig 3 ab.
+Поезд отправляется с платформы 3.;
+
+Ich warte auf dem Bahnsteig.
+Я жду на платформе.;
+
+Bitte bleiben Sie hinter der Linie auf dem Bahnsteig.
+Пожалуйста, оставайтесь за линией на платформе.;
+
+a öffentlich
+общественный; публичный; открытый;
+
+öffentliche Verkehrsmittel
+общественный транспорт;
+
+eine öffentliche Schule
+государственная школа; общественная школа;
+
+Das ist öffentlich.
+Это публично.; Это открыто для всех.;
+
+Wir leben seit eineinhalb Jahren hier.
+Мы живём здесь уже полтора года.;
+
+zweieinhalb Stunden
+два с половиной часа;
+
+Der Film dauert zweieinhalb Stunden.
+Фильм длится два с половиной часа.;
+
+Ich habe zweieinhalb Stunden gewartet.
+Я ждал два с половиной часа.; Я ждала два с половиной часа.;
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+брать во временное пользование; одалживать;
+
+Ich möchte ein Buch ausleihen.
+Я хочу взять книгу.;
+
+Ich habe ein Buch in der Bibliothek ausgeliehen.
+Я взял книгу в библиотеке.; Я взяла книгу в библиотеке.;
+
+Kannst du mir dein Buch ausleihen?
+Можешь одолжить мне свою книгу?;
+
+v losgehen-geht los / ging los / ist losgegangen
+начинаться; отправляться;
+
+Wann geht der Film los?
+Когда начинается фильм?;
+
+Die Party geht um 20 Uhr los.
+Вечеринка начинается в 20:00.;
+
+Wir gehen jetzt los.
+Мы сейчас отправляемся.; Мы сейчас выходим.;
+
+Es geht los!
+Начинается!; Поехали!;
+
+v losfahren-fährt los / fuhr los / ist losgefahren
+выезжать; отправляться на транспорте;
+
+Wann fahren wir los?
+Когда мы выезжаем?;
+
+Der Bus fährt gleich los.
+Автобус сейчас отправляется.;
+
+Wir sind um 8 Uhr losgefahren.
+Мы выехали в 8 часов.;
+
+Fahr los!
+Поезжай!; Трогайся!;
+
+v fahren-fährt / fuhr / ist gefahren
+ехать; ездить; путешествовать;
+
+Ich will mit dem Zug von Köln nach Bremen fahren.
+Я хочу поехать на поезде из Кёльна в Бремен.;
+
+Wie kommst du von der Sprachschule zum Bahnhof?
+Как ты добираешься от языковой школы до вокзала?;
+
+v fahren-fährt / fuhr / hat gefahren
+водить; управлять;
+[etw.]
+
+v kommen / kam / ist gekommen
+приходить; приезжать;
+
+Tina kommt von der Schule nach Hause.
+Тина приходит из школы домой.;
+
+Er kommt vom Sport.
+Он приходит со спорта.; Он возвращается со спорта.;
+
+Wir kommen von der Gymnastik.
+Мы приходим с гимнастики.; Мы возвращаемся с гимнастики.;
+
+Meine Mutter kommt von der Ärztin.
+Моя мама приходит от врача.; Моя мама возвращается от врача.;
+
+Wir kommen von meinen Großeltern zurück.
+Мы возвращаемся от моих бабушки и дедушки.;
+
+Ich komme aus der Ukraine.
+Я из Украины.;
+
+Ich bin am Samstag aus der Ukraine nach Deutschland gekommen.
+Я приехал из Украины в Германию в субботу.; Я приехала из Украины в Германию в субботу.;
+
+vorbei
+мимо; прошло; закончилось;
+
+Der Bus fährt vorbei.
+Автобус проезжает мимо.;
+
+Der Sommer ist vorbei.
+Лето прошло.; Лето закончилось.;
+
+Die Pause ist vorbei.
+Перерыв закончился.;
+
+Ich gehe an der Schule vorbei.
+Я прохожу мимо школы.;
+
+v fliegen-fliegt / flog / ist geflogen
+лететь; летать;
+
+Fliegst du in die USA?
+Ты летишь в США?;
+
+a zeitlich
+временной; по времени; связанный со временем;
+
+ein zeitlicher Abstand
+временной промежуток;
+
+zeitlich begrenzt
+ограниченный по времени;
+
+Das passt zeitlich nicht.
+Это не подходит по времени.;
+
+Wir müssen das zeitlich planen.
+Нам нужно спланировать это по времени.;
+
+die Arbeitsmesse -n
+ярмарка вакансий; карьерная выставка;
+
+Ich gehe morgen zur Arbeitsmesse.
+Завтра я иду на ярмарку вакансий.;
+
+Auf der Arbeitsmesse kann man Arbeitgeber kennenlernen.
+На ярмарке вакансий можно познакомиться с работодателями.;
+
+Viele Firmen sind auf der Arbeitsmesse.
+На ярмарке вакансий много компаний.;
+
+der Startpunkt -e
+отправная точка; начальная точка; место старта;
+
+Der Startpunkt ist am Bahnhof.
+Отправная точка — у вокзала.;
+
+Wo ist der Startpunkt?
+Где место старта?;
+
+Der Startpunkt der Wanderung ist hier.
+Начальная точка похода здесь.;
+
+der Treffpunkt -e
+место встречи;
+
+Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
+Мы выезжаем из Берлина в Киев в 6 часов на поезде.;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+возвращаться; приходить обратно;
+
+der Albtraum "-e
+кошмар; страшный сон;
+
+Ich hatte einen Albtraum.
+Мне приснился кошмар.;
+
+Das war ein Albtraum.
+Это был кошмар.;
+
+Sie hat schlecht geschlafen wegen eines Albtraums.
+Она плохо спала из-за кошмара.;
+
+der Park -s
+парк;
+
+Der Hund rennt von einem Park zu einem Park.
+Собака бегает из одного парка в другой.;
+
+die Empfehlung -en
+рекомендация; совет;
+
+Danke für die Empfehlung.
+Спасибо за рекомендацию.;
+
+Hast du eine Empfehlung für mich?
+У тебя есть для меня рекомендация?;
+
+(-) Ukraine (sg.)
+Украина;
+
+(-) Deutschland (sg.)
+Германия;
+
+v abfahren-fährt ab / fuhr ab / ist abgefahren
+отправляться; отъезжать; съезжать;
+
+Der Zug fährt um 8 Uhr ab.
+Поезд отправляется в 8 часов.;
+
+Wann fährt der Bus ab?
+Когда отправляется автобус?;
+
+Wir sind pünktlich abgefahren.
+Мы отъехали вовремя.; Мы отправились вовремя.;
+
+Wir fahren von der Autobahn ab.
+Мы съезжаем с автобана.;
+
+der Automat -en
+автомат; билетный автомат;
+
+der Schalter -
+касса; стойка; окошко;
+
+Am Automaten kaufe ich ein Ticket und sie am Schalter.
+В автомате я покупаю билет, а она — в кассе.;
+
+Ich kaufe ein Ticket am Automaten und sie am Schalter.
+Я покупаю билет в автомате, а она — в кассе.;
+
+das Ticket -s
+билет;
+
+a gültig
+действительный; действителен;
+
+Mein Ticket ist gültig ab dem 04.09.
+Мой билет действителен с 04.09.;
+
+Mein Ticket ist ab 04.09. gültig.
+Мой билет действителен с 04.09.;
+
+der Erwachsene -n
+взрослый мужчина; взрослый;
+
+die Erwachsene -n
+взрослая женщина; взрослая;
+
+die Erwachsenen (pl.)
+взрослые;
+
+Erw.: 1
+взрослых: 1.; один взрослый билет.;
+
+die Hinfahrt -en
+поездка туда; дорога в одну сторону;
+
+die Rückfahrt -en
+поездка обратно; обратная дорога;
+
+Hinfahrt und Rückfahrt
+поездка туда и обратно;
+
+a bequem
+удобный; комфортный;
+
+Der Sessel ist bequem.
+Кресло удобное.;
+
+Die Schuhe sind bequem.
+Обувь удобная.;
+
+Die Fahrt war bequem.
+Поездка была комфортной.;
+
+die Durchsage -n
+объявление по громкой связи;
+
+Die Durchsage am Bahnhof war laut.
+Объявление на вокзале было громким.;
+
+Ich habe die Durchsage nicht verstanden.
+Я не понял объявление.; Я не поняла объявление.;
+
+Bitte achten Sie auf die Durchsage.
+Пожалуйста, обратите внимание на объявление.;
+
+v zerteilen
+разделять на части; делить;
+
+Ich teile den Kuchen.
+Я делю пирог.;
+
+Ich zerteile den Kuchen in Stücke.
+Я разрезаю пирог на куски.; Я разделяю пирог на куски.;
+
+v teilen
+делить; делиться;
+
+v zerstören
+разрушать; уничтожать;
+
+Das Feuer hat das Haus zerstört.
+Огонь разрушил дом.;
+
+v stören
+мешать; беспокоить;
+
+Der Lärm stört mich.
+Шум мне мешает.;
+
+v zerkleinern
+измельчать; мелко нарезать;
+
+Ich zerkleinere das Gemüse.
+Я измельчаю овощи.;
+
+Bitte zerkleinern Sie die Tablette.
+Пожалуйста, измельчите таблетку.;
+
+v zerschneiden
+разрезать на части; порезать;
+
+Ich zerschneide das Papier.
+Я разрезаю бумагу.;
+
+Sie hat den Stoff zerschnitten.
+Она разрезала ткань на куски.;
+
 das Wasser (sg.)
 вода; воды; водоем;
 

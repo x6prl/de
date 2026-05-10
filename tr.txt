@@ -4002,6 +4002,1266 @@ sonra; daha sonra;
 nach + Dat.
 sonra; -e göre; -e doğru; -e;
 
+v gehören / - / hat gehört
+ait olmak; birine ait olmak;
+[j-m]
+
+Das Buch gehört mir.
+Kitap bana ait.;
+
+Er gehört zur Familie.
+O aileye ait.; O ailenin bir parçası.;
+
+Das gehört sich nicht.
+Bu uygun değil.; Böyle yapılmaz.;
+
+Wem gehört diese Jacke?
+Bu ceket kime ait?;
+
+Diese Jacke gehört ihr.
+Bu ceket ona ait.;
+
+v gehören zu / - / hat gehört
+ait olmak; bir parçası olmak;
+[zu+Dat]
+
+Das Auto gehört der Firma.
+Araba şirkete ait.;
+
+Er gehört zur Firma.
+O şirkete ait.; O şirketin bir parçası.;
+
+v gefallen-gefällt / gefiel / hat gefallen
+hoşuna gitmek; beğenilmek;
+[j-m]
+
+Mir gefallen die Autos.
+Arabalar hoşuma gidiyor.;
+
+Mir gefällt das Auto.
+Araba hoşuma gidiyor.;
+
+Mir gefällt Kälte nicht.
+Soğuk hoşuma gitmiyor.;
+
+Mir hat Putzen nicht gefallen.
+Temizlik yapmak hoşuma gitmedi.;
+
+Wie hat Ihnen die Ostsee gefallen?
+Baltık Denizi hoşunuza gitti mi?;
+
+v arbeiten
+çalışmak;
+
+Ich arbeite bis zum Wochenende.
+Hafta sonuna kadar çalışıyorum.;
+
+Ich arbeite von Montag bis Freitag.
+Pazartesiden cumaya kadar çalışıyorum.;
+
+v kennen / - / hat gekannt
+tanımak; bilmek;
+[j-n]
+
+Wir kennen uns seit drei Wochen.
+Üç haftadır birbirimizi tanıyoruz.;
+
+v gehen / ging / ist gegangen
+gitmek; yürümek;
+
+Wann gehen Sie nach Hause?
+Ne zaman eve gidiyorsunuz?;
+
+Ich gehe nach dem Sprachkurs nach Hause.
+Dil kursundan sonra eve gidiyorum.;
+
+Nach dem Unterricht gehe ich immer nach Hause.
+Dersten sonra her zaman eve giderim.;
+
+Nach der Uni gehe ich zur Mensa.
+Üniversiteden sonra yemekhaneye gidiyorum.;
+
+Sie geht zur Schule.
+O okula gidiyor.; O okula devam ediyor.;
+
+Wir gehen zum Tanzen.
+Dans etmeye gidiyoruz.;
+
+Gehst du übermorgen zum Konzert?
+Yarından sonraki gün konsere gidiyor musun?;
+
+Ich gehe zu seinen Kindern.
+Onun çocuklarına gidiyorum.;
+
+Wir gehen vom Deutschkurs zum Bowling.
+Almanca kursundan bowlinge gidiyoruz.;
+
+Ich gehe von zu Hause zum Treffpunkt.
+Evden buluşma noktasına gidiyorum.;
+
+Geh nach rechts!
+Sağa git!;
+
+Geh nicht nach links!
+Sola gitme!;
+
+nach Hause gehen
+eve gitmek;
+
+zu Hause sein
+evde olmak;
+
+v fühlen
+hissetmek;
+[sich+Akk]
+
+Ich fühle mich gut.
+Kendimi iyi hissediyorum.;
+
+v putzen
+temizlemek;
+
+Putzen gefällt mir nicht.
+Temizlik yapmak hoşuma gitmiyor.;
+
+v backen / - / hat gebacken
+fırında pişirmek; hamur işi yapmak;
+
+Wenn ich du wäre, würde ich gern backen.
+Senin yerinde olsam seve seve hamur işi yapardım.;
+
+An deiner Stelle würde ich gern backen.
+Senin yerinde olsam seve seve hamur işi yapardım.;
+
+v gratulieren / - / hat gratuliert
+tebrik etmek; kutlamak;
+[j-m; zu+Dat]
+
+Ich gratuliere dir zum Geburtstag.
+Doğum gününü kutluyorum.;
+
+Er hat mir zum Geburtstag gratuliert.
+Doğum günüm için beni tebrik etti.;
+
+v laufen-läuft / lief / ist gelaufen
+koşmak; yürümek;
+
+Wir laufen zum Zug.
+Trene doğru koşuyoruz.; Trene hızlı yürüyoruz.;
+
+Viel Erfolg!
+Başarılar!; Bol şans!;
+
+Bescheid sagen
+haber vermek; bilgilendirmek;
+
+Ja, ich habe unserer Nachbarin schon Bescheid gesagt.
+Evet, komşumuza çoktan haber verdim.;
+
+die Jahreszeit -en
+mevsim;
+
+Welche Jahreszeit magst du?
+Hangi mevsimi seviyorsun?;
+
+Meine Lieblingsjahreszeit ist der Herbst.
+En sevdiğim mevsim sonbahar.;
+
+das Jahrhundert -e
+yüzyıl; asır;
+
+im 21. Jahrhundert
+21. yüzyılda;
+
+Das Schloss wurde im 18. Jahrhundert gebaut.
+Şato 18. yüzyılda inşa edildi.;
+
+der Frühjahrsputz -e
+bahar temizliği;
+
+Ich mache Frühjahrsputz.
+Bahar temizliği yapıyorum.;
+
+der Pilz -e
+mantar;
+
+v sammeln
+toplamak; biriktirmek;
+
+Wir sammeln gern Pilze.
+Mantar toplamayı severiz.;
+
+der Fliegenpilz -e
+sinek mantarı;
+
+v bummeln
+gezmek; ağır ağır dolaşmak; vitrinlere bakmak;
+
+Ich bummle gern durch die Stadt.
+Şehirde dolaşmayı severim.;
+
+Ich bummle gern in der Stadt.
+Şehirde dolaşmayı severim.;
+
+v angeln
+balık tutmak;
+
+v genießen / - / hat genossen
+keyfini çıkarmak; tadını çıkarmak;
+
+Wir genießen das schöne Wetter.
+Güzel havanın tadını çıkarıyoruz.;
+
+Alle sind eingeladen.
+Herkes davetli.;
+
+Alle sind herzlich eingeladen.
+Herkes içtenlikle davetlidir.;
+
+v wählen
+seçmek; oy vermek;
+
+v auswählen
+seçmek; seçip ayırmak;
+
+v sich entscheiden
+karar vermek; seçimini yapmak;
+[für+Akk]
+
+den falschen Weg nehmen
+yanlış yola sapmak; yanlış yolu seçmek;
+
+Ich habe den falschen Weg genommen.
+Yanlış yola saptım.;
+
+v klappen
+olmak; yolunda gitmek; başarmak;
+
+Das klappt.
+Bu olur.; Bu işe yarar.;
+
+Es hat geklappt.
+Oldu.; İşe yaradı.;
+
+Klappt das morgen?
+Yarın olur mu?;
+
+Das klappt leider nicht.
+Maalesef bu olmaz.;
+
+a zögernd
+tereddütlü; tereddüt ederek;
+
+Er antwortete zögernd.
+Tereddüt ederek cevap verdi.;
+
+Sie nickte zögernd.
+Tereddütlü bir şekilde başını salladı.;
+
+v zögern
+tereddüt etmek; oyalanmak;
+
+a vorüber
+geçmiş; bitmiş; sona ermiş;
+
+Der Sommer ist vorüber.
+Yaz geçti.;
+
+Die Gefahr ist vorüber.
+Tehlike geçti.;
+
+Er ging an mir vorüber.
+Yanımdan geçti.;
+
+v weinen
+ağlamak;
+
+Das Kind weint.
+Çocuk ağlıyor.;
+
+Sie hat vor Freude geweint.
+Sevinçten ağladı.;
+
+v sich weiterdrehen
+dönmeye devam etmek;
+
+Die Erde dreht sich weiter.
+Dünya dönmeye devam ediyor.;
+
+Das Rad dreht sich weiter.
+Tekerlek dönmeye devam ediyor.;
+
+a verzweifelt
+çaresiz; umutsuz; çaresizce;
+
+Ich bin verzweifelt.
+Çaresizim.;
+
+Sie suchte verzweifelt nach ihrem Schlüssel.
+Anahtarını çaresizce aradı.;
+
+ein verzweifelter Versuch
+çaresiz bir deneme;
+
+v verzweifeln / - / ist verzweifelt
+umutsuzluğa kapılmak; çaresiz kalmak;
+
+a hoffnungslos
+umutsuz; umutsuzca;
+
+Die Situation ist hoffnungslos.
+Durum umutsuz.;
+
+Er ist hoffnungslos verliebt.
+O umutsuzca âşık.;
+
+die Hoffnung -en
+umut;
+
+Ich habe Hoffnung.
+Umudum var.;
+
+Gib die Hoffnung nicht auf.
+Umudunu kaybetme.;
+
+v hoffen
+ummak; umut etmek;
+[auf+Akk]
+
+Ich hoffe, dass alles gut wird.
+Her şeyin iyi olacağını umuyorum.;
+
+Wir hoffen auf gutes Wetter.
+Güzel hava umuyoruz.;
+
+Ich hoffe es.
+Öyle umuyorum.;
+
+Sowas passiert.
+Böyle şeyler olur.;
+
+So etwas passiert.
+Böyle şeyler olur.;
+
+v auseinandergehen-geht auseinander / ging auseinander / ist auseinandergegangen
+ayrılmak; yolları ayrılmak; dağılmak;
+
+Wir gehen auseinander.
+Ayrılıyoruz.;
+
+Sie sind auseinandergegangen.
+Onlar ayrıldı.;
+
+Die Meinungen gehen auseinander.
+Görüşler ayrılıyor.;
+
+Vielleicht verliebe ich mich auf das Neue.
+Belki yeniden âşık olurum.;
+
+v sich verlieben
+âşık olmak;
+
+v beobachten
+gözlemlemek; izlemek;
+[j-n]
+
+Ich beobachte Vögel.
+Kuşları gözlemliyorum.; Kuşları izliyorum.;
+
+Ich beobachte meine Nachbarn.
+Komşularımı gözlemliyorum.; Komşularımı izliyorum.;
+
+Beobachte ich meine Nachbarn?
+Komşularımı mı gözlemliyorum?;
+
+v gießen-gießt / goss / hat gegossen
+dökmek; sulamak;
+
+Ich gieße die Blumen.
+Çiçekleri suluyorum.;
+
+Sie gießt Wasser ins Glas.
+Bardağa su döküyor.;
+
+Es gießt.
+Bardaktan boşanırcasına yağmur yağıyor.;
+
+v bedecken
+örtmek; kaplamak;
+
+Schnee bedeckt die Straßen.
+Kar sokakları kaplıyor.;
+
+Der Himmel ist mit Wolken bedeckt.
+Gökyüzü bulutlarla kaplı.;
+
+a schneebedeckt
+karla kaplı;
+
+schneebedeckte Berge
+karla kaplı dağlar;
+
+Die Straßen sind schneebedeckt.
+Sokaklar karla kaplı.;
+
+Ich möchte nicht aus dem Haus gehen.
+Evden çıkmak istemiyorum.;
+
+a unterwegs
+yolda; dışarıda; hareket hâlinde;
+
+Er ist immer unterwegs.
+O hep dışarıda.; O sürekli yollarda.;
+
+Ich bin unterwegs.
+Yoldayım.;
+
+Wir waren den ganzen Tag unterwegs.
+Bütün gün dışarıdaydık.;
+
+Unterwegs habe ich Kaffee gekauft.
+Yolda kahve aldım.;
+
+die Ordinalzahl -en
+sıra sayısı;
+
+der erste Tag
+birinci gün;
+
+die zweite Woche
+ikinci hafta;
+
+das dritte Kind
+üçüncü çocuk;
+
+am vierten Mai
+dört Mayıs'ta;
+
+im einundzwanzigsten Jahrhundert
+yirmi birinci yüzyılda;
+
+Ich bin am fünfundzwanzigsten März geboren.
+Yirmi beş Mart'ta doğdum.;
+
+der Weihnachtsmarkt "-e
+Noel pazarı;
+
+Der Weihnachtsmarkt beginnt am vierten Dezember.
+Noel pazarı dört Aralık'ta başlıyor.;
+
+Er dauert vom vierten bis zum dreiundzwanzigsten Dezember.
+Dördünden yirmi üçüncü Aralık'a kadar sürüyor.;
+
+am ersten Fünften
+bir Mayıs'ta;
+
+der Muttertag -e
+Anneler Günü;
+
+Der Muttertag ist im Mai.
+Anneler Günü mayıstadır.;
+
+das Sternzeichen -
+burç;
+
+Ich glaube nicht an Sternzeichen.
+Burçlara inanmıyorum.;
+
+a eigenartig
+tuhaf; garip; kendine özgü;
+
+Das Wetter war gestern eigenartig.
+Dün hava tuhaftı.;
+
+Man muss in der Nacht schlafen.
+Gece uyumak gerekir.;
+
+v empfehlen-empfiehlt / empfahl / hat empfohlen
+tavsiye etmek; önermek;
+[j-m; etw.]
+
+Könnt ihr mir Lieder für die Playlist empfehlen?
+Bana çalma listesi için şarkılar önerebilir misiniz?;
+
+der Zeitraum "-e
+dönem; zaman aralığı;
+
+in diesem Zeitraum
+bu dönemde; bu zaman aralığında;
+
+über einen Zeitraum von drei Wochen
+üç haftalık bir süre boyunca;
+
+Der Zeitraum ist zu kurz.
+Süre çok kısa.;
+
+die Hexe -n
+cadı;
+
+Die Hexe lebt im Wald.
+Cadı ormanda yaşıyor.;
+
+der Hexer -
+büyücü; erkek cadı;
+
+Er ist ein mächtiger Hexer.
+O güçlü bir büyücü.;
+
+der Brauch "-e
+gelenek; âdet;
+
+die Piñata -s
+pinyata;
+
+Eine Piñata ist eine Figur mit Süßigkeiten drin.
+Pinyata, içinde şekerlemeler olan bir figürdür.;
+
+Seiner Tochter hat das Fest gefallen.
+Kızı festivali beğendi.;
+
+der Stock "-e
+sopa; baston; kat;
+
+ein Stock aus Holz
+tahta bir sopa;
+
+Er geht am Stock.
+Bastonla yürüyor.;
+
+Ich wohne im dritten Stock.
+Üçüncü katta oturuyorum.;
+
+das Stockwerk -e
+kat;
+
+Das Gebäude hat fünf Stockwerke.
+Binanın beş katı var.;
+
+Was machst du denn da?
+Orada ne yapıyorsun?;
+
+Ich bin da.
+Buradayım.; Mevcudum.;
+
+Bist du da?
+Orada mısın?; Çevrim içi misin?;
+
+Ich war gestern da.
+Dün oradaydım.;
+
+a böse
+kızgın; kötü; öfkeli;
+
+Ich bin nicht böse.
+Kızgın değilim.;
+
+Sei mir nicht böse.
+Bana kızma.;
+
+ein böser Traum
+kötü bir rüya; kâbus;
+
+a komisch
+tuhaf; komik; garip; garip hissettiren;
+
+Das ist komisch.
+Bu tuhaf.; Bu komik.;
+
+Er sieht komisch aus.
+Tuhaf görünüyor.;
+
+Meine Kollegin war nicht böse, aber es war ein bisschen komisch.
+İş arkadaşım kızgın değildi, ama biraz garipti.;
+
+a witzig
+komik; esprili;
+
+Der Film ist witzig.
+Film komik.;
+
+Das war ein witziger Kommentar.
+Bu esprili bir yorumdu.;
+
+der Besen -
+süpürge;
+
+Ich brauche einen Besen.
+Bir süpürgeye ihtiyacım var.;
+
+Sie kehrt den Boden mit dem Besen.
+Yeri süpürgeyle süpürüyor.;
+
+der Hexenbesen -
+cadı süpürgesi;
+
+v kriegen
+almak; elde etmek;
+
+Ich kriege ein Geschenk.
+Bir hediye alıyorum.;
+
+Hast du meine Nachricht gekriegt?
+Mesajımı aldın mı?;
+
+Ich kriege Hunger.
+Acıkıyorum.;
+
+Das kriegen wir hin.
+Bunu hallederiz.; Bunu başarırız.;
+
+v anbieten-bietet an / bot an / hat angeboten
+teklif etmek; sunmak;
+[j-m; etw.]
+
+Kann ich dir noch etwas anbieten?
+Sana başka bir şey teklif edebilir miyim?;
+
+Darf ich etwas anbieten?
+Bir şey teklif edebilir miyim?;
+
+v wachsen-wächst / wuchs / ist gewachsen
+büyümek; yetişmek;
+
+Das Kind wächst schnell.
+Çocuk hızlı büyüyor.;
+
+Die Blumen wachsen im Garten.
+Çiçekler bahçede yetişiyor.;
+
+Meine Haare sind gewachsen.
+Saçlarım uzadı.;
+
+v sich verbessern
+gelişmek; iyileşmek;
+
+Ich verbessere mich.
+Gelişiyorum.;
+
+Mein Deutsch verbessert sich.
+Almancam gelişiyor.;
+
+v steigen / stieg / ist gestiegen
+artmak; yükselmek;
+
+die Miete -n
+kira;
+
+Meine Miete steigt!
+Kiram artıyor!;
+
+Unser Fest geht bis 14 Uhr.
+Partimiz saat 14'e kadar sürüyor.;
+
+Der Film geht drei Stunden.
+Film üç saat sürüyor.;
+
+Das Video läuft auf YouTube.
+Video YouTube'da yayında.; Video YouTube'da var.;
+
+der Alkohol (sg.)
+alkol;
+
+der April (sg.)
+nisan;
+
+der August (sg.)
+ağustos;
+
+das Datum Daten
+tarih;
+
+der Dezember (sg.)
+aralık;
+
+die Einladung -en
+davet; davetiye;
+
+der Erfolg -e
+başarı;
+
+(-) Europa (sg.)
+Avrupa;
+
+der Februar (sg.)
+şubat;
+
+der Frühling -e
+ilkbahar;
+
+der Geburtstag -e
+doğum günü;
+
+das Geschenk -e
+hediye;
+
+das Glück (sg.)
+şans; mutluluk;
+
+der Glückwunsch "-e
+tebrik; kutlama;
+
+der Herbst -e
+sonbahar;
+
+das Herz -en
+kalp;
+
+der Januar (sg.)
+ocak;
+
+der Juni (sg.)
+haziran;
+
+der Juli (sg.)
+temmuz;
+
+die Kette -n
+zincir; kolye;
+
+das Lied -er
+şarkı;
+
+der Mai (sg.)
+mayıs;
+
+der März (sg.)
+mart;
+
+die Mitternacht (sg.)
+gece yarısı;
+
+der Monat -e
+ay;
+
+der November (sg.)
+kasım;
+
+der Oktober (sg.)
+ekim;
+
+das Papier -e
+kâğıt;
+
+das Parfüm -s
+parfüm;
+
+die Pflanze -n
+bitki;
+
+das Salz (sg.)
+tuz;
+
+der September (sg.)
+eylül;
+
+der Ski -
+kayak;
+
+der Sommer -
+yaz;
+
+der Wein -e
+şarap;
+
+der Winter -
+kış;
+
+a früh früher am frühesten
+erken;
+
+a spät später am spätesten
+geç;
+
+a pünktlich
+dakik; zamanında;
+
+ab
+-den itibaren; başlayarak;
+
+bei + Dat.
+-de; yanında; nezdinde;
+
+außer
+hariç; dışında;
+
+Wir brauchen Perfekt, außer „sein“ und „haben“.
+“Sein” ve “haben” hariç Perfekt kullanmamız gerekiyor.;
+
+Ich habe Pech gehabt.
+Şansım yaver gitmedi.; Şanssızdım.;
+
+Pech haben
+şansı yaver gitmemek; şanssız olmak;
+
+die Redewendung -en
+deyim; kalıplaşmış ifade;
+
+„Pech gehabt“ ist eine Redewendung.
+“Pech gehabt” bir deyimdir.;
+
+Diese Redewendung verstehe ich nicht.
+Bu ifadeyi anlamıyorum.;
+
+Kennst du diese Redewendung?
+Bu deyimi biliyor musun?;
+
+das Boot -e
+tekne; bot;
+
+Wir fahren mit dem Boot.
+Tekneyle gidiyoruz.;
+
+Das Boot liegt am See.
+Tekne göl kenarında duruyor.;
+
+das Schlauchboot "-er
+şişme bot;
+
+das Motorrad "-er
+motosiklet;
+
+Ich fahre Motorrad.
+Motosiklet sürüyorum.;
+
+Er hat ein neues Motorrad.
+Onun yeni bir motosikleti var.;
+
+Wir fahren mit dem Motorrad.
+Motosikletle gidiyoruz.;
+
+der Motorroller -
+scooter; motorlu scooter;
+
+Ich fahre Motorroller.
+Scooter sürüyorum.;
+
+Er hat einen Motorroller.
+Onun bir scooterı var.;
+
+Wir fahren mit dem Motorroller zur Arbeit.
+İşe scooterla gidiyoruz.;
+
+die Kutsche -n
+at arabası; fayton;
+
+Die Prinzessin fährt in einer Kutsche.
+Prenses bir faytonda gidiyor.;
+
+die Pferdekutsche -n
+atlı araba; fayton;
+
+Wir haben eine Kutschfahrt gemacht.
+Fayton gezisi yaptık.;
+
+der Staub (sg.)
+toz;
+
+Auf dem Tisch liegt Staub.
+Masanın üstünde toz var.;
+
+Ich wische Staub.
+Toz alıyorum.;
+
+Das Buch ist voller Staub.
+Kitap toz içinde.;
+
+Staub wischen
+toz almak;
+
+das Straßenschild -er
+yol levhası; sokak tabelası;
+
+Ich sehe ein Straßenschild.
+Bir yol levhası görüyorum.;
+
+Auf dem Straßenschild steht der Straßenname.
+Sokak tabelasında sokak adı yazıyor.;
+
+die Fußgängerstraße -n
+yaya caddesi;
+
+In der Fußgängerstraße fahren keine Autos.
+Yaya caddesinde araba gitmez.;
+
+der Fußweg -e
+yaya yolu; yürüyüş mesafesi;
+
+Der Fußweg ist schmal.
+Yaya yolu dar.;
+
+Der Fußweg dauert zehn Minuten.
+Yürüyerek yol on dakika sürer.;
+
+der Bürgersteig -e
+kaldırım;
+
+Bitte gehen Sie auf dem Bürgersteig.
+Lütfen kaldırımda yürüyün.;
+
+die Straßenlampe -n
+sokak lambası;
+
+Die Straßenlampe ist kaputt.
+Sokak lambası bozuk.;
+
+Unter der Straßenlampe steht ein Auto.
+Sokak lambasının altında bir araba duruyor.;
+
+Die Straßenlampen gehen abends an.
+Sokak lambaları akşamları yanar.;
+
+die Verkehrsinsel -n
+trafik adası; yaya sığınağı;
+
+Die Fußgänger warten auf der Verkehrsinsel.
+Yayalar trafik adasında bekliyor.;
+
+Die Verkehrsinsel ist in der Mitte der Straße.
+Trafik adası yolun ortasında.;
+
+der Bahnsteig -e
+peron;
+
+Der Zug fährt von Bahnsteig 3 ab.
+Tren 3. perondan kalkıyor.;
+
+Ich warte auf dem Bahnsteig.
+Peronda bekliyorum.;
+
+Bitte bleiben Sie hinter der Linie auf dem Bahnsteig.
+Lütfen perondaki çizginin arkasında kalın.;
+
+a öffentlich
+kamusal; halka açık; resmî;
+
+öffentliche Verkehrsmittel
+toplu taşıma araçları;
+
+eine öffentliche Schule
+devlet okulu; kamu okulu;
+
+Das ist öffentlich.
+Bu halka açık.;
+
+Wir leben seit eineinhalb Jahren hier.
+Bir buçuk yıldır burada yaşıyoruz.;
+
+zweieinhalb Stunden
+iki buçuk saat;
+
+Der Film dauert zweieinhalb Stunden.
+Film iki buçuk saat sürüyor.;
+
+Ich habe zweieinhalb Stunden gewartet.
+İki buçuk saat bekledim.;
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+ödünç almak; ödünç vermek;
+
+Ich möchte ein Buch ausleihen.
+Bir kitap ödünç almak istiyorum.;
+
+Ich habe ein Buch in der Bibliothek ausgeliehen.
+Kütüphaneden bir kitap ödünç aldım.;
+
+Kannst du mir dein Buch ausleihen?
+Bana kitabını ödünç verebilir misin?;
+
+v losgehen-geht los / ging los / ist losgegangen
+başlamak; yola çıkmak;
+
+Wann geht der Film los?
+Film ne zaman başlıyor?;
+
+Die Party geht um 20 Uhr los.
+Parti saat 20'de başlıyor.;
+
+Wir gehen jetzt los.
+Şimdi yola çıkıyoruz.;
+
+Es geht los!
+Başlıyor!; Haydi başlıyoruz!;
+
+v losfahren-fährt los / fuhr los / ist losgefahren
+yola çıkmak; hareket etmek;
+
+Wann fahren wir los?
+Ne zaman yola çıkıyoruz?;
+
+Der Bus fährt gleich los.
+Otobüs birazdan hareket ediyor.;
+
+Wir sind um 8 Uhr losgefahren.
+Saat 8'de yola çıktık.;
+
+Fahr los!
+Hareket et!; Sür!;
+
+v fahren-fährt / fuhr / ist gefahren
+gitmek; yolculuk etmek;
+
+Ich will mit dem Zug von Köln nach Bremen fahren.
+Köln'den Bremen'e trenle gitmek istiyorum.;
+
+Wie kommst du von der Sprachschule zum Bahnhof?
+Dil okulundan tren istasyonuna nasıl gidiyorsun?;
+
+v fahren-fährt / fuhr / hat gefahren
+sürmek; kullanmak;
+[etw.]
+
+v kommen / kam / ist gekommen
+gelmek;
+
+Tina kommt von der Schule nach Hause.
+Tina okuldan eve geliyor.;
+
+Er kommt vom Sport.
+O spordan geliyor.;
+
+Wir kommen von der Gymnastik.
+Jimnastikten geliyoruz.;
+
+Meine Mutter kommt von der Ärztin.
+Annem doktordan geliyor.;
+
+Wir kommen von meinen Großeltern zurück.
+Büyükannem ve büyükbabamdan geri dönüyoruz.;
+
+Ich komme aus der Ukraine.
+Ukrayna'dan geliyorum.; Ben Ukraynalıyım.;
+
+Ich bin am Samstag aus der Ukraine nach Deutschland gekommen.
+Cumartesi günü Ukrayna'dan Almanya'ya geldim.;
+
+vorbei
+geçmiş; bitmiş; yanından;
+
+Der Bus fährt vorbei.
+Otobüs yanından geçiyor.;
+
+Der Sommer ist vorbei.
+Yaz bitti.;
+
+Die Pause ist vorbei.
+Mola bitti.;
+
+Ich gehe an der Schule vorbei.
+Okulun yanından geçiyorum.;
+
+v fliegen-fliegt / flog / ist geflogen
+uçmak;
+
+Fliegst du in die USA?
+ABD'ye uçuyor musun?;
+
+a zeitlich
+zamansal; zaman açısından;
+
+ein zeitlicher Abstand
+zaman aralığı;
+
+zeitlich begrenzt
+zamanla sınırlı;
+
+Das passt zeitlich nicht.
+Bu zaman açısından uymuyor.;
+
+Wir müssen das zeitlich planen.
+Bunu zaman açısından planlamalıyız.;
+
+die Arbeitsmesse -n
+iş fuarı; kariyer fuarı;
+
+Ich gehe morgen zur Arbeitsmesse.
+Yarın iş fuarına gidiyorum.;
+
+Auf der Arbeitsmesse kann man Arbeitgeber kennenlernen.
+İş fuarında işverenlerle tanışılabilir.;
+
+Viele Firmen sind auf der Arbeitsmesse.
+İş fuarında birçok şirket var.;
+
+der Startpunkt -e
+başlangıç noktası;
+
+Der Startpunkt ist am Bahnhof.
+Başlangıç noktası tren istasyonunda.;
+
+Wo ist der Startpunkt?
+Başlangıç noktası nerede?;
+
+Der Startpunkt der Wanderung ist hier.
+Yürüyüşün başlangıç noktası burada.;
+
+der Treffpunkt -e
+buluşma noktası;
+
+Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
+Saat 6'da Berlin'den Kiev'e trenle hareket ediyoruz.;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+geri gelmek; dönmek;
+
+der Albtraum "-e
+kâbus;
+
+Ich hatte einen Albtraum.
+Kâbus gördüm.;
+
+Das war ein Albtraum.
+Bu bir kâbustu.;
+
+Sie hat schlecht geschlafen wegen eines Albtraums.
+Bir kâbus yüzünden kötü uyudu.;
+
+der Park -s
+park;
+
+Der Hund rennt von einem Park zu einem Park.
+Köpek bir parktan başka bir parka koşuyor.;
+
+die Empfehlung -en
+tavsiye; öneri;
+
+Danke für die Empfehlung.
+Tavsiye için teşekkürler.;
+
+Hast du eine Empfehlung für mich?
+Benim için bir tavsiyen var mı?;
+
+(-) Ukraine (sg.)
+Ukrayna;
+
+(-) Deutschland (sg.)
+Almanya;
+
+v abfahren-fährt ab / fuhr ab / ist abgefahren
+hareket etmek; kalkmak; ayrılmak;
+
+Der Zug fährt um 8 Uhr ab.
+Tren saat 8'de kalkıyor.;
+
+Wann fährt der Bus ab?
+Otobüs ne zaman kalkıyor?;
+
+Wir sind pünktlich abgefahren.
+Zamanında hareket ettik.;
+
+Wir fahren von der Autobahn ab.
+Otobandan çıkıyoruz.;
+
+der Automat -en
+makine; bilet makinesi;
+
+der Schalter -
+gişe; banko;
+
+Am Automaten kaufe ich ein Ticket und sie am Schalter.
+Ben bileti makineden alıyorum, o ise gişeden.;
+
+Ich kaufe ein Ticket am Automaten und sie am Schalter.
+Ben bileti makineden alıyorum, o ise gişeden.;
+
+das Ticket -s
+bilet;
+
+a gültig
+geçerli;
+
+Mein Ticket ist gültig ab dem 04.09.
+Biletim 04.09'dan itibaren geçerli.;
+
+Mein Ticket ist ab 04.09. gültig.
+Biletim 04.09'dan itibaren geçerli.;
+
+der Erwachsene -n
+yetişkin;
+
+die Erwachsene -n
+yetişkin kadın;
+
+die Erwachsenen (pl.)
+yetişkinler;
+
+Erw.: 1
+yetişkin: 1;
+
+die Hinfahrt -en
+gidiş yolculuğu;
+
+die Rückfahrt -en
+dönüş yolculuğu;
+
+Hinfahrt und Rückfahrt
+gidiş ve dönüş; gidiş-dönüş;
+
+a bequem
+rahat; konforlu; uygun;
+
+Der Sessel ist bequem.
+Koltuk rahat.;
+
+Die Schuhe sind bequem.
+Ayakkabılar rahat.;
+
+Die Fahrt war bequem.
+Yolculuk konforluydu.;
+
+die Durchsage -n
+anons; duyuru;
+
+Die Durchsage am Bahnhof war laut.
+Tren istasyonundaki anons yüksekti.;
+
+Ich habe die Durchsage nicht verstanden.
+Anonsu anlamadım.;
+
+Bitte achten Sie auf die Durchsage.
+Lütfen anonsa dikkat edin.;
+
+v zerteilen
+parçalara ayırmak; bölmek;
+
+Ich teile den Kuchen.
+Pastayı bölüyorum.;
+
+Ich zerteile den Kuchen in Stücke.
+Pastayı parçalara ayırıyorum.;
+
+v teilen
+bölmek; paylaşmak;
+
+v zerstören
+yıkmak; yok etmek;
+
+Das Feuer hat das Haus zerstört.
+Yangın evi yok etti.;
+
+v stören
+rahatsız etmek; engellemek;
+
+Der Lärm stört mich.
+Gürültü beni rahatsız ediyor.;
+
+v zerkleinern
+küçültmek; ufalamak; doğramak;
+
+Ich zerkleinere das Gemüse.
+Sebzeleri doğruyorum.;
+
+Bitte zerkleinern Sie die Tablette.
+Lütfen tableti ezin.;
+
+v zerschneiden
+kesip parçalara ayırmak; kesmek;
+
+Ich zerschneide das Papier.
+Kâğıdı kesip parçalara ayırıyorum.;
+
+Sie hat den Stoff zerschnitten.
+Kumaşı kesip parçalara ayırdı.;
+
 das Wasser (sg.)
 su; sular; su kütlesi;
 

@@ -4005,6 +4005,1266 @@ a nachher
 nach + Dat.
 بعد; وفقاً لـ; إلى; نحو; بحسب;
 
+v gehören / - / hat gehört
+ينتمي؛ يخصّ؛ يعود إلى؛
+[j-m]
+
+Das Buch gehört mir.
+الكتاب يخصّني.;
+
+Er gehört zur Familie.
+هو ينتمي إلى العائلة.;
+
+Das gehört sich nicht.
+هذا غير لائق.; هذا لا يصح.;
+
+Wem gehört diese Jacke?
+لمن تعود هذه السترة؟;
+
+Diese Jacke gehört ihr.
+هذه السترة تخصّها.;
+
+v gehören zu / - / hat gehört
+ينتمي إلى؛ يكون جزءًا من؛
+[zu+Dat]
+
+Das Auto gehört der Firma.
+السيارة تخصّ الشركة.;
+
+Er gehört zur Firma.
+هو ينتمي إلى الشركة.; هو جزء من الشركة.;
+
+v gefallen-gefällt / gefiel / hat gefallen
+يعجب؛ يروق؛
+[j-m]
+
+Mir gefallen die Autos.
+تعجبني السيارات.;
+
+Mir gefällt das Auto.
+تعجبني السيارة.;
+
+Mir gefällt Kälte nicht.
+لا يعجبني البرد.;
+
+Mir hat Putzen nicht gefallen.
+لم يعجبني التنظيف.;
+
+Wie hat Ihnen die Ostsee gefallen?
+كيف أعجبك بحر البلطيق؟;
+
+v arbeiten
+يعمل؛
+
+Ich arbeite bis zum Wochenende.
+أعمل حتى نهاية الأسبوع.;
+
+Ich arbeite von Montag bis Freitag.
+أعمل من الاثنين إلى الجمعة.;
+
+v kennen / - / hat gekannt
+يعرف؛
+[j-n]
+
+Wir kennen uns seit drei Wochen.
+نحن نعرف بعضنا منذ ثلاثة أسابيع.;
+
+v gehen / ging / ist gegangen
+يذهب؛ يمشي؛
+
+Wann gehen Sie nach Hause?
+متى تذهب إلى البيت؟;
+
+Ich gehe nach dem Sprachkurs nach Hause.
+أذهب إلى البيت بعد دورة اللغة.;
+
+Nach dem Unterricht gehe ich immer nach Hause.
+بعد الدرس أذهب دائمًا إلى البيت.;
+
+Nach der Uni gehe ich zur Mensa.
+بعد الجامعة أذهب إلى مطعم الجامعة.;
+
+Sie geht zur Schule.
+هي تذهب إلى المدرسة.; هي تدرس في المدرسة.;
+
+Wir gehen zum Tanzen.
+نحن ذاهبون للرقص.;
+
+Gehst du übermorgen zum Konzert?
+هل تذهب بعد غد إلى الحفلة الموسيقية؟;
+
+Ich gehe zu seinen Kindern.
+أنا ذاهب إلى أطفاله.;
+
+Wir gehen vom Deutschkurs zum Bowling.
+نحن نذهب من دورة الألمانية إلى البولينغ.;
+
+Ich gehe von zu Hause zum Treffpunkt.
+أنا ذاهب من البيت إلى نقطة اللقاء.;
+
+Geh nach rechts!
+اذهب إلى اليمين!;
+
+Geh nicht nach links!
+لا تذهب إلى اليسار!;
+
+nach Hause gehen
+يذهب إلى البيت؛
+
+zu Hause sein
+يكون في البيت؛
+
+v fühlen
+يشعر؛ يحسّ؛
+[sich+Akk]
+
+Ich fühle mich gut.
+أشعر أنني بخير.;
+
+v putzen
+ينظف؛
+
+Putzen gefällt mir nicht.
+لا يعجبني التنظيف.;
+
+v backen / - / hat gebacken
+يخبز؛
+
+Wenn ich du wäre, würde ich gern backen.
+لو كنت مكانك، لكنت أحب الخَبز.;
+
+An deiner Stelle würde ich gern backen.
+لو كنت مكانك، لكنت أحب الخَبز.;
+
+v gratulieren / - / hat gratuliert
+يهنئ؛
+[j-m; zu+Dat]
+
+Ich gratuliere dir zum Geburtstag.
+أهنئك بعيد ميلادك.; عيد ميلاد سعيد لك.;
+
+Er hat mir zum Geburtstag gratuliert.
+هنّأني بعيد ميلادي.;
+
+v laufen-läuft / lief / ist gelaufen
+يركض؛ يمشي؛
+
+Wir laufen zum Zug.
+نحن نركض إلى القطار.; نحن نمشي بسرعة إلى القطار.;
+
+Viel Erfolg!
+بالتوفيق!; أتمنى لك النجاح!;
+
+Bescheid sagen
+يخبر؛ يبلّغ؛
+
+Ja, ich habe unserer Nachbarin schon Bescheid gesagt.
+نعم، لقد أخبرت جارتنا بالفعل.;
+
+die Jahreszeit -en
+فصل من فصول السنة؛
+
+Welche Jahreszeit magst du?
+أي فصل تحب؟;
+
+Meine Lieblingsjahreszeit ist der Herbst.
+فصلي المفضل هو الخريف.;
+
+das Jahrhundert -e
+قرن؛
+
+im 21. Jahrhundert
+في القرن الحادي والعشرين؛
+
+Das Schloss wurde im 18. Jahrhundert gebaut.
+بُني القصر في القرن الثامن عشر.;
+
+der Frühjahrsputz -e
+تنظيف الربيع؛
+
+Ich mache Frühjahrsputz.
+أقوم بتنظيف الربيع.;
+
+der Pilz -e
+فطر؛
+
+v sammeln
+يجمع؛
+
+Wir sammeln gern Pilze.
+نحب جمع الفطر.;
+
+der Fliegenpilz -e
+فطر الأمانيت الأحمر؛
+
+v bummeln
+يتجوّل؛ يتسكّع؛ يتسوق بتأنّ؛
+
+Ich bummle gern durch die Stadt.
+أحب التجول في المدينة.;
+
+Ich bummle gern in der Stadt.
+أحب التجول داخل المدينة.;
+
+v angeln
+يصطاد السمك؛
+
+v genießen / - / hat genossen
+يستمتع؛
+
+Wir genießen das schöne Wetter.
+نحن نستمتع بالطقس الجميل.;
+
+Alle sind eingeladen.
+الجميع مدعوون.;
+
+Alle sind herzlich eingeladen.
+الجميع مدعوون بحرارة.;
+
+v wählen
+يختار؛ ينتخب؛
+
+v auswählen
+يختار؛ ينتقي؛
+
+v sich entscheiden
+يقرر؛ يختار؛
+[für+Akk]
+
+den falschen Weg nehmen
+يسلك الطريق الخاطئ؛ يختار الطريق الخطأ؛
+
+Ich habe den falschen Weg genommen.
+سلكت الطريق الخاطئ.;
+
+v klappen
+ينجح؛ يتمّ بنجاح؛
+
+Das klappt.
+سينجح ذلك.; سينجح الأمر.;
+
+Es hat geklappt.
+لقد نجح الأمر.;
+
+Klappt das morgen?
+هل سينجح ذلك غدًا؟;
+
+Das klappt leider nicht.
+للأسف لن ينجح ذلك.;
+
+a zögernd
+متردد؛ بتردد؛
+
+Er antwortete zögernd.
+أجاب بتردد.;
+
+Sie nickte zögernd.
+أومأت برأسها بتردد.;
+
+v zögern
+يتردد؛
+
+a vorüber
+منتهٍ؛ ماضٍ؛ عابر؛
+
+Der Sommer ist vorüber.
+انتهى الصيف.;
+
+Die Gefahr ist vorüber.
+زال الخطر.;
+
+Er ging an mir vorüber.
+مرّ بجانبي.;
+
+v weinen
+يبكي؛
+
+Das Kind weint.
+الطفل يبكي.;
+
+Sie hat vor Freude geweint.
+بكت من الفرح.;
+
+v sich weiterdrehen
+يواصل الدوران؛ يستمر في الدوران؛
+
+Die Erde dreht sich weiter.
+الأرض تواصل الدوران.;
+
+Das Rad dreht sich weiter.
+العجلة تواصل الدوران.;
+
+a verzweifelt
+يائس؛ بيأس؛
+
+Ich bin verzweifelt.
+أنا يائس.;
+
+Sie suchte verzweifelt nach ihrem Schlüssel.
+بحثت عن مفتاحها بيأس.;
+
+ein verzweifelter Versuch
+محاولة يائسة؛
+
+v verzweifeln / - / ist verzweifelt
+ييأس؛ يقع في اليأس؛
+
+a hoffnungslos
+ميؤوس منه؛ بلا أمل؛
+
+Die Situation ist hoffnungslos.
+الوضع ميؤوس منه.;
+
+Er ist hoffnungslos verliebt.
+هو واقع في الحب بلا أمل.;
+
+die Hoffnung -en
+أمل؛
+
+Ich habe Hoffnung.
+لدي أمل.;
+
+Gib die Hoffnung nicht auf.
+لا تفقد الأمل.;
+
+v hoffen
+يأمل؛
+[auf+Akk]
+
+Ich hoffe, dass alles gut wird.
+آمل أن يكون كل شيء بخير.;
+
+Wir hoffen auf gutes Wetter.
+نأمل بطقس جيد.;
+
+Ich hoffe es.
+آمل ذلك.;
+
+Sowas passiert.
+تحدث مثل هذه الأشياء.;
+
+So etwas passiert.
+تحدث مثل هذه الأشياء.;
+
+v auseinandergehen-geht auseinander / ging auseinander / ist auseinandergegangen
+ينفصل؛ يتفرّق؛ يختلف؛
+
+Wir gehen auseinander.
+نحن ننفصل.; نحن نتفرّق.;
+
+Sie sind auseinandergegangen.
+لقد انفصلوا.; لقد تفرّقوا.;
+
+Die Meinungen gehen auseinander.
+الآراء تختلف.;
+
+Vielleicht verliebe ich mich auf das Neue.
+ربما أقع في الحب من جديد.;
+
+v sich verlieben
+يقع في الحب؛
+
+v beobachten
+يراقب؛ يشاهد؛
+[j-n]
+
+Ich beobachte Vögel.
+أراقب الطيور.; أشاهد الطيور.;
+
+Ich beobachte meine Nachbarn.
+أراقب جيراني.;
+
+Beobachte ich meine Nachbarn?
+هل أراقب جيراني؟;
+
+v gießen-gießt / goss / hat gegossen
+يسكب؛ يصبّ؛ يسقي؛
+
+Ich gieße die Blumen.
+أسقي الزهور.;
+
+Sie gießt Wasser ins Glas.
+هي تصب الماء في الكأس.;
+
+Es gießt.
+المطر يهطل بغزارة.;
+
+v bedecken
+يغطي؛
+
+Schnee bedeckt die Straßen.
+الثلج يغطي الشوارع.;
+
+Der Himmel ist mit Wolken bedeckt.
+السماء مغطاة بالغيوم.;
+
+a schneebedeckt
+مغطى بالثلج؛
+
+schneebedeckte Berge
+جبال مغطاة بالثلج؛
+
+Die Straßen sind schneebedeckt.
+الشوارع مغطاة بالثلج.;
+
+Ich möchte nicht aus dem Haus gehen.
+لا أريد الخروج من البيت.;
+
+a unterwegs
+في الطريق؛ خارج البيت؛ متنقل؛
+
+Er ist immer unterwegs.
+هو دائمًا في الطريق.; هو دائم التنقل.;
+
+Ich bin unterwegs.
+أنا في الطريق.;
+
+Wir waren den ganzen Tag unterwegs.
+كنا خارج البيت طوال اليوم.;
+
+Unterwegs habe ich Kaffee gekauft.
+اشتريت قهوة في الطريق.;
+
+die Ordinalzahl -en
+عدد ترتيبي؛
+
+der erste Tag
+اليوم الأول؛
+
+die zweite Woche
+الأسبوع الثاني؛
+
+das dritte Kind
+الطفل الثالث؛
+
+am vierten Mai
+في الرابع من مايو؛
+
+im einundzwanzigsten Jahrhundert
+في القرن الحادي والعشرين؛
+
+Ich bin am fünfundzwanzigsten März geboren.
+وُلدت في الخامس والعشرين من مارس.;
+
+der Weihnachtsmarkt "-e
+سوق عيد الميلاد؛ سوق الكريسماس؛
+
+Der Weihnachtsmarkt beginnt am vierten Dezember.
+يبدأ سوق عيد الميلاد في الرابع من ديسمبر.;
+
+Er dauert vom vierten bis zum dreiundzwanzigsten Dezember.
+يستمر من الرابع حتى الثالث والعشرين من ديسمبر.;
+
+am ersten Fünften
+في الأول من مايو؛
+
+der Muttertag -e
+عيد الأم؛
+
+Der Muttertag ist im Mai.
+عيد الأم في مايو.;
+
+das Sternzeichen -
+برج فلكي؛ برج من الأبراج؛
+
+Ich glaube nicht an Sternzeichen.
+لا أؤمن بالأبراج.;
+
+a eigenartig
+غريب؛ عجيب؛ غير مألوف؛
+
+Das Wetter war gestern eigenartig.
+كان الطقس غريبًا أمس.;
+
+Man muss in der Nacht schlafen.
+يجب أن ينام المرء ليلًا.;
+
+v empfehlen-empfiehlt / empfahl / hat empfohlen
+يوصي؛ ينصح؛
+[j-m; etw.]
+
+Könnt ihr mir Lieder für die Playlist empfehlen?
+هل يمكنكم أن تنصحوني بأغانٍ لقائمة التشغيل؟;
+
+der Zeitraum "-e
+فترة زمنية؛ مدة؛
+
+in diesem Zeitraum
+في هذه الفترة؛ خلال هذه المدة؛
+
+über einen Zeitraum von drei Wochen
+على مدى ثلاثة أسابيع؛
+
+Der Zeitraum ist zu kurz.
+الفترة قصيرة جدًا.;
+
+die Hexe -n
+ساحرة؛
+
+Die Hexe lebt im Wald.
+الساحرة تعيش في الغابة.;
+
+der Hexer -
+ساحر؛ مشعوذ؛
+
+Er ist ein mächtiger Hexer.
+هو ساحر قوي.;
+
+der Brauch "-e
+عادة؛ تقليد؛
+
+die Piñata -s
+بنياتا؛
+
+Eine Piñata ist eine Figur mit Süßigkeiten drin.
+البنياتا مجسّم بداخله حلويات.;
+
+Seiner Tochter hat das Fest gefallen.
+أعجب الحفل ابنته.;
+
+der Stock "-e
+عصا؛ عكاز؛ طابق؛
+
+ein Stock aus Holz
+عصا من الخشب؛
+
+Er geht am Stock.
+هو يمشي بعكاز.;
+
+Ich wohne im dritten Stock.
+أسكن في الطابق الثالث.;
+
+das Stockwerk -e
+طابق؛
+
+Das Gebäude hat fünf Stockwerke.
+المبنى له خمسة طوابق.;
+
+Was machst du denn da?
+ماذا تفعل هناك؟;
+
+Ich bin da.
+أنا هنا.; أنا موجود.;
+
+Bist du da?
+هل أنت هنا؟; هل أنت متصل؟;
+
+Ich war gestern da.
+كنت هناك أمس.;
+
+a böse
+غاضب؛ شرير؛ سيئ؛
+
+Ich bin nicht böse.
+أنا لست غاضبًا.;
+
+Sei mir nicht böse.
+لا تغضب مني.;
+
+ein böser Traum
+حلم سيئ؛ كابوس؛
+
+a komisch
+غريب؛ مضحك؛ محرج؛
+
+Das ist komisch.
+هذا غريب.; هذا مضحك.;
+
+Er sieht komisch aus.
+هو يبدو غريبًا.;
+
+Meine Kollegin war nicht böse, aber es war ein bisschen komisch.
+لم تكن زميلتي غاضبة، لكن الأمر كان محرجًا قليلًا.;
+
+a witzig
+مضحك؛ ذكي؛ بارع؛
+
+Der Film ist witzig.
+الفيلم مضحك.;
+
+Das war ein witziger Kommentar.
+كان ذلك تعليقًا ذكيًا.;
+
+der Besen -
+مكنسة؛
+
+Ich brauche einen Besen.
+أحتاج إلى مكنسة.;
+
+Sie kehrt den Boden mit dem Besen.
+هي تكنس الأرض بالمكنسة.;
+
+der Hexenbesen -
+مكنسة الساحرة؛
+
+v kriegen
+يحصل على؛ يتلقى؛
+
+Ich kriege ein Geschenk.
+سأحصل على هدية.;
+
+Hast du meine Nachricht gekriegt?
+هل تلقيت رسالتي؟;
+
+Ich kriege Hunger.
+بدأت أشعر بالجوع.;
+
+Das kriegen wir hin.
+سننجح في ذلك.; نستطيع تدبير ذلك.;
+
+v anbieten-bietet an / bot an / hat angeboten
+يعرض؛ يقدم؛
+[j-m; etw.]
+
+Kann ich dir noch etwas anbieten?
+هل يمكنني أن أقدم لك شيئًا آخر؟;
+
+Darf ich etwas anbieten?
+هل يجوز أن أقدم شيئًا؟;
+
+v wachsen-wächst / wuchs / ist gewachsen
+ينمو؛ يكبر؛
+
+Das Kind wächst schnell.
+الطفل يكبر بسرعة.;
+
+Die Blumen wachsen im Garten.
+الزهور تنمو في الحديقة.;
+
+Meine Haare sind gewachsen.
+نما شعري.;
+
+v sich verbessern
+يتحسن؛
+
+Ich verbessere mich.
+أنا أتحسن.;
+
+Mein Deutsch verbessert sich.
+لغتي الألمانية تتحسن.;
+
+v steigen / stieg / ist gestiegen
+يرتفع؛ يزيد؛
+
+die Miete -n
+إيجار؛
+
+Meine Miete steigt!
+إيجاري يرتفع!;
+
+Unser Fest geht bis 14 Uhr.
+يستمر احتفالنا حتى الساعة الثانية ظهرًا.;
+
+Der Film geht drei Stunden.
+يستمر الفيلم ثلاث ساعات.;
+
+Das Video läuft auf YouTube.
+الفيديو موجود على يوتيوب.; الفيديو يُعرض على يوتيوب.;
+
+der Alkohol (sg.)
+كحول؛
+
+der April (sg.)
+أبريل؛ نيسان؛
+
+der August (sg.)
+أغسطس؛ آب؛
+
+das Datum Daten
+تاريخ؛
+
+der Dezember (sg.)
+ديسمبر؛ كانون الأول؛
+
+die Einladung -en
+دعوة؛
+
+der Erfolg -e
+نجاح؛
+
+(-) Europa (sg.)
+أوروبا؛
+
+der Februar (sg.)
+فبراير؛ شباط؛
+
+der Frühling -e
+ربيع؛
+
+der Geburtstag -e
+عيد ميلاد؛
+
+das Geschenk -e
+هدية؛
+
+das Glück (sg.)
+حظ؛ سعادة؛
+
+der Glückwunsch "-e
+تهنئة؛
+
+der Herbst -e
+خريف؛
+
+das Herz -en
+قلب؛
+
+der Januar (sg.)
+يناير؛ كانون الثاني؛
+
+der Juni (sg.)
+يونيو؛ حزيران؛
+
+der Juli (sg.)
+يوليو؛ تموز؛
+
+die Kette -n
+سلسلة؛ قلادة؛
+
+das Lied -er
+أغنية؛
+
+der Mai (sg.)
+مايو؛ أيار؛
+
+der März (sg.)
+مارس؛ آذار؛
+
+die Mitternacht (sg.)
+منتصف الليل؛
+
+der Monat -e
+شهر؛
+
+der November (sg.)
+نوفمبر؛ تشرين الثاني؛
+
+der Oktober (sg.)
+أكتوبر؛ تشرين الأول؛
+
+das Papier -e
+ورق؛
+
+das Parfüm -s
+عطر؛
+
+die Pflanze -n
+نبتة؛ نبات؛
+
+das Salz (sg.)
+ملح؛
+
+der September (sg.)
+سبتمبر؛ أيلول؛
+
+der Ski -
+زلاجة؛
+
+der Sommer -
+صيف؛
+
+der Wein -e
+نبيذ؛
+
+der Winter -
+شتاء؛
+
+a früh früher am frühesten
+مبكر؛
+
+a spät später am spätesten
+متأخر؛
+
+a pünktlich
+دقيق في الموعد؛ في الوقت المحدد؛
+
+ab
+من؛ ابتداءً من؛
+
+bei + Dat.
+عند؛ بالقرب من؛ لدى؛
+
+außer
+ما عدا؛ باستثناء؛
+
+Wir brauchen Perfekt, außer „sein“ und „haben“.
+نحتاج إلى زمن Perfekt، ما عدا «sein» و«haben».;
+
+Ich habe Pech gehabt.
+لم يحالفني الحظ.; كان حظي سيئًا.;
+
+Pech haben
+يكون حظه سيئًا؛ لا يحالفه الحظ؛
+
+die Redewendung -en
+تعبير اصطلاحي؛ عبارة ثابتة؛
+
+„Pech gehabt“ ist eine Redewendung.
+«Pech gehabt» تعبير اصطلاحي.;
+
+Diese Redewendung verstehe ich nicht.
+لا أفهم هذا التعبير.;
+
+Kennst du diese Redewendung?
+هل تعرف هذا التعبير؟;
+
+das Boot -e
+قارب؛
+
+Wir fahren mit dem Boot.
+نحن نذهب بالقارب.;
+
+Das Boot liegt am See.
+القارب عند البحيرة.;
+
+das Schlauchboot "-er
+قارب مطاطي؛
+
+das Motorrad "-er
+دراجة نارية؛
+
+Ich fahre Motorrad.
+أقود دراجة نارية.; أركب دراجة نارية.;
+
+Er hat ein neues Motorrad.
+لديه دراجة نارية جديدة.;
+
+Wir fahren mit dem Motorrad.
+نحن نذهب بالدراجة النارية.;
+
+der Motorroller -
+سكوتر؛ دراجة بخارية؛
+
+Ich fahre Motorroller.
+أركب سكوتر.;
+
+Er hat einen Motorroller.
+لديه سكوتر.;
+
+Wir fahren mit dem Motorroller zur Arbeit.
+نذهب إلى العمل بالسكوتر.;
+
+die Kutsche -n
+عربة؛ عربة خيل؛
+
+Die Prinzessin fährt in einer Kutsche.
+الأميرة تركب في عربة.;
+
+die Pferdekutsche -n
+عربة تجرها الخيول؛
+
+Wir haben eine Kutschfahrt gemacht.
+قمنا بجولة بعربة خيل.;
+
+der Staub (sg.)
+غبار؛
+
+Auf dem Tisch liegt Staub.
+يوجد غبار على الطاولة.;
+
+Ich wische Staub.
+أمسح الغبار.;
+
+Das Buch ist voller Staub.
+الكتاب مليء بالغبار.;
+
+Staub wischen
+يمسح الغبار؛
+
+das Straßenschild -er
+إشارة طريق؛ لوحة شارع؛
+
+Ich sehe ein Straßenschild.
+أرى إشارة طريق.;
+
+Auf dem Straßenschild steht der Straßenname.
+اسم الشارع مكتوب على لوحة الشارع.;
+
+die Fußgängerstraße -n
+شارع للمشاة؛
+
+In der Fußgängerstraße fahren keine Autos.
+لا تسير سيارات في شارع المشاة.;
+
+der Fußweg -e
+ممر للمشاة؛ مسافة مشي؛
+
+Der Fußweg ist schmal.
+ممر المشاة ضيق.;
+
+Der Fußweg dauert zehn Minuten.
+المشي يستغرق عشر دقائق.;
+
+der Bürgersteig -e
+رصيف؛
+
+Bitte gehen Sie auf dem Bürgersteig.
+من فضلك امشِ على الرصيف.;
+
+die Straßenlampe -n
+مصباح شارع؛
+
+Die Straßenlampe ist kaputt.
+مصباح الشارع معطّل.;
+
+Unter der Straßenlampe steht ein Auto.
+توجد سيارة تحت مصباح الشارع.;
+
+Die Straßenlampen gehen abends an.
+تُضاء مصابيح الشوارع مساءً.;
+
+die Verkehrsinsel -n
+جزيرة مرورية؛ جزيرة أمان للمشاة؛
+
+Die Fußgänger warten auf der Verkehrsinsel.
+المشاة ينتظرون على الجزيرة المرورية.;
+
+Die Verkehrsinsel ist in der Mitte der Straße.
+الجزيرة المرورية في وسط الشارع.;
+
+der Bahnsteig -e
+رصيف القطار؛ منصة القطار؛
+
+Der Zug fährt von Bahnsteig 3 ab.
+ينطلق القطار من الرصيف رقم 3.;
+
+Ich warte auf dem Bahnsteig.
+أنا أنتظر على رصيف القطار.;
+
+Bitte bleiben Sie hinter der Linie auf dem Bahnsteig.
+يرجى البقاء خلف الخط على رصيف القطار.;
+
+a öffentlich
+عام؛ علني؛
+
+öffentliche Verkehrsmittel
+وسائل النقل العامة؛
+
+eine öffentliche Schule
+مدرسة عامة؛ مدرسة حكومية؛
+
+Das ist öffentlich.
+هذا علني.;
+
+Wir leben seit eineinhalb Jahren hier.
+نعيش هنا منذ سنة ونصف.;
+
+zweieinhalb Stunden
+ساعتان ونصف؛
+
+Der Film dauert zweieinhalb Stunden.
+يستمر الفيلم ساعتين ونصف.;
+
+Ich habe zweieinhalb Stunden gewartet.
+انتظرت ساعتين ونصف.;
+
+v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+يستعير؛ يعير؛
+
+Ich möchte ein Buch ausleihen.
+أود أن أستعير كتابًا.;
+
+Ich habe ein Buch in der Bibliothek ausgeliehen.
+استعرت كتابًا من المكتبة.;
+
+Kannst du mir dein Buch ausleihen?
+هل يمكنك أن تعيرني كتابك؟;
+
+v losgehen-geht los / ging los / ist losgegangen
+يبدأ؛ ينطلق؛
+
+Wann geht der Film los?
+متى يبدأ الفيلم؟;
+
+Die Party geht um 20 Uhr los.
+تبدأ الحفلة في الساعة الثامنة مساءً.;
+
+Wir gehen jetzt los.
+نحن ننطلق الآن.;
+
+Es geht los!
+لقد بدأ الأمر!; هيا بنا!;
+
+v losfahren-fährt los / fuhr los / ist losgefahren
+ينطلق؛ يغادر؛
+
+Wann fahren wir los?
+متى ننطلق؟;
+
+Der Bus fährt gleich los.
+الحافلة ستنطلق حالًا.;
+
+Wir sind um 8 Uhr losgefahren.
+انطلقنا في الساعة الثامنة.;
+
+Fahr los!
+انطلق!; ابدأ القيادة!;
+
+v fahren-fährt / fuhr / ist gefahren
+يذهب؛ يسافر؛ يركب؛
+
+Ich will mit dem Zug von Köln nach Bremen fahren.
+أريد أن أسافر بالقطار من كولونيا إلى بريمن.;
+
+Wie kommst du von der Sprachschule zum Bahnhof?
+كيف تصل من مدرسة اللغة إلى محطة القطار؟;
+
+v fahren-fährt / fuhr / hat gefahren
+يقود؛
+[etw.]
+
+v kommen / kam / ist gekommen
+يأتي؛ يصل؛
+
+Tina kommt von der Schule nach Hause.
+تينا تعود من المدرسة إلى البيت.;
+
+Er kommt vom Sport.
+هو عائد من الرياضة.;
+
+Wir kommen von der Gymnastik.
+نحن عائدون من الجمباز.;
+
+Meine Mutter kommt von der Ärztin.
+أمي عائدة من الطبيبة.;
+
+Wir kommen von meinen Großeltern zurück.
+نحن عائدون من بيت جديّ وجدتي.;
+
+Ich komme aus der Ukraine.
+أنا من أوكرانيا.;
+
+Ich bin am Samstag aus der Ukraine nach Deutschland gekommen.
+جئت يوم السبت من أوكرانيا إلى ألمانيا.;
+
+vorbei
+ماضٍ؛ منتهٍ؛ مرورًا بجانب؛
+
+Der Bus fährt vorbei.
+الحافلة تمرّ بجانبنا.;
+
+Der Sommer ist vorbei.
+انتهى الصيف.;
+
+Die Pause ist vorbei.
+انتهت الاستراحة.;
+
+Ich gehe an der Schule vorbei.
+أمشي بجانب المدرسة.;
+
+v fliegen-fliegt / flog / ist geflogen
+يطير؛ يسافر بالطائرة؛
+
+Fliegst du in die USA?
+هل تسافر بالطائرة إلى الولايات المتحدة؟;
+
+a zeitlich
+زمني؛ متعلق بالوقت؛ من حيث الوقت؛
+
+ein zeitlicher Abstand
+فاصل زمني؛
+
+zeitlich begrenzt
+محدود زمنيًا؛
+
+Das passt zeitlich nicht.
+هذا لا يناسب من حيث الوقت.;
+
+Wir müssen das zeitlich planen.
+علينا أن نخطط لذلك من حيث الوقت.;
+
+die Arbeitsmesse -n
+معرض وظائف؛ معرض عمل؛
+
+Ich gehe morgen zur Arbeitsmesse.
+سأذهب غدًا إلى معرض الوظائف.;
+
+Auf der Arbeitsmesse kann man Arbeitgeber kennenlernen.
+في معرض الوظائف يمكن للمرء التعرف إلى أصحاب العمل.;
+
+Viele Firmen sind auf der Arbeitsmesse.
+توجد شركات كثيرة في معرض الوظائف.;
+
+der Startpunkt -e
+نقطة البداية؛
+
+Der Startpunkt ist am Bahnhof.
+نقطة البداية عند محطة القطار.;
+
+Wo ist der Startpunkt?
+أين نقطة البداية؟;
+
+Der Startpunkt der Wanderung ist hier.
+نقطة بداية الرحلة سيرًا هنا.;
+
+der Treffpunkt -e
+نقطة لقاء؛ مكان اجتماع؛
+
+Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
+ننطلق في الساعة السادسة بالقطار من برلين إلى كييف.;
+
+v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
+يرجع؛ يعود؛
+
+der Albtraum "-e
+كابوس؛
+
+Ich hatte einen Albtraum.
+رأيت كابوسًا.;
+
+Das war ein Albtraum.
+كان ذلك كابوسًا.;
+
+Sie hat schlecht geschlafen wegen eines Albtraums.
+نامت نومًا سيئًا بسبب كابوس.;
+
+der Park -s
+حديقة؛ متنزه؛
+
+Der Hund rennt von einem Park zu einem Park.
+الكلب يركض من حديقة إلى حديقة أخرى.;
+
+die Empfehlung -en
+توصية؛ نصيحة؛
+
+Danke für die Empfehlung.
+شكرًا على التوصية.;
+
+Hast du eine Empfehlung für mich?
+هل لديك توصية لي؟;
+
+(-) Ukraine (sg.)
+أوكرانيا؛
+
+(-) Deutschland (sg.)
+ألمانيا؛
+
+v abfahren-fährt ab / fuhr ab / ist abgefahren
+يغادر؛ ينطلق؛
+
+Der Zug fährt um 8 Uhr ab.
+ينطلق القطار في الساعة الثامنة.;
+
+Wann fährt der Bus ab?
+متى تنطلق الحافلة؟;
+
+Wir sind pünktlich abgefahren.
+غادرنا في الوقت المحدد.;
+
+Wir fahren von der Autobahn ab.
+نخرج من الطريق السريع.;
+
+der Automat -en
+آلة؛ جهاز بيع؛
+
+der Schalter -
+شباك؛ كاونتر؛
+
+Am Automaten kaufe ich ein Ticket und sie am Schalter.
+أشتري التذكرة من الآلة، وهي من الشباك.;
+
+Ich kaufe ein Ticket am Automaten und sie am Schalter.
+أشتري التذكرة من الآلة، وهي من الشباك.;
+
+das Ticket -s
+تذكرة؛
+
+a gültig
+ساري المفعول؛ صالح؛
+
+Mein Ticket ist gültig ab dem 04.09.
+تذكرتي صالحة ابتداءً من 04.09.;
+
+Mein Ticket ist ab 04.09. gültig.
+تذكرتي صالحة ابتداءً من 04.09.;
+
+der Erwachsene -n
+بالغ؛ راشد؛
+
+die Erwachsene -n
+بالغة؛ راشدة؛
+
+die Erwachsenen (pl.)
+بالغون؛ راشدون؛
+
+Erw.: 1
+بالغ: 1؛
+
+die Hinfahrt -en
+رحلة الذهاب؛
+
+die Rückfahrt -en
+رحلة العودة؛
+
+Hinfahrt und Rückfahrt
+رحلة الذهاب والعودة؛
+
+a bequem
+مريح؛ مناسب؛
+
+Der Sessel ist bequem.
+الكرسي المريح مريح.;
+
+Die Schuhe sind bequem.
+الأحذية مريحة.;
+
+Die Fahrt war bequem.
+كانت الرحلة مريحة.;
+
+die Durchsage -n
+إعلان عبر مكبر الصوت؛
+
+Die Durchsage am Bahnhof war laut.
+كان الإعلان في محطة القطار عاليًا.;
+
+Ich habe die Durchsage nicht verstanden.
+لم أفهم الإعلان.;
+
+Bitte achten Sie auf die Durchsage.
+يرجى الانتباه إلى الإعلان.;
+
+v zerteilen
+يقسم إلى أجزاء؛ يقطّع؛
+
+Ich teile den Kuchen.
+أقسم الكعكة.;
+
+Ich zerteile den Kuchen in Stücke.
+أقطع الكعكة إلى قطع.;
+
+v teilen
+يقسم؛ يشارك؛
+
+v zerstören
+يدمّر؛
+
+Das Feuer hat das Haus zerstört.
+دمّرت النار البيت.;
+
+v stören
+يزعج؛ يضايق؛
+
+Der Lärm stört mich.
+الضجيج يزعجني.;
+
+v zerkleinern
+يفرم؛ يسحق؛ يصغّر؛
+
+Ich zerkleinere das Gemüse.
+أفرم الخضار.;
+
+Bitte zerkleinern Sie die Tablette.
+من فضلك اسحق القرص.;
+
+v zerschneiden
+يقطّع؛ يقطع إلى أجزاء؛
+
+Ich zerschneide das Papier.
+أقطّع الورق.;
+
+Sie hat den Stoff zerschnitten.
+قطّعت القماش إلى أجزاء.;
+
 das Wasser (sg.)
 ماء; مياه; مسطح مائي;
 
