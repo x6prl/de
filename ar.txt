@@ -4005,7 +4005,7 @@ a nachher
 nach + Dat.
 بعد; وفقاً لـ; إلى; نحو; بحسب;
 
-v gehören / - / hat gehört
+v gehören / - / hat
 ينتمي؛ يخصّ؛ يعود إلى؛
 [j-m]
 
@@ -4034,10 +4034,6 @@ Das Auto gehört der Firma.
 Er gehört zur Firma.
 هو ينتمي إلى الشركة.; هو جزء من الشركة.;
 
-v gefallen-gefällt / gefiel / hat gefallen
-يعجب؛ يروق؛
-[j-m]
-
 Mir gefallen die Autos.
 تعجبني السيارات.;
 
@@ -4051,10 +4047,7 @@ Mir hat Putzen nicht gefallen.
 لم يعجبني التنظيف.;
 
 Wie hat Ihnen die Ostsee gefallen?
-كيف أعجبك بحر البلطيق؟;
-
-v arbeiten
-يعمل؛
+ما رأيك في بحر البلطيق؟;
 
 Ich arbeite bis zum Wochenende.
 أعمل حتى نهاية الأسبوع.;
@@ -4068,9 +4061,6 @@ v kennen / - / hat gekannt
 
 Wir kennen uns seit drei Wochen.
 نحن نعرف بعضنا منذ ثلاثة أسابيع.;
-
-v gehen / ging / ist gegangen
-يذهب؛ يمشي؛
 
 Wann gehen Sie nach Hause?
 متى تذهب إلى البيت؟;
@@ -4121,14 +4111,8 @@ v fühlen
 Ich fühle mich gut.
 أشعر أنني بخير.;
 
-v putzen
-ينظف؛
-
 Putzen gefällt mir nicht.
 لا يعجبني التنظيف.;
-
-v backen / - / hat gebacken
-يخبز؛
 
 Wenn ich du wäre, würde ich gern backen.
 لو كنت مكانك، لكنت أحب الخَبز.;
@@ -4136,18 +4120,11 @@ Wenn ich du wäre, würde ich gern backen.
 An deiner Stelle würde ich gern backen.
 لو كنت مكانك، لكنت أحب الخَبز.;
 
-v gratulieren / - / hat gratuliert
-يهنئ؛
-[j-m; zu+Dat]
-
 Ich gratuliere dir zum Geburtstag.
 أهنئك بعيد ميلادك.; عيد ميلاد سعيد لك.;
 
 Er hat mir zum Geburtstag gratuliert.
 هنّأني بعيد ميلادي.;
-
-v laufen-läuft / lief / ist gelaufen
-يركض؛ يمشي؛
 
 Wir laufen zum Zug.
 نحن نركض إلى القطار.; نحن نمشي بسرعة إلى القطار.;
@@ -4185,9 +4162,6 @@ der Frühjahrsputz -e
 Ich mache Frühjahrsputz.
 أقوم بتنظيف الربيع.;
 
-der Pilz -e
-فطر؛
-
 v sammeln
 يجمع؛
 
@@ -4220,9 +4194,6 @@ Alle sind eingeladen.
 
 Alle sind herzlich eingeladen.
 الجميع مدعوون بحرارة.;
-
-v wählen
-يختار؛ ينتخب؛
 
 v auswählen
 يختار؛ ينتقي؛
@@ -4306,7 +4277,7 @@ Sie suchte verzweifelt nach ihrem Schlüssel.
 ein verzweifelter Versuch
 محاولة يائسة؛
 
-v verzweifeln / - / ist verzweifelt
+v verzweifeln / - / ist
 ييأس؛ يقع في اليأس؛
 
 a hoffnungslos
@@ -4317,9 +4288,6 @@ Die Situation ist hoffnungslos.
 
 Er ist hoffnungslos verliebt.
 هو واقع في الحب بلا أمل.;
-
-die Hoffnung -en
-أمل؛
 
 Ich habe Hoffnung.
 لدي أمل.;
@@ -4377,7 +4345,7 @@ Ich beobachte meine Nachbarn.
 Beobachte ich meine Nachbarn?
 هل أراقب جيراني؟;
 
-v gießen-gießt / goss / hat gegossen
+v gießen / goss / hat gegossen
 يسكب؛ يصبّ؛ يسقي؛
 
 Ich gieße die Blumen.
@@ -4428,13 +4396,13 @@ Unterwegs habe ich Kaffee gekauft.
 die Ordinalzahl -en
 عدد ترتيبي؛
 
-der erste Tag
+erster Tag
 اليوم الأول؛
 
-die zweite Woche
+zweite Woche
 الأسبوع الثاني؛
 
-das dritte Kind
+drittes Kind
 الطفل الثالث؛
 
 am vierten Mai
@@ -4485,9 +4453,6 @@ v empfehlen-empfiehlt / empfahl / hat empfohlen
 
 Könnt ihr mir Lieder für die Playlist empfehlen?
 هل يمكنكم أن تنصحوني بأغانٍ لقائمة التشغيل؟;
-
-der Zeitraum "-e
-فترة زمنية؛ مدة؛
 
 in diesem Zeitraum
 في هذه الفترة؛ خلال هذه المدة؛
@@ -4585,9 +4550,6 @@ Der Film ist witzig.
 Das war ein witziger Kommentar.
 كان ذلك تعليقًا ذكيًا.;
 
-der Besen -
-مكنسة؛
-
 Ich brauche einen Besen.
 أحتاج إلى مكنسة.;
 
@@ -4612,7 +4574,7 @@ Ich kriege Hunger.
 Das kriegen wir hin.
 سننجح في ذلك.; نستطيع تدبير ذلك.;
 
-v anbieten-bietet an / bot an / hat angeboten
+v anbieten / bot an / hat angeboten
 يعرض؛ يقدم؛
 [j-m; etw.]
 
@@ -4620,7 +4582,7 @@ Kann ich dir noch etwas anbieten?
 هل يمكنني أن أقدم لك شيئًا آخر؟;
 
 Darf ich etwas anbieten?
-هل يجوز أن أقدم شيئًا؟;
+هل يمكنني أن أقدّم شيئًا؟;
 
 v wachsen-wächst / wuchs / ist gewachsen
 ينمو؛ يكبر؛
@@ -4643,12 +4605,6 @@ Ich verbessere mich.
 Mein Deutsch verbessert sich.
 لغتي الألمانية تتحسن.;
 
-v steigen / stieg / ist gestiegen
-يرتفع؛ يزيد؛
-
-die Miete -n
-إيجار؛
-
 Meine Miete steigt!
 إيجاري يرتفع!;
 
@@ -4670,17 +4626,11 @@ der April (sg.)
 der August (sg.)
 أغسطس؛ آب؛
 
-das Datum Daten
+das Datum -en
 تاريخ؛
 
 der Dezember (sg.)
 ديسمبر؛ كانون الأول؛
-
-die Einladung -en
-دعوة؛
-
-der Erfolg -e
-نجاح؛
 
 (-) Europa (sg.)
 أوروبا؛
@@ -4690,9 +4640,6 @@ der Februar (sg.)
 
 der Frühling -e
 ربيع؛
-
-der Geburtstag -e
-عيد ميلاد؛
 
 das Geschenk -e
 هدية؛
@@ -4709,9 +4656,6 @@ der Herbst -e
 das Herz -en
 قلب؛
 
-der Januar (sg.)
-يناير؛ كانون الثاني؛
-
 der Juni (sg.)
 يونيو؛ حزيران؛
 
@@ -4720,9 +4664,6 @@ der Juli (sg.)
 
 die Kette -n
 سلسلة؛ قلادة؛
-
-das Lied -er
-أغنية؛
 
 der Mai (sg.)
 مايو؛ أيار؛
@@ -4733,23 +4674,14 @@ der März (sg.)
 die Mitternacht (sg.)
 منتصف الليل؛
 
-der Monat -e
-شهر؛
-
 der November (sg.)
 نوفمبر؛ تشرين الثاني؛
 
 der Oktober (sg.)
 أكتوبر؛ تشرين الأول؛
 
-das Papier -e
-ورق؛
-
 das Parfüm -s
 عطر؛
-
-die Pflanze -n
-نبتة؛ نبات؛
 
 das Salz (sg.)
 ملح؛
@@ -4762,9 +4694,6 @@ der Ski -
 
 der Sommer -
 صيف؛
-
-der Wein -e
-نبيذ؛
 
 der Winter -
 شتاء؛
@@ -4780,9 +4709,6 @@ a pünktlich
 
 ab
 من؛ ابتداءً من؛
-
-bei + Dat.
-عند؛ بالقرب من؛ لدى؛
 
 außer
 ما عدا؛ باستثناء؛
@@ -4922,9 +4848,6 @@ Die Fußgänger warten auf der Verkehrsinsel.
 Die Verkehrsinsel ist in der Mitte der Straße.
 الجزيرة المرورية في وسط الشارع.;
 
-der Bahnsteig -e
-رصيف القطار؛ منصة القطار؛
-
 Der Zug fährt von Bahnsteig 3 ab.
 ينطلق القطار من الرصيف رقم 3.;
 
@@ -4958,7 +4881,7 @@ Der Film dauert zweieinhalb Stunden.
 Ich habe zweieinhalb Stunden gewartet.
 انتظرت ساعتين ونصف.;
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 يستعير؛ يعير؛
 
 Ich möchte ein Buch ausleihen.
@@ -4970,7 +4893,7 @@ Ich habe ein Buch in der Bibliothek ausgeliehen.
 Kannst du mir dein Buch ausleihen?
 هل يمكنك أن تعيرني كتابك؟;
 
-v losgehen-geht los / ging los / ist losgegangen
+v losgehen / ging los / ist losgegangen
 يبدأ؛ ينطلق؛
 
 Wann geht der Film los?
@@ -4981,9 +4904,6 @@ Die Party geht um 20 Uhr los.
 
 Wir gehen jetzt los.
 نحن ننطلق الآن.;
-
-Es geht los!
-لقد بدأ الأمر!; هيا بنا!;
 
 v losfahren-fährt los / fuhr los / ist losgefahren
 ينطلق؛ يغادر؛
@@ -5000,21 +4920,11 @@ Wir sind um 8 Uhr losgefahren.
 Fahr los!
 انطلق!; ابدأ القيادة!;
 
-v fahren-fährt / fuhr / ist gefahren
-يذهب؛ يسافر؛ يركب؛
-
 Ich will mit dem Zug von Köln nach Bremen fahren.
 أريد أن أسافر بالقطار من كولونيا إلى بريمن.;
 
 Wie kommst du von der Sprachschule zum Bahnhof?
 كيف تصل من مدرسة اللغة إلى محطة القطار؟;
-
-v fahren-fährt / fuhr / hat gefahren
-يقود؛
-[etw.]
-
-v kommen / kam / ist gekommen
-يأتي؛ يصل؛
 
 Tina kommt von der Schule nach Hause.
 تينا تعود من المدرسة إلى البيت.;
@@ -5051,9 +4961,6 @@ Die Pause ist vorbei.
 
 Ich gehe an der Schule vorbei.
 أمشي بجانب المدرسة.;
-
-v fliegen-fliegt / flog / ist geflogen
-يطير؛ يسافر بالطائرة؛
 
 Fliegst du in die USA?
 هل تسافر بالطائرة إلى الولايات المتحدة؟;
@@ -5097,14 +5004,8 @@ Wo ist der Startpunkt?
 Der Startpunkt der Wanderung ist hier.
 نقطة بداية الرحلة سيرًا هنا.;
 
-der Treffpunkt -e
-نقطة لقاء؛ مكان اجتماع؛
-
 Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
 ننطلق في الساعة السادسة بالقطار من برلين إلى كييف.;
-
-v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
-يرجع؛ يعود؛
 
 der Albtraum "-e
 كابوس؛
@@ -5117,9 +5018,6 @@ Das war ein Albtraum.
 
 Sie hat schlecht geschlafen wegen eines Albtraums.
 نامت نومًا سيئًا بسبب كابوس.;
-
-der Park -s
-حديقة؛ متنزه؛
 
 Der Hund rennt von einem Park zu einem Park.
 الكلب يركض من حديقة إلى حديقة أخرى.;
@@ -5157,20 +5055,11 @@ Wir fahren von der Autobahn ab.
 der Automat -en
 آلة؛ جهاز بيع؛
 
-der Schalter -
-شباك؛ كاونتر؛
-
 Am Automaten kaufe ich ein Ticket und sie am Schalter.
 أشتري التذكرة من الآلة، وهي من الشباك.;
 
 Ich kaufe ein Ticket am Automaten und sie am Schalter.
 أشتري التذكرة من الآلة، وهي من الشباك.;
-
-das Ticket -s
-تذكرة؛
-
-a gültig
-ساري المفعول؛ صالح؛
 
 Mein Ticket ist gültig ab dem 04.09.
 تذكرتي صالحة ابتداءً من 04.09.;
@@ -5188,7 +5077,7 @@ die Erwachsenen (pl.)
 بالغون؛ راشدون؛
 
 Erw.: 1
-بالغ: 1؛
+بالغ واحد؛
 
 die Hinfahrt -en
 رحلة الذهاب؛

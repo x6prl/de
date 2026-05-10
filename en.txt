@@ -3999,7 +3999,7 @@ afterwards; later;
 nach + Dat.
 after; according to; to; toward;
 
-v gehören / - / hat gehört
+v gehören / - / hat
 belong; belong to;
 [j-m]
 
@@ -4028,10 +4028,6 @@ The car belongs to the company.;
 Er gehört zur Firma.
 He belongs to the company.; He is part of the company.;
 
-v gefallen-gefällt / gefiel / hat gefallen
-please; appeal to; be liked by;
-[j-m]
-
 Mir gefallen die Autos.
 I like the cars.;
 
@@ -4047,9 +4043,6 @@ I did not like cleaning.;
 Wie hat Ihnen die Ostsee gefallen?
 How did you like the Baltic Sea?;
 
-v arbeiten
-work;
-
 Ich arbeite bis zum Wochenende.
 I work until the weekend.;
 
@@ -4062,9 +4055,6 @@ know;
 
 Wir kennen uns seit drei Wochen.
 We have known each other for three weeks.;
-
-v gehen / ging / ist gegangen
-go; walk;
 
 Wann gehen Sie nach Hause?
 When are you going home?;
@@ -4091,7 +4081,7 @@ Ich gehe zu seinen Kindern.
 I am going to his children.;
 
 Wir gehen vom Deutschkurs zum Bowling.
-We are going from the German course to bowling.;
+We are going from the German course to go bowling.;
 
 Ich gehe von zu Hause zum Treffpunkt.
 I am going from home to the meeting point.;
@@ -4115,14 +4105,8 @@ feel;
 Ich fühle mich gut.
 I feel good.;
 
-v putzen
-clean;
-
 Putzen gefällt mir nicht.
 I do not like cleaning.;
-
-v backen / - / hat gebacken
-bake;
 
 Wenn ich du wäre, würde ich gern backen.
 If I were you, I would like to bake.;
@@ -4130,18 +4114,11 @@ If I were you, I would like to bake.;
 An deiner Stelle würde ich gern backen.
 If I were you, I would like to bake.;
 
-v gratulieren / - / hat gratuliert
-congratulate;
-[j-m; zu+Dat]
-
 Ich gratuliere dir zum Geburtstag.
 I congratulate you on your birthday.; Happy birthday to you.;
 
 Er hat mir zum Geburtstag gratuliert.
 He congratulated me on my birthday.;
-
-v laufen-läuft / lief / ist gelaufen
-run; walk;
 
 Wir laufen zum Zug.
 We are running to the train.; We are walking quickly to the train.;
@@ -4179,9 +4156,6 @@ spring cleaning;
 Ich mache Frühjahrsputz.
 I am doing spring cleaning.;
 
-der Pilz -e
-mushroom;
-
 v sammeln
 collect; gather;
 
@@ -4214,9 +4188,6 @@ Everyone is invited.;
 
 Alle sind herzlich eingeladen.
 Everyone is warmly invited.;
-
-v wählen
-choose; vote;
 
 v auswählen
 choose; select;
@@ -4300,7 +4271,7 @@ She desperately looked for her key.;
 ein verzweifelter Versuch
 a desperate attempt;
 
-v verzweifeln / - / ist verzweifelt
+v verzweifeln / - / ist
 despair; become desperate;
 
 a hoffnungslos
@@ -4311,9 +4282,6 @@ The situation is hopeless.;
 
 Er ist hoffnungslos verliebt.
 He is hopelessly in love.;
-
-die Hoffnung -en
-hope;
 
 Ich habe Hoffnung.
 I have hope.;
@@ -4371,7 +4339,7 @@ I observe my neighbors.; I watch my neighbors.;
 Beobachte ich meine Nachbarn?
 Am I observing my neighbors?;
 
-v gießen-gießt / goss / hat gegossen
+v gießen / goss / hat gegossen
 pour; water;
 
 Ich gieße die Blumen.
@@ -4422,13 +4390,13 @@ I bought coffee on the way.;
 die Ordinalzahl -en
 ordinal number;
 
-der erste Tag
+erster Tag
 the first day;
 
-die zweite Woche
+zweite Woche
 the second week;
 
-das dritte Kind
+drittes Kind
 the third child;
 
 am vierten Mai
@@ -4478,10 +4446,7 @@ recommend;
 [j-m; etw.]
 
 Könnt ihr mir Lieder für die Playlist empfehlen?
-Can you recommend songs for the playlist to me?;
-
-der Zeitraum "-e
-period; time span;
+Can you recommend some songs for the playlist?;
 
 in diesem Zeitraum
 during this period; in this time span;
@@ -4579,9 +4544,6 @@ The film is funny.;
 Das war ein witziger Kommentar.
 That was a witty comment.;
 
-der Besen -
-broom;
-
 Ich brauche einen Besen.
 I need a broom.;
 
@@ -4606,7 +4568,7 @@ I am getting hungry.;
 Das kriegen wir hin.
 We will manage that.; We can do that.;
 
-v anbieten-bietet an / bot an / hat angeboten
+v anbieten / bot an / hat angeboten
 offer;
 [j-m; etw.]
 
@@ -4637,12 +4599,6 @@ I am improving.;
 Mein Deutsch verbessert sich.
 My German is improving.;
 
-v steigen / stieg / ist gestiegen
-rise; increase;
-
-die Miete -n
-rent;
-
 Meine Miete steigt!
 My rent is going up!;
 
@@ -4664,17 +4620,11 @@ April;
 der August (sg.)
 August;
 
-das Datum Daten
+das Datum -en
 date;
 
 der Dezember (sg.)
 December;
-
-die Einladung -en
-invitation;
-
-der Erfolg -e
-success;
 
 (-) Europa (sg.)
 Europe;
@@ -4684,9 +4634,6 @@ February;
 
 der Frühling -e
 spring;
-
-der Geburtstag -e
-birthday;
 
 das Geschenk -e
 gift; present;
@@ -4703,9 +4650,6 @@ autumn; fall;
 das Herz -en
 heart;
 
-der Januar (sg.)
-January;
-
 der Juni (sg.)
 June;
 
@@ -4714,9 +4658,6 @@ July;
 
 die Kette -n
 chain; necklace;
-
-das Lied -er
-song;
 
 der Mai (sg.)
 May;
@@ -4727,23 +4668,14 @@ March;
 die Mitternacht (sg.)
 midnight;
 
-der Monat -e
-month;
-
 der November (sg.)
 November;
 
 der Oktober (sg.)
 October;
 
-das Papier -e
-paper;
-
 das Parfüm -s
 perfume;
-
-die Pflanze -n
-plant;
 
 das Salz (sg.)
 salt;
@@ -4756,9 +4688,6 @@ ski;
 
 der Sommer -
 summer;
-
-der Wein -e
-wine;
 
 der Winter -
 winter;
@@ -4774,9 +4703,6 @@ punctual; on time;
 
 ab
 from; starting from;
-
-bei + Dat.
-at; near; with;
 
 außer
 except; apart from;
@@ -4916,9 +4842,6 @@ The pedestrians are waiting on the traffic island.;
 Die Verkehrsinsel ist in der Mitte der Straße.
 The traffic island is in the middle of the street.;
 
-der Bahnsteig -e
-platform;
-
 Der Zug fährt von Bahnsteig 3 ab.
 The train departs from platform 3.;
 
@@ -4952,7 +4875,7 @@ The film lasts two and a half hours.;
 Ich habe zweieinhalb Stunden gewartet.
 I waited for two and a half hours.;
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 borrow; lend;
 
 Ich möchte ein Buch ausleihen.
@@ -4964,7 +4887,7 @@ I borrowed a book from the library.;
 Kannst du mir dein Buch ausleihen?
 Can you lend me your book?;
 
-v losgehen-geht los / ging los / ist losgegangen
+v losgehen / ging los / ist losgegangen
 start; set off;
 
 Wann geht der Film los?
@@ -4975,9 +4898,6 @@ The party starts at 8 p.m.;
 
 Wir gehen jetzt los.
 We are setting off now.;
-
-Es geht los!
-It is starting!; Here we go!;
 
 v losfahren-fährt los / fuhr los / ist losgefahren
 set off; depart;
@@ -4994,21 +4914,11 @@ We left at 8 o'clock.;
 Fahr los!
 Go!; Start driving!;
 
-v fahren-fährt / fuhr / ist gefahren
-go; travel;
-
 Ich will mit dem Zug von Köln nach Bremen fahren.
 I want to travel by train from Cologne to Bremen.;
 
 Wie kommst du von der Sprachschule zum Bahnhof?
 How do you get from the language school to the train station?;
-
-v fahren-fährt / fuhr / hat gefahren
-drive;
-[etw.]
-
-v kommen / kam / ist gekommen
-come;
 
 Tina kommt von der Schule nach Hause.
 Tina comes home from school.;
@@ -5026,10 +4936,10 @@ Wir kommen von meinen Großeltern zurück.
 We are coming back from my grandparents.;
 
 Ich komme aus der Ukraine.
-I come from Ukraine.;
+I am from Ukraine.;
 
 Ich bin am Samstag aus der Ukraine nach Deutschland gekommen.
-I came from Ukraine to Germany on Saturday.;
+I came to Germany from Ukraine on Saturday.;
 
 vorbei
 past; over; by;
@@ -5045,9 +4955,6 @@ The break is over.;
 
 Ich gehe an der Schule vorbei.
 I walk past the school.;
-
-v fliegen-fliegt / flog / ist geflogen
-fly;
 
 Fliegst du in die USA?
 Are you flying to the USA?;
@@ -5065,7 +4972,7 @@ Das passt zeitlich nicht.
 That does not fit time-wise.;
 
 Wir müssen das zeitlich planen.
-We have to plan that in terms of time.;
+We have to plan the timing of that.;
 
 die Arbeitsmesse -n
 job fair; employment fair;
@@ -5091,14 +4998,8 @@ Where is the starting point?;
 Der Startpunkt der Wanderung ist hier.
 The starting point of the hike is here.;
 
-der Treffpunkt -e
-meeting point;
-
 Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
 We leave by train from Berlin to Kyiv at 6 o'clock.;
-
-v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
-come back; return;
 
 der Albtraum "-e
 nightmare;
@@ -5111,9 +5012,6 @@ That was a nightmare.;
 
 Sie hat schlecht geschlafen wegen eines Albtraums.
 She slept badly because of a nightmare.;
-
-der Park -s
-park;
 
 Der Hund rennt von einem Park zu einem Park.
 The dog runs from one park to another park.;
@@ -5151,20 +5049,11 @@ We exit the highway.;
 der Automat -en
 machine; ticket machine;
 
-der Schalter -
-counter; ticket counter;
-
 Am Automaten kaufe ich ein Ticket und sie am Schalter.
 I buy a ticket at the machine, and she buys one at the counter.;
 
 Ich kaufe ein Ticket am Automaten und sie am Schalter.
 I buy a ticket at the machine, and she buys one at the counter.;
-
-das Ticket -s
-ticket;
-
-a gültig
-valid;
 
 Mein Ticket ist gültig ab dem 04.09.
 My ticket is valid from 04.09.;

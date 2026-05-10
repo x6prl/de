@@ -1,4 +1,4 @@
-v gehören / - / hat gehört
+v gehören / - / hat
 ait olmak; birine ait olmak;
 [j-m]
 
@@ -27,10 +27,6 @@ Araba şirkete ait.;
 Er gehört zur Firma.
 O şirkete ait.; O şirketin bir parçası.;
 
-v gefallen-gefällt / gefiel / hat gefallen
-hoşuna gitmek; beğenilmek;
-[j-m]
-
 Mir gefallen die Autos.
 Arabalar hoşuma gidiyor.;
 
@@ -46,9 +42,6 @@ Temizlik yapmak hoşuma gitmedi.;
 Wie hat Ihnen die Ostsee gefallen?
 Baltık Denizi hoşunuza gitti mi?;
 
-v arbeiten
-çalışmak;
-
 Ich arbeite bis zum Wochenende.
 Hafta sonuna kadar çalışıyorum.;
 
@@ -61,9 +54,6 @@ tanımak; bilmek;
 
 Wir kennen uns seit drei Wochen.
 Üç haftadır birbirimizi tanıyoruz.;
-
-v gehen / ging / ist gegangen
-gitmek; yürümek;
 
 Wann gehen Sie nach Hause?
 Ne zaman eve gidiyorsunuz?;
@@ -114,14 +104,8 @@ hissetmek;
 Ich fühle mich gut.
 Kendimi iyi hissediyorum.;
 
-v putzen
-temizlemek;
-
 Putzen gefällt mir nicht.
 Temizlik yapmak hoşuma gitmiyor.;
-
-v backen / - / hat gebacken
-fırında pişirmek; hamur işi yapmak;
 
 Wenn ich du wäre, würde ich gern backen.
 Senin yerinde olsam seve seve hamur işi yapardım.;
@@ -129,18 +113,11 @@ Senin yerinde olsam seve seve hamur işi yapardım.;
 An deiner Stelle würde ich gern backen.
 Senin yerinde olsam seve seve hamur işi yapardım.;
 
-v gratulieren / - / hat gratuliert
-tebrik etmek; kutlamak;
-[j-m; zu+Dat]
-
 Ich gratuliere dir zum Geburtstag.
 Doğum gününü kutluyorum.;
 
 Er hat mir zum Geburtstag gratuliert.
 Doğum günüm için beni tebrik etti.;
-
-v laufen-läuft / lief / ist gelaufen
-koşmak; yürümek;
 
 Wir laufen zum Zug.
 Trene doğru koşuyoruz.; Trene hızlı yürüyoruz.;
@@ -178,9 +155,6 @@ bahar temizliği;
 Ich mache Frühjahrsputz.
 Bahar temizliği yapıyorum.;
 
-der Pilz -e
-mantar;
-
 v sammeln
 toplamak; biriktirmek;
 
@@ -213,9 +187,6 @@ Herkes davetli.;
 
 Alle sind herzlich eingeladen.
 Herkes içtenlikle davetlidir.;
-
-v wählen
-seçmek; oy vermek;
 
 v auswählen
 seçmek; seçip ayırmak;
@@ -299,7 +270,7 @@ Anahtarını çaresizce aradı.;
 ein verzweifelter Versuch
 çaresiz bir deneme;
 
-v verzweifeln / - / ist verzweifelt
+v verzweifeln / - / ist
 umutsuzluğa kapılmak; çaresiz kalmak;
 
 a hoffnungslos
@@ -310,9 +281,6 @@ Durum umutsuz.;
 
 Er ist hoffnungslos verliebt.
 O umutsuzca âşık.;
-
-die Hoffnung -en
-umut;
 
 Ich habe Hoffnung.
 Umudum var.;
@@ -370,7 +338,7 @@ Komşularımı gözlemliyorum.; Komşularımı izliyorum.;
 Beobachte ich meine Nachbarn?
 Komşularımı mı gözlemliyorum?;
 
-v gießen-gießt / goss / hat gegossen
+v gießen / goss / hat gegossen
 dökmek; sulamak;
 
 Ich gieße die Blumen.
@@ -421,13 +389,13 @@ Yolda kahve aldım.;
 die Ordinalzahl -en
 sıra sayısı;
 
-der erste Tag
+erster Tag
 birinci gün;
 
-die zweite Woche
+zweite Woche
 ikinci hafta;
 
-das dritte Kind
+drittes Kind
 üçüncü çocuk;
 
 am vierten Mai
@@ -455,7 +423,7 @@ der Muttertag -e
 Anneler Günü;
 
 Der Muttertag ist im Mai.
-Anneler Günü mayıstadır.;
+Anneler Günü mayısta olur.;
 
 das Sternzeichen -
 burç;
@@ -478,9 +446,6 @@ tavsiye etmek; önermek;
 
 Könnt ihr mir Lieder für die Playlist empfehlen?
 Bana çalma listesi için şarkılar önerebilir misiniz?;
-
-der Zeitraum "-e
-dönem; zaman aralığı;
 
 in diesem Zeitraum
 bu dönemde; bu zaman aralığında;
@@ -578,9 +543,6 @@ Film komik.;
 Das war ein witziger Kommentar.
 Bu esprili bir yorumdu.;
 
-der Besen -
-süpürge;
-
 Ich brauche einen Besen.
 Bir süpürgeye ihtiyacım var.;
 
@@ -605,7 +567,7 @@ Acıkıyorum.;
 Das kriegen wir hin.
 Bunu hallederiz.; Bunu başarırız.;
 
-v anbieten-bietet an / bot an / hat angeboten
+v anbieten / bot an / hat angeboten
 teklif etmek; sunmak;
 [j-m; etw.]
 
@@ -636,12 +598,6 @@ Gelişiyorum.;
 Mein Deutsch verbessert sich.
 Almancam gelişiyor.;
 
-v steigen / stieg / ist gestiegen
-artmak; yükselmek;
-
-die Miete -n
-kira;
-
 Meine Miete steigt!
 Kiram artıyor!;
 
@@ -663,17 +619,11 @@ nisan;
 der August (sg.)
 ağustos;
 
-das Datum Daten
+das Datum -en
 tarih;
 
 der Dezember (sg.)
 aralık;
-
-die Einladung -en
-davet; davetiye;
-
-der Erfolg -e
-başarı;
 
 (-) Europa (sg.)
 Avrupa;
@@ -683,9 +633,6 @@ der Februar (sg.)
 
 der Frühling -e
 ilkbahar;
-
-der Geburtstag -e
-doğum günü;
 
 das Geschenk -e
 hediye;
@@ -702,9 +649,6 @@ sonbahar;
 das Herz -en
 kalp;
 
-der Januar (sg.)
-ocak;
-
 der Juni (sg.)
 haziran;
 
@@ -713,9 +657,6 @@ temmuz;
 
 die Kette -n
 zincir; kolye;
-
-das Lied -er
-şarkı;
 
 der Mai (sg.)
 mayıs;
@@ -726,23 +667,14 @@ mart;
 die Mitternacht (sg.)
 gece yarısı;
 
-der Monat -e
-ay;
-
 der November (sg.)
 kasım;
 
 der Oktober (sg.)
 ekim;
 
-das Papier -e
-kâğıt;
-
 das Parfüm -s
 parfüm;
-
-die Pflanze -n
-bitki;
 
 das Salz (sg.)
 tuz;
@@ -755,9 +687,6 @@ kayak;
 
 der Sommer -
 yaz;
-
-der Wein -e
-şarap;
 
 der Winter -
 kış;
@@ -773,9 +702,6 @@ dakik; zamanında;
 
 ab
 -den itibaren; başlayarak;
-
-bei + Dat.
--de; yanında; nezdinde;
 
 außer
 hariç; dışında;
@@ -915,9 +841,6 @@ Yayalar trafik adasında bekliyor.;
 Die Verkehrsinsel ist in der Mitte der Straße.
 Trafik adası yolun ortasında.;
 
-der Bahnsteig -e
-peron;
-
 Der Zug fährt von Bahnsteig 3 ab.
 Tren 3. perondan kalkıyor.;
 
@@ -951,7 +874,7 @@ Film iki buçuk saat sürüyor.;
 Ich habe zweieinhalb Stunden gewartet.
 İki buçuk saat bekledim.;
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 ödünç almak; ödünç vermek;
 
 Ich möchte ein Buch ausleihen.
@@ -963,7 +886,7 @@ Kütüphaneden bir kitap ödünç aldım.;
 Kannst du mir dein Buch ausleihen?
 Bana kitabını ödünç verebilir misin?;
 
-v losgehen-geht los / ging los / ist losgegangen
+v losgehen / ging los / ist losgegangen
 başlamak; yola çıkmak;
 
 Wann geht der Film los?
@@ -974,9 +897,6 @@ Parti saat 20'de başlıyor.;
 
 Wir gehen jetzt los.
 Şimdi yola çıkıyoruz.;
-
-Es geht los!
-Başlıyor!; Haydi başlıyoruz!;
 
 v losfahren-fährt los / fuhr los / ist losgefahren
 yola çıkmak; hareket etmek;
@@ -993,21 +913,11 @@ Saat 8'de yola çıktık.;
 Fahr los!
 Hareket et!; Sür!;
 
-v fahren-fährt / fuhr / ist gefahren
-gitmek; yolculuk etmek;
-
 Ich will mit dem Zug von Köln nach Bremen fahren.
 Köln'den Bremen'e trenle gitmek istiyorum.;
 
 Wie kommst du von der Sprachschule zum Bahnhof?
 Dil okulundan tren istasyonuna nasıl gidiyorsun?;
-
-v fahren-fährt / fuhr / hat gefahren
-sürmek; kullanmak;
-[etw.]
-
-v kommen / kam / ist gekommen
-gelmek;
 
 Tina kommt von der Schule nach Hause.
 Tina okuldan eve geliyor.;
@@ -1022,7 +932,7 @@ Meine Mutter kommt von der Ärztin.
 Annem doktordan geliyor.;
 
 Wir kommen von meinen Großeltern zurück.
-Büyükannem ve büyükbabamdan geri dönüyoruz.;
+Büyükanne ve büyükbabamın yanından dönüyoruz.;
 
 Ich komme aus der Ukraine.
 Ukrayna'dan geliyorum.; Ben Ukraynalıyım.;
@@ -1045,9 +955,6 @@ Mola bitti.;
 Ich gehe an der Schule vorbei.
 Okulun yanından geçiyorum.;
 
-v fliegen-fliegt / flog / ist geflogen
-uçmak;
-
 Fliegst du in die USA?
 ABD'ye uçuyor musun?;
 
@@ -1061,7 +968,7 @@ zeitlich begrenzt
 zamanla sınırlı;
 
 Das passt zeitlich nicht.
-Bu zaman açısından uymuyor.;
+Bu zaman bakımından uymuyor.;
 
 Wir müssen das zeitlich planen.
 Bunu zaman açısından planlamalıyız.;
@@ -1090,14 +997,8 @@ Başlangıç noktası nerede?;
 Der Startpunkt der Wanderung ist hier.
 Yürüyüşün başlangıç noktası burada.;
 
-der Treffpunkt -e
-buluşma noktası;
-
 Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
 Saat 6'da Berlin'den Kiev'e trenle hareket ediyoruz.;
-
-v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
-geri gelmek; dönmek;
 
 der Albtraum "-e
 kâbus;
@@ -1110,9 +1011,6 @@ Bu bir kâbustu.;
 
 Sie hat schlecht geschlafen wegen eines Albtraums.
 Bir kâbus yüzünden kötü uyudu.;
-
-der Park -s
-park;
 
 Der Hund rennt von einem Park zu einem Park.
 Köpek bir parktan başka bir parka koşuyor.;
@@ -1150,20 +1048,11 @@ Otobandan çıkıyoruz.;
 der Automat -en
 makine; bilet makinesi;
 
-der Schalter -
-gişe; banko;
-
 Am Automaten kaufe ich ein Ticket und sie am Schalter.
 Ben bileti makineden alıyorum, o ise gişeden.;
 
 Ich kaufe ein Ticket am Automaten und sie am Schalter.
 Ben bileti makineden alıyorum, o ise gişeden.;
-
-das Ticket -s
-bilet;
-
-a gültig
-geçerli;
 
 Mein Ticket ist gültig ab dem 04.09.
 Biletim 04.09'dan itibaren geçerli.;

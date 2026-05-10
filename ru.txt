@@ -4002,7 +4002,7 @@ a nachher
 nach + Dat.
 после; к; по направлению к; согласно;
 
-v gehören / - / hat gehört
+v gehören / - / hat
 принадлежать;
 [j-m]
 
@@ -4031,10 +4031,6 @@ Das Auto gehört der Firma.
 Er gehört zur Firma.
 Он относится к фирме.; Он является частью фирмы.;
 
-v gefallen-gefällt / gefiel / hat gefallen
-нравиться;
-[j-m]
-
 Mir gefallen die Autos.
 Мне нравятся машины.;
 
@@ -4050,9 +4046,6 @@ Mir hat Putzen nicht gefallen.
 Wie hat Ihnen die Ostsee gefallen?
 Как Вам понравилось Балтийское море?;
 
-v arbeiten
-работать;
-
 Ich arbeite bis zum Wochenende.
 Я работаю до выходных.;
 
@@ -4065,9 +4058,6 @@ v kennen / - / hat gekannt
 
 Wir kennen uns seit drei Wochen.
 Мы знакомы уже три недели.;
-
-v gehen / ging / ist gegangen
-идти; ходить;
 
 Wann gehen Sie nach Hause?
 Когда Вы идёте домой?;
@@ -4118,14 +4108,8 @@ v fühlen
 Ich fühle mich gut.
 Я чувствую себя хорошо.;
 
-v putzen
-чистить; убирать;
-
 Putzen gefällt mir nicht.
 Мне не нравится убираться.;
-
-v backen / - / hat gebacken
-печь;
 
 Wenn ich du wäre, würde ich gern backen.
 Если бы я был тобой, я бы с удовольствием пёк.; Если бы я была тобой, я бы с удовольствием пекла.;
@@ -4133,18 +4117,11 @@ Wenn ich du wäre, würde ich gern backen.
 An deiner Stelle würde ich gern backen.
 На твоём месте я бы с удовольствием пёк.; На твоём месте я бы с удовольствием пекла.;
 
-v gratulieren / - / hat gratuliert
-поздравлять;
-[j-m; zu+Dat]
-
 Ich gratuliere dir zum Geburtstag.
 Я поздравляю тебя с днём рождения.;
 
 Er hat mir zum Geburtstag gratuliert.
 Он поздравил меня с днём рождения.;
-
-v laufen-läuft / lief / ist gelaufen
-бежать; идти пешком;
 
 Wir laufen zum Zug.
 Мы бежим к поезду.; Мы идём быстрым шагом к поезду.;
@@ -4182,9 +4159,6 @@ der Frühjahrsputz -e
 Ich mache Frühjahrsputz.
 Я делаю весеннюю генеральную уборку.;
 
-der Pilz -e
-гриб;
-
 v sammeln
 собирать;
 
@@ -4217,9 +4191,6 @@ Alle sind eingeladen.
 
 Alle sind herzlich eingeladen.
 Все сердечно приглашены.;
-
-v wählen
-выбирать; голосовать;
 
 v auswählen
 выбирать; отбирать;
@@ -4303,7 +4274,7 @@ Sie suchte verzweifelt nach ihrem Schlüssel.
 ein verzweifelter Versuch
 отчаянная попытка;
 
-v verzweifeln / - / ist verzweifelt
+v verzweifeln / - / ist
 приходить в отчаяние;
 
 a hoffnungslos
@@ -4314,9 +4285,6 @@ Die Situation ist hoffnungslos.
 
 Er ist hoffnungslos verliebt.
 Он безнадёжно влюблён.;
-
-die Hoffnung -en
-надежда;
 
 Ich habe Hoffnung.
 У меня есть надежда.;
@@ -4374,7 +4342,7 @@ Ich beobachte meine Nachbarn.
 Beobachte ich meine Nachbarn?
 Я наблюдаю за своими соседями?;
 
-v gießen-gießt / goss / hat gegossen
+v gießen / goss / hat gegossen
 лить; наливать; поливать;
 
 Ich gieße die Blumen.
@@ -4425,13 +4393,13 @@ Unterwegs habe ich Kaffee gekauft.
 die Ordinalzahl -en
 порядковое числительное;
 
-der erste Tag
+erster Tag
 первый день;
 
-die zweite Woche
+zweite Woche
 вторая неделя;
 
-das dritte Kind
+drittes Kind
 третий ребёнок;
 
 am vierten Mai
@@ -4482,9 +4450,6 @@ v empfehlen-empfiehlt / empfahl / hat empfohlen
 
 Könnt ihr mir Lieder für die Playlist empfehlen?
 Можете посоветовать мне песни для плейлиста?;
-
-der Zeitraum "-e
-период; промежуток времени;
 
 in diesem Zeitraum
 в этот период; за этот период;
@@ -4582,9 +4547,6 @@ Der Film ist witzig.
 Das war ein witziger Kommentar.
 Это был остроумный комментарий.;
 
-der Besen -
-метла; веник;
-
 Ich brauche einen Besen.
 Мне нужна метла.; Мне нужен веник.;
 
@@ -4609,7 +4571,7 @@ Ich kriege Hunger.
 Das kriegen wir hin.
 Мы с этим справимся.;
 
-v anbieten-bietet an / bot an / hat angeboten
+v anbieten / bot an / hat angeboten
 предлагать;
 [j-m; etw.]
 
@@ -4640,12 +4602,6 @@ Ich verbessere mich.
 Mein Deutsch verbessert sich.
 Мой немецкий улучшается.;
 
-v steigen / stieg / ist gestiegen
-расти; повышаться; подниматься;
-
-die Miete -n
-аренда; арендная плата;
-
 Meine Miete steigt!
 Моя аренда повышается!; У меня растёт арендная плата!;
 
@@ -4667,17 +4623,11 @@ der April (sg.)
 der August (sg.)
 август;
 
-das Datum Daten
+das Datum -en
 дата;
 
 der Dezember (sg.)
 декабрь;
-
-die Einladung -en
-приглашение;
-
-der Erfolg -e
-успех;
 
 (-) Europa (sg.)
 Европа;
@@ -4687,9 +4637,6 @@ der Februar (sg.)
 
 der Frühling -e
 весна;
-
-der Geburtstag -e
-день рождения;
 
 das Geschenk -e
 подарок;
@@ -4706,9 +4653,6 @@ der Herbst -e
 das Herz -en
 сердце;
 
-der Januar (sg.)
-январь;
-
 der Juni (sg.)
 июнь;
 
@@ -4717,9 +4661,6 @@ der Juli (sg.)
 
 die Kette -n
 цепочка; ожерелье;
-
-das Lied -er
-песня;
 
 der Mai (sg.)
 май;
@@ -4730,23 +4671,14 @@ der März (sg.)
 die Mitternacht (sg.)
 полночь;
 
-der Monat -e
-месяц;
-
 der November (sg.)
 ноябрь;
 
 der Oktober (sg.)
 октябрь;
 
-das Papier -e
-бумага;
-
 das Parfüm -s
 духи; парфюм;
-
-die Pflanze -n
-растение;
 
 das Salz (sg.)
 соль;
@@ -4759,9 +4691,6 @@ der Ski -
 
 der Sommer -
 лето;
-
-der Wein -e
-вино;
 
 der Winter -
 зима;
@@ -4777,9 +4706,6 @@ a pünktlich
 
 ab
 с; начиная с;
-
-bei + Dat.
-у; при; возле;
 
 außer
 кроме; за исключением;
@@ -4919,9 +4845,6 @@ Die Fußgänger warten auf der Verkehrsinsel.
 Die Verkehrsinsel ist in der Mitte der Straße.
 Островок безопасности находится посередине дороги.;
 
-der Bahnsteig -e
-платформа; перрон;
-
 Der Zug fährt von Bahnsteig 3 ab.
 Поезд отправляется с платформы 3.;
 
@@ -4955,11 +4878,11 @@ Der Film dauert zweieinhalb Stunden.
 Ich habe zweieinhalb Stunden gewartet.
 Я ждал два с половиной часа.; Я ждала два с половиной часа.;
 
-v ausleihen-leiht aus / lieh aus / hat ausgeliehen
+v ausleihen / lieh aus / hat ausgeliehen
 брать во временное пользование; одалживать;
 
 Ich möchte ein Buch ausleihen.
-Я хочу взять книгу.;
+Я хочу взять книгу на время.;
 
 Ich habe ein Buch in der Bibliothek ausgeliehen.
 Я взял книгу в библиотеке.; Я взяла книгу в библиотеке.;
@@ -4967,7 +4890,7 @@ Ich habe ein Buch in der Bibliothek ausgeliehen.
 Kannst du mir dein Buch ausleihen?
 Можешь одолжить мне свою книгу?;
 
-v losgehen-geht los / ging los / ist losgegangen
+v losgehen / ging los / ist losgegangen
 начинаться; отправляться;
 
 Wann geht der Film los?
@@ -4978,9 +4901,6 @@ Die Party geht um 20 Uhr los.
 
 Wir gehen jetzt los.
 Мы сейчас отправляемся.; Мы сейчас выходим.;
-
-Es geht los!
-Начинается!; Поехали!;
 
 v losfahren-fährt los / fuhr los / ist losgefahren
 выезжать; отправляться на транспорте;
@@ -4997,21 +4917,11 @@ Wir sind um 8 Uhr losgefahren.
 Fahr los!
 Поезжай!; Трогайся!;
 
-v fahren-fährt / fuhr / ist gefahren
-ехать; ездить; путешествовать;
-
 Ich will mit dem Zug von Köln nach Bremen fahren.
 Я хочу поехать на поезде из Кёльна в Бремен.;
 
 Wie kommst du von der Sprachschule zum Bahnhof?
 Как ты добираешься от языковой школы до вокзала?;
-
-v fahren-fährt / fuhr / hat gefahren
-водить; управлять;
-[etw.]
-
-v kommen / kam / ist gekommen
-приходить; приезжать;
 
 Tina kommt von der Schule nach Hause.
 Тина приходит из школы домой.;
@@ -5048,9 +4958,6 @@ Die Pause ist vorbei.
 
 Ich gehe an der Schule vorbei.
 Я прохожу мимо школы.;
-
-v fliegen-fliegt / flog / ist geflogen
-лететь; летать;
 
 Fliegst du in die USA?
 Ты летишь в США?;
@@ -5094,14 +5001,8 @@ Wo ist der Startpunkt?
 Der Startpunkt der Wanderung ist hier.
 Начальная точка похода здесь.;
 
-der Treffpunkt -e
-место встречи;
-
 Wir fahren um 6 Uhr mit dem Zug von Berlin nach Kiew los.
 Мы выезжаем из Берлина в Киев в 6 часов на поезде.;
-
-v zurückkommen-kommt zurück / kam zurück / ist zurückgekommen
-возвращаться; приходить обратно;
 
 der Albtraum "-e
 кошмар; страшный сон;
@@ -5114,9 +5015,6 @@ Das war ein Albtraum.
 
 Sie hat schlecht geschlafen wegen eines Albtraums.
 Она плохо спала из-за кошмара.;
-
-der Park -s
-парк;
 
 Der Hund rennt von einem Park zu einem Park.
 Собака бегает из одного парка в другой.;
@@ -5154,20 +5052,11 @@ Wir fahren von der Autobahn ab.
 der Automat -en
 автомат; билетный автомат;
 
-der Schalter -
-касса; стойка; окошко;
-
 Am Automaten kaufe ich ein Ticket und sie am Schalter.
 В автомате я покупаю билет, а она — в кассе.;
 
 Ich kaufe ein Ticket am Automaten und sie am Schalter.
 Я покупаю билет в автомате, а она — в кассе.;
-
-das Ticket -s
-билет;
-
-a gültig
-действительный; действителен;
 
 Mein Ticket ist gültig ab dem 04.09.
 Мой билет действителен с 04.09.;
