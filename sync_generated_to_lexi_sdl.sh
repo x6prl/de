@@ -2,7 +2,7 @@
 set -euo pipefail
 
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-dest_dir="${script_dir}/../lexi-sdl/word_data"
+dest_dir="${script_dir}/../klappt/word_data"
 
 python3 "${script_dir}/concat_language_txts.py"
 
