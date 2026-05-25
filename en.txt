@@ -5757,6 +5757,462 @@ pleasant; comfortable; agreeable;
 Angenehm!
 Nice to meet you!; Pleased to meet you!; nice!;
 
+das Bakterium -en
+bacterium; bacteria;
+
+v beraten-berät / beriet / hat beraten
+advise; counsel;
+[j-n]
+
+v beantworten
+answer;
+[etw.]
+
+Die Abreise muss bis 11 Uhr erfolgen.
+departure must take place by 11 o’clock;
+
+die Abreise -n
+departure; check-out;
+
+v absagen / - / hat
+cancel; decline;
+[etw.]
+
+a ähnlich
+similar;
+[Dat.]
+
+v ablenken / - / hat
+distract;
+
+v sich ablenken / - / hat
+distract oneself; take one's mind off things;
+
+die Anreise -n
+arrival; check-in;
+
+der Arzt "e
+doctor; physician;
+
+der Bauch "e
+belly; stomach;
+
+v sich etwas brechen-bricht / brach / hat gebrochen
+break something on oneself;
+[sich+Dat]
+
+v brechen-bricht / brach / hat gebrochen
+break;
+[etw.]
+
+v brechen-bricht / brach / hat gebrochen
+vomit;
+
+der Darm "-e
+intestine; bowel;
+
+der Dickdarm "-e
+large intestine; colon;
+
+der Druck "-e
+pressure; print; stress;
+
+der Dünndarm "-e
+small intestine;
+
+echt
+really; genuinely;
+
+eigentlich
+actually; really; by the way;
+
+das Einzelzimmer -
+single room;
+
+einmal alle zwei Monate
+once every two months;
+
+die Ernährung (sg.)
+nutrition;
+
+erst
+only; just yet;
+
+Die Stelle interessiert mich sehr.
+the position interests me very much;
+
+entweder ... oder
+either ... or;
+
+das Fass "-er
+barrel; cask;
+
+das Fieber (sg.)
+fever;
+
+a flexibel
+flexible;
+
+a frei
+free;
+
+gegen + Akk.
+against; for;
+
+die Gesundheit (sg.)
+health;
+
+geschlossen
+closed;
+
+das Gespräch -e
+conversation; discussion;
+
+die Gehaltsvorstellung -en
+salary expectation;
+
+gesund
+healthy;
+
+v helfen-hilft / half / hat geholfen
+help;
+[j-m]
+
+die Halbpension (sg.)
+half board;
+
+die Halsschmerzen (pl.)
+sore throat;
+
+der Hammel -
+ram; mutton;
+
+die Hand "e
+hand;
+
+der Heuschnupfen (sg.)
+hay fever;
+
+hoffentlich
+hopefully;
+
+hoch
+high;
+
+der Husten (sg.)
+cough;
+
+der Hustensaft "-e
+cough syrup;
+
+Ich beantworte die Frage.
+I answer the question;
+
+Ich bin neidisch auf dich.
+I am jealous of you;
+
+Ich bin krankgeschrieben.
+I am on sick leave;
+
+Ich gehe alle zwei Monate einmal zur Apotheke.
+I go to the pharmacy once every two months;
+
+Ich gehe zur Apotheke einmal in 2 Monaten.
+I go to the pharmacy once in 2 months;
+
+Ich habe Erfahrung in ...
+I have experience in ...;
+
+Ich habe Heuschnupfen.
+I have hay fever;
+
+Ich habe keine Wahl und muss es tun.
+I have no choice and must do it;
+
+Ich habe Lust auf einen Kaffee.
+I feel like having a coffee;
+
+Ich habe Lust, jetzt spazieren zu gehen.
+I feel like going for a walk now;
+
+Ich habe Muskelkater.
+I have sore muscles;
+
+Ich habe mir den Finger gebrochen.
+I broke my finger;
+
+Ich habe mir den Finger verbrannt.
+I burned my finger;
+
+Ich habe mir das Knie geschürft.
+I scraped my knee;
+
+Ich habe meine Stimme verloren.
+I lost my voice;
+
+Ich habe noch nie probiert.
+I have never tried it before;
+
+Ich habe diese Tablette vor einem Monat eingenommen.
+I took this tablet a month ago;
+
+Ich interessiere mich für ...
+I am interested in ...;
+
+Ich kann gut mit Menschen.
+I am good with people;
+
+Ich kenne diese Arbeit.
+I know this kind of work;
+
+Ich lerne schnell.
+I learn quickly;
+
+Ich möchte meine Buchung stornieren.
+I would like to cancel my booking;
+
+Ich möchte mich beruflich weiterentwickeln.
+I want to develop professionally;
+
+Ich muss auf die Toilette.
+I need to go to the toilet;
+
+Ich nehme das Tagesmenü.
+I’ll take the daily menu;
+
+Ich nehme das Medikament monatlich.
+I take the medication monthly;
+
+Ich schlage dir einen Spaziergang vor.
+I suggest a walk to you;
+
+Ich verdiene nicht besonders gut.
+I do not earn particularly well;
+
+Ich möchte in diesem Beruf arbeiten.
+I would like to work in this profession;
+
+im Gegenteil
+on the contrary;
+
+die Informationsübertragung (sg.)
+information transfer;
+
+die Jahresbruttogehalt "-er
+annual gross salary;
+
+jährlich
+yearly; annually;
+
+die Klemme -n
+clamp; terminal;
+
+der Kopf "e
+head;
+
+die Krankmeldung -en
+sick note;
+
+v krankschreiben-schreibt krank / schrieb krank / hat krankgeschrieben
+put on sick leave;
+
+v kündigen
+terminate; resign; dismiss;
+
+der Kundenkontakt -e
+customer contact;
+
+die Leber -n
+liver;
+
+die Leihgebühr -en
+rental fee;
+
+Es lohnt sich.
+it is worth it;
+
+die Lunge -n
+lung;
+
+die Lust (sg.)
+desire; inclination;
+
+der Magen "-
+stomach;
+
+der Mensch -en
+human; person;
+
+Menschen machen Fehler.
+people make mistakes;
+
+die Milz -en
+spleen;
+
+monatlich
+monthly;
+
+der Muskelkater (sg.)
+muscle soreness;
+
+das Nasenspray -s
+nasal spray;
+
+der Nabel -
+navel; belly button;
+
+die Niere -n
+kidney;
+
+neidisch
+jealous;
+[auf+Akk]
+
+die Ohrenschmerzen (pl.)
+earache;
+
+das Organ -e
+organ;
+
+die Pfote -n
+paw;
+
+die Rezeptgebühr -en
+prescription fee;
+
+rezeptfrei
+non-prescription; over-the-counter;
+
+rezeptpflichtig
+prescription-only;
+
+v reklamieren
+complain about; claim;
+[etw.]
+
+schlaflos
+sleepless;
+
+die Schlaflosigkeit (sg.)
+insomnia;
+
+schrecklich
+terrible; awful;
+
+die Schürfwunde -n
+abrasion; scrape;
+
+die Seele -n
+soul;
+
+selbstlos
+selfless;
+
+die Selbstlosigkeit (sg.)
+selflessness;
+
+spannend
+exciting; interesting;
+
+die Stärke -n
+strength;
+
+v stimmen
+be correct; be true;
+
+Das stimmt.
+that is correct;
+
+die Stimme -n
+voice;
+
+v stornieren
+cancel;
+[etw.]
+
+das Stichwort "-er
+keyword; cue word;
+
+stündlich
+hourly;
+
+die Tackerklammer -n
+staple;
+
+die Tapete -n
+wallpaper;
+
+die Tatze -n
+large paw;
+
+die Terminvergabe -n
+appointment scheduling;
+
+der Totalschaden "-
+total loss;
+
+umgekehrt
+the other way around; vice versa;
+
+ungesund
+unhealthy;
+
+v verbrennen-verbrennt / verbrannte / hat verbrannt
+burn;
+
+v sich verbrennen-verbrennt sich / verbrannte sich / hat sich verbrannt
+burn oneself;
+[sich+Akk]
+
+das Verständnis (sg.)
+understanding;
+
+verständlich
+understandable;
+
+v vorschlagen-schlägt vor / schlug vor / hat vorgeschlagen
+suggest;
+[j-m; etw.]
+
+die Vorspeise -n
+starter; appetizer;
+
+die Vollpension (sg.)
+full board;
+
+v wehtun-tut weh / tat weh / hat wehgetan
+hurt;
+
+der Weisheitszahn "-e
+wisdom tooth;
+
+während
+while;
+
+Während er arbeitet, bleibe ich im Hotel.
+while he works, I stay at the hotel;
+
+wöchentlich
+weekly;
+
+Warum ist die Stelle frei?
+why is the position vacant?;
+
+v wiederkommen-kommt wieder / kam wieder / ist wiedergekommen
+come back;
+
+Wir haben fünf Zehen an einem Fuß und fünf Finger an einer Hand.
+we have five toes on one foot and five fingers on one hand;
+
+Wollen wir am Wochenende schwimmen gehen?
+shall we go swimming at the weekend?;
+
+der Zeh -en
+toe;
+
+ziemlich
+quite; rather;
+
 das Wasser (sg.)
 water; waters; body of water;
 
