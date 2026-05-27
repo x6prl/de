@@ -1,0 +1,455 @@
+das Bakterium -en
+бактерия;
+
+v beraten-berät / beriet / hat beraten
+советовать; консультировать;
+[j-n]
+
+v beantworten
+отвечать;
+[etw.]
+
+Die Abreise muss bis 11 Uhr erfolgen.
+отъезд должен состояться до 11 часов;
+
+die Abreise -n
+отъезд; выезд из отеля;
+
+v absagen / - / hat
+отменять; отказываться;
+[etw.]
+
+a ähnlich
+похожий; сходный;
+[Dat.]
+
+v ablenken / - / hat
+отвлекать;
+
+v sich ablenken / - / hat
+отвлекаться; отвлечься;
+
+die Anreise -n
+приезд; заезд;
+
+der Arzt "e
+врач; доктор;
+
+der Bauch "e
+живот; брюшная полость;
+
+v sich etwas brechen-bricht / brach / hat gebrochen
+сломать себе что-либо;
+[sich+Dat]
+
+v brechen-bricht / brach / hat gebrochen
+ломать; разбивать;
+[etw.]
+
+v brechen-bricht / brach / hat gebrochen
+рвать; тошнить;
+
+der Darm "-e
+кишечник; кишка;
+
+der Dickdarm "-e
+толстая кишка; толстый кишечник;
+
+der Druck "-e
+давление; печать; стресс;
+
+der Dünndarm "-e
+тонкая кишка; тонкий кишечник;
+
+echt
+действительно; по-настоящему;
+
+eigentlich
+собственно; вообще-то; кстати;
+
+das Einzelzimmer -
+одноместный номер;
+
+einmal alle zwei Monate
+раз в два месяца;
+
+die Ernährung (sg.)
+питание;
+
+erst
+только; лишь; только что;
+
+Die Stelle interessiert mich sehr.
+эта вакансия меня очень интересует;
+
+entweder ... oder
+или ... или;
+
+das Fass "-er
+бочка; бочонок;
+
+das Fieber (sg.)
+температура; жар;
+
+a flexibel
+гибкий;
+
+a frei
+свободный; бесплатный;
+
+gegen + Akk.
+против; за;
+
+die Gesundheit (sg.)
+здоровье;
+
+geschlossen
+закрытый; закрыто;
+
+das Gespräch -e
+разговор; беседа;
+
+die Gehaltsvorstellung -en
+ожидания по зарплате;
+
+gesund
+здоровый;
+
+v helfen-hilft / half / hat geholfen
+помогать;
+[j-m]
+
+die Halbpension (sg.)
+полупансион;
+
+die Halsschmerzen (pl.)
+боль в горле;
+
+der Hammel -
+баран; баранина;
+
+die Hand "e
+кисть руки; рука;
+
+der Heuschnupfen (sg.)
+сенная лихорадка; аллергический ринит;
+
+hoffentlich
+надеюсь; будем надеяться;
+
+hoch
+высокий; высоко;
+
+der Husten (sg.)
+кашель;
+
+der Hustensaft "-e
+сироп от кашля;
+
+Ich beantworte die Frage.
+я отвечаю на вопрос;
+
+Ich bin neidisch auf dich.
+я тебе завидую;
+
+Ich bin krankgeschrieben.
+я на больничном;
+
+Ich gehe alle zwei Monate einmal zur Apotheke.
+я хожу в аптеку раз в два месяца;
+
+Ich gehe zur Apotheke einmal in 2 Monaten.
+я хожу в аптеку один раз в два месяца;
+
+Ich habe Erfahrung in ...
+у меня есть опыт в ...;
+
+Ich habe Heuschnupfen.
+у меня сенная лихорадка;
+
+Ich habe keine Wahl und muss es tun.
+у меня нет выбора, и я должен это сделать;
+
+Ich habe Lust auf einen Kaffee.
+мне хочется кофе;
+
+Ich habe Lust, jetzt spazieren zu gehen.
+мне хочется сейчас пойти гулять;
+
+Ich habe Muskelkater.
+у меня болят мышцы после нагрузки; у меня крепатура;
+
+Ich habe mir den Finger gebrochen.
+я сломал себе палец;
+
+Ich habe mir den Finger verbrannt.
+я обжёг себе палец;
+
+Ich habe mir das Knie geschürft.
+я содрал кожу на колене; я ободрал колено;
+
+Ich habe meine Stimme verloren.
+я потерял голос;
+
+Ich habe noch nie probiert.
+я никогда этого не пробовал;
+
+Ich habe diese Tablette vor einem Monat eingenommen.
+я принял эту таблетку месяц назад;
+
+Ich interessiere mich für ...
+я интересуюсь ...;
+
+Ich kann gut mit Menschen.
+я хорошо умею общаться с людьми;
+
+Ich kenne diese Arbeit.
+я знаю эту работу;
+
+Ich lerne schnell.
+я быстро учусь;
+
+Ich möchte meine Buchung stornieren.
+я хочу отменить бронирование;
+
+Ich möchte mich beruflich weiterentwickeln.
+я хочу профессионально развиваться;
+
+Ich muss auf die Toilette.
+мне нужно в туалет;
+
+Ich nehme das Tagesmenü.
+я возьму дневное меню;
+
+Ich nehme das Medikament monatlich.
+я принимаю это лекарство ежемесячно;
+
+Ich schlage dir einen Spaziergang vor.
+я предлагаю тебе прогулку;
+
+Ich verdiene nicht besonders gut.
+я зарабатываю не особенно хорошо;
+
+Ich möchte in diesem Beruf arbeiten.
+я хотел бы работать по этой профессии;
+
+im Gegenteil
+напротив; наоборот;
+
+die Informationsübertragung (sg.)
+передача информации;
+
+die Jahresbruttogehalt "-er
+годовая зарплата брутто;
+
+jährlich
+ежегодно; ежегодный;
+
+die Klemme -n
+зажим; клемма;
+
+der Kopf "e
+голова;
+
+die Krankmeldung -en
+больничный лист; уведомление о болезни;
+
+v krankschreiben-schreibt krank / schrieb krank / hat krankgeschrieben
+выписывать больничный; отправлять на больничный;
+
+v kündigen
+увольняться; увольнять; расторгать договор;
+
+der Kundenkontakt -e
+контакт с клиентами; общение с клиентами;
+
+die Leber -n
+печень;
+
+die Leihgebühr -en
+плата за аренду; прокатная плата;
+
+Es lohnt sich.
+это того стоит;
+
+die Lunge -n
+лёгкое;
+
+die Lust (sg.)
+желание; охота;
+
+der Magen "-
+желудок;
+
+der Mensch -en
+человек;
+
+Menschen machen Fehler.
+люди совершают ошибки;
+
+die Milz -en
+селезёнка;
+
+monatlich
+ежемесячно; ежемесячный;
+
+der Muskelkater (sg.)
+мышечная боль после нагрузки; крепатура;
+
+das Nasenspray -s
+спрей для носа;
+
+der Nabel -
+пупок;
+
+die Niere -n
+почка;
+
+neidisch
+завидующий; завистливый;
+[auf+Akk]
+
+die Ohrenschmerzen (pl.)
+боль в ушах;
+
+das Organ -e
+орган;
+
+die Pfote -n
+лапа;
+
+die Rezeptgebühr -en
+рецептурный сбор; плата за рецепт;
+
+rezeptfrei
+безрецептурный; отпускаемый без рецепта;
+
+rezeptpflichtig
+рецептурный; отпускаемый по рецепту;
+
+v reklamieren
+жаловаться; предъявлять претензию;
+[etw.]
+
+schlaflos
+бессонный;
+
+die Schlaflosigkeit (sg.)
+бессонница;
+
+schrecklich
+ужасный; страшный;
+
+die Schürfwunde -n
+ссадина; царапина;
+
+die Seele -n
+душа;
+
+selbstlos
+бескорыстный; самоотверженный;
+
+die Selbstlosigkeit (sg.)
+бескорыстие; самоотверженность;
+
+spannend
+захватывающий; интересный;
+
+die Stärke -n
+сильная сторона; сила;
+
+v stimmen
+быть верным; быть правильным;
+
+Das stimmt.
+это верно; это правильно;
+
+die Stimme -n
+голос;
+
+v stornieren
+отменять; аннулировать;
+[etw.]
+
+das Stichwort "-er
+ключевое слово; подсказка;
+
+stündlich
+ежечасно; каждый час;
+
+die Tackerklammer -n
+скоба; скоба для степлера;
+
+die Tapete -n
+обои;
+
+die Tatze -n
+большая лапа;
+
+die Terminvergabe -n
+запись на приём; назначение встреч;
+
+der Totalschaden "-
+полное повреждение; тотальная потеря;
+
+umgekehrt
+наоборот; в обратную сторону;
+
+ungesund
+вредный; нездоровый;
+
+v verbrennen-verbrennt / verbrannte / hat verbrannt
+сжигать; обжигать;
+
+v sich verbrennen-verbrennt sich / verbrannte sich / hat sich verbrannt
+обжигаться;
+[sich+Akk]
+
+das Verständnis (sg.)
+понимание;
+
+verständlich
+понятный;
+
+v vorschlagen-schlägt vor / schlug vor / hat vorgeschlagen
+предлагать;
+[j-m; etw.]
+
+die Vorspeise -n
+закуска; первое блюдо;
+
+die Vollpension (sg.)
+полный пансион;
+
+v wehtun-tut weh / tat weh / hat wehgetan
+болеть; причинять боль;
+
+der Weisheitszahn "-e
+зуб мудрости;
+
+während
+пока; во время;
+
+Während er arbeitet, bleibe ich im Hotel.
+пока он работает, я остаюсь в отеле;
+
+wöchentlich
+еженедельно; еженедельный;
+
+Warum ist die Stelle frei?
+почему вакансия свободна?;
+
+v wiederkommen-kommt wieder / kam wieder / ist wiedergekommen
+возвращаться; приходить снова;
+
+Wir haben fünf Zehen an einem Fuß und fünf Finger an einer Hand.
+у нас пять пальцев на ноге и пять пальцев на руке;
+
+Wollen wir am Wochenende schwimmen gehen?
+пойдём плавать на выходных?;
+
+der Zeh -en
+палец ноги;
+
+ziemlich
+довольно; весьма;

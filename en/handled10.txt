@@ -1,0 +1,555 @@
+igitt
+yuck, eww;
+
+a gewöhnlich
+usual, ordinary; common;
+
+der Witz -e
+joke;
+
+a dreist
+cheeky, audacious, brazen;
+
+der Gefallen -
+favor;
+
+v schmecken / - / hat
+to taste;
+[nach+Dat]
+
+Ich nehme diese Woche am Zauberkurs teil.
+I am participating in the magic course this week;
+
+Der Superheld will nicht auf die Fragen des Drachen antworten.
+The superhero does not want to answer the dragon's questions;
+
+Mein Roboter ärgert sich immer noch über den dreisten Zombie.
+My robot is still annoyed at the cheeky zombie;
+
+Die Ninjas beschweren sich beim Meister über den schwierigen Schwertkampf.
+The ninjas complain to the master about the difficult sword fight;
+
+Dürfte ich den Astronauten um einen kleinen Gefallen bitten?
+Could I ask the astronaut for a small favor?;
+
+Warum bedankst du dich nicht beim Vampir für seine Hilfe?
+Why don't you thank the vampire for his help?;
+
+Im Raumschiff musste ich täglich an die Erde denken.
+In the spaceship, I had to think of Earth every day;
+
+Lädt der Superheld den Dinosaurier auch zu seiner Pizza-Party ein?
+Is the superhero also inviting the dinosaur to his pizza party?;
+
+Ekelt sich das Einhorn auch so sehr vor Schleim?
+Is the unicorn also so disgusted by slime?;
+
+Wofür soll ich mich eigentlich beim Drachen entschuldigen?
+What exactly am I supposed to apologize to the dragon for?;
+
+Ich kann mich auf dem Mars einfach nicht an die Schwerkraft gewöhnen.
+I just can't get used to the gravity on Mars;
+
+Der Ninja fürchtet sich vor langsamen Zombies.
+The ninja is afraid of slow zombies;
+
+Wovor fürchtet der Ninja sich?
+What is the ninja afraid of?;
+
+Viele Astronauten glauben an Außerirdische.
+Many astronauts believe in aliens;
+
+Woran glauben viele Astronauten?
+What do many astronauts believe in?;
+
+Du sollst dem Roboter nicht bei der Reparatur helfen.
+You shouldn't help the robot with the repair;
+
+Wobei soll ich dem Roboter nicht helfen?
+What shouldn't I help the robot with?;
+
+Am Wochenende muss man mit einem Meteoritenschauer rechnen.
+You have to expect a meteor shower on the weekend;
+
+Womit muss man am Wochenende rechnen?
+What do you have to expect on the weekend?;
+
+Der Vampir tanzt schon den ganzen Abend mit der Hexe.
+The vampire has been dancing with the witch all evening;
+
+Mit wem tanzt der Vampir schon den ganzen Abend?
+Who has the vampire been dancing with all evening?;
+
+Mein Sohn interessiert sich nur noch für Raumschiffe.
+My son is only interested in spaceships anymore;
+
+Wofür interessiert dein Sohn sich nur noch?
+What is your son only interested in anymore?;
+
+Der Zombie ist in eine sehr hübsche Vampirin verliebt.
+The zombie is in love with a very pretty vampire;
+
+In wen ist der Zombie verliebt?
+Who is the zombie in love with?;
+
+Die Pizza schmeckt nach Schokolade.
+The pizza tastes like chocolate;
+
+Wonach schmeckt die Pizza?
+What does the pizza taste like?;
+
+Der Superheld will nicht mit dem Bösewicht spielen.
+The superhero doesn't want to play with the villain;
+
+Mit wem will der Superheld nicht spielen?
+Who doesn't the superhero want to play with?;
+
+Der Drache träumt von einem eigenen Vulkan.
+The dragon dreams of having his own volcano;
+
+Wovon träumt der Drache?
+What does the dragon dream of?;
+
+Kannst du bitte mit dem Laser aufhören?
+Can you please stop with the laser?;
+
+Ich danke dem Roboter für seine schnelle Hilfe.
+I thank the robot for its quick help;
+
+Man muss für mehr Schokolade kämpfen.
+One must fight for more chocolate;
+
+Warum wartest du nicht auf das Raumschiff?
+Why aren't you waiting for the spaceship?;
+
+Er nimmt jetzt an einem Zauberkurs teil.
+He is participating in a magic course now;
+
+Gehört der große Drache zu dir?
+Does the big dragon belong to you?;
+
+Wer von euch fängt immer mit dem Duell an?
+Who among you always starts the duel?;
+
+Ich muss mich auf ein Turnier vorbereiten.
+I have to prepare for a tournament;
+
+Ein Ninja mit Schwert fragt nach unserem Chef.
+A ninja with a sword is asking for our boss;
+
+Wie viel Geld gibst du für Zaubertränke aus?
+How much money do you spend on magic potions?;
+
+v antworten / - / hat
+to answer;
+[auf+Akk]
+
+v sich ärgern / - / hat
+to be annoyed, to get angry;
+[über+Akk]
+
+v sich beschweren / - / hat
+to complain;
+[bei+Dat]
+
+v bitten / bat / hat gebeten
+to ask, to request;
+[um+Akk]
+
+v sich bedanken / - / hat
+to say thank you, to express gratitude;
+[für+Akk]
+
+v denken / dachte / hat gedacht
+to think;
+[an+Akk]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+to invite;
+[zu+Dat]
+
+v sich ekeln / - / hat
+to be disgusted;
+[vor+Dat]
+
+v sich entschuldigen / - / hat
+to apologize;
+[für+Akk]
+
+v sich gewöhnen / - / hat
+to get used to;
+[an+Akk]
+
+v sich kümmern / - / hat
+to take care of, to look after;
+[um+Akk]
+
+v sprechen-spricht / sprach / hat gesprochen
+to speak, to talk;
+[mit+Dat]
+
+v teilnehmen-nimmt teil / nahm teil / hat teilgenommen
+to participate, to take part;
+[an+Dat]
+
+v warten / - / hat
+to wait;
+[auf+Akk]
+
+v sich interessieren / - / hat
+to be interested;
+[für+Akk]
+
+v träumen / - / hat
+to dream;
+[von+Dat]
+
+v lachen / - / hat
+to laugh;
+[über+Akk]
+
+v fragen / - / hat
+to ask;
+[nach+Dat]
+
+v sich freuen / - / hat
+to look forward to;
+[auf+Akk]
+
+v anfangen-fängt an / fing an / hat angefangen
+to start, to begin;
+[mit+Dat]
+
+v sich erinnern / - / hat
+to remember;
+[an+Akk]
+
+v gratulieren / - / hat
+to congratulate;
+[zu+Dat]
+
+v hoffen / - / hat
+to hope;
+[auf+Akk]
+
+v sich beschäftigen / - / hat
+to occupy oneself, to deal with;
+[mit+Dat]
+
+v achten / - / hat
+to pay attention;
+[auf+Akk]
+
+v erzählen / - / hat
+to tell, to talk about;
+[von+Dat]
+
+v passen / - / hat
+to fit, to match;
+[zu+Dat]
+
+v glauben / - / hat
+to believe;
+[an+Akk]
+
+v suchen / - / hat
+to search, to look for;
+[nach+Dat]
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+to meet;
+[mit+Dat]
+
+v sprechen-spricht / sprach / hat gesprochen
+to talk about;
+[über+Akk]
+
+v leiden / litt / hat gelitten
+to suffer;
+[an+Dat]
+
+v sich entscheiden / entschied sich / hat sich entschieden
+to decide;
+[für+Akk]
+
+v rechnen / - / hat
+to expect, to count on;
+[mit+Dat]
+
+v sich freuen / - / hat
+to be happy about;
+[über+Akk]
+
+v abhängen / hing ab / hat abgehangen
+to depend;
+[von+Dat]
+
+v warnen / - / hat
+to warn;
+[vor+Dat]
+
+v nachdenken / dachte nach / hat nachgedacht
+to think about, to reflect;
+[über+Akk]
+
+v sorgen / - / hat
+to care for, to provide for;
+[für+Akk]
+
+v gehören / - / hat
+to belong to, to be part of;
+[zu+Dat]
+
+Angst haben vor + Dat.
+to be afraid of;
+
+zufrieden sein mit + Dat.
+to be satisfied with;
+
+v hören / - / hat
+to hear from;
+[von+Dat]
+
+v riechen / roch / hat gerochen
+to smell like;
+[nach+Dat]
+
+Der Roboter antwortet auf die Nachricht.
+The robot answers the message;
+
+Das Einhorn ärgert sich über den Drachen.
+The unicorn is annoyed at the dragon;
+
+Ich beschwere mich beim Zauberer.
+I complain to the wizard;
+
+Wir bitten um Schokolade.
+We ask for chocolate;
+
+Der Zombie bedankt sich für das Gehirn.
+The zombie thanks for the brain;
+
+Denk bitte an das Raumschiff.
+Please think of the spaceship;
+
+Wir laden euch zur Pizza-Party ein.
+We invite you to the pizza party;
+
+Sie ekelt sich vor Schleim.
+She is disgusted by slime;
+
+Ich entschuldige mich für den Laser.
+I apologize for the laser;
+
+Der Astronaut gewöhnt sich an die Schwerkraft.
+The astronaut gets used to the gravity;
+
+Sie kümmert sich um die Dinosaurier.
+She takes care of the dinosaurs;
+
+Ich spreche mit dem Alien.
+I speak with the alien;
+
+Er nimmt am Zauberkurs teil.
+He participates in the magic course;
+
+Wir warten auf das Ufo.
+We wait for the UFO;
+
+Interessierst du dich für Raumschiffe?
+Are you interested in spaceships?;
+
+Ich träume von einer Galaxie.
+I dream of a galaxy;
+
+Die Kinder lachen über den Zombie.
+The children laugh at the zombie;
+
+Sie fragt nach dem Ninja.
+She asks for the ninja;
+
+Ich freue mich auf das Turnier.
+I look forward to the tournament;
+
+Wir fangen mit dem Duell an.
+We start with the duel;
+
+Erinnerst du dich an den Drachen?
+Do you remember the dragon?;
+
+Ich gratuliere dir zum Level-up.
+I congratulate you on the level-up;
+
+Er hofft auf einen Schatz.
+He hopes for a treasure;
+
+Sie beschäftigt sich mit Magie.
+She occupies herself with magic;
+
+Achtet auf den Laser!
+Watch out for the laser!;
+
+Der Vampir erzählt von seiner Jugend.
+The vampire tells about his youth;
+
+Das Schwert passt zu deinem Schild.
+The sword matches your shield;
+
+Viele Menschen glauben an Einhörner.
+Many people believe in unicorns;
+
+Wir suchen nach einem Raumschiff.
+We are looking for a spaceship;
+
+Maria trifft sich mit Ninjas.
+Maria meets with ninjas;
+
+Wir sprechen über Zombies.
+We talk about zombies;
+
+Der Roboter leidet an Rost.
+The robot suffers from rust;
+
+Sie entscheidet sich für das Schwert.
+She decides for the sword;
+
+Ich rechne mit einem Meteoriten.
+I expect a meteorite;
+
+Er freut sich über die Pizza.
+He is happy about the pizza;
+
+Das hängt vom Drachen ab.
+That depends on the dragon;
+
+Der Arzt warnt vor Zombies.
+The doctor warns of zombies;
+
+Denkst du über die Galaxie nach?
+Are you thinking about the galaxy?;
+
+Eltern sorgen für die Dinosaurier.
+Parents care for the dinosaurs;
+
+Das gehört zu meiner Mission.
+That belongs to my mission;
+
+Viele Menschen haben Angst vor Drachen.
+Many people are afraid of dragons;
+
+Ich bin mit dem Raumschiff zufrieden.
+I am satisfied with the spaceship;
+
+Hast du vom Alien gehört?
+Have you heard from the alien?;
+
+Die Küche riecht nach Pizza.
+The kitchen smells like pizza;
+
+Ich denke an das Raumschiff.
+I think of the spaceship;
+
+Ich denke daran.
+I think of it;
+
+Wir warten auf das Raumschiff.
+We wait for the spaceship;
+
+Wir warten darauf.
+We wait for it;
+
+Sie sprechen über den Zombie.
+They talk about the zombie;
+
+Sie sprechen darüber.
+They talk about it;
+
+Ich freue mich auf die Prüfung.
+I look forward to the exam;
+
+Ich freue mich darauf.
+I look forward to it;
+
+Er interessiert sich für Magie.
+He is interested in magic;
+
+Er interessiert sich dafür.
+He is interested in it;
+
+Danke für den Zaubertrank.
+Thanks for the magic potion;
+
+Danke dafür.
+Thanks for it;
+
+Wir fangen mit dem Training an.
+We start with the training;
+
+Wir fangen damit an.
+We start with it;
+
+Sie träumt von einer Galaxie.
+She dreams of a galaxy;
+
+Sie träumt davon.
+She dreams of it;
+
+Er ärgert sich über den Drachen.
+He is annoyed at the dragon;
+
+Er ärgert sich darüber.
+He is annoyed about it;
+
+Ich gewöhne mich an die Schwerkraft.
+I get used to the gravity;
+
+Ich gewöhne mich daran.
+I get used to it;
+
+Er bittet um Schokolade.
+He asks for chocolate;
+
+Er bittet darum.
+He asks for it;
+
+Sie beschäftigt sich mit Robotern.
+She occupies herself with robots;
+
+Sie beschäftigt sich damit.
+She occupies herself with it;
+
+Wir hoffen auf einen Schatz.
+We hope for a treasure;
+
+Wir hoffen darauf.
+We hope for it;
+
+Die Kinder lachen über den Ninja.
+The children laugh at the ninja;
+
+Die Kinder lachen darüber.
+The children laugh about it;
+
+Worauf wartest du?
+What are you waiting for?;
+
+Ich warte darauf, dass das Ufo kommt.
+I'm waiting for the UFO to come;
+
+Auf wen wartest du?
+Who are you waiting for?;
+
+Ich warte auf den Superhelden.
+I'm waiting for the superhero;
+
+Woran denkst du?
+What are you thinking about?;
+
+Ich denke daran, ein Raumschiff zu bauen.
+I'm thinking about building a spaceship;
+
+An wen denkst du?
+Who are you thinking of?;
+
+Ich denke an den Drachen.
+I'm thinking of the dragon;

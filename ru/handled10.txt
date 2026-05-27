@@ -1,0 +1,555 @@
+igitt
+фу, гадость;
+
+a gewöhnlich
+обычный, обыкновенный;
+
+der Witz -e
+шутка;
+
+a dreist
+наглый, дерзкий;
+
+der Gefallen -
+одолжение;
+
+v schmecken / - / hat
+иметь вкус;
+[nach+Dat]
+
+Ich nehme diese Woche am Zauberkurs teil.
+На этой неделе я участвую в курсе магии;
+
+Der Superheld will nicht auf die Fragen des Drachen antworten.
+Супергерой не хочет отвечать на вопросы дракона;
+
+Mein Roboter ärgert sich immer noch über den dreisten Zombie.
+Мой робот всё ещё злится на наглого зомби;
+
+Die Ninjas beschweren sich beim Meister über den schwierigen Schwertkampf.
+Ниндзя жалуются мастеру на сложный бой на мечах;
+
+Dürfte ich den Astronauten um einen kleinen Gefallen bitten?
+Могу ли я попросить астронавта о небольшом одолжении?;
+
+Warum bedankst du dich nicht beim Vampir für seine Hilfe?
+Почему ты не благодаришь вампира за его помощь?;
+
+Im Raumschiff musste ich täglich an die Erde denken.
+В космическом корабле мне приходилось каждый день думать о Земле;
+
+Lädt der Superheld den Dinosaurier auch zu seiner Pizza-Party ein?
+Супергерой тоже приглашает динозавра на свою пицца-вечеринку?;
+
+Ekelt sich das Einhorn auch so sehr vor Schleim?
+Единорог тоже так сильно брезгует слизью?;
+
+Wofür soll ich mich eigentlich beim Drachen entschuldigen?
+За что мне вообще извиняться перед драконом?;
+
+Ich kann mich auf dem Mars einfach nicht an die Schwerkraft gewöhnen.
+Я просто не могу привыкнуть к гравитации на Марсе;
+
+Der Ninja fürchtet sich vor langsamen Zombies.
+Ниндзя боится медленных зомби;
+
+Wovor fürchtet der Ninja sich?
+Чего боится ниндзя?;
+
+Viele Astronauten glauben an Außerirdische.
+Многие астронавты верят в инопланетян;
+
+Woran glauben viele Astronauten?
+Во что верят многие астронавты?;
+
+Du sollst dem Roboter nicht bei der Reparatur helfen.
+Ты не должен помогать роботу с ремонтом;
+
+Wobei soll ich dem Roboter nicht helfen?
+С чем мне не следует помогать роботу?;
+
+Am Wochenende muss man mit einem Meteoritenschauer rechnen.
+На выходных нужно ожидать метеоритный дождь;
+
+Womit muss man am Wochenende rechnen?
+Чего нужно ожидать на выходных?;
+
+Der Vampir tanzt schon den ganzen Abend mit der Hexe.
+Вампир танцует с ведьмой уже весь вечер;
+
+Mit wem tanzt der Vampir schon den ganzen Abend?
+С кем вампир танцует уже весь вечер?;
+
+Mein Sohn interessiert sich nur noch für Raumschiffe.
+Мой сын теперь интересуется только космическими кораблями;
+
+Wofür interessiert dein Sohn sich nur noch?
+Чем теперь интересуется твой сын?;
+
+Der Zombie ist in eine sehr hübsche Vampirin verliebt.
+Зомби влюблен в очень красивую вампиршу;
+
+In wen ist der Zombie verliebt?
+В кого влюблен зомби?;
+
+Die Pizza schmeckt nach Schokolade.
+Пицца на вкус как шоколад;
+
+Wonach schmeckt die Pizza?
+Какой вкус у пиццы?;
+
+Der Superheld will nicht mit dem Bösewicht spielen.
+Супергерой не хочет играть со злодеем;
+
+Mit wem will der Superheld nicht spielen?
+С кем супергерой не хочет играть?;
+
+Der Drache träumt von einem eigenen Vulkan.
+Дракон мечтает о собственном вулкане;
+
+Wovon träumt der Drache?
+О чем мечтает дракон?;
+
+Kannst du bitte mit dem Laser aufhören?
+Можешь, пожалуйста, перестать возиться с лазером?;
+
+Ich danke dem Roboter für seine schnelle Hilfe.
+Я благодарю робота за его быструю помощь;
+
+Man muss für mehr Schokolade kämpfen.
+Нужно бороться за большее количество шоколада;
+
+Warum wartest du nicht auf das Raumschiff?
+Почему ты не ждешь космический корабль?;
+
+Er nimmt jetzt an einem Zauberkurs teil.
+Сейчас он участвует в курсе магии;
+
+Gehört der große Drache zu dir?
+Большой дракон принадлежит тебе?;
+
+Wer von euch fängt immer mit dem Duell an?
+Кто из вас всегда начинает дуэль?;
+
+Ich muss mich auf ein Turnier vorbereiten.
+Я должен подготовиться к турниру;
+
+Ein Ninja mit Schwert fragt nach unserem Chef.
+Ниндзя с мечом спрашивает нашего начальника;
+
+Wie viel Geld gibst du für Zaubertränke aus?
+Сколько денег ты тратишь на зелья?;
+
+v antworten / - / hat
+отвечать;
+[auf+Akk]
+
+v sich ärgern / - / hat
+злиться, раздражаться;
+[über+Akk]
+
+v sich beschweren / - / hat
+жаловаться;
+[bei+Dat]
+
+v bitten / bat / hat gebeten
+просить;
+[um+Akk]
+
+v sich bedanken / - / hat
+благодарить;
+[für+Akk]
+
+v denken / dachte / hat gedacht
+думать;
+[an+Akk]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+приглашать;
+[zu+Dat]
+
+v sich ekeln / - / hat
+испытывать отвращение, брезгать;
+[vor+Dat]
+
+v sich entschuldigen / - / hat
+извиняться;
+[für+Akk]
+
+v sich gewöhnen / - / hat
+привыкать;
+[an+Akk]
+
+v sich kümmern / - / hat
+заботиться;
+[um+Akk]
+
+v sprechen-spricht / sprach / hat gesprochen
+говорить, разговаривать;
+[mit+Dat]
+
+v teilnehmen-nimmt teil / nahm teil / hat teilgenommen
+участвовать;
+[an+Dat]
+
+v warten / - / hat
+ждать;
+[auf+Akk]
+
+v sich interessieren / - / hat
+интересоваться;
+[für+Akk]
+
+v träumen / - / hat
+мечтать, видеть сны;
+[von+Dat]
+
+v lachen / - / hat
+смеяться;
+[über+Akk]
+
+v fragen / - / hat
+спрашивать;
+[nach+Dat]
+
+v sich freuen / - / hat
+радоваться (будущему);
+[auf+Akk]
+
+v anfangen-fängt an / fing an / hat angefangen
+начинать;
+[mit+Dat]
+
+v sich erinnern / - / hat
+вспоминать;
+[an+Akk]
+
+v gratulieren / - / hat
+поздравлять;
+[zu+Dat]
+
+v hoffen / - / hat
+надеяться;
+[auf+Akk]
+
+v sich beschäftigen / - / hat
+заниматься;
+[mit+Dat]
+
+v achten / - / hat
+обращать внимание;
+[auf+Akk]
+
+v erzählen / - / hat
+рассказывать;
+[von+Dat]
+
+v passen / - / hat
+подходить;
+[zu+Dat]
+
+v glauben / - / hat
+верить;
+[an+Akk]
+
+v suchen / - / hat
+искать;
+[nach+Dat]
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+встречаться;
+[mit+Dat]
+
+v sprechen-spricht / sprach / hat gesprochen
+говорить (о чем-либо);
+[über+Akk]
+
+v leiden / litt / hat gelitten
+страдать;
+[an+Dat]
+
+v sich entscheiden / entschied sich / hat sich entschieden
+решаться, делать выбор;
+[für+Akk]
+
+v rechnen / - / hat
+рассчитывать, ожидать;
+[mit+Dat]
+
+v sich freuen / - / hat
+радоваться (прошедшему/настоящему);
+[über+Akk]
+
+v abhängen / hing ab / hat abgehangen
+зависеть;
+[von+Dat]
+
+v warnen / - / hat
+предупреждать;
+[vor+Dat]
+
+v nachdenken / dachte nach / hat nachgedacht
+размышлять;
+[über+Akk]
+
+v sorgen / - / hat
+заботиться, обеспечивать;
+[für+Akk]
+
+v gehören / - / hat
+принадлежать;
+[zu+Dat]
+
+Angst haben vor + Dat.
+бояться;
+
+zufrieden sein mit + Dat.
+быть довольным;
+
+v hören / - / hat
+слышать (от кого-либо);
+[von+Dat]
+
+v riechen / roch / hat gerochen
+пахнуть;
+[nach+Dat]
+
+Der Roboter antwortet auf die Nachricht.
+Робот отвечает на сообщение;
+
+Das Einhorn ärgert sich über den Drachen.
+Единорог злится на дракона;
+
+Ich beschwere mich beim Zauberer.
+Я жалуюсь волшебнику;
+
+Wir bitten um Schokolade.
+Мы просим шоколад;
+
+Der Zombie bedankt sich für das Gehirn.
+Зомби благодарит за мозг;
+
+Denk bitte an das Raumschiff.
+Пожалуйста, думай о космическом корабле;
+
+Wir laden euch zur Pizza-Party ein.
+Мы приглашаем вас на пицца-вечеринку;
+
+Sie ekelt sich vor Schleim.
+Она брезгует слизью;
+
+Ich entschuldige mich für den Laser.
+Я извиняюсь за лазер;
+
+Der Astronaut gewöhnt sich an die Schwerkraft.
+Астронавт привыкает к гравитации;
+
+Sie kümmert sich um die Dinosaurier.
+Она заботится о динозаврах;
+
+Ich spreche mit dem Alien.
+Я разговариваю с инопланетянином;
+
+Er nimmt am Zauberkurs teil.
+Он участвует в курсе магии;
+
+Wir warten auf das Ufo.
+Мы ждем НЛО;
+
+Interessierst du dich für Raumschiffe?
+Ты интересуешься космическими кораблями?;
+
+Ich träume von einer Galaxie.
+Я мечтаю о галактике;
+
+Die Kinder lachen über den Zombie.
+Дети смеются над зомби;
+
+Sie fragt nach dem Ninja.
+Она спрашивает о ниндзя;
+
+Ich freue mich auf das Turnier.
+Я с нетерпением жду турнира;
+
+Wir fangen mit dem Duell an.
+Мы начинаем с дуэли;
+
+Erinnerst du dich an den Drachen?
+Ты помнишь дракона?;
+
+Ich gratuliere dir zum Level-up.
+Я поздравляю тебя с повышением уровня;
+
+Er hofft auf einen Schatz.
+Он надеется на сокровище;
+
+Sie beschäftigt sich mit Magie.
+Она занимается магией;
+
+Achtet auf den Laser!
+Осторожнее с лазером!;
+
+Der Vampir erzählt von seiner Jugend.
+Вампир рассказывает о своей юности;
+
+Das Schwert passt zu deinem Schild.
+Меч подходит к твоему щиту;
+
+Viele Menschen glauben an Einhörner.
+Многие люди верят в единорогов;
+
+Wir suchen nach einem Raumschiff.
+Мы ищем космический корабль;
+
+Maria trifft sich mit Ninjas.
+Мария встречается с ниндзя;
+
+Wir sprechen über Zombies.
+Мы говорим о зомби;
+
+Der Roboter leidet an Rost.
+Робот страдает от ржавчины;
+
+Sie entscheidet sich für das Schwert.
+Она выбирает меч;
+
+Ich rechne mit einem Meteoriten.
+Я ожидаю метеорит;
+
+Er freut sich über die Pizza.
+Он рад пицце;
+
+Das hängt vom Drachen ab.
+Это зависит от дракона;
+
+Der Arzt warnt vor Zombies.
+Врач предупреждает о зомби;
+
+Denkst du über die Galaxie nach?
+Ты размышляешь о галактике?;
+
+Eltern sorgen für die Dinosaurier.
+Родители заботятся о динозаврах;
+
+Das gehört zu meiner Mission.
+Это часть моей миссии;
+
+Viele Menschen haben Angst vor Drachen.
+Многие люди боятся драконов;
+
+Ich bin mit dem Raumschiff zufrieden.
+Я доволен космическим кораблем;
+
+Hast du vom Alien gehört?
+Ты слышал об инопланетянине?;
+
+Die Küche riecht nach Pizza.
+На кухне пахнет пиццей;
+
+Ich denke an das Raumschiff.
+Я думаю о космическом корабле;
+
+Ich denke daran.
+Я думаю об этом;
+
+Wir warten auf das Raumschiff.
+Мы ждем космический корабль;
+
+Wir warten darauf.
+Мы ждем этого;
+
+Sie sprechen über den Zombie.
+Они говорят о зомби;
+
+Sie sprechen darüber.
+Они говорят об этом;
+
+Ich freue mich auf die Prüfung.
+Я с нетерпением жду экзамена;
+
+Ich freue mich darauf.
+Я с нетерпением жду этого;
+
+Er interessiert sich für Magie.
+Он интересуется магией;
+
+Er interessiert sich dafür.
+Он интересуется этим;
+
+Danke für den Zaubertrank.
+Спасибо за зелье;
+
+Danke dafür.
+Спасибо за это;
+
+Wir fangen mit dem Training an.
+Мы начинаем с тренировки;
+
+Wir fangen damit an.
+Мы начинаем с этого;
+
+Sie träumt von einer Galaxie.
+Она мечтает о галактике;
+
+Sie träumt davon.
+Она мечтает об этом;
+
+Er ärgert sich über den Drachen.
+Он злится на дракона;
+
+Er ärgert sich darüber.
+Он злится из-за этого;
+
+Ich gewöhne mich an die Schwerkraft.
+Я привыкаю к гравитации;
+
+Ich gewöhne mich daran.
+Я привыкаю к этому;
+
+Er bittet um Schokolade.
+Он просит шоколад;
+
+Er bittet darum.
+Он просит об этом;
+
+Sie beschäftigt sich mit Robotern.
+Она занимается роботами;
+
+Sie beschäftigt sich damit.
+Она занимается этим;
+
+Wir hoffen auf einen Schatz.
+Мы надеемся на сокровище;
+
+Wir hoffen darauf.
+Мы надеемся на это;
+
+Die Kinder lachen über den Ninja.
+Дети смеются над ниндзя;
+
+Die Kinder lachen darüber.
+Дети смеются над этим;
+
+Worauf wartest du?
+Чего ты ждешь?;
+
+Ich warte darauf, dass das Ufo kommt.
+Я жду, когда прилетит НЛО;
+
+Auf wen wartest du?
+Кого ты ждешь?;
+
+Ich warte auf den Superhelden.
+Я жду супергероя;
+
+Woran denkst du?
+О чем ты думаешь?;
+
+Ich denke daran, ein Raumschiff zu bauen.
+Я думаю о том, чтобы построить космический корабль;
+
+An wen denkst du?
+О ком ты думаешь?;
+
+Ich denke an den Drachen.
+Я думаю о драконе;

@@ -1,0 +1,555 @@
+igitt
+يا للقذارة؛ مقزز؛
+
+a gewöhnlich
+عادي، مألوف؛
+
+der Witz -e
+نكتة؛
+
+a dreist
+وقح، جريء؛
+
+der Gefallen -
+معروف، خدمة؛
+
+v schmecken / - / hat
+يكون طعمه؛
+[nach+Dat]
+
+Ich nehme diese Woche am Zauberkurs teil.
+أشارك هذا الأسبوع في دورة السحر؛
+
+Der Superheld will nicht auf die Fragen des Drachen antworten.
+لا يريد البطل الخارق الإجابة على أسئلة التنين؛
+
+Mein Roboter ärgert sich immer noch über den dreisten Zombie.
+لا يزال روبوتي غاضباً من الزومبي الوقح؛
+
+Die Ninjas beschweren sich beim Meister über den schwierigen Schwertkampf.
+يشتكي النينجا للمعلم من قتال السيوف الصعب؛
+
+Dürfte ich den Astronauten um einen kleinen Gefallen bitten?
+هل يمكنني أن أطلب من رائد الفضاء معروفاً صغيراً؟؛
+
+Warum bedankst du dich nicht beim Vampir für seine Hilfe?
+لماذا لا تشكر مصاص الدماء على مساعدته؟؛
+
+Im Raumschiff musste ich täglich an die Erde denken.
+في السفينة الفضائية، كان عليّ أن أفكر في الأرض يومياً؛
+
+Lädt der Superheld den Dinosaurier auch zu seiner Pizza-Party ein?
+هل يدعو البطل الخارق الديناصور أيضاً إلى حفل البيتزا الخاص به؟؛
+
+Ekelt sich das Einhorn auch so sehr vor Schleim?
+هل يشعر وحيد القرن أيضاً بالاشمئزاز الشديد من السلايم؟؛
+
+Wofür soll ich mich eigentlich beim Drachen entschuldigen?
+عمّا يجب أن أعتذر للتنين بالضبط؟؛
+
+Ich kann mich auf dem Mars einfach nicht an die Schwerkraft gewöhnen.
+لا يمكنني ببساطة التعود على الجاذبية على سطح المريخ؛
+
+Der Ninja fürchtet sich vor langsamen Zombies.
+يخشى النينجا من الزومبي البطيئين؛
+
+Wovor fürchtet der Ninja sich?
+ممّ يخشى النينجا؟؛
+
+Viele Astronauten glauben an Außerirdische.
+يؤمن العديد من رواد الفضاء بوجود كائنات فضائية؛
+
+Woran glauben viele Astronauten?
+بماذا يؤمن العديد من رواد الفضاء؟؛
+
+Du sollst dem Roboter nicht bei der Reparatur helfen.
+لا ينبغي لك مساعدة الروبوت في الإصلاح؛
+
+Wobei soll ich dem Roboter nicht helfen?
+في ماذا لا ينبغي لي أن أساعد الروبوت؟؛
+
+Am Wochenende muss man mit einem Meteoritenschauer rechnen.
+في عطلة نهاية الأسبوع، يجب أن نتوقع زخة شهب؛
+
+Womit muss man am Wochenende rechnen?
+بماذا يجب أن نتوقع في عطلة نهاية الأسبوع؟؛
+
+Der Vampir tanzt schon den ganzen Abend mit der Hexe.
+يرقص مصاص الدماء مع الساحرة طوال المساء؛
+
+Mit wem tanzt der Vampir schon den ganzen Abend?
+مع من يرقص مصاص الدماء طوال المساء؟؛
+
+Mein Sohn interessiert sich nur noch für Raumschiffe.
+لم يعد ابني مهتماً إلا بالسفن الفضائية؛
+
+Wofür interessiert dein Sohn sich nur noch?
+بماذا لم يعد ابنك مهتماً إلا به؟؛
+
+Der Zombie ist in eine sehr hübsche Vampirin verliebt.
+الزومبي مغرم بمصابة دماء جميلة جداً؛
+
+In wen ist der Zombie verliebt?
+بمن غرم الزومبي؟؛
+
+Die Pizza schmeckt nach Schokolade.
+طعم البيتزا يشبه الشوكولاتة؛
+
+Wonach schmeckt die Pizza?
+ما هو طعم البيتزا؟؛
+
+Der Superheld will nicht mit dem Bösewicht spielen.
+لا يريد البطل الخارق اللعب مع الشرير؛
+
+Mit wem will der Superheld nicht spielen?
+مع من لا يريد البطل الخارق اللعب؟؛
+
+Der Drache träumt von einem eigenen Vulkan.
+يحلم التنين بامتلاك بركان خاص به؛
+
+Wovon träumt der Drache?
+عمّا يحلم التنين؟؛
+
+Kannst du bitte mit dem Laser aufhören?
+هل يمكنك التوقف عن استخدام الليزر من فضلك؟؛
+
+Ich danke dem Roboter für seine schnelle Hilfe.
+أشكر الروبوت على مساعدته السريعة؛
+
+Man muss für mehr Schokolade kämpfen.
+يجب أن نناضل من أجل المزيد من الشوكولاتة؛
+
+Warum wartest du nicht auf das Raumschiff?
+لماذا لا تنتظر السفينة الفضائية؟؛
+
+Er nimmt jetzt an einem Zauberkurs teil.
+هو يشارك الآن في دورة السحر؛
+
+Gehört der große Drache zu dir?
+هل التنين الكبير يخصك؟؛
+
+Wer von euch fängt immer mit dem Duell an?
+من منكم يبدأ المبارزة دائماً؟؛
+
+Ich muss mich auf ein Turnier vorbereiten.
+يجب أن أستعد للبطولة؛
+
+Ein Ninja mit Schwert fragt nach unserem Chef.
+نينجا يحمل سيفاً يسأل عن رئيسنا؛
+
+Wie viel Geld gibst du für Zaubertränke aus?
+كم من المال تنفق على الجرعات السحرية؟؛
+
+v antworten / - / hat
+يجيب؛
+[auf+Akk]
+
+v sich ärgern / - / hat
+يغضب، ينزعج؛
+[über+Akk]
+
+v sich beschweren / - / hat
+يشتكي؛
+[bei+Dat]
+
+v bitten / bat / hat gebeten
+يطلب؛
+[um+Akk]
+
+v sich bedanken / - / hat
+يشكر؛
+[für+Akk]
+
+v denken / dachte / hat gedacht
+يفكر؛
+[an+Akk]
+
+v einladen-lädt ein / lud ein / hat eingeladen
+يدعو؛
+[zu+Dat]
+
+v sich ekeln / - / hat
+يشعر بالاشمئزاز؛
+[vor+Dat]
+
+v sich entschuldigen / - / hat
+يعتذر؛
+[für+Akk]
+
+v sich gewöhnen / - / hat
+يعتاد؛
+[an+Akk]
+
+v sich kümmern / - / hat
+يهتم، يعتني؛
+[um+Akk]
+
+v sprechen-spricht / sprach / hat gesprochen
+يتحدث، يتكلم؛
+[mit+Dat]
+
+v teilnehmen-nimmt teil / nahm teil / hat teilgenommen
+يشارك؛
+[an+Dat]
+
+v warten / - / hat
+ينتظر؛
+[auf+Akk]
+
+v sich interessieren / - / hat
+يهتم بـ؛
+[für+Akk]
+
+v träumen / - / hat
+يحلم؛
+[von+Dat]
+
+v lachen / - / hat
+يضحك؛
+[über+Akk]
+
+v fragen / - / hat
+يسأل؛
+[nach+Dat]
+
+v sich freuen / - / hat
+يتطلع إلى؛
+[auf+Akk]
+
+v anfangen-fängt an / fing an / hat angefangen
+يبدأ؛
+[mit+Dat]
+
+v sich erinnern / - / hat
+يتذكر؛
+[an+Akk]
+
+v gratulieren / - / hat
+يهنئ؛
+[zu+Dat]
+
+v hoffen / - / hat
+يأمل؛
+[auf+Akk]
+
+v sich beschäftigen / - / hat
+ينشغل بـ؛
+[mit+Dat]
+
+v achten / - / hat
+ينتبه؛
+[auf+Akk]
+
+v erzählen / - / hat
+يروي، يحكي؛
+[von+Dat]
+
+v passen / - / hat
+يناسب، يلائم؛
+[zu+Dat]
+
+v glauben / - / hat
+يؤمن، يصدق؛
+[an+Akk]
+
+v suchen / - / hat
+يبحث؛
+[nach+Dat]
+
+v sich treffen-trifft sich / traf sich / hat sich getroffen
+يلتقي؛
+[mit+Dat]
+
+v sprechen-spricht / sprach / hat gesprochen
+يتحدث عن؛
+[über+Akk]
+
+v leiden / litt / hat gelitten
+يعاني؛
+[an+Dat]
+
+v sich entscheiden / entschied sich / hat sich entschieden
+يقرر؛
+[für+Akk]
+
+v rechnen / - / hat
+يتوقع؛
+[mit+Dat]
+
+v sich freuen / - / hat
+يسعد بـ؛
+[über+Akk]
+
+v abhängen / hing ab / hat abgehangen
+يعتمد؛
+[von+Dat]
+
+v warnen / - / hat
+يحذر؛
+[vor+Dat]
+
+v nachdenken / dachte nach / hat nachgedacht
+يفكر بعمق، يتأمل؛
+[über+Akk]
+
+v sorgen / - / hat
+يعتني، يوفر؛
+[für+Akk]
+
+v gehören / - / hat
+ينتمي إلى، يخص؛
+[zu+Dat]
+
+Angst haben vor + Dat.
+يخاف من؛
+
+zufrieden sein mit + Dat.
+يكون راضياً عن؛
+
+v hören / - / hat
+يسمع من؛
+[von+Dat]
+
+v riechen / roch / hat gerochen
+تفوح منه رائحة؛
+[nach+Dat]
+
+Der Roboter antwortet auf die Nachricht.
+يجيب الروبوت على الرسالة؛
+
+Das Einhorn ärgert sich über den Drachen.
+يغضب وحيد القرن من التنين؛
+
+Ich beschwere mich beim Zauberer.
+أشكو للساحر؛
+
+Wir bitten um Schokolade.
+نطلب الشوكولاتة؛
+
+Der Zombie bedankt sich für das Gehirn.
+يشكر الزومبي على الدماغ؛
+
+Denk bitte an das Raumschiff.
+فكر في السفينة الفضائية من فضلك؛
+
+Wir laden euch zur Pizza-Party ein.
+ندعوكم إلى حفل البيتزا؛
+
+Sie ekelt sich vor Schleim.
+تشعر بالاشمئزاز من السلايم؛
+
+Ich entschuldige mich für den Laser.
+أعتذر عن الليزر؛
+
+Der Astronaut gewöhnt sich an die Schwerkraft.
+يعتاد رائد الفضاء على الجاذبية؛
+
+Sie kümmert sich um die Dinosaurier.
+تعتني بالديناصورات؛
+
+Ich spreche mit dem Alien.
+أتحدث مع الكائن الفضائي؛
+
+Er nimmt am Zauberkurs teil.
+يشارك في دورة السحر؛
+
+Wir warten auf das Ufo.
+ننتظر الطبق الطائر؛
+
+Interessierst du dich für Raumschiffe?
+هل تهتم بالسفن الفضائية؟؛
+
+Ich träume von einer Galaxie.
+أحلم بمجرة؛
+
+Die Kinder lachen über den Zombie.
+يضحك الأطفال على الزومبي؛
+
+Sie fragt nach dem Ninja.
+تسأل عن النينجا؛
+
+Ich freue mich auf das Turnier.
+أتطلع إلى البطولة؛
+
+Wir fangen mit dem Duell an.
+نبدأ بالمبارزة؛
+
+Erinnerst du dich an den Drachen?
+هل تتذكر التنين؟؛
+
+Ich gratuliere dir zum Level-up.
+أهنئك برفع المستوى؛
+
+Er hofft auf einen Schatz.
+يأمل في الحصول على كنز؛
+
+Sie beschäftigt sich mit Magie.
+تنشغل بالسحر؛
+
+Achtet auf den Laser!
+انتبهوا لليزر!؛
+
+Der Vampir erzählt von seiner Jugend.
+يروي مصاص الدماء عن شبابه؛
+
+Das Schwert passt zu deinem Schild.
+السيف يناسب درعك؛
+
+Viele Menschen glauben an Einhörner.
+يؤمن الكثير من الناس بوجود وحيدات القرن؛
+
+Wir suchen nach einem Raumschiff.
+نبحث عن سفينة فضائية؛
+
+Maria trifft sich mit Ninjas.
+تلتقي ماريا بالنينجا؛
+
+Wir sprechen über Zombies.
+نتحدث عن الزومبي؛
+
+Der Roboter leidet an Rost.
+يعاني الروبوت من الصدأ؛
+
+Sie entscheidet sich für das Schwert.
+تقرر اختيار السيف؛
+
+Ich rechne mit einem Meteoriten.
+أتوقع نيزكاً؛
+
+Er freut sich über die Pizza.
+يسعد بالبيتزا؛
+
+Das hängt vom Drachen ab.
+هذا يعتمد على التنين؛
+
+Der Arzt warnt vor Zombies.
+يحذر الطبيب من الزومبي؛
+
+Denkst du über die Galaxie nach?
+هل تفكر في المجرة؟؛
+
+Eltern sorgen für die Dinosaurier.
+يعتني الآباء بالديناصورات؛
+
+Das gehört zu meiner Mission.
+هذا ينتمي إلى مهمتي؛
+
+Viele Menschen haben Angst vor Drachen.
+يخاف الكثير من الناس من التنانين؛
+
+Ich bin mit dem Raumschiff zufrieden.
+أنا راضٍ عن السفينة الفضائية؛
+
+Hast du vom Alien gehört?
+هل سمعت عن الكائن الفضائي؟؛
+
+Die Küche riecht nach Pizza.
+تفوح من المطبخ رائحة البيتزا؛
+
+Ich denke an das Raumschiff.
+أفكر في السفينة الفضائية؛
+
+Ich denke daran.
+أفكر في ذلك؛
+
+Wir warten auf das Raumschiff.
+ننتظر السفينة الفضائية؛
+
+Wir warten darauf.
+ننتظر ذلك؛
+
+Sie sprechen über den Zombie.
+يتحدثون عن الزومبي؛
+
+Sie sprechen darüber.
+يتحدثون عن ذلك؛
+
+Ich freue mich auf die Prüfung.
+أتطلع إلى الامتحان؛
+
+Ich freue mich darauf.
+أتطلع إلى ذلك؛
+
+Er interessiert sich für Magie.
+يهتم بالسحر؛
+
+Er interessiert sich dafür.
+يهتم بذلك؛
+
+Danke für den Zaubertrank.
+شكراً على الجرعة السحرية؛
+
+Danke dafür.
+شكراً على ذلك؛
+
+Wir fangen mit dem Training an.
+نبدأ بالتدريب؛
+
+Wir fangen damit an.
+نبدأ بذلك؛
+
+Sie träumt von einer Galaxie.
+تحلم بمجرة؛
+
+Sie träumt davon.
+تحلم بذلك؛
+
+Er ärgert sich über den Drachen.
+يغضب من التنين؛
+
+Er ärgert sich darüber.
+يغضب من ذلك؛
+
+Ich gewöhne mich an die Schwerkraft.
+أعتاد على الجاذبية؛
+
+Ich gewöhne mich daran.
+أعتاد على ذلك؛
+
+Er bittet um Schokolade.
+يطلب الشوكولاتة؛
+
+Er bittet darum.
+يطلب ذلك؛
+
+Sie beschäftigt sich mit Robotern.
+تنشغل بالروبوتات؛
+
+Sie beschäftigt sich damit.
+تنشغل بذلك؛
+
+Wir hoffen auf einen Schatz.
+نأمل في كنز؛
+
+Wir hoffen darauf.
+نأمل في ذلك؛
+
+Die Kinder lachen über den Ninja.
+يضحك الأطفال على النينجا؛
+
+Die Kinder lachen darüber.
+يضحك الأطفال على ذلك؛
+
+Worauf wartest du?
+ماذا تنتظر؟؛
+
+Ich warte darauf, dass das Ufo kommt.
+أنتظر قدوم الطبق الطائر؛
+
+Auf wen wartest du?
+من تنتظر؟؛
+
+Ich warte auf den Superhelden.
+أنتظر البطل الخارق؛
+
+Woran denkst du?
+فيم تفكر؟؛
+
+Ich denke daran, ein Raumschiff zu bauen.
+أفكر في بناء سفينة فضائية؛
+
+An wen denkst du?
+بمن تفكر؟؛
+
+Ich denke an den Drachen.
+أفكر في التنين؛

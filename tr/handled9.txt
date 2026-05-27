@@ -1,0 +1,455 @@
+das Bakterium -en
+bakteri;
+
+v beraten-berät / beriet / hat beraten
+tavsiye vermek; danışmanlık yapmak;
+[j-n]
+
+v beantworten
+cevaplamak; yanıtlamak;
+[etw.]
+
+Die Abreise muss bis 11 Uhr erfolgen.
+ayrılış saat 11'e kadar gerçekleşmeli;
+
+die Abreise -n
+ayrılış; çıkış;
+
+v absagen / - / hat
+iptal etmek; reddetmek;
+[etw.]
+
+a ähnlich
+benzer;
+[Dat.]
+
+v ablenken / - / hat
+dikkatini dağıtmak;
+
+v sich ablenken / - / hat
+dikkatini başka yere vermek; oyalanmak;
+
+die Anreise -n
+varış; giriş;
+
+der Arzt "e
+doktor; hekim;
+
+der Bauch "e
+karın; mide;
+
+v sich etwas brechen-bricht / brach / hat gebrochen
+bir yerini kırmak;
+[sich+Dat]
+
+v brechen-bricht / brach / hat gebrochen
+kırmak;
+[etw.]
+
+v brechen-bricht / brach / hat gebrochen
+kusmak;
+
+der Darm "-e
+bağırsak;
+
+der Dickdarm "-e
+kalın bağırsak; kolon;
+
+der Druck "-e
+basınç; baskı; stres;
+
+der Dünndarm "-e
+ince bağırsak;
+
+echt
+gerçekten; sahiden;
+
+eigentlich
+aslında; gerçekte; bu arada;
+
+das Einzelzimmer -
+tek kişilik oda;
+
+einmal alle zwei Monate
+iki ayda bir;
+
+die Ernährung (sg.)
+beslenme;
+
+erst
+ancak; daha yeni; sadece;
+
+Die Stelle interessiert mich sehr.
+bu pozisyon beni çok ilgilendiriyor;
+
+entweder ... oder
+ya ... ya da;
+
+das Fass "-er
+fıçı; varil;
+
+das Fieber (sg.)
+ateş;
+
+a flexibel
+esnek;
+
+a frei
+özgür; serbest; ücretsiz;
+
+gegen + Akk.
+karşı; için;
+
+die Gesundheit (sg.)
+sağlık;
+
+geschlossen
+kapalı;
+
+das Gespräch -e
+konuşma; görüşme;
+
+die Gehaltsvorstellung -en
+maaş beklentisi;
+
+gesund
+sağlıklı;
+
+v helfen-hilft / half / hat geholfen
+yardım etmek;
+[j-m]
+
+die Halbpension (sg.)
+yarım pansiyon;
+
+die Halsschmerzen (pl.)
+boğaz ağrısı;
+
+der Hammel -
+koç; koyun eti;
+
+die Hand "e
+el;
+
+der Heuschnupfen (sg.)
+saman nezlesi; alerjik rinit;
+
+hoffentlich
+umarım; inşallah;
+
+hoch
+yüksek;
+
+der Husten (sg.)
+öksürük;
+
+der Hustensaft "-e
+öksürük şurubu;
+
+Ich beantworte die Frage.
+soruyu cevaplıyorum;
+
+Ich bin neidisch auf dich.
+seni kıskanıyorum;
+
+Ich bin krankgeschrieben.
+hastalık iznindeyim; raporluyum;
+
+Ich gehe alle zwei Monate einmal zur Apotheke.
+iki ayda bir eczaneye gidiyorum;
+
+Ich gehe zur Apotheke einmal in 2 Monaten.
+iki ayda bir eczaneye gidiyorum;
+
+Ich habe Erfahrung in ...
+... konusunda deneyimim var;
+
+Ich habe Heuschnupfen.
+saman nezlem var;
+
+Ich habe keine Wahl und muss es tun.
+başka seçeneğim yok ve bunu yapmak zorundayım;
+
+Ich habe Lust auf einen Kaffee.
+kahve içmek istiyorum; canım kahve istiyor;
+
+Ich habe Lust, jetzt spazieren zu gehen.
+şimdi yürüyüşe çıkmak istiyorum;
+
+Ich habe Muskelkater.
+kaslarım ağrıyor;
+
+Ich habe mir den Finger gebrochen.
+parmağımı kırdım;
+
+Ich habe mir den Finger verbrannt.
+parmağımı yaktım;
+
+Ich habe mir das Knie geschürft.
+dizimi sıyırdım;
+
+Ich habe meine Stimme verloren.
+sesimi kaybettim;
+
+Ich habe noch nie probiert.
+bunu daha önce hiç denemedim;
+
+Ich habe diese Tablette vor einem Monat eingenommen.
+bu tableti bir ay önce aldım;
+
+Ich interessiere mich für ...
+... ile ilgileniyorum;
+
+Ich kann gut mit Menschen.
+insanlarla iyi iletişim kurarım;
+
+Ich kenne diese Arbeit.
+bu işi biliyorum;
+
+Ich lerne schnell.
+hızlı öğrenirim;
+
+Ich möchte meine Buchung stornieren.
+rezervasyonumu iptal etmek istiyorum;
+
+Ich möchte mich beruflich weiterentwickeln.
+mesleki olarak gelişmek istiyorum;
+
+Ich muss auf die Toilette.
+tuvalete gitmem gerekiyor;
+
+Ich nehme das Tagesmenü.
+günün menüsünü alayım;
+
+Ich nehme das Medikament monatlich.
+bu ilacı ayda bir alıyorum;
+
+Ich schlage dir einen Spaziergang vor.
+sana yürüyüş yapmayı öneriyorum;
+
+Ich verdiene nicht besonders gut.
+pek iyi kazanmıyorum;
+
+Ich möchte in diesem Beruf arbeiten.
+bu meslekte çalışmak istiyorum;
+
+im Gegenteil
+aksine; tam tersine;
+
+die Informationsübertragung (sg.)
+bilgi aktarımı;
+
+die Jahresbruttogehalt "-er
+yıllık brüt maaş;
+
+jährlich
+yıllık; yılda bir;
+
+die Klemme -n
+kıskaç; terminal;
+
+der Kopf "e
+baş; kafa;
+
+die Krankmeldung -en
+hastalık raporu;
+
+v krankschreiben-schreibt krank / schrieb krank / hat krankgeschrieben
+hastalık iznine çıkarmak; rapor vermek;
+
+v kündigen
+istifa etmek; işten çıkarmak; feshetmek;
+
+der Kundenkontakt -e
+müşteri teması; müşteriyle iletişim;
+
+die Leber -n
+karaciğer;
+
+die Leihgebühr -en
+kiralama ücreti;
+
+Es lohnt sich.
+buna değer;
+
+die Lunge -n
+akciğer;
+
+die Lust (sg.)
+istek; arzu;
+
+der Magen "-
+mide;
+
+der Mensch -en
+insan; kişi;
+
+Menschen machen Fehler.
+insanlar hata yapar;
+
+die Milz -en
+dalak;
+
+monatlich
+aylık; ayda bir;
+
+der Muskelkater (sg.)
+kas ağrısı;
+
+das Nasenspray -s
+burun spreyi;
+
+der Nabel -
+göbek deliği;
+
+die Niere -n
+böbrek;
+
+neidisch
+kıskanç;
+[auf+Akk]
+
+die Ohrenschmerzen (pl.)
+kulak ağrısı;
+
+das Organ -e
+organ;
+
+die Pfote -n
+pati;
+
+die Rezeptgebühr -en
+reçete ücreti;
+
+rezeptfrei
+reçetesiz; reçetesiz satılan;
+
+rezeptpflichtig
+reçeteli; reçete gerektiren;
+
+v reklamieren
+şikâyet etmek; iade talep etmek;
+[etw.]
+
+schlaflos
+uykusuz;
+
+die Schlaflosigkeit (sg.)
+uykusuzluk;
+
+schrecklich
+korkunç; berbat;
+
+die Schürfwunde -n
+sıyrık; çizik;
+
+die Seele -n
+ruh;
+
+selbstlos
+özverili; fedakâr;
+
+die Selbstlosigkeit (sg.)
+özveri; fedakârlık;
+
+spannend
+heyecan verici; ilginç;
+
+die Stärke -n
+güç; güçlü yön;
+
+v stimmen
+doğru olmak; tutmak;
+
+Das stimmt.
+bu doğru;
+
+die Stimme -n
+ses;
+
+v stornieren
+iptal etmek;
+[etw.]
+
+das Stichwort "-er
+anahtar kelime; ipucu kelime;
+
+stündlich
+saatlik; her saat;
+
+die Tackerklammer -n
+zımba teli;
+
+die Tapete -n
+duvar kâğıdı;
+
+die Tatze -n
+iri pati;
+
+die Terminvergabe -n
+randevu verme; randevu planlama;
+
+der Totalschaden "-
+tam hasar; pert;
+
+umgekehrt
+tersine; tam tersi;
+
+ungesund
+sağlıksız;
+
+v verbrennen-verbrennt / verbrannte / hat verbrannt
+yakmak;
+
+v sich verbrennen-verbrennt sich / verbrannte sich / hat sich verbrannt
+yanmak; kendini yakmak;
+[sich+Akk]
+
+das Verständnis (sg.)
+anlayış; kavrayış;
+
+verständlich
+anlaşılır;
+
+v vorschlagen-schlägt vor / schlug vor / hat vorgeschlagen
+önermek;
+[j-m; etw.]
+
+die Vorspeise -n
+başlangıç; meze;
+
+die Vollpension (sg.)
+tam pansiyon;
+
+v wehtun-tut weh / tat weh / hat wehgetan
+ağrımak; acımak;
+
+der Weisheitszahn "-e
+yirmilik diş;
+
+während
+iken; sırasında;
+
+Während er arbeitet, bleibe ich im Hotel.
+o çalışırken ben otelde kalıyorum;
+
+wöchentlich
+haftalık; haftada bir;
+
+Warum ist die Stelle frei?
+pozisyon neden boş?;
+
+v wiederkommen-kommt wieder / kam wieder / ist wiedergekommen
+geri gelmek; tekrar gelmek;
+
+Wir haben fünf Zehen an einem Fuß und fünf Finger an einer Hand.
+bir ayakta beş ayak parmağımız ve bir elde beş parmağımız var;
+
+Wollen wir am Wochenende schwimmen gehen?
+hafta sonu yüzmeye gidelim mi?;
+
+der Zeh -en
+ayak parmağı;
+
+ziemlich
+oldukça; epey;
